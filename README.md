@@ -1,9 +1,9 @@
-# Discord - Requisitos de Software
+# Amazon Prime - Requisitos de Software
 
 ## Equipe:
 | Nome            | GitHub      | E-mail       | 
 |-----------------|-------------|-------------|
-| Antonio Igor |  |   |
+| Antonio Igor |[AntonioIgorCarvalho](https://github.com/AntonioIgorCarvalho) |antonioigorcarvalho@gmail.com |
 | Caio Santos |  |  |
 | Douglas Monteles |  |  |
 | Erick Levy |  |  | 
