@@ -1,4 +1,4 @@
-# Amazon Prime - Requisitos de Software
+# Prime Video - Requisitos de Software
 
 ## Equipe:
 | Nome            | GitHub      | E-mail       | 
