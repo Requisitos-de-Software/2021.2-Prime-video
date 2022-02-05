@@ -1,0 +1,4 @@
+img[alt="drawing"] {
+    width: 5rem;
+    object-fit: cover;
+}

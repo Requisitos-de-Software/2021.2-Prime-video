@@ -6,4 +6,9 @@ repo_url: 'https://github.com/Requisitos-de-Software/2021.2-Prime-video'
 theme:
   name: material
   languege: 'pt'
-  
+
+nav: 
+  - Início: index.md
+
+extra_css:
+  - stylesheets/styles.css
