@@ -19,6 +19,6 @@ Um Rich Picture é um artefato utilizado a fim de demonstrar, atráves de um des
 
 |Versão|Data de modificação|Descrição da modificação|Autor|
 |-|-|-|-|
-|1.0|03/02/2022|Primeiro Rich Picture com a visão geral|Caio Santos|
-|1.1|05/02/2022|Pequenas modificações no RichPicture|Caio Santos|
+|1.0|30/01/2022|Primeiro Rich Picture com a visão geral|Caio Santos|
+|1.1|03/02/2022|Pequenas modificações no RichPicture|Caio Santos|
 |1.2|05/02/2022|Adição de titulo, introdução e historico de versão|LamequeFernandes|
