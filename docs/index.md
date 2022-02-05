@@ -1,10 +1,11 @@
-# Prime Video
+# Início
 
 <center>
-  <p>
-    <img width="70%" height="320px" src="./../assets/img/logo-prime-video.png" alt="Logo do amazon prime">
-  </p>
+
+![drawing](assets/img/logo-prime-video.png)
+
 </center>
+
 
 ## 1. Sobre o projeto
 <p align="justify">
@@ -17,7 +18,7 @@
   O Amazon Prime chegou ao Brasil no 2º Semestre de 2019, e tinha como missão oferecer uma um conjunto de serviços de forma unificada. Um desses serviços é a plataforma de streaming de filmes e séries <strong>Amazon Prime Video</strong>, que está presente em mais de 200 países, incluindo o Brasil. Essa plataforma vem com o diferencial de possuir conteúdos audiovisuais exclusivos obtidos através de parcerias, como por exemplo, com o canal de televisão americano HBO, por um preço relativamente barrato em comparação com outras plataformas com o mesmo objetivo.
 </p>
 
-## Equipe:
+## 3. Equipe:
 | Foto | Nome            | GitHub      | E-mail       | 
 |------|-----------------|-------------|--------------|
 | <img src="https://github.com/AntonioIgorCarvalho.png" style="width: 80px; border-radius: 40px"> | Antonio Igor |[AntonioIgorCarvalho](https://github.com/AntonioIgorCarvalho) |antonioigorcarvalho@gmail.com |
@@ -27,7 +28,7 @@
 | <img src="https://github.com/LamequeFernandes.png" style="width: 80px; border-radius: 40px"> | Lameque Fernandes | [LamequeFernandes](https://github.com/LamequeFernandes) |lamequesao@gmail.com | 
 |  | Sávio Cunha |  |  | 
 
-## Histórico de versionamento
+## 4. Histórico de versionamento
 
 |Versão|Data de modificação|Descrição da modificação|Autor|
 |-|-|-|-|
