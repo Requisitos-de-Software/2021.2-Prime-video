@@ -2,7 +2,7 @@
 
 <center>
 
-![drawing](assets/img/logo-prime-video.png)
+![](assets/img/logo-prime-video.png)
 
 </center>
 

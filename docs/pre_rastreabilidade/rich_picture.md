@@ -8,11 +8,11 @@ Um Rich Picture é um artefato utilizado a fim de demonstrar, atráves de um des
 
 ### 2.1 Versão 1.0
 
-![drawing](../assets/img/RichPicture01.png)
+![](../assets/img/RichPicture01.png)
 
 ### 2.2 Versão 1.1
 
-![drawing](../assets/img/RichPicture02.jpg)
+![](../assets/img/RichPicture02.jpg)
 
 
 ## 3. Histórico de versionamento

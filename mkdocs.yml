@@ -9,6 +9,11 @@ theme:
 
 nav: 
   - Início: index.md
+  - Planejamento:
+    - Cronograma: planejamento/cronograma.md
+    - Ferramentas: planejamento/ferramentas.md
+  - Pré-rastreabilidade:
+    - Rich Picture: pre_rastreabilidade/rich_picture.md
 
 extra_css:
   - stylesheets/styles.css
