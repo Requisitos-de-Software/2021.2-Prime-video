@@ -1,4 +1,7 @@
-site_name: Prime Videos
+site_name: Prime Video
+
+repo_name: '2021.2-Prime-video'
+repo_url: 'https://github.com/Requisitos-de-Software/2021.2-Prime-video'
 
 theme:
   name: material
