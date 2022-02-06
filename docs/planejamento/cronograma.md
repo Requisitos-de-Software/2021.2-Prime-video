@@ -6,9 +6,8 @@ Com base nos prazos estipulados pela disciplida e disponibilidade dos integrante
 
 ## 2. Etapas
 
-| Cronograma      |               |                 |                  |
-| --------------- | ------------- | --------------- | ---------------- |
 | Sprint 0        | 30 de Janeiro | 06 de Fevereiro |                  |
+| --------------- | ------------- | --------------- | ---------------- |
 | Tarefas         | Responsável   | Revisor         | Entrega Prevista |
 | Apresentação 1  | Todos         | Todos           | 06/fev           |
 | GitHub Pages    | Lameque       | Antonio         | 06/fev           |
