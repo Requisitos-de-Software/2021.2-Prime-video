@@ -5,11 +5,12 @@ repo_url: 'https://github.com/Requisitos-de-Software/2021.2-Prime-video'
 
 theme:
   name: material
-  languege: 'pt'
+  language: 'pt'
 
 nav: 
   - Início: index.md
   - Planejamento:
+    - Metodologias: planejamento/metodologias.md 
     - Cronograma: planejamento/cronograma.md
     - Ferramentas: planejamento/ferramentas.md
   - Pré-rastreabilidade:

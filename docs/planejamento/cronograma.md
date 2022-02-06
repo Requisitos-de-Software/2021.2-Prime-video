@@ -39,6 +39,11 @@ Com base nos prazos estipulados pela disciplida e disponibilidade dos integrante
 | Apresentação 6 | Todos       | Todos       | 03/abr           |
 
 
+## 3. Heatmap
+
+![](../assets/img/heatmap.png)
+
+
 ## 2. Histórico de versionamento
 
 |Versão|Data de modificação|Descrição da modificação|Autor|
