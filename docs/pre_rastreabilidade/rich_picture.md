@@ -8,11 +8,17 @@ Um Rich Picture é um artefato utilizado a fim de demonstrar, atráves de um des
 
 ### 2.1 Versão 1.0
 
-![](../assets/img/RichPicture01.png)
+<figure>
+  <img width="520" src="../../assets/img/RichPicture01.png" />
+  <figcaption>Figura 1: Ritch Picture feito à mão</figcaption>
+</figure>
 
 ### 2.2 Versão 1.1
 
-![](../assets/img/RichPicture02.jpg)
+<figure>
+  <img width="520" src="../../assets/img/RichPicture02.jpg" />
+  <figcaption>Figura 2: Ritch Picture feito em aplicativo de design</figcaption>
+</figure>
 
 
 ## 3. Histórico de versionamento
@@ -22,3 +28,4 @@ Um Rich Picture é um artefato utilizado a fim de demonstrar, atráves de um des
 |1.0|30/01/2022|Primeiro Rich Picture com a visão geral|Caio Santos|
 |1.1|03/02/2022|Pequenas modificações no RichPicture|Caio Santos|
 |1.2|05/02/2022|Adição de titulo, introdução e historico de versão|LamequeFernandes|
+|1.3|14/02/2022|Adicionando legendas nas imagens|Douglas Monteles|
