@@ -14,6 +14,10 @@ nav:
     - Cronograma: planejamento/cronograma.md
     - Ferramentas: planejamento/ferramentas.md
     - Aplicativos analisados: planejamento/apps-analisados.md
+    - Padrões: 
+      - Políticas de Branch: padroes/branches.md
+      - Políticas de commit: padroes/commits.md
+      - Template para Documentação: padroes/template.md
   - Pré-rastreabilidade:
     - Rich Picture: pre_rastreabilidade/rich_picture.md
   - Apresentações:
