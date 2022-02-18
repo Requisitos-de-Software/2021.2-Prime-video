@@ -20,8 +20,10 @@ nav:
       - Template para Documentação: padroes/template.md
   - Pré-rastreabilidade:
     - Rich Picture: pre_rastreabilidade/rich_picture.md
+  - Elicitação:
+    - Personas: pre_rastreabilidade/rich_picture.md
   - Apresentações:
-    - Apresentação 1: apresentacoes/apresentacao1.md
+    - Apresentação 1: elicitacao/personas.md
 
 extra_css:
   - stylesheets/styles.css
