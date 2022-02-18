@@ -13,6 +13,7 @@ nav:
     - Metodologias: planejamento/metodologias.md 
     - Cronograma: planejamento/cronograma.md
     - Ferramentas: planejamento/ferramentas.md
+    - Aplicativos analisados: planejamento/apps-analisados.md
     - Padrões: 
       - Políticas de Branch: padroes/branches.md
       - Políticas de commit: padroes/commits.md
