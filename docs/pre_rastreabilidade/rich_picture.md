@@ -10,14 +10,14 @@ Um Rich Picture é um artefato utilizado a fim de demonstrar, atráves de um des
 
 <figure>
   <img width="520" src="../../assets/img/RichPicture01.png" />
-  <figcaption>Figura 1: Ritch Picture feito à mão</figcaption>
+  <figcaption>Figura 1: Rich Picture feito à mão</figcaption>
 </figure>
 
 ### 2.2 Versão 1.1
 
 <figure>
   <img width="520" src="../../assets/img/RichPicture02.jpg" />
-  <figcaption>Figura 2: Ritch Picture feito em aplicativo de design</figcaption>
+  <figcaption>Figura 2: Rich Picture feito em aplicativo de design</figcaption>
 </figure>
 
 
