@@ -9,7 +9,7 @@ Personas são personagens fictícios para simular um grupo de usuários reais.
 
 <center>
 
-![persona](../assets/jose.png)
+![persona](../assets/img/jose.png)
 
 <figcaption>Imagem 1: Persona José Almeida Camargo.</figcaption>
 
@@ -27,7 +27,7 @@ Personas são personagens fictícios para simular um grupo de usuários reais.
 
 <center>
 
-![persona](../assets/cristina.png)
+![persona](../assets/img/cristina.png)
 
 <figcaption>Imagem 2: Persona Cristina Rodrigues.</figcaption>
 
@@ -40,3 +40,39 @@ Personas são personagens fictícios para simular um grupo de usuários reais.
 - Expectativas: Deseja assistir séries famosas no seu tempo livre.
 
 &emsp;&emsp;Cristina tem 22 anos, é solteira, e atualmente está cursando psicologia em uma universidade federal. Ela adora a série Supernatural e sempre que tem uma folga gosta de assistir sozinha em seu quarto.
+
+### 2.3 Juliana Pereira de Jesus
+
+<center>
+
+![persona](../assets/img/juliana.png)
+
+<figcaption>Imagem 3: Juliana Pereira de Jesus.</figcaption>
+
+</center>
+
+- Idade: 63.
+- Sexo: Feminino.
+- Escolaridade: Ensino Fundamental Completo.
+- Profissão: Dona de casa.
+- Expectativas: Deseja assistir filmes e séries.
+
+&emsp;&emsp;Juliana tem 63 anos, mora em sua casa no interior, é casada, tem tres filhas. Ela passa o dia cuidando de sua casa, ao final da tarde quando a programação da televisão aberta não lhe agrada ela gosta de procurar por séries e filmes em aplicativos de streaming utilizando sua smartTv.
+
+## 3. Antipersona
+### 3.1 Divino Borges
+<center>
+
+![persona](../assets/img/divino.png)
+
+<figcaption>Imagem 4: Antipersona Divino Borges.</figcaption>
+
+</center>
+
+- Idade: 58.
+- Sexo: Masculino.
+- Escolaridade: Ensino Superior Completo.
+- Profissão: Professor Aposentado.
+- Expectativas: Deseja ouvir os seus canais de rádio favoritos.
+
+&emsp;&emsp;Divino Borges mora sozinho em sua chácara, que se mudou após muitos anos de trabalho como professor. Divino agora gosta de ouvir seus canais de rádio favoritos durante todo o dia enquanto realiza atividades corriqueiras ou até mesmo quando está descansando na rede no fim da tarde.
