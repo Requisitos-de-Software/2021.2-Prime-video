@@ -4,7 +4,7 @@
 
 
 
-<div align="justify">Originada da antropologia a Etnografia/Observação é uma técnica que pode ser utilizada para compreender os requisitos sociais e organizacionais, nesta técnica o analista se insere no ambiente de trabalho em que o sistema será utilizado. o principal objetivo da etnografia é descobrir requisitos implícitos que mostram processos reais ao invés de formais, onde os usuários estão envolvidos, também é uma técnica que ajuda a complementar ou negar informações obtidas com outras técnicas de elicitação.</div>
+<div align="justify">Originada da antropologia, a Etnografia/Observação é uma técnica que pode ser utilizada para compreender os requisitos sociais e organizacionais, nesta técnica o analista se insere no ambiente de trabalho em que o sistema será utilizado. O principal objetivo da etnografia é descobrir requisitos implícitos que mostram processos reais ao invés de formais, onde os usuários estão envolvidos, também é uma técnica que ajuda a complementar ou negar informações obtidas com outras técnicas de elicitação.</div>
 
 
 
