@@ -33,6 +33,21 @@ Com base nos prazos estipulados pela disciplida e disponibilidade dos integrante
 | Implantação do GitHub Pages | Lameque       | Antonio         | 05/fev           |
 | Gravação da apresentação 1  | Todos         | Todos           | 06/fev           |
 
+### Sprint 2
+
+| Tarefas         | Responsável   | Revisor         | Entrega Prevista |
+| --------------- | ------------- | --------------- | ---------------- |
+| Criação de padrões de branchs e commits | Lameque | Todos | 18/fev |
+| Criação do documento personas | Antonio e Lameque | Caio, Savio e Erick | 18/fev |
+| Aplicação e criação do documento de observação | Erick | Douglas e Antonio | 18/fev |
+| Aplicação e criação do documento de introspecção | Caio | Antonio e Lameque | 18/fev |
+| Criação do questionário | Douglas e Sávio | Todos | 18/fev |
+| Aplicação da técnica Brainstorm | Todos | Todos | 18/fev |
+| Criação do documento do Brainstorm  | Caio | A definir | 18/fev |
+| Aplicação da técnica MoSCoW | Todos | Todos | 19/fev |
+| Criação do documento MoSCoW | Lameque | A definir | 19/fev |
+| Criação do documento de Conclusão | Antonio | A definir | 19/fev |
+| Gravação da apresentação | Todos |  Todos  | 20/fev |
 
 ## 4. Heatmap
 
@@ -50,7 +65,8 @@ Com base nos prazos estipulados pela disciplida e disponibilidade dos integrante
 |1.0.1|05/02/2022|Alteração no titulo e adição do historico de versão|[Lameque Fernandes]('https://github.com/lamequefernandes')|
 |1.0.2|09/02/2022| Atualização do cronograma, criação da tabela de atividades |[Antonio Igor]('https://github.com/antonioigorcarvalho')|
 |1.0.3|14/02/2022| Adicionando legendas nas imagens |[Douglas Monteles]('https://github.com/douglasmonteles')|
-|1.0.3|14/02/2022| Adicionado referências |[Lameque Fernandes]('https://github.com/lamequefernandes')|
+|1.0.4|14/02/2022| Adicionado referências |[Lameque Fernandes]('https://github.com/lamequefernandes')|
+|1.0.6|14/02/2022| Criação da tabela da sprint 2 |[Antonio Igor]('https://github.com/antonioigorcarvalho')|
 
 
 ## 5. Referências
