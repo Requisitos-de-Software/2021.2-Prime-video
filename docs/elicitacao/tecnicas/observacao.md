@@ -77,7 +77,7 @@ Para utilização desta técnica usamos a participação individual depois a jun
 
 |Versão|Data de modificação|Descrição da modificação|Autor| revisor|
 |-|-|-|-|-|
-|1.0|19/02/2022|Criação do documento sobre as ferramentas|Erick Levy| Douglas Monteles |
+|1.0|19/02/2022|Criação do documento sobre a técnica de observação|Erick Levy| Douglas Monteles |
 
 
 
