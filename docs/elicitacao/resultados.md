@@ -8,56 +8,67 @@ O objetivo desse documento é reunir todos os requisitos levantados pelo grupo d
 
 ## 2. Requisitos Levantados
 
-| Método | Requisito | Tipo de Requisito |
+### 2.1 Requisitos Funcionais
+
+| Código | Requisito| Método |
 |--|--|--|
-|Brainstorm| O usuario deve conseguir ver quais filmes/series ele assistiu anteriormente |Funcional|
-|Brainstorm| O usuário deve conseguir visualizar os termos e aviso de privacidade |Funcional|
-|Brainstorm| O usuário deve ter a opção de ocultar uma serie/filme da sua tela inicial |Funcional|
-|Brainstorm| O usuário deve poder remover títulos da sua lista |Funcional|
-|Brainstorm| O usuário deve ser capaz de comprar conteúdo extra |Funcional|
-|Brainstorm| O usuário deve ser capaz de registrar seu feedback sobre titulo |Funcional|
-|Brainstorm| O usuário deve ser capaz de acessar uma página de ajuda sobre plataforma|Funcional|
-|Brainstorm| O usuário deve ser capaz de ir para o proximo episódio ainda na reprodução do atual|Funcional|
-|Brainstorm| O usuário deve poder escolher qualquer episódio/temporada assistir de um título |Funcional|
-|Brainstorm| O usuário deve ser capaz de desabilitar a reprodução automática |Funcional|
-|Brainstorm| O usuário deve ser capaz de acessar títulos relacionados ao título atualmente selecionado |Funcional|
-|Brainstorm| O usuário deve ser capaz de assistir ao trailer dos títulos |Funcional|
-|Brainstorm| O usuário deve ser capaz de pular a abertura dos titulos |Funcional|
-|Brainstorm| O sistema deve ser multiplataforma |Não Funcional|
-|Brainstorm| O sistema deve proporcionar uma aba com sugestões para o usuário logado|Não Funcional|
-|Brainstorm| O sistema deve oferecer a opção de impedir downloads usando dados móveis |Não Funcional|
-|Brainstorm| O sistema deve manter o tempo de filme ou série já assistido para que o usuário possa continuar assistindo posteriormente |Não Funcional|
-|Instrospecção|O usuário deve poder realizar login na plataforma|Funcional|
-|Instrospecção|O usuário deve poder realizar logout na plataforma|Funcional|
-|Instrospecção|O usuário deve poder adicionar novos perfis à sua conta|Funcional|
-|Instrospecção|O usuário deve poder alterar sua foto de perfil|Funcional|
-|Instrospecção|O usuário deve poder adicionar títulos à sua lista|Funcional|
-|Instrospecção|O usuário deve ter a opção de realizar uma busca|Funcional|
-|Instrospecção|O usuário deve poder filtrar a sua busca|Funcional|
-|Instrospecção|O usuário deve ter a opção de alterar os meios de pagamento|Funcional|
-|Instrospecção|O usuário deve ser capaz de baixar os títulos|Funcional|
-|Instrospecção|O usuário deve ser capaz de escolher o idioma de áudio|Funcional|
-|Instrospecção|O usuário deve ser capaz de escolher o idioma da legenda|Funcional|
-|Instrospecção|O usuário deve ser capaz de tirar a legenda|Funcional|
-|Instrospecção|O usuário deve poder escolher a qualidade do vídeo|Funcional|
-|Instrospecção|O usuário deve poder usar a opção de tela cheia|Funcional|
-|Instrospecção|O sistema deve restringir alguns títulos para perfis infantis|Não Funcional|
-|Instrospecção|O sistema deve possuir a função de reprodução automática|Não Funcional|
-|Observação| O usuário pode criar novos perfis|Funcional|
-|Observação| O usuário pode excluir perfis|Funcional|
-|Observação| O usuário pode usar o Watch party|Funcional|
-|Observação| O usuário pode pode alugar canais, filmes e series|Funcional|
-|Observação| O usuário pode pode ocultar vídeos|Funcional|
-|Observação| O usuário pode desvincular os dispositivos |Funcional|
-|Observação| O usuário pode excluir historico de navegação|Funcional|
-|Observação| O usuário pode adicionar a lista |Funcional|
-|Observação| O usuário pode ver informações dos atores |Funcional|
-|Observação| O usuário pode diminuir o consumo de dados|Funcional|
-|Observação| O usuário pode assitir o trailer |Funcional|
-|Observação| O usuário pode ver detalhes da obra |Funcional|
+|| O usuario deve conseguir ver quais filmes/series ele assistiu anteriormente |Brainstorm|
+|RF1| O usuário deve conseguir visualizar os termos e aviso de privacidade |Brainstorm|
+|RF2| O usuário deve ter a opção de ocultar uma serie/filme da sua tela inicial |Brainstorm|
+|RF3| O usuário deve poder remover títulos da sua lista |Brainstorm|
+|RF4| O usuário deve ser capaz de comprar conteúdo extra |Brainstorm|
+|RF5| O usuário deve ser capaz de registrar seu feedback sobre titulo |Brainstorm|
+|RF6| O usuário deve ser capaz de acessar uma página de ajuda sobre plataforma|Brainstorm|
+|RF7| O usuário deve ser capaz de ir para o proximo episódio ainda na reprodução do atual|Brainstorm|
+|RF8| O usuário deve poder escolher qualquer episódio/temporada assistir de um título |Brainstorm|
+|RF9| O usuário deve ser capaz de desabilitar a reprodução automática |Brainstorm|
+|RF10| O usuário deve ser capaz de acessar títulos relacionados ao título atualmente selecionado |Brainstorm|
+|RF11| O usuário deve ser capaz de assistir ao trailer dos títulos |Brainstorm|
+|RF12| O usuário deve ser capaz de pular a abertura dos titulos |Brainstorm|
+|RF13|O usuário deve poder realizar login na plataforma|Instrospecção|
+|RF14|O usuário deve poder realizar logout na plataforma|Instrospecção|
+|RF15|O usuário deve poder adicionar novos perfis à sua conta|Instrospecção|
+|RF16|O usuário deve poder alterar sua foto de perfil|Instrospecção|
+|RF17|O usuário deve poder adicionar títulos à sua lista|Instrospecção|
+|RF18|O usuário deve ter a opção de realizar uma busca|Instrospecção|
+|RF19|O usuário deve poder filtrar a sua busca|Instrospecção|
+|RF20|O usuário deve ter a opção de alterar os meios de pagamento|Instrospecção|
+|RF21|O usuário deve ser capaz de baixar os títulos|Instrospecção|
+|RF22|O usuário deve ser capaz de escolher o idioma de áudio|Instrospecção|
+|RF23|O usuário deve ser capaz de escolher o idioma da legenda|Instrospecção|
+|RF24|O usuário deve ser capaz de tirar a legenda|Instrospecção|
+|RF25|O usuário deve poder escolher a qualidade do vídeo|Instrospecção|
+|RF26|O usuário deve poder usar a opção de tela cheia|Instrospecção|
+|RF27| O usuário pode ver detalhes da obra |Observação|
+|RF28| O usuário pode criar novos perfis|Observação|
+|RF29| O usuário pode excluir perfis|Observação|
+|RF30| O usuário pode usar o Watch party|Observação|
+|RF31| O usuário pode pode alugar canais, filmes e series|Observação|
+|RF32| O usuário pode pode ocultar vídeos|Observação|
+|RF33| O usuário pode desvincular os dispositivos |Observação|
+|RF34| O usuário pode excluir historico de navegação|Observação|
+|RF35| O usuário pode adicionar a lista |Observação|
+|RF36| O usuário pode ver informações dos atores |Observação|
+|RF37| O usuário pode diminuir o consumo de dados|Observação|
+|RF38| O usuário pode assitir o trailer |Observação|
 
 <center>
-Tabela 1: Requisitos levantados.
+Tabela 1: Requisitos funcionais.
+</center>
+
+### 2.2 Requisitos Não Funcionais
+
+| Código | Requisito| Método |
+|--|--|--|
+|RNF1| O sistema deve ser multiplataforma |Brainstorm|
+|RNF2| O sistema deve proporcionar uma aba com sugestões para o usuário logado|Brainstorm|
+|RNF3| O sistema deve oferecer a opção de impedir downloads usando dados móveis |Brainstorm|
+|RNF4| O sistema deve manter o tempo de filme ou série já assistido para que o usuário possa continuar assistindo posteriormente |Brainstorm|
+|RNF5|O sistema deve restringir alguns títulos para perfis infantis|Instrospecção|
+|RNF6|O sistema deve possuir a função de reprodução automática|Instrospecção|
+
+<center>
+Tabela 2: Requisitos não funcionais.
 </center>
 
 ## 3. Histórico de versionamento
