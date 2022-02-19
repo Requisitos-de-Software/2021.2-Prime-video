@@ -50,6 +50,7 @@ A utilização desta técnica foi realizada individualmente por cada participant
 
 
 ## 6. Histórico de versionamento
-|Versão|Data de modificação|Descrição da modificação|Autor| revisor|
+|Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
-|1.0|19/02/2022|Criação do documento sobre a técnica de introspecção|Caio Santos||
+|1.0|19/02/2022|Criação do documento sobre a técnica de introspecção|[Caio Santos]('https://github.com/caiobsantos')|[Antonio Igor]('https://github.com/antonioigorcarvalho')|
+|1.0|19/02/2022|Pequenas Melhorias|[Caio Santos]('https://github.com/caiobsantos')|[Antonio Igor]('https://github.com/antonioigorcarvalho')|
