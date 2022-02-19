@@ -31,20 +31,20 @@ Para utilização desta técnica usamos a participação individual depois a jun
 
 ## 4 . Requisitos
 
-| Número | Requisitos Abordados                                      | Requisitos Funcionais|
+| Número | Requisitos Abordados                                      | Tipo de Requisito|
 | :------: | :--------------------------------------------------: | :------: |
-| 1   | O usuário pode criar novos perfis| sim |
-| 2   | O usuário pode excluir perfis| sim |
-| 3   | O usuário pode usar o Watch party| sim |
-| 4   | O usuário pode pode alugar canais, filmes e series| sim |
-| 5   | O usuário pode pode ocultar vídeos| sim |
-| 6   | O usuário pode desvincular os dispositivos | sim |
-| 7   | O usuário pode excluir historico de navegação| sim |
-| 8   | O usuário pode adicionar a lista | sim |
-| 9   | O usuário pode ver informações dos atores | sim |
-| 10  | O usuário pode diminuir o consumo de dados| sim |
-| 11  | O usuário pode assitir o trailer | sim |
-| 12  | O usuário pode ver detalhes da obra | sim |
+| 1   | O usuário pode criar novos perfis|Funcional|
+| 2   | O usuário pode excluir perfis| Funcional |
+| 3   | O usuário pode usar o Watch party| Funcional|
+| 4   | O usuário pode pode alugar canais, filmes e series| Funcional |
+| 5   | O usuário pode pode ocultar vídeos| Funcional|
+| 6   | O usuário pode desvincular os dispositivos | Funcional|
+| 7   | O usuário pode excluir historico de navegação| Funcional|
+| 8   | O usuário pode adicionar a lista | Funcional|
+| 9   | O usuário pode ver informações dos atores | Funcional |
+| 10  | O usuário pode diminuir o consumo de dados| Funcional |
+| 11  | O usuário pode assitir o trailer | Funcional |
+| 12  | O usuário pode ver detalhes da obra | Funcional |
 
 <figcaption>Tabela 1: Requisitos levantados pela técnica de observação sobre o prime video.</figcaption>
 
