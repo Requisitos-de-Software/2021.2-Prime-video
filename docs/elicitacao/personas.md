@@ -9,7 +9,7 @@ Personas são personagens fictícios para simular um grupo de usuários reais.
 
 <center>
 
-<img src="https://github.com/Requisitos-de-Software/2021.2-Prime-video/blob/main/docs/assets/img/jose.jpg" width="250" height="250">
+<img src="../assets/img/jose.jpg" width="250" height="250">
 
 <figcaption>Imagem 1: Persona José Almeida Camargo.</figcaption>
 
@@ -28,7 +28,7 @@ José tem 46 anos, casado, formado em Design Gráfico e atualmente trabalha em u
 
 <center>
 
- <img src="https://github.com/Requisitos-de-Software/2021.2-Prime-video/blob/main/docs/assets/img/cristina.jpg" width="250" height="250">
+ <img src="../assets/img/cristina.jpg" width="250" height="250">
 
 <figcaption>Imagem 2: Persona Cristina Rodrigues.</figcaption>
 
@@ -47,7 +47,7 @@ Cristina tem 22 anos, é solteira, e atualmente está cursando psicologia em uma
 
 <center>
 
-<img src="https://github.com/Requisitos-de-Software/2021.2-Prime-video/blob/main/docs/assets/img/juliana.jpg" width="250" height="250">
+<img src="../assets/img/juliana.jpg" width="250" height="250">
 
 <figcaption>Imagem 3: Juliana Pereira de Jesus.</figcaption>
 
@@ -67,7 +67,7 @@ Juliana tem 63 anos, mora em sua casa no interior, é casada, tem tres filhas. E
 ### 3.1 Divino Borges
 <center>
 
-<img src="https://github.com/Requisitos-de-Software/2021.2-Prime-video/blob/main/docs/assets/img/divino.jpg" width="250" height="250">
+<img src="../assets/img/divino.jpg" width="250" height="250">
 
 <figcaption>Imagem 4: Antipersona Divino Borges.</figcaption>
 
