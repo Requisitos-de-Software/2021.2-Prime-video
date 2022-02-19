@@ -45,8 +45,10 @@ A utilização desta técnica foi realizada individualmente por cada participant
 
 
 ## 5. Referência Bibliográfica
-> -  SOMMERVILLE,Ian. SoftwareEngineering,9.ed.
-> - SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 07.
+
+SOMMERVILLE,Ian. SoftwareEngineering,9.ed.
+
+SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 07.
 
 
 ## 6. Histórico de versionamento
