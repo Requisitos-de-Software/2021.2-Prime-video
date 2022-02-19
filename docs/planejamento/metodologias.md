@@ -18,7 +18,7 @@ Para o desenvolvimento do presente projeto, foi usado a metodologia ágil Scrum.
 
 Scrum  é um método de desenvolvimento ágil de software. É usado principalmente para orientar as atividades de desenvolvimento dentro de um processo que incorpora as seguintes atividades estruturais: requisitos, análise, projeto, evolução e entrega. Em cada atividade ocorrem tarefas a realizar dentro do padrão de processo, denominada sprint. 
 
-O Scrum também é focado nos membros da equipe, para torna os processos mais simples e claros, pois mantém registros visíveis sobre o andamento de todas as etapas. Assim, os integrantes do grupo sabem em que fase o projeto está, o que já foi concluído e o que falta ser feito para a sua entrega.
+O Scrum também é focado nos membros da equipe, para tornar os processos mais simples e claros, pois mantém registros visíveis sobre o andamento de todas as etapas. Assim, os integrantes do grupo sabem em que fase o projeto está, o que já foi concluído e o que falta ser feito para a sua entrega.
 
 ## 3. Kanban
 
@@ -30,7 +30,7 @@ As divisões das etapas, normalmente, acontecem pelo menos com três colunas. Ex
 - Done /  Concluídas.
 
 A primeira coluna é o backlog do produto.
-Caso necessarios os membros do projeto podem adicionar mais colunas no Kanban.
+Caso necessario, os membros do projeto podem adicionar mais colunas no Kanban.
 
 
 ## 4. Histórico de versionamento
