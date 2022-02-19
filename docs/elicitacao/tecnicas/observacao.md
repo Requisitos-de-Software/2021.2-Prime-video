@@ -1,30 +1,18 @@
 # Observação/Etnografia
 
-## 1 . Definição
+## 1. Definição
 
-<div align="justify">Originada da antropologia, a Etnografia/Observação é uma técnica que pode ser utilizada para compreender os requisitos sociais e organizacionais, nesta técnica o analista se insere no ambiente de trabalho em que o sistema será utilizado. O principal objetivo da etnografia é descobrir requisitos implícitos que mostram processos reais ao invés de formais, onde os usuários estão envolvidos, também é uma técnica que ajuda a complementar ou negar informações obtidas com outras técnicas de elicitação.</div>
+<p align="justify">
+Originada da antropologia, a Etnografia/Observação é uma técnica que pode ser utilizada para compreender os requisitos sociais e organizacionais, nesta técnica o analista se insere no ambiente de trabalho em que o sistema será utilizado. O principal objetivo da etnografia é descobrir requisitos implícitos que mostram processos reais ao invés de formais, onde os usuários estão envolvidos, também é uma técnica que ajuda a complementar ou negar informações obtidas com outras técnicas de elicitação.
+</p>
 
-## 2 . Vantagens e Desvantagens
 
-### Vantagens
+## 2. Objetivo
 
-<div align="justify">A observação pode ser a melhor solução para obter uma visão prática e realista
-do projeto. Ela permite identificar fluxos de informações informais e a maneira
-como as pessoas realmente trabalham.
-</div>
-
-### Desvantagens
-
-<div align="justify">
-O uso da observação se restringe a processos existentes. Quando o projeto
-implica implementar um novo processo de negócio ou produto inteiramente
-novo.
-</div>
-
-## 3 . Quando usar
-
-<div align="justify">O uso da observação se deve quando não e possível determinar algo ou e preciso de mais variáveis para ajustar o projeto a melhor situação agradavel para o usuário.
-Um exemplo muito utilizado para descrever este método e do cliente que pede um balanço na árvore mas não especifica</div>
+<p align="justify">
+O objetivo do uso da observação se deve quando não e possível determinar algo ou e preciso de mais variáveis para ajustar o projeto à uma situação agradavel para o usuário.
+Um exemplo muito utilizado para descrever este método, é do cliente que pede um balanço na árvore mas não especifica.
+</p>
 
 <center>
 
@@ -76,5 +64,6 @@ Vazquez, Carlos E. Engenharia de requisitos software orientado a negocios. Rio d
 |-|-|-|-|-|
 |1.0|19/02/2022|Criação do documento sobre a técnica de observação|[Erick Levy]('https://github.com/ericklevy')|[Douglas Monteles]('https://github.com/douglasmonteles')|
 |1.1|19/02/2022|Correção de erros de português|[Antonio Igor]('https://github.com/antonioigorcarvalho')|
+|1.2|19/02/2022|Padronização e Correção de erros|[Caio Santos]('https://github.com/caiobsantos')|
 
 
