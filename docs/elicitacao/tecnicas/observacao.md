@@ -13,12 +13,30 @@
 
 ## 2 . Vantagens e Desvantagens
 ### Vantagens
-A observação pode ser a melhor solução para obter uma visão prática e realista
+
+<div align="justify">A observação pode ser a melhor solução para obter uma visão prática e realista
 do projeto. Ela permite identificar fluxos de informações informais e a maneira
 como as pessoas realmente trabalham.
-
+</div>
 
 ### Desvantagens
+<div align="justify">
 O uso da observação se restringe a processos existentes. Quando o projeto
 implica implementar um novo processo de negócio ou produto inteiramente
 novo.
+</div>
+
+## 3 . Quando usar
+
+<div align="justify">O uso da observação se deve quando não e possível determinar algo ou e preciso de mais variáveis para ajustar o projeto a melhor situação agradavel para o usuário.
+Um exemplo muito utilizado para descrever este método e do cliente que pede um balanço na árvore mas não especifica</div>
+
+* Exemplo
+
+<center>
+
+![exemplo](../assets/img/exemplo-observacao.png)
+
+<figcaption>Imagem 1: Exemplo Observacao.</figcaption>
+
+</center>
