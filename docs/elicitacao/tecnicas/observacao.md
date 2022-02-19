@@ -73,6 +73,11 @@ Para utilização desta tecnica usamos a participação individual depois a jun�
 > - PRESSMAN, Roger S. Engenharia de Software. São Paulo. Ed. Markon Books, 1995
 > - Vazquez, Carlos E. Engenharia de requisitos software orientado a negocios. Rio de Janeiro. Ed. Abreu’s System, 2016
 
+## 7. Histórico de versionamento
+
+|Versão|Data de modificação|Descrição da modificação|Autor| revisor|
+|-|-|-|-|-|
+|1.0|19/02/2022|Criação do documento sobre as ferramentas|Erick Levy| Douglas Monteles |
 
 
 
