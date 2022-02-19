@@ -72,8 +72,9 @@ Vazquez, Carlos E. Engenharia de requisitos software orientado a negocios. Rio d
 
 ## 7. Histórico de versionamento
 
-|Versão|Data de modificação|Descrição da modificação|Autor| revisor|
+|Versão|Data de modificação|Descrição da modificação|Autor| Revisor|
 |-|-|-|-|-|
-|1.0|19/02/2022|Criação do documento sobre a técnica de observação|Erick Levy| Douglas Monteles |
+|1.0|19/02/2022|Criação do documento sobre a técnica de observação|[Erick Levy]('https://github.com/ericklevy')|[Douglas Monteles]('https://github.com/douglasmonteles')|
+|1.1|19/02/2022|Correção de erros de português|[Antonio Igor]('https://github.com/antonioigorcarvalho')|
 
 
