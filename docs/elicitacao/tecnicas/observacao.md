@@ -35,8 +35,10 @@ Um exemplo muito utilizado para descrever este método e do cliente que pede um 
 
 <center>
 
-![exemplo](../assets/img/exemplo-observacao.png)
+    ![exemplo](../assets/img/exemplo-observacao.png)
 
 <figcaption>Imagem 1: Exemplo Observacao.</figcaption>
 
 </center>
+
+## 4 . Metodologia
