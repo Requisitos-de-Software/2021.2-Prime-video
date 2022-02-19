@@ -66,7 +66,7 @@ Com base nos prazos estipulados pela disciplida e disponibilidade dos integrante
 |1.0.2|09/02/2022| Atualização do cronograma, criação da tabela de atividades |[Antonio Igor]('https://github.com/antonioigorcarvalho')|
 |1.0.3|14/02/2022| Adicionando legendas nas imagens |[Douglas Monteles]('https://github.com/douglasmonteles')|
 |1.0.4|14/02/2022| Adicionado referências |[Lameque Fernandes]('https://github.com/lamequefernandes')|
-|1.0.6|14/02/2022| Criação da tabela da sprint 2 |[Antonio Igor]('https://github.com/antonioigorcarvalho')|
+|1.0.5|14/02/2022| Criação da tabela da sprint 2 |[Antonio Igor]('https://github.com/antonioigorcarvalho')|
 
 
 ## 5. Referências
