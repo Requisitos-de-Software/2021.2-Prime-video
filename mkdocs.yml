@@ -21,9 +21,9 @@ nav:
   - Pré-rastreabilidade:
     - Rich Picture: pre_rastreabilidade/rich_picture.md
   - Elicitação:
-    - Personas: pre_rastreabilidade/rich_picture.md
+    - Personas: elicitacao/personas.md
   - Apresentações:
-    - Apresentação 1: elicitacao/personas.md
+    - Apresentação 1: apresentacoes/apresentacao1.md
 
 extra_css:
   - stylesheets/styles.css
