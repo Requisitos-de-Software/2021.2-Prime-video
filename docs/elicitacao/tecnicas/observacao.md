@@ -31,20 +31,20 @@ Para utilização desta técnica usamos a participação individual depois a jun
 
 ## 4 . Requisitos
 
-| Número | Requisitos Abordados                                      |
-| :------: | :--------------------------------------------------: |
-| 1   | O usuário pode criar novos perfis|
-| 2   | O usuário pode excluir perfis|
-| 3   | O usuário pode usar o Watch party|
-| 4   | O usuário pode pode alugar canais, filmes e series|
-| 5   | O usuário pode pode ocultar vídeos|
-| 6   | O usuário pode desvincular os dispositivos |
-| 7   | O usuário pode excluir historico de navegação|
-| 8   | O usuário pode adicionar a lista |
-| 9   | O usuário pode ver informações dos atores |
-| 10  | O usuário pode diminuir o consumo de dados|
-| 11  | O usuário pode assitir o trailer |
-| 12  | O usuário pode ver detalhes da obra |
+| Número | Requisitos Abordados                                      | Requisitos Funcionais|
+| :------: | :--------------------------------------------------: | :------: |
+| 1   | O usuário pode criar novos perfis| sim |
+| 2   | O usuário pode excluir perfis| sim |
+| 3   | O usuário pode usar o Watch party| sim |
+| 4   | O usuário pode pode alugar canais, filmes e series| sim |
+| 5   | O usuário pode pode ocultar vídeos| sim |
+| 6   | O usuário pode desvincular os dispositivos | sim |
+| 7   | O usuário pode excluir historico de navegação| sim |
+| 8   | O usuário pode adicionar a lista | sim |
+| 9   | O usuário pode ver informações dos atores | sim |
+| 10  | O usuário pode diminuir o consumo de dados| sim |
+| 11  | O usuário pode assitir o trailer | sim |
+| 12  | O usuário pode ver detalhes da obra | sim |
 
 <figcaption>Tabela 1: Requisitos levantados pela técnica de observação sobre o prime video.</figcaption>
 
@@ -63,7 +63,7 @@ Vazquez, Carlos E. Engenharia de requisitos software orientado a negocios. Rio d
 |Versão|Data de modificação|Descrição da modificação|Autor| Revisor|
 |-|-|-|-|-|
 |1.0|19/02/2022|Criação do documento sobre a técnica de observação|[Erick Levy]('https://github.com/ericklevy')|[Douglas Monteles]('https://github.com/douglasmonteles')|
-|1.1|19/02/2022|Correção de erros de português|[Antonio Igor]('https://github.com/antonioigorcarvalho')|
-|1.2|19/02/2022|Padronização e Correção de erros|[Caio Santos]('https://github.com/caiobsantos')|
+|1.1|19/02/2022|Correção de erros de português|[Antonio Igor]('https://github.com/antonioigorcarvalho')| [Erick Levy]('https://github.com/ericklevy')|
+|1.2|19/02/2022|Padronização e Correção de erros|[Caio Santos]('https://github.com/caiobsantos')| [Erick Levy]('https://github.com/ericklevy')|
 
 
