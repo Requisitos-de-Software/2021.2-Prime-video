@@ -22,14 +22,14 @@ Um exemplo muito utilizado para descrever este método, é do cliente que pede u
 
 </center>
 
-## 4 . Metodologia
+## 3 . Metodologia
 
 Para utilização desta técnica usamos a participação individual depois a junção das ideias com o grupo atraves de uma video chamada no Discord para podermos analisar melhor o uso da Observação e ter uma ampla noção de estudo de campo melhor.
 
 <justify>
 
 
-## 5 . Requisitos
+## 4 . Requisitos
 
 | Número | Requisitos Abordados                                      |
 | :------: | :--------------------------------------------------: |
@@ -48,7 +48,7 @@ Para utilização desta técnica usamos a participação individual depois a jun
 
 <figcaption>Tabela 1: Requisitos levantados pela técnica de observação sobre o prime video.</figcaption>
 
-## 6. Referência
+## 5. Referência
 
 Técnicas para levantamento de requisitos. **Devmedia**. Disponível em: <https://www.devmedia.com.br/tecnicas-para-levantamento-de-requisitos/9151#:~:text=A%20etnografia%20%C3%A9%20uma%20t%C3%A9cnica,o%20sistema%20e%20sua%20hist%C3%B3ria>. Acesso em: 17/02/2022.
 
@@ -58,7 +58,7 @@ PRESSMAN, Roger S. Engenharia de Software. São Paulo. Ed. Markon Books, 1995
 
 Vazquez, Carlos E. Engenharia de requisitos software orientado a negocios. Rio de Janeiro. Ed. Abreu’s System, 2016
 
-## 7. Histórico de versionamento
+## 6. Histórico de versionamento
 
 |Versão|Data de modificação|Descrição da modificação|Autor| Revisor|
 |-|-|-|-|-|
