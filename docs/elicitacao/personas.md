@@ -9,7 +9,7 @@ Personas são personagens fictícios para simular um grupo de usuários reais.
 
 <center>
 
-![persona](../assets/img/jose.jpg)
+<img src="../assets/img/jose.jpg" width="250" height="250">
 
 <figcaption>Imagem 1: Persona José Almeida Camargo.</figcaption>
 
@@ -27,7 +27,7 @@ Personas são personagens fictícios para simular um grupo de usuários reais.
 
 <center>
 
-![persona](../assets/img/cristina.jpg)
+ <img src="../assets/img/cristina.jpg" width="250" height="250">
 
 <figcaption>Imagem 2: Persona Cristina Rodrigues.</figcaption>
 
@@ -45,7 +45,7 @@ Personas são personagens fictícios para simular um grupo de usuários reais.
 
 <center>
 
-![persona](../assets/img/juliana.jpg)
+<img src="../assets/img/juliana.jpg" width="250" height="250">
 
 <figcaption>Imagem 3: Juliana Pereira de Jesus.</figcaption>
 
@@ -63,7 +63,7 @@ Personas são personagens fictícios para simular um grupo de usuários reais.
 ### 3.1 Divino Borges
 <center>
 
-![persona](../assets/img/divino.jpg)
+<img src="../assets/img/divino.jpg" width="250" height="250">
 
 <figcaption>Imagem 4: Antipersona Divino Borges.</figcaption>
 
