@@ -81,4 +81,4 @@ Rico, 2022. Disponível em: <https://play.google.com/store/apps/details?id=br.co
 
 |Versão|Data de modificação|Descrição da modificação|Autor|
 |-|-|-|-|
-|1.0|14/02/2022|Criação do documento de aplicativos avaliados|Douglas Monteles|
+|1.0|14/02/2022|Criação do documento de aplicativos avaliados|[Douglas Monteles]('https://github.com/douglasmonteles')|
