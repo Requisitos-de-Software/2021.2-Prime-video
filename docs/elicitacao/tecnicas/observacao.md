@@ -50,7 +50,7 @@ Para utilização desta técnica usamos a participação individual depois a jun
 
 ## 5. Referência
 
-Técnicas para levantamento de requisitos. **Devmedia**. Disponível em: <https://www.devmedia.com.br/tecnicas-para-levantamento-de-requisitos/9151#:~:text=A%20etnografia%20%C3%A9%20uma%20t%C3%A9cnica,o%20sistema%20e%20sua%20hist%C3%B3ria>. Acesso em: 17/02/2022.
+Técnicas para levantamento de requisitos. **Devmedia**. Disponível em: <https://www.devmedia.com.br/tecnicas-para-levantamento-de-requisitos/9151>. Acesso em: 17/02/2022.
 
 Levantamento de requisitos com Observação/Etnografia. **fattocs**. Disponível em: <https://www.fattocs.com/engenharia-de-requisitos/levantamento-de-requisitos-com-observacao-etnografia/>. Acesso em: 17/02/2022.
 
