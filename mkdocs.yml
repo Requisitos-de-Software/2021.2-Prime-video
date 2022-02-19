@@ -20,6 +20,9 @@ nav:
       - Template para Documentação: padroes/template.md
   - Pré-rastreabilidade:
     - Rich Picture: pre_rastreabilidade/rich_picture.md
+  - Elicitação:
+    - Técnicas:
+      - Questionário: elicitacao/tecnicas/questionario.md
   - Apresentações:
     - Apresentação 1: apresentacoes/apresentacao1.md
 
