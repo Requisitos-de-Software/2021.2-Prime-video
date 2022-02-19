@@ -7,7 +7,7 @@ Para melhor organização dos membros no desenvolvimento do projeto, o time deci
 
 | Ferramenta | Nome     | Ação | 
  | :------: | :----------: | :---------------------------------------------------: |
- | ![drawing](../assets/img/discord.svg) | Discord | Reuniões e discursões da semana |
+ | ![drawing](../assets/img/discord.png) | Discord | Reuniões e discussões da semana |
  | ![drawing](../assets/img/github.png) | Github | Repositorio do projeto |
  | ![drawing](../assets/img/telegram.png) | Telegram | Utilizado para a Comunicação dos integrantes do grupo |
  | ![drawing](../assets/img/trello.png)  | Trello | Controle e escolha das tarefas|
