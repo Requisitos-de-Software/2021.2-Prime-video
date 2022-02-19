@@ -42,7 +42,7 @@ Um exemplo muito utilizado para descrever este método e do cliente que pede um 
 </center>
 
 ## 4 . Metodologia
-Para utilização desta tecnica usamos a participação individual depois a junção das ideias com o grupo atraves de uma video chamada no Discord para podermos analisar melhor o uso da Observação e ter uma ampla noção de estudo de campo melhor.
+Para utilização desta técnica usamos a participação individual depois a junção das ideias com o grupo atraves de uma video chamada no Discord para podermos analisar melhor o uso da Observação e ter uma ampla noção de estudo de campo melhor.
 
 <justify>
 
