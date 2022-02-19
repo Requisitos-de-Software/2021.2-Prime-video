@@ -55,4 +55,4 @@ Com base nos prazos estipulados pela disciplida e disponibilidade dos integrante
 
 ## 5. Referências
 
-Plano de ensino da matéria. Disponível em: https://aprender3.unb.br/pluginfile.php/1668087/mod_resource/content/17/Plano_de_Ensino%20RE%2022021%20Turma%20A.pdf. Acesso em: 19/02/2022
+Plano de ensino da matéria. Disponível em: <https://aprender3.unb.br/pluginfile.php/1668087/mod_resource/content/17/Plano_de_Ensino%20RE%2022021%20Turma%20A.pdf>. Acesso em: 19/02/2022

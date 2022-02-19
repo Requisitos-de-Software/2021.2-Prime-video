@@ -46,6 +46,8 @@ Caso necessario, os membros do projeto podem adicionar mais colunas no Kanban.
 
 ## 5. Referências
 
-Scrum: o que é e como aplicar a metodologia ágil para gestão. Disponível em: https://fia.com.br/blog/scrum/#:~:text=Metodologia%20%C3%A1gil%20%C3%A9%20uma%20ferramenta,possuem%20autonomia%20em%20suas%20a%C3%A7%C3%B5es. Acesso em: 19/02/2022
-PATEL, Neil. Metodologia Ágil: Entenda O Que É e Quais São As 8 Mais Utilizadas. Disponével em: https://neilpatel.com/br/blog/metodologia-agil/. Acesso em: 19/02/2022
-Kanban: a metodologia ágil mais simples para implementar no dia a dia. Disponével em: https://www.digitalhouse.com/br/blog/como-usar-metodologia-kanban. Acesso em: 19/02/2022
+Scrum: o que é e como aplicar a metodologia ágil para gestão. Disponível em: <https://fia.com.br/blog/scrum/#:~:text=Metodologia%20%C3%A1gil%20%C3%A9%20uma%20ferramenta,possuem%20autonomia%20em%20suas%20a%C3%A7%C3%B5es>. Acesso em: 19/02/2022
+
+PATEL, Neil. Metodologia Ágil: Entenda O Que É e Quais São As 8 Mais Utilizadas. Disponével em: <https://neilpatel.com/br/blog/metodologia-agil/>. Acesso em: 19/02/2022
+
+Kanban: a metodologia ágil mais simples para implementar no dia a dia. Disponével em: <https://www.digitalhouse.com/br/blog/como-usar-metodologia-kanban>. Acesso em: 19/02/2022
