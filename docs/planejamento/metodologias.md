@@ -21,3 +21,9 @@ O Kanban se baseia em técnicas que controlam e fazem a gestão de fluxos de pro
 |-|-|-|-|
 |1.0|04/02/2022|Criação do documento de metodologias|Sávio Cunha|
 |1.1|05/02/2022|Adição do Kanban e historico de versionamento|Todos os membros|
+
+
+
+## 5. Referências
+
+Scrum: o que é e como aplicar a metodologia ágil para gestão. Disponível em: https://fia.com.br/blog/scrum/#:~:text=Metodologia%20%C3%A1gil%20%C3%A9%20uma%20ferramenta,possuem%20autonomia%20em%20suas%20a%C3%A7%C3%B5es. Acesso em: 19/02/2022

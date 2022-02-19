@@ -29,3 +29,11 @@ Um Rich Picture é um artefato utilizado a fim de demonstrar, atráves de um des
 |1.1|03/02/2022|Pequenas modificações no RichPicture|Caio Santos|
 |1.2|05/02/2022|Adição de titulo, introdução e historico de versão|LamequeFernandes|
 |1.3|14/02/2022|Adicionando legendas nas imagens|Douglas Monteles|
+
+
+## 4. Referências
+
+MANK, Andrew; HOWARD, Steve. The Rich Picture: A Tool for
+Reasoning About Work Context. Oxford, 1998.
+
+REVADI, Chindy. CTEC2402 Rich Picture Guidelines. 

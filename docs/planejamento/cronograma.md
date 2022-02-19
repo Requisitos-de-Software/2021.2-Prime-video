@@ -50,3 +50,8 @@ Com base nos prazos estipulados pela disciplida e disponibilidade dos integrante
 |1.0.1|05/02/2022|Alteração no titulo e adição do historico de versão|Lameque Fernandes|
 |1.0.2|09/02/2022| Atualização do cronograma, criação da tabela de atividades |Antonio Igor Carvalho|
 |1.0.3|14/02/2022| Adicionando legendas nas imagens |Douglas Monteles|
+
+
+## 5. Referências
+
+Plano de ensino da matéria. Disponível em: https://aprender3.unb.br/pluginfile.php/1668087/mod_resource/content/17/Plano_de_Ensino%20RE%2022021%20Turma%20A.pdf. Acesso em: 19/02/2022
