@@ -19,8 +19,9 @@ O Kanban se baseia em técnicas que controlam e fazem a gestão de fluxos de pro
 
 |Versão|Data de modificação|Descrição da modificação|Autor|
 |-|-|-|-|
-|1.0|04/02/2022|Criação do documento de metodologias|Sávio Cunha|
+|1.0|04/02/2022|Criação do documento de metodologias|[Sávio Cunha]('https://github.com/savioc2')|
 |1.1|05/02/2022|Adição do Kanban e historico de versionamento|Todos os membros|
+|1.2|19/02/2022|Adição das referências|[Lameque Fernandes]('https://github.com/lamequefernandes')|
 
 
 
