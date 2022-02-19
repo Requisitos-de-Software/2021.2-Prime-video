@@ -37,6 +37,13 @@ Caso necessarios os membros do projeto podem adicionar mais colunas no Kanban.
 
 |Versão|Data de modificação|Descrição da modificação|Autor|
 |-|-|-|-|
-|1.0|04/02/2022|Criação do documento de metodologias|Sávio Cunha|
+|1.0|04/02/2022|Criação do documento de metodologias|[Sávio Cunha]('https://github.com/savioc2')|
 |1.1|05/02/2022|Adição do Kanban e historico de versionamento|Todos os membros|
-|1.2|19/02/2022|Melhorias na descrição do kanban, scrum e metodologias ágil|Lameque Fernandes|
+|1.2|19/02/2022|Melhorias na descrição do kanban, scrum e metodologias ágil|[Lameque Fernandes]('https://github.com/lamequefernandes')|
+|1.3|19/02/2022|Adição das referências|[Lameque Fernandes]('https://github.com/lamequefernandes')|
+
+
+
+## 5. Referências
+
+Scrum: o que é e como aplicar a metodologia ágil para gestão. Disponível em: https://fia.com.br/blog/scrum/#:~:text=Metodologia%20%C3%A1gil%20%C3%A9%20uma%20ferramenta,possuem%20autonomia%20em%20suas%20a%C3%A7%C3%B5es. Acesso em: 19/02/2022
