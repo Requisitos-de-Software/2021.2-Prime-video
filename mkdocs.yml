@@ -22,8 +22,12 @@ nav:
     - Rich Picture: pre_rastreabilidade/rich_picture.md
   - Elicitação:
     - Personas: elicitacao/personas.md
-    - Introspecção: elicitacao/tecnicas/instrospeccao.md
-    - Observação: elicitacao/tecnicas/observacao.md
+    - Tecnicas:
+      - Brainstorm: 
+      - Introspecção: elicitacao/tecnicas/instrospeccao.md
+      - Observação: elicitacao/tecnicas/observacao.md
+      - Questionário: 
+    - Resultados:
   - Apresentações:
     - Apresentação 1: apresentacoes/apresentacao1.md
 
