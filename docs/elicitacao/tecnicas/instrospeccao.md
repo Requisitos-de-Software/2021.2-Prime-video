@@ -44,7 +44,7 @@ A utilização desta técnica foi realizada individualmente por cada participant
 
 
 
-## 5. Referência Bibliográfica
+## 5. Referências
 
 SOMMERVILLE,Ian. SoftwareEngineering,9.ed.
 
