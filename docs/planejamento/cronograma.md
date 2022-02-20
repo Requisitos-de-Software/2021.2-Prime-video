@@ -40,13 +40,15 @@ Com base nos prazos estipulados pela disciplida e disponibilidade dos integrante
 | Adição das referências nos documentos | [Lameque Fernandes](https://github.com/lamequefernandes) e [Caio Santos](https://github.com/caiobsantos) | [Erick Levy](https://github.com/ericklevy), [Antonio Igor](https://github.com/antonioigorcarvalho), [Sávio Cunha](https://github.com/savioc2) e [Douglas Monteles](https://github.com/douglasmonteles) | 18/fev |
 | Criação de padrões de branchs e commits | [Lameque Fernandes](https://github.com/lamequefernandes) | Todos | 18/fev |
 | Criação do documento personas | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Lameque Fernandes](https://github.com/lamequefernandes) | [Caio Santos](https://github.com/caiobsantos), [Sávio Cunha](https://github.com/savioc2) e [Erick Levy](https://github.com/ericklevy) | 18/fev |
-| Aplicação e criação do documento de observação | [Erick Levy](https://github.com/ericklevy) | [Douglas Monteles](https://github.com/douglasmonteles) e [Antonio Igor](https://github.com/antonioigorcarvalho) | 18/fev |
-| Aplicação e criação do documento de introspecção | [Caio Santos](https://github.com/caiobsantos) | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Lameque Fernandes](https://github.com/lamequefernandes) | 18/fev |
+| Aplicação da técnica observação | Todos | Todos | 18/fev |
+| Criação do documento de observação | [Erick Levy](https://github.com/ericklevy) | [Douglas Monteles](https://github.com/douglasmonteles) e [Antonio Igor](https://github.com/antonioigorcarvalho) | 18/fev |
+| Aplicação da técnica de introspecção | Todos | Todos | 18/fev |
+| Criação do documento de introspecção | [Caio Santos](https://github.com/caiobsantos) | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Lameque Fernandes](https://github.com/lamequefernandes) | 18/fev |
 | Criação do questionário | [Douglas Monteles](https://github.com/douglasmonteles) e [Sávio Cunha](https://github.com/savioc2) | Todos | 18/fev |
 | Aplicação da técnica Brainstorm | Todos | Todos | 18/fev |
 | Criação do documento do Brainstorm  | [Caio Santos](https://github.com/caiobsantos) | [Antonio Igor](https://github.com/antonioigorcarvalho), [Lameque Fernandes](https://github.com/lamequefernandes), [Erick Levy](https://github.com/ericklevy) e [Douglas Monteles](https://github.com/douglasmonteles) | 18/fev |
 | Aplicação da técnica MoSCoW | Todos | Todos | 19/fev |
-| Criação do documento MoSCoW | [Lameque Fernandes](https://github.com/lamequefernandes) | [Antonio Igor](https://github.com/antonioigorcarvalho), [Douglas Monteles](https://github.com/douglasmonteles) e [Erick Levy](https://github.com/ericklevy) | 19 fev | Criação do documento de Conclusão | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Caio Santos](https://github.com/caiobsantos), [Lameque Fernandes](https://github.com/lamequefernandes), [Erick Levy](https://github.com/ericklevy) e [Douglas Monteles](https://github.com/douglasmonteles) | 19/fev |
+| Criação do documento MoSCoW | [Lameque Fernandes](https://github.com/lamequefernandes) | [Antonio Igor](https://github.com/antonioigorcarvalho), [Douglas Monteles](https://github.com/douglasmonteles), [Caio Santos](https://github.com/caiobsantos) e [Erick Levy](https://github.com/ericklevy) | 19 fev | Criação do documento de Conclusão | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Caio Santos](https://github.com/caiobsantos), [Lameque Fernandes](https://github.com/lamequefernandes), [Erick Levy](https://github.com/ericklevy) e [Douglas Monteles](https://github.com/douglasmonteles) | 19/fev |
 | Gravação da apresentação | Todos |  Todos  | 20/fev |
 
 ## 4. Heatmap
@@ -70,7 +72,7 @@ Com base nos horários de todos os membros, construímos um heatmap (ou mapa de 
 |1.0.4|14/02/2022| Adicionado referências |[Lameque Fernandes](https://github.com/lamequefernandes)|
 |1.1|14/02/2022| Criação da tabela da sprint 2 |[Antonio Igor](https://github.com/antonioigorcarvalho)|
 |1.1.1|20/02/2022| Adicionando o link no nome dos responsáveis |[Douglas Monteles](https://github.com/douglasmonteles)|
-|1.2|20/02/2022| Adicionado descrição no hoadmap |[Lameque Fernandes](https://github.com/lamequefernandes)|
+|1.2|20/02/2022| Adicionado descrição no heatmap |[Lameque Fernandes](https://github.com/lamequefernandes)|
 
 
 
