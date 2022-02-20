@@ -46,12 +46,9 @@ O objetivo desse documento é reunir todos os requisitos levantados pelo grupo d
 |RF32| O usuário pode pode ocultar vídeos|Observação|
 |RF33| O usuário pode desvincular os dispositivos |Observação|
 |RF34| O usuário pode excluir historico de navegação|Observação|
-|RF35| O usuário pode adicionar a lista |Observação|
-|RF36| O usuário pode ver informações dos atores |Observação|
-|RF37| O usuário pode diminuir o consumo de dados|Observação|
-|RF38| O usuário pode assitir o trailer |Observação|
-|RF39| O usuário pode ver detalhes da obra |Observação|
-|RF40| O usuário pode criar novos perfis|Observação|
+|RF35| O usuário pode ver informações dos atores |Observação|
+|RF36| O usuário pode diminuir o consumo de dados|Observação|
+|RF37| O usuário pode ver detalhes da obra |Observação|
 
 <center>
 Tabela 1: Requisitos funcionais.
