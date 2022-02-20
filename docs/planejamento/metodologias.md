@@ -49,6 +49,7 @@ Caso necessario, os membros do projeto podem adicionar mais colunas no Kanban.
 |1.1|05/02/2022|Adição do Kanban e historico de versionamento|Todos os membros|
 |1.2|19/02/2022|Melhorias na descrição do kanban, scrum e metodologias ágil|[Lameque Fernandes]('https://github.com/lamequefernandes')|
 |1.3|19/02/2022|Adição das referências|[Lameque Fernandes]('https://github.com/lamequefernandes')|
+|1.4|20/02/2022|Erro de gramática corrigido|[Antonio Igor](https://github.com/antonioigorcarvalho)|
 
 
 
@@ -56,6 +57,6 @@ Caso necessario, os membros do projeto podem adicionar mais colunas no Kanban.
 
 Scrum: o que é e como aplicar a metodologia ágil para gestão. Disponível em: <https://fia.com.br/blog/scrum/>. Acesso em: 19/02/2022
 
-PATEL, Neil. Metodologia Ágil: Entenda O Que É e Quais São As 8 Mais Utilizadas. Disponével em: <https://neilpatel.com/br/blog/metodologia-agil/>. Acesso em: 19/02/2022
+PATEL, Neil. Metodologia Ágil: Entenda O Que É e Quais São As 8 Mais Utilizadas. Disponível em: <https://neilpatel.com/br/blog/metodologia-agil/>. Acesso em: 19/02/2022
 
 Kanban: a metodologia ágil mais simples para implementar no dia a dia. Disponével em: <https://www.digitalhouse.com/br/blog/como-usar-metodologia-kanban>. Acesso em: 19/02/2022
