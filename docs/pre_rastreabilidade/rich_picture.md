@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-<p style="align-text: justify;">
+<p align="justify">
 Um Rich Picture é um artefato utilizado a fim de demonstrar, atráves de um desenho, problemas que devem ser solucionados. Neste desenho deve conter os principais elementos e relacionamentos, para auxiliar a representação do sistema.
 </p>
   
