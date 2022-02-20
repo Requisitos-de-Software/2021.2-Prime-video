@@ -47,7 +47,7 @@ Para realizar o brainstorming, todos os integrantes do grupo se reuniram e compa
 
 
 
-## 5. Referência Bibliográfica
+## 5. Referências
 Wiegers, Karl; Beatty, Joy. Software Requirements (Developer Best Practices).
 SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 07.
 
