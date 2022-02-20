@@ -3,10 +3,12 @@
 ## 1. Introdução
 
 <p align="justify">
-O MoSCow, conhecido como o frameork de priorização, funciona entendendo a ideia de que todos os requisitos do projeto podem ser considerados importantes, mas devem ser priorizados para dar os maiores benefícios no prazo mais rápido possível.
-
+O MoSCoW, conhecido como o framework de priorização, funciona entendendo a ideia de que todos os requisitos do projeto podem ser considerados importantes, mas devem ser priorizados para dar os maiores benefícios no prazo mais rápido possível.
+</p>
+<p align="justify">
 O termo MoSCoW é um acrônimo em inglês derivado da primeira letra de cada uma das quatro categorias com os “Os” no meio para fazer a palavra ser pronunciável. Fica assim:
 </p>
+
 
 - Must Have (Tenho que fazer)
 - Should Have (Devo fazer)
@@ -15,7 +17,9 @@ O termo MoSCoW é um acrônimo em inglês derivado da primeira letra de cada uma
 
 ## 2. Metodologia
 
+<p align="justify">
 Para organizar os requisitos por ordem de priorização, será utilizado a técnica MoSCoW, que já foi citado anteriormente. Os requisitos seram divididos a partir das seguintes categorias:
+</p>
 
 - Must: quando o requisito for essencial para o funcionamento da projeto.
 - Should: quando o requisito for importante para o projeto.
