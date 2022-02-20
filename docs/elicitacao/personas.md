@@ -87,8 +87,7 @@ Juliana tem 63 anos, mora em sua casa no interior, é casada, tem tres filhas. E
 Divino Borges mora sozinho em sua chácara, que se mudou após muitos anos de trabalho como professor. Divino agora gosta de ouvir seus canais de rádio favoritos durante todo o dia enquanto realiza atividades corriqueiras ou até mesmo quando está descansando na rede no fim da tarde.
 </p>
   
-## 4. Referência Bibliográfica
-
+## 4. Referências
 Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
 Maurício Vianna... [et al.]; Design thinking : inovação em negócios
 
