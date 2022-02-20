@@ -9,8 +9,8 @@ Personas são personagens fictícios criados para descrever diferentes tipos de 
 
 <center>
 
-<img src="../assets/img/jose.jpg" width="250" height="250">
-
+![persona](../assets/img/jose.jpg)
+  
 <figcaption>Imagem 1: Persona José Almeida Camargo.</figcaption>
 
 </center>
@@ -28,7 +28,7 @@ José tem 46 anos, casado, formado em Design Gráfico e atualmente trabalha em u
 
 <center>
 
- <img src="../assets/img/cristina.jpg" width="250" height="250">
+![persona](../assets/img/cristina.jpg)
 
 <figcaption>Imagem 2: Persona Cristina Rodrigues.</figcaption>
 
@@ -47,8 +47,8 @@ Cristina tem 22 anos, é solteira, e atualmente está cursando psicologia em uma
 
 <center>
 
-<img src="../assets/img/juliana.jpg" width="250" height="250">
-
+![persona](../assets/img/juliana.jpg)
+  
 <figcaption>Imagem 3: Juliana Pereira de Jesus.</figcaption>
 
 </center>
@@ -67,7 +67,7 @@ Juliana tem 63 anos, mora em sua casa no interior, é casada, tem tres filhas. E
 ### 3.1 Divino Borges
 <center>
 
-<img src="../assets/img/divino.jpg" width="250" height="250">
+![persona](../assets/img/divino.jpg)
 
 <figcaption>Imagem 4: Antipersona Divino Borges.</figcaption>
 
