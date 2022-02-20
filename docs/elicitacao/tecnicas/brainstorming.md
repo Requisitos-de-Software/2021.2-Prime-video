@@ -43,6 +43,7 @@ Para realizar o brainstorming, todos os integrantes do grupo se reuniram e compa
 |16|O sistema deve proporcionar uma aba com sugestões para o usuário logado|Não Funcional|
 |17|O sistema deve oferecer a opção de impedir downloads usando dados móveis|Não Funcional|
 |18|O sistema deve manter o tempo de filme ou série já assistido para que o usuário possa continuar assistindo posteriormente|Não Funcional|
+|19|O sistema deve ser responsivo|Não funcional|
 
 
 

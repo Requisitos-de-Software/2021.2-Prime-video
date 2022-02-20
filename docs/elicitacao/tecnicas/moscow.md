@@ -13,7 +13,7 @@ O termo MoSCoW é um acrônimo em inglês derivado da primeira letra de cada uma
 - Could Have (Poderia fazer)
 - Won’t Have (Não vou fazer)
 
-## 2. Meotodologia
+## 2. Metodologia
 
 Para organizar os requisitos por ordem de priorização, será utilizado a técnica MoSCoW, que já foi citado anteriormente. Os requisitos seram divididos a partir das seguintes categorias:
 
@@ -65,6 +65,7 @@ Para organizar os requisitos por ordem de priorização, será utilizado a técn
 |RF35| O usuário pode ver informações dos atores |Won't|
 |RF36| O usuário pode diminuir o consumo de dados|Should|
 |RF37| O usuário pode ver detalhes da obra |Should|
+|RF38| O usuário deve conseguir acessar um título pelo nome completo ou apenas parte dele |Must|
 
 <center>
 Tabela 1: Requisitos funcionais.
@@ -80,6 +81,8 @@ Tabela 1: Requisitos funcionais.
 |RNF4| O sistema deve manter o tempo de filme ou série já assistido para que o usuário possa continuar assistindo posteriormente |Must|
 |RNF5|O sistema deve restringir alguns títulos para perfis infantis|Must|
 |RNF6|O sistema deve possuir a função de reprodução automática|Should|
+|RNF7|O sistema deve ser responsivo|Must|
+|RNF8|O sistema deve possuir uma boa conexão com o servidor|Must|
 
 <center>
 Tabela 2: Requisitos não funcionais.
@@ -90,6 +93,7 @@ Tabela 2: Requisitos não funcionais.
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
 |1.0|20/02/2022|Criação do documento de resultados da elicitação de requisitos|[Lameque Fernandes]('https://github.com/lamequefernandes')|[Antonio Igor]('https://github.com/antonioigorcarvalho') e [Douglas Monteles]('https://github.com/douglasmonteles')|
+|1.1|20/02/2022|Adição de requisitos|[Lameque Fernandes]('https://github.com/lamequefernandes')|[Antonio Igor]('https://github.com/antonioigorcarvalho'), [Douglas Monteles]('https://github.com/douglasmonteles') e [Erick Levy]('https://github.com/ericklevy')|
 
 ## 4. Referências
 
