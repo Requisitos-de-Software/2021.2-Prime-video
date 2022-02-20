@@ -62,8 +62,8 @@ Vazquez, Carlos E. Engenharia de requisitos software orientado a negocios. Rio d
 
 |Versão|Data de modificação|Descrição da modificação|Autor| Revisor|
 |-|-|-|-|-|
-|1.0|19/02/2022|Criação do documento sobre a técnica de observação|[Erick Levy]('https://github.com/ericklevy')|[Douglas Monteles]('https://github.com/douglasmonteles')|
-|1.1|19/02/2022|Correção de erros de português|[Antonio Igor]('https://github.com/antonioigorcarvalho')| [Erick Levy]('https://github.com/ericklevy')|
-|1.2|19/02/2022|Padronização e Correção de erros|[Caio Santos]('https://github.com/caiobsantos')| [Erick Levy]('https://github.com/ericklevy')|
+|1.0|19/02/2022|Criação do documento sobre a técnica de observação|[Erick Levy](https://github.com/ericklevy)|[Douglas Monteles](https://github.com/douglasmonteles)|
+|1.1|19/02/2022|Correção de erros de português|[Antonio Igor](https://github.com/antonioigorcarvalho)| [Erick Levy](https://github.com/ericklevy)|
+|1.2|19/02/2022|Padronização e Correção de erros|[Caio Santos](https://github.com/caiobsantos)| [Erick Levy](https://github.com/ericklevy)|
 
 
