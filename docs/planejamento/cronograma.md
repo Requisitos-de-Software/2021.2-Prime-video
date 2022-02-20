@@ -69,6 +69,6 @@ Com base nos prazos estipulados pela disciplida e disponibilidade dos integrante
 |1.0.5|14/02/2022| Criação da tabela da sprint 2 |[Antonio Igor]('https://github.com/antonioigorcarvalho')|
 
 
-## 5. Referências
+## 6. Referências
 
 Plano de ensino da matéria. Disponível em: <https://aprender3.unb.br/pluginfile.php/1668087/mod_resource/content/17/Plano_de_Ensino%20RE%2022021%20Turma%20A.pdf>. Acesso em: 19/02/2022
