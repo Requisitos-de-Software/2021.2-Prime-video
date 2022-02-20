@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-Personas são personagens fictícios para simular um grupo de usuários reais.
+Personas são personagens fictícios criados para descrever diferentes tipos de usuários dentro do sistema. A criação de personas tem o objetivo de chegar mais perto do usuário final do produto, dando um direcionamento à equipe.
 
 ## 2. Personas
 ### 2.1 José Almeida Camargo
@@ -83,8 +83,16 @@ Juliana tem 63 anos, mora em sua casa no interior, é casada, tem tres filhas. E
 Divino Borges mora sozinho em sua chácara, que se mudou após muitos anos de trabalho como professor. Divino agora gosta de ouvir seus canais de rádio favoritos durante todo o dia enquanto realiza atividades corriqueiras ou até mesmo quando está descansando na rede no fim da tarde.
 </div>
   
-## 2. Histórico de versionamento
+## 4. Referência Bibliográfica
 
-|Versão|Data de modificação|Descrição da modificação|Autor|
-|-|-|-|-|
-|1.0|19/02/2022|Criação do documento de personas|[Antonio Igor](https://github.com/antonioigorcarvalho) e [Lameque Fernandes](https://github.com/lamequefernandes)|
+Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
+Maurício Vianna... [et al.]; Design thinking : inovação em negócios
+
+
+
+## 5. Histórico de versionamento
+
+|Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
+|-|-|-|-|-|
+|1.0|19/02/2022|Criação do documento de personas|[Antonio Igor](https://github.com/antonioigorcarvalho) e [Lameque Fernandes](https://github.com/lamequefernandes)|[Caio Santos](https://github.com/caiobsantos)|
+|1.1|19/02/2022|Alteração na introdução e adição das referências|[Caio Santos](https://github.com/caiobsantos)|[Antonio Igor](https://github.com/antonioigorcarvalho)|
