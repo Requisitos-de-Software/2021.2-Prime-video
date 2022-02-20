@@ -45,7 +45,7 @@ Com base nos prazos estipulados pela disciplida e disponibilidade dos integrante
 | Aplicação da técnica Brainstorm | Todos | Todos | 18/fev |
 | Criação do documento do Brainstorm  | Caio | Antonio, Lameque, Erick e Douglas | 18/fev |
 | Aplicação da técnica MoSCoW | Todos | Todos | 19/fev |
-| Criação do documento MoSCoW | Lameque | Todos | 19/fev |
+| Criação do documento MoSCoW | Lameque | Antonio, Douglas e Erick | 19/fev |
 | Criação do documento de Conclusão | Antonio | Caio, Lameque, Erick e Douglas | 19/fev |
 | Gravação da apresentação | Todos |  Todos  | 20/fev |
 
@@ -57,7 +57,7 @@ Com base nos prazos estipulados pela disciplida e disponibilidade dos integrante
 </figure>
 
 
-## 2. Histórico de versionamento
+## 5. Histórico de versionamento
 
 |Versão|Data de modificação|Descrição da modificação|Autor|
 |-|-|-|-|
