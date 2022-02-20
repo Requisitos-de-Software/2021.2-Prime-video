@@ -2,9 +2,9 @@
 
 ## 1. Metodologia ágil
 
-<div style="align-text: justify;">
+<p align="justify">
 A Metodologia ágil é um conjunto de técnicas e práticas para gestão de projetos que oferece mais rapidez, eficiência e flexibilidade. Esse desenvolvimento ágil foca a construção de produtos de modo colaborativo, através do trabalho de equipes multidisciplinares que possuem autonomia em suas ações.
-</div>
+</p>
   
 Entre as principais características da metodologia ágil temos:
 
@@ -13,24 +13,24 @@ Entre as principais características da metodologia ágil temos:
 - Flexibilidade.
 - Adaptabilidade às mudanças.
 
-<div style="align-text: justify;">
+<div style="align-text: justify">
 Para o desenvolvimento do presente projeto, foi usado a metodologia ágil Scrum. Essa metodologia foi proposta para executar projetos complexos em menor tempo e com o uso de menos recursos.
 </div>
   
 ## 2. Scrum
 
-<div style="align-text: justify;">
+<p align="justify">
 Scrum  é um método de desenvolvimento ágil de software. É usado principalmente para orientar as atividades de desenvolvimento dentro de um processo que incorpora as seguintes atividades estruturais: requisitos, análise, projeto, evolução e entrega. Em cada atividade ocorrem tarefas a realizar dentro do padrão de processo, denominada sprint. 
 
 O Scrum também é focado nos membros da equipe, para tornar os processos mais simples e claros, pois mantém registros visíveis sobre o andamento de todas as etapas. Assim, os integrantes do grupo sabem em que fase o projeto está, o que já foi concluído e o que falta ser feito para a sua entrega.
-</div>
+</p>
   
 ## 3. Kanban
 
-<div style="align-text: justify;">
+<p align="justify">
 O Kanban também é uma das metodologias ágeis que será adotada pelo grupo. Foi criada para organizar as tarefas atraves de etapas com post-its, sejam de papel, virtual ou de qualquer outra forma.
 As divisões das etapas, normalmente, acontecem pelo menos com três colunas. Exemplo de colunas:
-</div>
+</p>
   
 - To do / Para fazer.
 - Doing / Em execução.
