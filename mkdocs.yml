@@ -26,8 +26,8 @@ nav:
       - Brainstorm: elicitacao/tecnicas/brainstorming.md
       - Introspecção: elicitacao/tecnicas/instrospeccao.md
       - Observação: elicitacao/tecnicas/observacao.md
-      - Questionário: elicitacao/personas.md
       - MoSCoW: elicitacao/tecnicas/moscow.md
+      - Questionário: elicitacao/tecnicas/questionario.md
     - Resultados: elicitacao/resultados.md
   - Apresentações:
     - Apresentação 1: apresentacoes/apresentacao1.md
