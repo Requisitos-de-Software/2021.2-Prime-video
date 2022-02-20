@@ -24,9 +24,9 @@ Um exemplo muito utilizado para descrever este método, é do cliente que pede u
 
 ## 3 . Metodologia
 
+<p align="justify">
 Para utilização desta técnica usamos a participação individual depois a junção das ideias com o grupo atraves de uma video chamada no Discord para podermos analisar melhor o uso da Observação e ter uma ampla noção de estudo de campo melhor.
-
-<justify>
+</p>
 
 
 ## 4 . Requisitos
