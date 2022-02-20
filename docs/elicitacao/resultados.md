@@ -12,21 +12,20 @@ O objetivo desse documento é reunir todos os requisitos levantados pelo grupo d
 
 | Código | Requisito| Método |
 |--|--|--|
-|| O usuario deve conseguir ver quais filmes/series ele assistiu anteriormente |Brainstorm|
 |RF1| O usuário deve conseguir visualizar os termos e aviso de privacidade |Brainstorm|
 |RF2| O usuário deve ter a opção de ocultar uma serie/filme da sua tela inicial |Brainstorm|
 |RF3| O usuário deve poder remover títulos da sua lista |Brainstorm|
 |RF4| O usuário deve ser capaz de comprar conteúdo extra |Brainstorm|
 |RF5| O usuário deve ser capaz de registrar seu feedback sobre titulo |Brainstorm|
-|RF6| O usuário deve ser capaz de acessar uma página de ajuda sobre plataforma|Brainstorm|
-|RF7| O usuário deve ser capaz de ir para o proximo episódio ainda na reprodução do atual|Brainstorm|
-|RF8| O usuário deve poder escolher qualquer episódio/temporada assistir de um título |Brainstorm|
+|RF6| O usuário deve poder acessar a página de ajuda da plataforma|Brainstorm|
+|RF7| O usuário deve ser capaz de passar para o proximo episódio ainda na reprodução do atual|Brainstorm|
+|RF8| O usuário deve poder escolher qual episódio assistir de um título |Brainstorm|
 |RF9| O usuário deve ser capaz de desabilitar a reprodução automática |Brainstorm|
-|RF10| O usuário deve ser capaz de acessar títulos relacionados ao título atualmente selecionado |Brainstorm|
+|RF10| O usuário deve ser capaz de visualizar títulos recomendados |Brainstorm|
 |RF11| O usuário deve ser capaz de assistir ao trailer dos títulos |Brainstorm|
 |RF12| O usuário deve ser capaz de pular a abertura dos titulos |Brainstorm|
-|RF13|O usuário deve poder realizar login na plataforma|Instrospecção|
-|RF14|O usuário deve poder realizar logout na plataforma|Instrospecção|
+|RF13| O usuario deve conseguir ver quais filmes/series ele assistiu anteriormente |Brainstorm|
+|RF14| O usuário deve poder escolher qual temporada assistir de um título |Brainstorm|
 |RF15|O usuário deve poder adicionar novos perfis à sua conta|Instrospecção|
 |RF16|O usuário deve poder alterar sua foto de perfil|Instrospecção|
 |RF17|O usuário deve poder adicionar títulos à sua lista|Instrospecção|
@@ -39,8 +38,8 @@ O objetivo desse documento é reunir todos os requisitos levantados pelo grupo d
 |RF24|O usuário deve ser capaz de tirar a legenda|Instrospecção|
 |RF25|O usuário deve poder escolher a qualidade do vídeo|Instrospecção|
 |RF26|O usuário deve poder usar a opção de tela cheia|Instrospecção|
-|RF27| O usuário pode ver detalhes da obra |Observação|
-|RF28| O usuário pode criar novos perfis|Observação|
+|RF27|O usuário deve poder realizar login na plataforma|Instrospecção|
+|RF28|O usuário deve poder realizar logout na plataforma|Instrospecção|
 |RF29| O usuário pode excluir perfis|Observação|
 |RF30| O usuário pode usar o Watch party|Observação|
 |RF31| O usuário pode pode alugar canais, filmes e series|Observação|
@@ -51,6 +50,8 @@ O objetivo desse documento é reunir todos os requisitos levantados pelo grupo d
 |RF36| O usuário pode ver informações dos atores |Observação|
 |RF37| O usuário pode diminuir o consumo de dados|Observação|
 |RF38| O usuário pode assitir o trailer |Observação|
+|RF39| O usuário pode ver detalhes da obra |Observação|
+|RF40| O usuário pode criar novos perfis|Observação|
 
 <center>
 Tabela 1: Requisitos funcionais.
@@ -74,4 +75,4 @@ Tabela 2: Requisitos não funcionais.
 ## 3. Histórico de versionamento
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
-|1.0|19/02/2022|Criação do documento de resultados da elicitação de requisitos|[Antonio Igor]('https://github.com/antonioigorcarvalho')|[Caio Santos]('https://github.com/caiobsantos')|
+|1.0|19/02/2022|Criação do documento de resultados da elicitação de requisitos|[Antonio Igor]('https://github.com/antonioigorcarvalho')|[Caio Santos]('https://github.com/caiobsantos') [Lameque Fernandes]('https://github.com/lamequefernandes') [Erick Levy]('https://github.com/ericklevy') [Douglas Monteles]('https://github.com/douglasmonteles')|
