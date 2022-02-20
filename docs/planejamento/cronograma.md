@@ -25,28 +25,28 @@ Com base nos prazos estipulados pela disciplida e disponibilidade dos integrante
 
 | Tarefas         | Responsável   | Revisor         | Entrega Prevista |
 | --------------- | ------------- | --------------- | ---------------- |
-| Criação do documento "Sobre o projeto" | Douglas       | Levi            | 04/fev           |
-| Criação do cronograma      | Antonio       | Caio            | 04/fev           |
-| Descrição das ferramentas utilizadas | Levi          | Savio           | 04/fev           |
-| Criação do documento "Metodologias" | Savio         | Lameque         | 04/fev           |
-| Rich Picture | Caio          | Douglas         | 04/fev           |
-| Implantação do GitHub Pages | Lameque       | Antonio         | 05/fev           |
+| Criação do documento "Sobre o projeto" | [Douglas Monteles](https://github.com/douglasmonteles)| [Erick Levy](https://github.com/ericklevy)            | 04/fev           |
+| Criação do cronograma      | [Antonio Igor](https://github.com/antonioigorcarvalho)   | [Caio Santos](https://github.com/caiobsantos)| 04/fev           |
+| Descrição das ferramentas utilizadas | [Erick Levy](https://github.com/ericklevy)          | [Sávio Cunha](https://github.com/savioc2) | 04/fev           |
+| Criação do documento "Metodologias" | [Sávio Cunha](https://github.com/savioc2) | [Lameque Fernandes](https://github.com/lamequefernandes)         | 04/fev           |
+| Rich Picture | [Caio Santos](https://github.com/caiobsantos) | [Douglas Monteles](https://github.com/douglasmonteles) | 04/fev           |
+| Implantação do GitHub Pages | [Lameque Fernandes](https://github.com/lamequefernandes)       | [Antonio Igor](https://github.com/antonioigorcarvalho)         | 05/fev           |
 | Gravação da apresentação 1  | Todos         | Todos           | 06/fev           |
 
 ### Sprint 2
 
 | Tarefas         | Responsável   | Revisor         | Entrega Prevista |
 | --------------- | ------------- | --------------- | ---------------- |
-| Criação de padrões de branchs e commits | Lameque | Todos | 18/fev |
-| Criação do documento personas | Antonio e Lameque | Caio, Savio e Erick | 18/fev |
-| Aplicação e criação do documento de observação | Erick | Douglas e Antonio | 18/fev |
-| Aplicação e criação do documento de introspecção | Caio | Antonio e Lameque | 18/fev |
-| Criação do questionário | Douglas e Sávio | Todos | 18/fev |
+| Adição das referências nos documentos | [Lameque Fernandes](https://github.com/lamequefernandes) e [Caio Santos](https://github.com/caiobsantos) | [Erick Levy](https://github.com/ericklevy), [Antonio Igor](https://github.com/antonioigorcarvalho), [Sávio Cunha](https://github.com/savioc2) e [Douglas Monteles](https://github.com/douglasmonteles) | 18/fev |
+| Criação de padrões de branchs e commits | [Lameque Fernandes](https://github.com/lamequefernandes) | Todos | 18/fev |
+| Criação do documento personas | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Lameque Fernandes](https://github.com/lamequefernandes) | [Caio Santos](https://github.com/caiobsantos), [Sávio Cunha](https://github.com/savioc2) e [Erick Levy](https://github.com/ericklevy) | 18/fev |
+| Aplicação e criação do documento de observação | [Erick Levy](https://github.com/ericklevy) | [Douglas Monteles](https://github.com/douglasmonteles) e [Antonio Igor](https://github.com/antonioigorcarvalho) | 18/fev |
+| Aplicação e criação do documento de introspecção | [Caio Santos](https://github.com/caiobsantos) | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Lameque Fernandes](https://github.com/lamequefernandes) | 18/fev |
+| Criação do questionário | [Douglas Monteles](https://github.com/douglasmonteles) e [Sávio Cunha](https://github.com/savioc2) | Todos | 18/fev |
 | Aplicação da técnica Brainstorm | Todos | Todos | 18/fev |
-| Criação do documento do Brainstorm  | Caio | Antonio, Lameque, Erick e Douglas | 18/fev |
+| Criação do documento do Brainstorm  | [Caio Santos](https://github.com/caiobsantos) | [Antonio Igor](https://github.com/antonioigorcarvalho), [Lameque Fernandes](https://github.com/lamequefernandes), [Erick Levy](https://github.com/ericklevy) e [Douglas Monteles](https://github.com/douglasmonteles) | 18/fev |
 | Aplicação da técnica MoSCoW | Todos | Todos | 19/fev |
-| Criação do documento MoSCoW | Lameque | Antonio, Douglas e Erick | 19/fev |
-| Criação do documento de Conclusão | Antonio | Caio, Lameque, Erick e Douglas | 19/fev |
+| Criação do documento MoSCoW | [Lameque Fernandes](https://github.com/lamequefernandes) | [Antonio Igor](https://github.com/antonioigorcarvalho), [Douglas Monteles](https://github.com/douglasmonteles) e [Erick Levy](https://github.com/ericklevy) | 19 fev | Criação do documento de Conclusão | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Caio Santos](https://github.com/caiobsantos), [Lameque Fernandes](https://github.com/lamequefernandes), [Erick Levy](https://github.com/ericklevy) e [Douglas Monteles](https://github.com/douglasmonteles) | 19/fev |
 | Gravação da apresentação | Todos |  Todos  | 20/fev |
 
 ## 4. Heatmap
@@ -61,12 +61,14 @@ Com base nos prazos estipulados pela disciplida e disponibilidade dos integrante
 
 |Versão|Data de modificação|Descrição da modificação|Autor|
 |-|-|-|-|
-|1.0|04/02/2022|Criação do documento de cronograma|[Antonio Igor]('https://github.com/antonioigorcarvalho')|
-|1.0.1|05/02/2022|Alteração no titulo e adição do historico de versão|[Lameque Fernandes]('https://github.com/lamequefernandes')|
-|1.0.2|09/02/2022| Atualização do cronograma, criação da tabela de atividades |[Antonio Igor]('https://github.com/antonioigorcarvalho')|
-|1.0.3|14/02/2022| Adicionando legendas nas imagens |[Douglas Monteles]('https://github.com/douglasmonteles')|
-|1.0.4|14/02/2022| Adicionado referências |[Lameque Fernandes]('https://github.com/lamequefernandes')|
-|1.0.5|14/02/2022| Criação da tabela da sprint 2 |[Antonio Igor]('https://github.com/antonioigorcarvalho')|
+|1.0|04/02/2022| Criação do documento de cronograma|[Antonio Igor](https://github.com/antonioigorcarvalho)|
+|1.0.1|05/02/2022| Alteração no titulo e adição do historico de versão|[Lameque Fernandes](https://github.com/lamequefernandes)|
+|1.0.2|09/02/2022| Atualização do cronograma, criação da tabela de atividades |[Antonio Igor](https://github.com/antonioigorcarvalho)|
+|1.0.3|14/02/2022| Adicionando legendas nas imagens |[Douglas Monteles](https://github.com/douglasmonteles)|
+|1.0.4|14/02/2022| Adicionado referências |[Lameque Fernandes](https://github.com/lamequefernandes)|
+|1.1|14/02/2022| Criação da tabela da sprint 2 |[Antonio Igor](https://github.com/antonioigorcarvalho)|
+|1.1.1|20/02/2022| Adicionando o link no nome dos responsáveis |[Douglas Monteles](https://github.com/douglasmonteles)|
+
 
 
 ## 6. Referências
