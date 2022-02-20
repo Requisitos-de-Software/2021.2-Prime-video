@@ -53,7 +53,7 @@ Cristina tem 22 anos, é solteira, e atualmente está cursando psicologia em uma
 
 ![persona](../assets/img/juliana.jpg)
   
-<figcaption>Imagem 3: Juliana Pereira de Jesus.</figcaption>
+<figcaption>Imagem 3: Persona Juliana Pereira de Jesus.</figcaption>
 
 </center>
 
