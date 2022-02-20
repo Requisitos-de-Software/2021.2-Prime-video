@@ -1,6 +1,6 @@
 ## 1. Pesquisa/Questionário
 
-<p align="justify">Nesta técnica são aplicadas um conjunto de questões em um formulário, que pode ser em papel, mas é frequentemente aplicado via internet para ser respondido de forma on-line. Objetiva-se a coleta de informações a respeito da experiência de consumo dos usuários sobre o serviço fornecido pela empresa. Com essa técnica, é possível obter informações quantitativas e qualitativas quando aplicada a um público-alvo, e se aplicada a uma amostra considerável, pode representar a opnião de toda a população.</p>
+<p align="justify">Nesta técnica são aplicadas um conjunto de questões em um formulário, que pode ser em papel, mas é frequentemente aplicado via internet para ser respondido de forma on-line. Objetiva-se a coleta de informações a respeito da experiência de consumo dos usuários sobre o serviço fornecido pela empresa. Com essa técnica, é possível obter informações quantitativas e qualitativas quando aplicada a um público-alvo, e se aplicada a uma amostra considerável, pode representar a opinião de toda a população.</p>
 
 ## 2. Metodologia
 
@@ -165,4 +165,4 @@ Identificamos em que faixa etária se encontram os assinantes da plataforma, a f
 
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
-|1.0|19/02/2022|Criação do documento de técnicas - questões|<a href="https://github.com/douglasmonteles">Douglas Monteles</a>| <a href="https://github.com/"></a> |
+|1.0|19/02/2022|Criação do documento de técnicas - questões| [Douglas Monteles](https://github.com/douglasmonteles) | [Antonio Igor](https://github.com/antonioigorcarvalho) |
