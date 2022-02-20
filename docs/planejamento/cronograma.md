@@ -51,6 +51,8 @@ Com base nos prazos estipulados pela disciplida e disponibilidade dos integrante
 
 ## 4. Heatmap
 
+Com base nos horários de todos os membros, construímos um heatmap (ou mapa de calor)  para nos organizarmos durante as sprints.
+
 <figure>
   <img width="520" src="../../assets/img/heatmap.png" />
   <figcaption>Figura 1: Mapa de calor (Heatmap)</figcaption>
@@ -68,6 +70,7 @@ Com base nos prazos estipulados pela disciplida e disponibilidade dos integrante
 |1.0.4|14/02/2022| Adicionado referências |[Lameque Fernandes](https://github.com/lamequefernandes)|
 |1.1|14/02/2022| Criação da tabela da sprint 2 |[Antonio Igor](https://github.com/antonioigorcarvalho)|
 |1.1.1|20/02/2022| Adicionando o link no nome dos responsáveis |[Douglas Monteles](https://github.com/douglasmonteles)|
+|1.2|20/02/2022| Adicionado descrição no hoadmap |[Lameque Fernandes](https://github.com/lamequefernandes)|
 
 
 
