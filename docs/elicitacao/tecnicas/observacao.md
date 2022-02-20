@@ -48,7 +48,7 @@ Para utilização desta técnica usamos a participação individual depois a jun
 
 <figcaption>Tabela 1: Requisitos levantados pela técnica de observação sobre o prime video.</figcaption>
 
-## 5. Referência Bibliográfica
+## 5. Referências
 
 Técnicas para levantamento de requisitos. **Devmedia**. Disponível em: <https://www.devmedia.com.br/tecnicas-para-levantamento-de-requisitos/9151>. Acesso em: 17/02/2022.
 
