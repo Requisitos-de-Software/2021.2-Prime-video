@@ -1,9 +1,9 @@
-## Aplicações Avaliadas
+## 1. Aplicações Avaliadas
 <p align="justify">
 Antes de fazer a escolha do aplicativo que será trabalhado durante todo o semestre, foram analisadas de forma individual, aplicações que cada membro do grupo julgou interessante, as mesmas estão descritas abaixo:
 </p>
 
-### 1. ConecteSUS
+### 1.1 ConecteSUS
 <figure>
   <img width="320" src="https://cdn.panrotas.com.br/portal-panrotas-statics/media-files-cache/310793/42059210832345a2672fa4f0fbc2554aimg1482/0,402,750,448/670,400,0.35/0/default.png" />
   <figcaption>Figura 1: Logo do ConecteSUS</figcaption>
@@ -18,7 +18,7 @@ Analisado por:
 - Douglas Monteles
 - Lameque Fernandes
   
-### 2. Detran DF
+### 1.2 Detran DF
 <figure>
   <img width="320" src="https://play-lh.googleusercontent.com/7pXHzCr3zxxEL0FVD2_dsD2FPob3J7mZPeTNPvTcroWw5d0glc6Bwh3yvJys4yb598Y" />
   <figcaption>Figura 2: Logo do Detran DF</figcaption>
@@ -32,7 +32,7 @@ Foi analisado por:
 
 - Antonio Igor
 
-### 3. Amazon Prime Video
+### 1.3 Amazon Prime Video
 <figure>
   <img width="320" src="../../assets/img/logo-prime-video.png" />
   <figcaption>Figura 3: Logo do Amazon Prime Video</figcaption>
@@ -46,7 +46,7 @@ Foi analisado por:
 
 - Caio Santos
 
-### 4. Discord
+### 1.4 Discord
 <figure>
   <img width="320" src="../../assets/img/discord.png" />
   <figcaption>Figura 4: Logo do Discord</figcaption>
@@ -60,7 +60,7 @@ Foi analisado por:
 
 - Erick Levy
 
-### 5. Rico
+### 1.5 Rico
 <figure>
   <img width="320" src="https://www.infomoney.com.br/wp-content/uploads/2019/06/rico-corretora.png?fit=900%2C900&quality=50&strip=all" />
   <figcaption>Figura 5: Logo do Rico</figcaption>
@@ -74,13 +74,13 @@ Foi analisado por:
 
 - Sávio Cunha
 
-## Aplicativo Escolhido
+## 2. Aplicativo Escolhido
 
 <p align="justify">
 Após reunir o grupo e discutir sobre cada um dos aplicativos citados, foi decidido por meio de votação que o aplicativo a ser foco do projeto seria o Amazon Prime Video, por ser um aplicativo em que a maioria dos integrantes do grupo tem acesso e familiaridade.
 </p>
   
-## Referências
+## 3. Referências
 <p align="justify">
 Conecte SUS, 2022. Disponível em: <https://play.google.com/store/apps/details?id=br.gov.datasus.cnsdigital&hl=pt_BR&gl=US>. Acesso em: 14 fevereiro 2022.
 
