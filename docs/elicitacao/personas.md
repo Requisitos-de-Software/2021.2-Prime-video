@@ -87,4 +87,4 @@ Divino Borges mora sozinho em sua chácara, que se mudou após muitos anos de tr
 
 |Versão|Data de modificação|Descrição da modificação|Autor|
 |-|-|-|-|
-|1.0|19/02/2022|Criação do documento de personas|[Antonio Igor]('https://github.com/antonioigorcarvalho') e [Lameque Fernandes]('https://github.com/lamequefernandes')|
+|1.0|19/02/2022|Criação do documento de personas|[Antonio Igor](https://github.com/antonioigorcarvalho) e [Lameque Fernandes](https://github.com/lamequefernandes)|
