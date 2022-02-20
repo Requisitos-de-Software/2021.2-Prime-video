@@ -3,7 +3,7 @@
 ## 1. Objetivo
 
 <p align="justify">
-O objetivo desse documento é reunir todos os requisitos levantados pelo grupo durante a fase de elicitação de requisitos., utilizando das técnicas: brainstorm, instrospecção, observação e questionário.
+O objetivo desse documento é reunir todos os requisitos levantados pelo grupo durante a fase de elicitação de requisitos, utilizando das técnicas: brainstorm, instrospecção, observação e questionário.
 </p>
 
 ## 2. Requisitos Levantados
