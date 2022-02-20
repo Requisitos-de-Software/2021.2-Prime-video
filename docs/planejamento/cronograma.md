@@ -43,10 +43,10 @@ Com base nos prazos estipulados pela disciplida e disponibilidade dos integrante
 | Aplicação e criação do documento de introspecção | Caio | Antonio e Lameque | 18/fev |
 | Criação do questionário | Douglas e Sávio | Todos | 18/fev |
 | Aplicação da técnica Brainstorm | Todos | Todos | 18/fev |
-| Criação do documento do Brainstorm  | Caio | A definir | 18/fev |
+| Criação do documento do Brainstorm  | Caio | Antonio, Lameque, Erick e Douglas | 18/fev |
 | Aplicação da técnica MoSCoW | Todos | Todos | 19/fev |
-| Criação do documento MoSCoW | Lameque | A definir | 19/fev |
-| Criação do documento de Conclusão | Antonio | A definir | 19/fev |
+| Criação do documento MoSCoW | Lameque | Todos | 19/fev |
+| Criação do documento de Conclusão | Antonio | Caio, Lameque, Erick e Douglas | 19/fev |
 | Gravação da apresentação | Todos |  Todos  | 20/fev |
 
 ## 4. Heatmap
