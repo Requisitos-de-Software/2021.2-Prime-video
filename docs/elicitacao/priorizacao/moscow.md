@@ -30,7 +30,7 @@ Para organizar os requisitos por ordem de priorização, será utilizado a técn
 
 ### 3.1 Requisitos Funcionais
 
-| Código | Requisito| Método |
+| Código | Requisito| Prioridade |
 |--|--|--|
 |RF1| O usuário deve conseguir visualizar os termos e aviso de privacidade |Must|
 |RF2| O usuário deve ter a opção de ocultar uma serie/filme da sua tela inicial |Should|
@@ -77,7 +77,7 @@ Tabela 1: Requisitos funcionais.
 
 ### 3.2 Requisitos Não Funcionais
 
-| Código | Requisito| Método |
+| Código | Requisito| Prioridade |
 |--|--|--|
 |RNF1| O sistema deve ser multiplataforma |Must|
 |RNF2| O sistema deve proporcionar uma aba com sugestões para o usuário logado|Should|
