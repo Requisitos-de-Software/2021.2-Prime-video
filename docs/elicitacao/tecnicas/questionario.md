@@ -153,12 +153,12 @@ Identificamos em que faixa etária se encontram os assinantes da plataforma, a f
   No final, avaliamos se o usuário está satisfeito em utilizar a plataforma e na forma como todo o processo de consumo de conteúdo ocorre.
 </p>
 
-### 4. Conclusão
+## 4. Conclusão
 <p align="justify">
   O Questionário é uma importante ferramanta no processo de elicitação. Por ser uma solução rápida e barrata. Contudo, sua execução deve ser bem pensada, pois a disposição dos usuário para responder a uma série de questões é geralmente baixa. Em geral, é uma maneira mais fácil informações de um público numeroso.
 </p>
 
-## REFERÊNCIAS
+## 5. Referências
 <p align="justify">Engenharia de Requisitos. Carlos R. Valquez, Guilherme S. Sinões. Disponível em <<a href="https://pt.scribd.com/read/405793282/Engenharia-de-Requisitos-software-orientadoao-negocio">https://pt.scribd.com/read/405793282/Engenharia-de-Requisitos-software-orientadoao-negocio</a>>. Acesso em: 19 fevereiro 2022.</p>
 
 ## Histórico de versionamento
