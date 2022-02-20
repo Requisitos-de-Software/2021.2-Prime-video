@@ -22,11 +22,17 @@ feature/novo-menu
 
 ### Branches:
 
+<p align="justify">
 - **Branch main:** Branch que contém o código em nível de produção, será o código mais consolidado existente na aplicação. Nenhum integrante dos times é autorizado a fazer commits diretamente na *main.*
+</p>
+<p align="justify">
 - **Branchs hotfix:** Branches no qual são realizadas correções de bugs São criadas começando com o prefixo **hotfix/**.
 Exemplo: ```hotfix#02/correcao-politicas```
+</p>
+<p align="justify">
 - **Branches documentation:** Branches na qual são desenvolvidos os documentos do projeto. São ciradas começando com o prefixo **documentation/**
 Exemplo: ```documentation#49/template-documento```
+</p>
 
 ### Princípios:
 - Por ser um projeto voltado totalmente para um público brasileiro e por toda equipe ter mais afinidade com o português, foi decidido que todas as braches serão em pt-BR.
