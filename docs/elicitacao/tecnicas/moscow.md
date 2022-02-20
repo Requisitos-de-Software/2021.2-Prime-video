@@ -92,14 +92,14 @@ Tabela 1: Requisitos funcionais.
 Tabela 2: Requisitos não funcionais.
 </center>
 
-## 3. Histórico de versionamento
+## 4. Histórico de versionamento
 
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
 |1.0|20/02/2022|Criação do documento de resultados da elicitação de requisitos|[Lameque Fernandes]('https://github.com/lamequefernandes')|[Antonio Igor]('https://github.com/antonioigorcarvalho') e [Douglas Monteles]('https://github.com/douglasmonteles')|
 |1.1|20/02/2022|Adição de requisitos|[Lameque Fernandes]('https://github.com/lamequefernandes')|[Antonio Igor]('https://github.com/antonioigorcarvalho'), [Douglas Monteles]('https://github.com/douglasmonteles') e [Erick Levy]('https://github.com/ericklevy')|
 
-## 4. Referências
+## 5. Referências
 
 Pires, Raphael. Aprenda a usar a técnica MoSCoW nos projetos da sua agência. Disponível em: <https://rockcontent.com/br/blog/metodo-moscow/>. Acesso em: 20 de fev. de 2022.
 
