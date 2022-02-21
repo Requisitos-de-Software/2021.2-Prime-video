@@ -2,7 +2,7 @@
 
 #
 
-# 1. Titulo do Documento
+## 1. Titulo do Documento
 
 Texto explicando o que é e o porque fizemos tal documentação.
 
@@ -11,22 +11,15 @@ Texto explicando o que é e o porque fizemos tal documentação.
 Texto com o conteúdo do documento.
 
 Todos documentos devem ter seus autores registrados.
-**Autor:** [Lameque Fernandes](https://github.com/LamequeFernandes).
 
-## Histórico de versões
 
-| Data | Versão | Descrição | Autor(es) |
-| :--: | :----: | :-------: | :-------: |
-|      |        |           |           |
-|      |        |           |           |
+## 3. Referências
 
-## Referências
-
-- As referências devem estar em formato [ABNT](https://github.com/LamequeFernandes).
+As referências devem estar em formato [ABNT](https://github.com/LamequeFernandes).
 
 #
 
-## Histórico de versões
+## 4. Histórico de versões
 
 | Data | Versão | Descrição | Autor(es) |
 | :--: | :----: | :-------: | :-------: |

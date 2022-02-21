@@ -61,7 +61,12 @@ Com base nos horários de todos os membros, construímos um heatmap (ou mapa de 
 </figure>
 
 
-## 5. Histórico de versionamento
+
+## 5. Referências
+
+Plano de ensino da matéria. Disponível em: <https://aprender3.unb.br/pluginfile.php/1668087/mod_resource/content/17/Plano_de_Ensino%20RE%2022021%20Turma%20A.pdf>. Acesso em: 19/02/2022
+
+## 6. Histórico de versionamento
 
 |Versão|Data de modificação|Descrição da modificação|Autor|
 |-|-|-|-|
@@ -73,9 +78,3 @@ Com base nos horários de todos os membros, construímos um heatmap (ou mapa de 
 |1.1|14/02/2022| Criação da tabela da sprint 2 |[Antonio Igor](https://github.com/antonioigorcarvalho)|
 |1.1.1|20/02/2022| Adicionando o link no nome dos responsáveis |[Douglas Monteles](https://github.com/douglasmonteles)|
 |1.2|20/02/2022| Adicionado descrição no heatmap |[Lameque Fernandes](https://github.com/lamequefernandes)|
-
-
-
-## 6. Referências
-
-Plano de ensino da matéria. Disponível em: <https://aprender3.unb.br/pluginfile.php/1668087/mod_resource/content/17/Plano_de_Ensino%20RE%2022021%20Turma%20A.pdf>. Acesso em: 19/02/2022

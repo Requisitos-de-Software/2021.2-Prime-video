@@ -93,7 +93,7 @@ Discord, 2022. Disponível em: <https://play.google.com/store/apps/details?id=co
 Rico, 2022. Disponível em: <https://play.google.com/store/apps/details?id=br.com.rico.mobile&hl=pt_BR&gl=US>. Acesso em: 14 fevereiro 2022.
 </p>
   
-## Histórico de versionamento
+## 4. Histórico de Versionamento
 
 |Versão|Data de modificação|Descrição da modificação|Autor|
 |-|-|-|-|
