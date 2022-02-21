@@ -38,15 +38,15 @@ Foi decidido que todos os commits serão em pt-BR.
 git commit -m "docs: adicionado politicas de commit"
 ```
 
-## Histórico de Versões
-
-| Data       | Versão | Descrição                      | Autor             |
-| :--------: | :----: | :----------:                   | :---------------: |
-| 14/02/2022 |  1.0   | Criação da política de commits | [Lameque Fernandes](https://github.com/LamequeFernandes)|
-
-
 ## Referências
 
 DARTORA, João. Tudo o que você precisa saber sobre commits semânticos. *Ilegra*. Disponível em: <https://ilegra.com/blog/tudo-o-que-voce-precisa-saber-sobre-commits-semanticos/>. Acesso em: 14 de fev. de 2022.
 
 Políticas de Commit. Disponível em: <https://fga-eps-mds.github.io/2020.1-Grupo6/policies/commits/>. Acesso em: 14 de fev. de 2022.
+
+
+## Histórico de Versões
+
+| Data       | Versão | Descrição                      | Autor             |
+| :--------: | :----: | :----------:                   | :---------------: |
+| 14/02/2022 |  1.0   | Criação da política de commits | [Lameque Fernandes](https://github.com/LamequeFernandes)|
