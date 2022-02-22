@@ -51,10 +51,10 @@ Kanban: a metodologia ágil mais simples para implementar no dia a dia. Disponé
 
 ## 5. Histórico de versionamento
 
-|Versão|Data de modificação|Descrição da modificação|Autor|
+|Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|
-|1.0|04/02/2022|Criação do documento de metodologias|[Sávio Cunha]('https://github.com/savioc2')|
-|1.1|05/02/2022|Adição do Kanban e historico de versionamento|Todos os membros|
-|1.2|19/02/2022|Melhorias na descrição do kanban, scrum e metodologias ágil|[Lameque Fernandes]('https://github.com/lamequefernandes')|
-|1.3|19/02/2022|Adição das referências|[Lameque Fernandes]('https://github.com/lamequefernandes')|
-|1.4|20/02/2022|Erro de gramática corrigido|[Antonio Igor](https://github.com/antonioigorcarvalho)|
+|1.0|04/02/2022|Criação do documento de metodologias|[Sávio Cunha](https://github.com/savioc2)|[Douglas Monteles](https://github.com/douglasmonteles)|
+|1.1|05/02/2022|Adição do Kanban e historico de versionamento|Todos os membros|[Douglas Monteles](https://github.com/douglasmonteles)|
+|1.2|19/02/2022|Melhorias na descrição do kanban, scrum e metodologias ágil|[Lameque Fernandes](https://github.com/lamequefernandes)|[Douglas Monteles](https://github.com/douglasmonteles)|
+|1.3|19/02/2022|Adição das referências|[Lameque Fernandes](https://github.com/lamequefernandes)|[Douglas Monteles](https://github.com/douglasmonteles)|
+|1.4|20/02/2022|Erro de gramática corrigido|[Antonio Igor](https://github.com/antonioigorcarvalho)|[Douglas Monteles](https://github.com/douglasmonteles)|

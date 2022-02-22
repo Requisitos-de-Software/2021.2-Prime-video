@@ -18,8 +18,8 @@ Para melhor organização dos membros no desenvolvimento do projeto, o time deci
 
 ## 2. Histórico de versionamento
 
-|Versão|Data de modificação|Descrição da modificação|Autor|
+|Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|
-|1.0|04/02/2022|Criação do documento sobre as ferramentas|[Erick Levy]('https://github.com/ericklevy')|
-|1.0.1|05/02/2022|Alteração no titulo e adição do historico de versão|[Lameque Fernandes]('https://github.com/lamequefernandes')|
-|1.0.2|19/02/2022|Melhoria na introdução|[Lameque Fernandes]('https://github.com/lamequefernandes')|
+|1.0|04/02/2022|Criação do documento sobre as ferramentas|[Erick Levy](https://github.com/ericklevy)|[Caio Santos](https://github.com/caiobsantos)|
+|1.0.1|05/02/2022|Alteração no titulo e adição do historico de versão|[Lameque Fernandes](https://github.com/lamequefernandes)|[Caio Santos](https://github.com/caiobsantos)|
+|1.0.2|19/02/2022|Melhoria na introdução|[Lameque Fernandes](https://github.com/lamequefernandes)|[Caio Santos](https://github.com/caiobsantos)|

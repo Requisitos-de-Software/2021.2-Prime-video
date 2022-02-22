@@ -68,13 +68,13 @@ Plano de ensino da matéria. Disponível em: <https://aprender3.unb.br/pluginfil
 
 ## 6. Histórico de versionamento
 
-|Versão|Data de modificação|Descrição da modificação|Autor|
+|Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|
-|1.0|04/02/2022| Criação do documento de cronograma|[Antonio Igor](https://github.com/antonioigorcarvalho)|
-|1.0.1|05/02/2022| Alteração no titulo e adição do historico de versão|[Lameque Fernandes](https://github.com/lamequefernandes)|
-|1.0.2|09/02/2022| Atualização do cronograma, criação da tabela de atividades |[Antonio Igor](https://github.com/antonioigorcarvalho)|
-|1.0.3|14/02/2022| Adicionando legendas nas imagens |[Douglas Monteles](https://github.com/douglasmonteles)|
-|1.0.4|14/02/2022| Adicionado referências |[Lameque Fernandes](https://github.com/lamequefernandes)|
-|1.1|14/02/2022| Criação da tabela da sprint 2 |[Antonio Igor](https://github.com/antonioigorcarvalho)|
-|1.1.1|20/02/2022| Adicionando o link no nome dos responsáveis |[Douglas Monteles](https://github.com/douglasmonteles)|
-|1.2|20/02/2022| Adicionado descrição no heatmap |[Lameque Fernandes](https://github.com/lamequefernandes)|
+|1.0|04/02/2022| Criação do documento de cronograma|[Antonio Igor](https://github.com/antonioigorcarvalho)|[Sávio Cunha](https://github.com/savioc2)|
+|1.0.1|05/02/2022| Alteração no titulo e adição do historico de versão|[Lameque Fernandes](https://github.com/lamequefernandes)|[Sávio Cunha](https://github.com/savioc2)|
+|1.0.2|09/02/2022| Atualização do cronograma, criação da tabela de atividades |[Antonio Igor](https://github.com/antonioigorcarvalho)|[Sávio Cunha](https://github.com/savioc2)|
+|1.0.3|14/02/2022| Adicionando legendas nas imagens |[Douglas Monteles](https://github.com/douglasmonteles)|[Sávio Cunha](https://github.com/savioc2)|
+|1.0.4|14/02/2022| Adicionado referências |[Lameque Fernandes](https://github.com/lamequefernandes)|[Sávio Cunha](https://github.com/savioc2)|
+|1.1|14/02/2022| Criação da tabela da sprint 2 |[Antonio Igor](https://github.com/antonioigorcarvalho)|[Sávio Cunha](https://github.com/savioc2)|
+|1.1.1|20/02/2022| Adicionando o link no nome dos responsáveis |[Douglas Monteles](https://github.com/douglasmonteles)|[Sávio Cunha](https://github.com/savioc2)|
+|1.2|20/02/2022| Adicionado descrição no heatmap |[Lameque Fernandes](https://github.com/lamequefernandes)|[Sávio Cunha](https://github.com/savioc2)|

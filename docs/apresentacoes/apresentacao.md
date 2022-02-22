@@ -19,7 +19,7 @@
 
 ## Histórico de versionamento 
 
-|Versão|Data de modificação|Descrição da modificação|Autor|
-|-|-|-|-|
-|1.0|08/02/2022|Adição da primeira apresentação no github pages|[Lameque Fernandes](https://github.com/LamequeFernandes)|
-|2.0|21/02/2022|Adição da segunda apresentação no github pages|[SavioCunha](https://github.com/savioc2)|
+|Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
+|-|-|-|-|-|
+|1.0|08/02/2022|Adição da primeira apresentação no github pages|[Lameque Fernandes](https://github.com/LamequeFernandes)|[Erick Levy](https://github.com/ericklevy)|
+|2.0|21/02/2022|Adição da segunda apresentação no github pages|[SavioCunha](https://github.com/savioc2)|[Erick Levy](https://github.com/ericklevy)|
