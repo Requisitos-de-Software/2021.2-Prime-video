@@ -29,7 +29,7 @@ Para utilização desta técnica usamos a participação individual depois a jun
 </p>
 
 
-## 4 . Requisitos
+## 4 . Requisitos Levantados
 
 | Número | Requisitos Abordados                                      | Tipo de Requisito|
 | :------: | :--------------------------------------------------: | :------: |
