@@ -96,5 +96,5 @@ Rico, 2022. Disponível em: <https://play.google.com/store/apps/details?id=br.co
 ## 4. Histórico de Versionamento
 
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
-|-|-|-|-|
+|-|-|-|-|-|
 |1.0|14/02/2022|Criação do documento de aplicativos avaliados|[Douglas Monteles](https://github.com/douglasmonteles)|[Antonio Igor](https://github.com/antonioigorcarvalho)|

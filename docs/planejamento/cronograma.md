@@ -69,7 +69,7 @@ Plano de ensino da matéria. Disponível em: <https://aprender3.unb.br/pluginfil
 ## 6. Histórico de versionamento
 
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
-|-|-|-|-|
+|-|-|-|-|-|
 |1.0|04/02/2022| Criação do documento de cronograma|[Antonio Igor](https://github.com/antonioigorcarvalho)|[Sávio Cunha](https://github.com/savioc2)|
 |1.0.1|05/02/2022| Alteração no titulo e adição do historico de versão|[Lameque Fernandes](https://github.com/lamequefernandes)|[Sávio Cunha](https://github.com/savioc2)|
 |1.0.2|09/02/2022| Atualização do cronograma, criação da tabela de atividades |[Antonio Igor](https://github.com/antonioigorcarvalho)|[Sávio Cunha](https://github.com/savioc2)|
