@@ -45,7 +45,7 @@ DARTORA, João. Tudo o que você precisa saber sobre commits semânticos. *Ilegr
 Políticas de Commit. Disponível em: <https://fga-eps-mds.github.io/2020.1-Grupo6/policies/commits/>. Acesso em: 14 de fev. de 2022.
 
 
-## 3. Histórico de Versões
+## 3. Histórico de Versionamento
 
 | Data       | Versão | Descrição                      | Autor             |
 | :--------: | :----: | :----------:                   | :---------------: |
