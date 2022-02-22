@@ -19,7 +19,7 @@ As referências devem estar em formato [ABNT](https://github.com/LamequeFernande
 
 #
 
-## 4. Histórico de versões
+## 4. Histórico de Versionamento
 
 | Data | Versão | Descrição | Autor(es) |
 | :--: | :----: | :-------: | :-------: |
