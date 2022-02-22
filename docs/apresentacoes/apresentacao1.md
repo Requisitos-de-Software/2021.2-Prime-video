@@ -1,4 +1,6 @@
-# Apresentação 1
+# Apresentações
+
+## Apresentação 1
 
 <center>
 
@@ -7,7 +9,7 @@
 </center>
 
 
-# Apresentação 2
+## Apresentação 2
 
 <center>
 
@@ -15,7 +17,7 @@
 
 </center>
 
-# Histórico de versionamento 
+## Histórico de versionamento 
 
 |Versão|Data de modificação|Descrição da modificação|Autor|
 |-|-|-|-|
