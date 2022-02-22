@@ -46,7 +46,7 @@ Políticas de Branches. Disponível em: <https://fga-eps-mds.github.io/2018.2-Co
 
 HADLER, Mikael. Utilizando o fluxo Git Flow. *Medium*. Disponível em: <https://medium.com/trainingcenter/utilizando-o-fluxo-git-flow-e63d5e0d5e04>. Acesso em: 14 de fev. de 2022.
 
-## 3. Histórico de Versões
+## 3. Histórico de Versionamento
 
 
 | Data       | Versão | Descrição                                 | Autor             |
