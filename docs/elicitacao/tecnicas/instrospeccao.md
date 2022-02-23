@@ -51,8 +51,9 @@ SOMMERVILLE,Ian. SoftwareEngineering,9.ed.
 SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 07.
 
 
-## 6. Histórico de versionamento
+## 6. Histórico de Versionamento
+
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
-|1.0|19/02/2022|Criação do documento sobre a técnica de introspecção|[Caio Santos](https://github.com/caiobsantos)|[Antonio Igor](https://github.com/antonioigorcarvalho)|
-|1.1|19/02/2022|Pequenas Melhorias|[Caio Santos](https://github.com/caiobsantos)|[Antonio Igor](https://github.com/antonioigorcarvalho)|
+|1.0|19/02/2022|Criação do documento sobre a técnica de introspecção|[Caio Santos](https://github.com/caiobsantos)|[Antonio Igor](https://github.com/antonioigorcarvalho) e [Lameque Fernandes](https://github.com/lamequefernandes)|
+|1.1|19/02/2022|Pequenas Melhorias|[Caio Santos](https://github.com/caiobsantos)|[Antonio Igor](https://github.com/antonioigorcarvalho) e [Lameque Fernandes](https://github.com/lamequefernandes)|

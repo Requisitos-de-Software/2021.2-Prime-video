@@ -47,12 +47,15 @@ Para realizar o brainstorming, todos os integrantes do grupo se reuniram e compa
 
 
 
-## 5. Referências
+## 5. Referências 
+
 Wiegers, Karl; Beatty, Joy. Software Requirements (Developer Best Practices).
+
 SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 07.
 
 
-## 6. Histórico de versionamento
-|Versão|Data de modificação|Descrição da modificação|Autor| revisor|
+## 6. Histórico de Versionamento
+
+|Versão|Data de modificação|Descrição da modificação|Autor| Revisor|
 |-|-|-|-|-|
-|1.0|20/02/2022|Criação do documento sobre a técnica de brainstorming|[Caio Santos](https://github.com/caiobsantos)|[Lameque Fernandes](https://github.com/LamequeFernandes)|
+|1.0|20/02/2022|Criação do documento sobre a técnica de brainstorming|[Caio Santos](https://github.com/caiobsantos)|[Lameque Fernandes](https://github.com/LamequeFernandes), [Antonio Igor](https://github.com/antonioigorcarvalho), [Douglas Monteles](https://github.com/douglasmonteles) e [Erick Levy](https://github.com/ericklevy)|

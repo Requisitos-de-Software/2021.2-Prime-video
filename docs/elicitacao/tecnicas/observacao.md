@@ -48,6 +48,7 @@ Para utilização desta técnica usamos a participação individual depois a jun
 
 <figcaption>Tabela 1: Requisitos levantados pela técnica de observação sobre o prime video.</figcaption>
 
+
 ## 5. Referências
 
 Técnicas para levantamento de requisitos. **Devmedia**. Disponível em: <https://www.devmedia.com.br/tecnicas-para-levantamento-de-requisitos/9151>. Acesso em: 17/02/2022.
@@ -62,8 +63,8 @@ Vazquez, Carlos E. Engenharia de requisitos software orientado a negocios. Rio d
 
 |Versão|Data de modificação|Descrição da modificação|Autor| Revisor|
 |-|-|-|-|-|
-|1.0|19/02/2022|Criação do documento sobre a técnica de observação|[Erick Levy](https://github.com/ericklevy)|[Douglas Monteles](https://github.com/douglasmonteles)|
-|1.1|19/02/2022|Correção de erros de português|[Antonio Igor](https://github.com/antonioigorcarvalho)| [Erick Levy](https://github.com/ericklevy)|
+|1.0|19/02/2022|Criação do documento sobre a técnica de observação|[Erick Levy](https://github.com/ericklevy)|[Douglas Monteles](https://github.com/douglasmonteles) e [Antonio Igor](https://github.com/antonioigorcarvalho)|
+|1.1|19/02/2022|Correção de erros de português|[Antonio Igor](https://github.com/antonioigorcarvalho)|  [Caio Santos](https://github.com/caiobsantos)|
 |1.2|19/02/2022|Padronização e Correção de erros|[Caio Santos](https://github.com/caiobsantos)| [Erick Levy](https://github.com/ericklevy)|
 
 

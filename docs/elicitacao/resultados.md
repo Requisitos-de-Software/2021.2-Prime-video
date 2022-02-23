@@ -73,8 +73,9 @@ Tabela 1: Requisitos funcionais.
 Tabela 2: Requisitos não funcionais.
 </center>
 
-## 3. Histórico de versionamento
+## 3. Histórico de Versionamento
+
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
-|1.0|19/02/2022|Criação do documento de resultados da elicitação de requisitos|[Antonio Igor]('https://github.com/antonioigorcarvalho')|[Caio Santos]('https://github.com/caiobsantos') [Lameque Fernandes]('https://github.com/lamequefernandes') [Erick Levy]('https://github.com/ericklevy') [Douglas Monteles]('https://github.com/douglasmonteles')|
-|1.1|20/02/2022|Adição de requisitos|[Lameque Fernandes]('https://github.com/lamequefernandes')|[Antonio Igor]('https://github.com/antonioigorcarvalho'), [Douglas Monteles]('https://github.com/douglasmonteles') e [Erick Levy]('https://github.com/ericklevy')|
+|1.0|19/02/2022|Criação do documento de resultados da elicitação de requisitos|[Antonio Igor](https://github.com/antonioigorcarvalho)|[Caio Santos](https://github.com/caiobsantos), [Lameque Fernandes](https://github.com/lamequefernandes), [Erick Levy](https://github.com/ericklevy) e [Douglas Monteles](https://github.com/douglasmonteles)|
+|1.1|20/02/2022|Adição de requisitos|[Lameque Fernandes](https://github.com/lamequefernandes)|[Antonio Igor](https://github.com/antonioigorcarvalho), [Douglas Monteles](https://github.com/douglasmonteles) e [Erick Levy](https://github.com/ericklevy)|

@@ -81,6 +81,7 @@ Após reunir o grupo e discutir sobre cada um dos aplicativos citados, foi decid
 </p>
   
 ## 3. Referências
+
 <p align="justify">
 Conecte SUS, 2022. Disponível em: <https://play.google.com/store/apps/details?id=br.gov.datasus.cnsdigital&hl=pt_BR&gl=US>. Acesso em: 14 fevereiro 2022.
 
@@ -97,4 +98,4 @@ Rico, 2022. Disponível em: <https://play.google.com/store/apps/details?id=br.co
 
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
-|1.0|14/02/2022|Criação do documento de aplicativos avaliados|[Douglas Monteles](https://github.com/douglasmonteles)|[Antonio Igor](https://github.com/antonioigorcarvalho)|
+|1.0|14/02/2022|Criação do documento de aplicativos avaliados|[Douglas Monteles](https://github.com/douglasmonteles)|[Antonio Igor](https://github.com/antonioigorcarvalho), [Caio Santos](https://github.com/caiobsantos), [Lameque Fernandes](https://github.com/lamequefernandes), [Erick Levy](https://github.com/ericklevy) e [Sávio Cunha](https://github.com/savioc2)|
