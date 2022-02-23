@@ -161,8 +161,8 @@ Identificamos em que faixa etária se encontram os assinantes da plataforma, a f
 ## 5. Referências
 <p align="justify">Engenharia de Requisitos. Carlos R. Valquez, Guilherme S. Sinões. Disponível em <<a href="https://pt.scribd.com/read/405793282/Engenharia-de-Requisitos-software-orientadoao-negocio">https://pt.scribd.com/read/405793282/Engenharia-de-Requisitos-software-orientadoao-negocio</a>>. Acesso em: 19 fevereiro 2022.</p>
 
-## 6. Histórico de versionamento
+## 6. Histórico de Versionamento
 
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
-|1.0|19/02/2022|Criação do documento de técnicas - questões| [Douglas Monteles](https://github.com/douglasmonteles) | [Antonio Igor](https://github.com/antonioigorcarvalho) |
+|1.0|19/02/2022|Criação do documento de técnicas - questões| [Douglas Monteles](https://github.com/douglasmonteles) | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Erick Levy](https://github.com/ericklevy) |

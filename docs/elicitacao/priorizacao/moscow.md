@@ -100,9 +100,9 @@ Pires, Raphael. Aprenda a usar a técnica MoSCoW nos projetos da sua agência. D
 CARVALHO, Henrique. O framework de priorizacao: MoSCoW. Disponível em: <https://vidadeproduto.com.br/framework-moscow/#O_framework_MoSCoW/>. Acesso em: 20 de fev. de 2022.
 
 
-## 5. Histórico de versionamento
+## 5. Histórico de Versionamento
 
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
-|1.0|20/02/2022|Criação do documento de resultados da elicitação de requisitos|[Lameque Fernandes]('https://github.com/lamequefernandes')|[Antonio Igor]('https://github.com/antonioigorcarvalho') e [Douglas Monteles]('https://github.com/douglasmonteles')|
-|1.1|20/02/2022|Adição de requisitos|[Lameque Fernandes]('https://github.com/lamequefernandes')|[Antonio Igor]('https://github.com/antonioigorcarvalho'), [Douglas Monteles]('https://github.com/douglasmonteles') e [Erick Levy]('https://github.com/ericklevy')|
+|1.0|20/02/2022|Criação do MoSCoW|[Lameque Fernandes](https://github.com/lamequefernandes)|[Antonio Igor](https://github.com/antonioigorcarvalho), [Douglas Monteles](https://github.com/douglasmonteles) e [Erick Levy](https://github.com/ericklevy)|
+

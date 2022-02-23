@@ -33,10 +33,10 @@ REVADI, Chindy. CTEC2402 Rich Picture Guidelines.
 
 ## 4. Histórico de Versionamento
 
-|Versão|Data de modificação|Descrição da modificação|Autor|
-|-|-|-|-|
-|1.0|30/01/2022|Primeiro Rich Picture com a visão geral|[Caio Santos]('https://github.com/caiobsantos')|
-|1.1|03/02/2022|Pequenas modificações no RichPicture|[Caio Santos]('https://github.com/caiobsantos')|
-|1.2|05/02/2022|Adição de titulo, introdução e historico de versão|[Lameque Fernandes]('https://github.com/lamequefernandes')|
-|1.3|14/02/2022|Adicionando legendas nas imagens|[Douglas Monteles]('https://github.com/douglasmonteles')|
-|1.4|19/02/2022|Adicionado referências |[Lameque Fernandes]('https://github.com/lamequefernandes')|
+|Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
+|-|-|-|-|-|
+|1.0|30/01/2022|Primeiro Rich Picture com a visão geral|[Caio Santos](https://github.com/caiobsantos)|[Douglas Monteles](https://github.com/douglasmonteles)|
+|1.1|03/02/2022|Pequenas modificações no RichPicture|[Caio Santos]('https://github.com/caiobsantos')|[Douglas Monteles]('https://github.com/douglasmonteles')|
+|1.2|05/02/2022|Adição de titulo, introdução e historico de versão|[Lameque Fernandes]('https://github.com/lamequefernandes')|[Sávio Cunha](https://github.com/savioc2)|
+|1.3|14/02/2022|Adicionando legendas nas imagens|[Douglas Monteles]('https://github.com/douglasmonteles')|[Antonio Igor](https://github.com/antonioigorcarvalho)|
+|1.4|19/02/2022|Adicionado referências |[Lameque Fernandes]('https://github.com/lamequefernandes')|[Antonio Igor](https://github.com/antonioigorcarvalho)|

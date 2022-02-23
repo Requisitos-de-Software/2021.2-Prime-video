@@ -93,9 +93,9 @@ Maurício Vianna... [et al.]; Design thinking : inovação em negócios
 
 
 
-## 5. Histórico de versionamento
+## 5. Histórico de Versionamento
 
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
 |1.0|19/02/2022|Criação do documento de personas|[Antonio Igor](https://github.com/antonioigorcarvalho) e [Lameque Fernandes](https://github.com/lamequefernandes)|[Caio Santos](https://github.com/caiobsantos)|
-|1.1|19/02/2022|Alteração na introdução e adição das referências|[Caio Santos](https://github.com/caiobsantos)|[Antonio Igor](https://github.com/antonioigorcarvalho)|
+|1.1|19/02/2022|Alteração na introdução e adição das referências|[Caio Santos](https://github.com/caiobsantos)|[Sávio Cunha](https://github.com/savioc2)|
