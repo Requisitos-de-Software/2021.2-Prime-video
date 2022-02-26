@@ -2,13 +2,18 @@
 
 ## 1. Introdução
 
+<p align="justify">
 Os casos de usos é uma das formas de detalhar a comunicação entre um determinado sistema e seus usuários (atores). Os casos de uso devem prover um resultado observável e de valor para os atores e/ou interessados no sistema.
+</p>
 
 ## 2. Diagrama de caso de uso UML
 
+<p align="justify">
 Através da linguagem de modelagem (UML), o diagrama de caso de uso é uma forma de detalhar a comunicação entre um determinado sistema e seus usuários (atores), e para criar um, deve-se utilizar de um conjunto de símbolos e conectores específicos.
-
+</p>
+<p align="justify">
 Deve-se utilizar um ou mais diagramas de caso de uso quando for necessário dar uma visão geral do relacionamento entre casos de uso, atores e sistema. E é muito indicado para complementar um caso de uso descrito em texto.
+</p>
 
 ## 3. Elementos do diagrama de caso de uso
 
@@ -19,11 +24,15 @@ Deve-se utilizar um ou mais diagramas de caso de uso quando for necessário dar 
 
 ## 4. Relacionamentos
 
+<p align="justify">
 Os relacionamentos são usados para representar as interações entre os atores e os casos de uso do sistema.
+</p>
 
 ### 4.1 Inclusão (Include)
 
+<p align="justify">
 Mostra a dependência entre um caso de uso base e um caso de uso incluído, sempre que uma caso de uso base é realizado o caso incluído também é realizado.
+</p>
 
 <center>
 <figure>
@@ -34,7 +43,9 @@ Mostra a dependência entre um caso de uso base e um caso de uso incluído, semp
 
 ### 4.2 Extensão (extend)
 
+<p align="justify">
 É usado para mostrar o comportamento opcional, comportamento que é executado sobre algumas condições.
+</p>
 
 <center>
 <figure>
@@ -45,7 +56,9 @@ Mostra a dependência entre um caso de uso base e um caso de uso incluído, semp
 
 ### 4.3 Herança ou Generalização (generalization)
 
+<p align="justify">
 É a generalização entre um caso de uso e outro, em que um caso de uso é especialização de outro. É representado por uma seta de generalização partindo de um caso para o outro.
+</p>
 
 <center>
 <figure>
@@ -53,3 +66,7 @@ Mostra a dependência entre um caso de uso base e um caso de uso incluído, semp
   <figcaption>Figura 3: Exemplos de Relacionamento generalization (herança).</figcaption>
 </figure>
 </center>
+
+|Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
+|-|-|-|-|-|
+|1.0|26/02/2022|Criação do documento de casos de uso|[Antonio Igor](https://github.com/antonioigorcarvalho) e [Lameque Fernandes](https://github.com/lamequefernandes)||
