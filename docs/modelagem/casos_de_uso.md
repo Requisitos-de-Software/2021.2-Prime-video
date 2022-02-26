@@ -67,6 +67,74 @@ Mostra a dependência entre um caso de uso base e um caso de uso incluído, semp
 </figure>
 </center>
 
+## 5. Diagramas UML
+
+### 5.1 Fluxo de conta
+
+<center>
+<figure>
+  <img width="100%" src="../../assets/img/casos_de_uso/Fluxo_novo_assinante.png" />
+  <figcaption>Figura 4: Fluxo de Conta.</figcaption>
+</figure>
+
+| Caso 01 | Informações | 
+| ------- | ----------- |
+| Descrição | <ul><li>O usuário deve ser capaz de criar uma conta</li><li>O usuário deve ser capaz de acessar uma conta já existente</li></ul> |
+| Pré-condições | Acesso à internet |
+| Atores | Usuário, Cliente |
+| Ação | <ul><li>O usuário cria uma conta utilizando seus dados</li><li>O usuário deve ser capaz de acessar sua conta com login e senha </li></ul> |
+| Fluxo principal | <ul><li>O usuário acessa o prime video</li><li>O usuário seleciona a opção de criar uma conta ou entrar em uma já existente</li></ul> |
+| Pós-condições | O usuário poderá navegar na aplicação |
+
+</center>
+
+### 5.2 Fluxo de conteúdo
+
+<center>
+<figure>
+  <img width="100%" src="../../assets/img/casos_de_uso/Fluxo_assistir_conteudo.png" />
+  <figcaption>Figura 5: Fluxo de conteúdo.</figcaption>
+</figure>
+
+| Caso 02 | Informações | 
+| ------- | ----------- |
+| Descrição | O usuário deve ser capaz de assistir um título |
+| Pré-condições | Internet, uma conta válida e um título |
+| Ator | Perfil |
+| Ação | O usuário assiste um título |
+| Fluxo principal | <ul><li>O usuário deve selecionar um título</li><li>O usuário deve assistir um título</li></ul> |
+| Pós-condições | <ul><li>O usuário poderá realizar operações no título</li><li>O usuário poderá navegar na página do titulo selecionado</li></ul>|
+
+</center>
+
+### 5.3 Fluxo de conteúdo extra
+
+<center>
+<figure>
+  <img width="100%" src="../../assets/img/casos_de_uso/Fluxo_Conteudo_extra.png" />
+  <figcaption>Figura 6: Fluxo de conteúdo extra.</figcaption>
+</figure>
+
+| Caso 03 | Informações | 
+| ------- | ----------- |
+| Descrição | O usuário deve ser capaz de assinar conteúdos extras |
+| Pré-condições | Possuir uma conta da Amazon Prime Video |
+| Ator | Assinante, Amazon |
+| Ação | O usuário irá contratar novas assinaturas para ter acesso a conteúdo extra |
+| Fluxo principal | <ul><li>O usuário irá escolher um conteúdo extra</li><li>O usuário seleciona a opção forma de pagamento</li><li>O usuário fornece seus dados</li><li>A Amazon confirmará o pagamento</li><li>O usuário terá acesso ao novo conteúdo</li></ul> |
+| Pós-condições | O usuário terá acesso ao conteúdo contratado |
+
+</center>
+
+## 6. Referências
+
+Diagrama de caso de uso UML: o que é, como fazer e exemplos. Disponível em: <https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml>. Acesso em: 26 de fev. de 2022.
+
+PIMENTEL, Andrey Ricardo. Projeto de Software Usando a UML. 2007.
+
+## 7. Histórico de Versionamento
+
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
 |1.0|26/02/2022|Criação do documento de casos de uso|[Antonio Igor](https://github.com/antonioigorcarvalho) e [Lameque Fernandes](https://github.com/lamequefernandes)||
+|1.1|26/02/2022|Adição dos diagramas e tabelas|[Antonio Igor](https://github.com/antonioigorcarvalho) e [Lameque Fernandes](https://github.com/lamequefernandes)||
