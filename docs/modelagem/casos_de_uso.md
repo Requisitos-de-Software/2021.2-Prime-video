@@ -18,7 +18,7 @@ Deve-se utilizar um ou mais diagramas de caso de uso quando for necessário dar 
 ## 3. Elementos do diagrama de caso de uso
 
 - **Caso de Uso:** é representado por uma forma oval rotulada. E são os diferentes usos que um usuário pode possuir, estruturando assim o diálogo entre os participantes e o sistema.
-- **Atores:** são os usuários que interagem com o sistema. Um ator pode ser uma usuário do sistema ou atá mesmo um outro sistema que interage com o seu sistema. É representado por um boneco palito.
+- **Atores:** são os usuários que interagem com o sistema. Um ator pode ser um usuário do sistema ou até mesmo de um outro sistema que interage com o seu sistema. É representado por um boneco palito.
 - **Sistema:** sequência específica de ações, interações e comportamento entre os atores, sistemas e metas. Para a representação do sistema é desenhado um retângulo em torno dos casos de uso.
 - **Metas:** resultado final da maioria dos casos de uso.
 
@@ -103,7 +103,7 @@ Mostra a dependência entre um caso de uso base e um caso de uso incluído, semp
 | Ator | Perfil |
 | Ação | O usuário assiste um título |
 | Fluxo principal | <ul><li>O usuário deve selecionar um título</li><li>O usuário deve assistir um título</li></ul> |
-| Pós-condições | <ul><li>O usuário poderá realizar operações no título</li><li>O usuário poderá navegar na página do titulo selecionado</li></ul>|
+| Pós-condições | <ul><li>O usuário poderá realizar operações no título</li><li>O usuário poderá navegar na página do título selecionado</li></ul>|
 
 </center>
 
