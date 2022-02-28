@@ -7,7 +7,7 @@
 </p>
 
 <p style="text-align: justify">
-  Essa especificação discore sobre requisitos não-funcionais do sistema analisado, são eles: 
+  Essa especificação discorre sobre requisitos não-funcionais do sistema analisado, são eles: 
 
   <ul>
     <li>Confiabilidade</li>
@@ -18,7 +18,7 @@
     <li>Ambiente de produção (hardware, internet, plataforma, banco de dados)</li>
   </ul> 
 
-  Demais requisitos estão definidos na espqcificação de casos de uso, a qual trata dos requisitos funcionais.
+  Demais requisitos estão definidos na especificação de casos de uso, a qual trata dos requisitos funcionais.
 </p>
 
 ## 2. Objetivo
@@ -64,7 +64,7 @@ Facilitar no processo de classificação dos requisitos funcionais e não-funcio
 ## 3.3 **R**eliability
 
 <p style="text-align: justify">
-  Confiabilidade (Reliability) é a junção dos quesitos de integridade (preservação da informação, preservando a sua consistencia), conformidade (Atende aos requisitos estabelecidos previamente) e interopelabilidade (capacidade de se comunicar com outros sistemas).
+  Confiabilidade (Reliability) é a junção dos quesitos de integridade (preservação da informação, preservando a sua consistência), conformidade (atende aos requisitos estabelecidos previamente) e interoperabilidade (capacidade de se comunicar com outros sistemas).
 
   <ul>
     <li>Freqüência e gravidade de falha</li>
@@ -112,10 +112,10 @@ Facilitar no processo de classificação dos requisitos funcionais e não-funcio
 
   <ul>
     <li>
-      Requisitos de design (desenho): Tratam da restição do sistema quanto as ferramentas que serão utilizadas em sua contrução, a linguagem de programação utilizada, etc.
+      Requisitos de design (desenho): Tratam da restrição do sistema quanto às ferramentas que serão utilizadas em sua construção, a linguagem de programação utilizada, etc.
     </li>
     <li>
-      Requisitos de implementação: Tratam das características que desenvolvimento do sistema, das práticas que serão adotadas e dos padrões.
+      Requisitos de implementação: Tratam das características do desenvolvimento do sistema, das práticas que serão adotadas e dos padrões.
     </li>
     <li>
       Requisitos de interface: Trata das características da interface do sistema para com o usuário.
