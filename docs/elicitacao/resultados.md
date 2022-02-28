@@ -67,7 +67,7 @@ Tabela 1: Requisitos funcionais.
 |RNF6|O sistema deve possuir a função de reprodução automática|Instrospecção|
 |RNF7|O sistema deve ser responsivo|Brainstorm|
 |RNF8|O sistema deve possuir um preço acessível|Questionário|
-|RNF8|O sistema deve possuir uma boa conexão com o servidor|Questionário|
+|RNF9|O sistema deve possuir uma boa conexão com o servidor|Questionário|
 
 <center>
 Tabela 2: Requisitos não funcionais.
