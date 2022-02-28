@@ -154,12 +154,12 @@ Abaixo está a separação dos requisitos não-funcionais (RNF) em cada categori
     <tr>
       <td align="center">R</td>
       <td align="center">Confiabilidade</td>
-      <td align="center">RNF8</td>
+      <td align="center">-</td>
     </tr>
     <tr>
       <td align="center">P</td>
       <td align="center">Desempenho</td>
-      <td align="center">-</td>
+      <td align="center">RNF9</td>
     </tr>
     <tr>
       <td align="center">S</td>
