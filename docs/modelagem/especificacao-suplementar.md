@@ -56,7 +56,7 @@ Facilitar no processo de classificação dos requisitos funcionais e não-funcio
   <ul>
     <li>Prevenção de erros</li>
     <li>Estética e design</li>
-    <li>ajudas (Help)</li>
+    <li>Ajudas (Help)</li>
     <li>Consistência e padrões.</li>
   </ul> 
 </p>
@@ -126,7 +126,60 @@ Facilitar no processo de classificação dos requisitos funcionais e não-funcio
   </ul> 
 </p>
 
-## 5. Referências
+## 5. Resultado
+
+Abaixo está a separação dos requisitos não-funcionais (RNF) em cada categoria proposta pelo FURPS+.
+
+<figure>
+<table>
+  <thead>
+    <tr>
+      <th align="center">Abreviação</th>
+      <th align="center">Categoria</th>
+      <th align="center">Requisito</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td align="center">F</td>
+      <td align="center">Funcionalidade</td>
+      <td align="center">RNF3, RNF5, RNF6</td>
+    </tr>
+    <tr>
+      <td align="center">U</td>
+      <td align="center">Usabilidade</td>
+      <td align="center">RNF2, RNF4</td>
+    </tr>
+    <tr>
+      <td align="center">R</td>
+      <td align="center">Confiabilidade</td>
+      <td align="center">RNF8</td>
+    </tr>
+    <tr>
+      <td align="center">P</td>
+      <td align="center">Desempenho</td>
+      <td align="center">-</td>
+    </tr>
+    <tr>
+      <td align="center">S</td>
+      <td align="center">Suportabilidade</td>
+      <td align="center">RNF1, RNF7</td>
+    </tr>
+    <tr>
+      <td align="center">+</td>
+      <td align="center">Outros</td>
+      <td align="center">RNF8</td>
+    </tr>
+  </tbody>
+</table>
+
+<figcaption>
+  Tabela 1: RNF classificados conforme o FURPS+
+</figcaption>
+</figure>
+
+## 6. Referências
 
 Sistema de Registro em Curso. Especificação Complementar, 1999. Disponível em: <<https://www.cin.ufpe.br/~gta/rup-vc/extend.formal_resources/guidances/examples/resources/supplspec_v1.htm>>. Acesso em: 27 fevereiro 2022.
 
