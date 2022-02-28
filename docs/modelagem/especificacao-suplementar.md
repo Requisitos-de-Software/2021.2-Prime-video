@@ -128,9 +128,9 @@ Facilitar no processo de classificação dos requisitos funcionais e não-funcio
 
 ## 5. Referências
 
-https://www.cin.ufpe.br/~gta/rup-vc/extend.formal_resources/guidances/examples/resources/supplspec_v1.htm
+Sistema de Registro em Curso. Especificação Complementar, 1999. Disponível em: <<https://www.cin.ufpe.br/~gta/rup-vc/extend.formal_resources/guidances/examples/resources/supplspec_v1.htm>>. Acesso em: 27 fevereiro 2022.
 
-https://qualidadebr.wordpress.com/2008/07/10/furps/
+QualidadeBR. FURPS+, 2008. Disponível em: <<https://qualidadebr.wordpress.com/2008/07/10/furps>>. Acesso em: 27 fevereiro 2022. 
 
 ## 6. Histórico de versionamento
 
