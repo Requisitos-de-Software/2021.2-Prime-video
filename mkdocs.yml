@@ -32,6 +32,8 @@ nav:
     - Resultados: elicitacao/resultados.md
   - Apresentações:
     - Apresentações: apresentacoes/apresentacao.md
+  - Modelagem:
+    - Especificação Suplementar: modelagem/especificacao-suplementar.md
 
 extra_css:
   - stylesheets/styles.css
