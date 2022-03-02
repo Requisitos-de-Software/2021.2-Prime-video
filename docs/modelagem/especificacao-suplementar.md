@@ -189,4 +189,4 @@ QualidadeBR. FURPS+, 2008. Disponível em: <<https://qualidadebr.wordpress.com/2
 
 |Versão|Data de modificação|Descrição da modificação|Autor| Revisor|
 |-|-|-|-|-|
-|1.0|27/02/2022|Criação do documento sobre a Especificação Suplementar|[Douglas Monteles](https://github.com/douglasmonteles)||
+|1.0|27/02/2022|Criação do documento sobre a Especificação Suplementar|[Douglas Monteles](https://github.com/douglasmonteles)|[Lameque Fernandes](https://github.com/lamequefernandes) e [Antonio Igor](https://github.com/antonioigorcarvalho)|
