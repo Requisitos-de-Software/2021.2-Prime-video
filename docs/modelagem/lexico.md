@@ -62,19 +62,23 @@ Os Léxicos foram ordenados em ordem alfabetica.
 
 ## L-08 Compartilhar
 
-## L-08 Conta
+| tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
+| ---------- |  ---------  | --------  | -------- | ------------------- |  
+| Verbo     |   Compartilhar   | Distribuir,partilhar | Compartilhar links do Prime video.    |  O usuário pode compartilhar o filme que esta assistindo no momento.</br>O usuário pode compartilhar o watch party.</br>  |
+
+## L-09 Conta
 
 | tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
 | Objeto     |   Conta   | <p align="center">-</p> | usuário pode acessar os recursos do Prime Video.    |  O usuário pode alterar senha.</br>O usuário pode contratar documentários ,canais,filmes e series.</br>  |
 
-## L-09 Controle
+## L-10 Controle
 
 | tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
 | Verbo    |   Controle   | Comando,Gerência | Controle de consumo de internet,parental,exclusão e ocultação de conteúdo .    |  O usuário pode controlar a quantidade de internet usada.</br>O usuário pode controlar perfis.</br> O usuário pode excluir ou ocultar conteúdos.</br>  |
 
-## L-10 Criar 
+## L-11 Criar 
 
 | tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
@@ -82,75 +86,81 @@ Os Léxicos foram ordenados em ordem alfabetica.
 
 
 
-## L-11 Detalhes
+## L-12 Detalhes
 
 | tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
 | Verbo    |   Destaque   | Relevância,Notoriedade |  Mostrar conteúdos em alta.   |  O usuário pode ver quais conteúdos estão em alta.</br>  |
 
-## L-12 Destaque
+## L-13 Destaque
 
 | tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
 | Verbo    |   Destaque   | Relevância,Notoriedade |  Mostrar conteúdos em alta.   |  O usuário pode ver quais conteúdos estão em alta.</br>  |
 
-## L-13 Dispositivo
+## L-14 Dispositivo
 
 
 | tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
 | Verbo    |   Dispositivo   | Aparelho,Equipamento  | Dispositivos que possam acessar o Prime video.    |  O usuário pode acessar a plataforma pelos aparelhos compatíveis.</br>  |
 
-## L-14 Documentário
+## L-15 Documentário
 
 | tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
 | Objeto    |   Documentário   | <p align="center">-</p>  | Produção artistica que se caracteriza pelo compromisso pela exploração da realidade.  |  O usuário pode assistir documentários no Prime Video.  |
 
-## L-15 Download
+## L-16 Download
 
 | tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
 | Verbo    |   Download   | baixa  | Baixar Conteúdo  |  O usuário pode assistir Conteúdo baixado permanentemente ate duração dele na plataforma.  |
 
-## L-16 Duração
+## L-17 Duração
 
 | tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
 | Verbo    |   Duração   | Extensão e período  | Tempo de duração de um conteúdo .  |  O usuário pode ver o tempo de duração dos conteúdos no Prime Video.  |
 
-## L-17 Editar Perfil
+## L-18 Editar Perfil
 
 | tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
 | Estado    |   Editar  | <p align="center">-</p>  | Perfis podem ser editados  .  |  O usuário pode escolher o avatar de acordo com os exclusivos da amazon  |
 
-## L-18 Episódio
+## L-19 Episódio
 
 | tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
 | Objeto    |   Episódio  | Capítulo  | ação acessória ligada à ação principal de uma narrativa ou de uma obra literária ou artística.  |  O usuário pode assitir um episódio de série do Prime Video.</br> O  usuário pode assitir um episódio de documentário do Prime Video.  |
 
-## L-18 Explorar
+## L-20 Explorar
 
 
 | tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
 | Verbo   |   Episódio  | Descobrir, Vasculhar  | Função que percorrer por conteúdos sem precisar digitar.  |  O usuário pode navegar pelo Prime Video.</br> O usuário pode navegar pelo explorar de alguns títulos.  |
 
-## L-19 Extra
+## L-21 Extra
 
 | tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
 | Verbo   |   Episódio  | Descobrir, Vasculhar  | Função que percorrer por conteúdos sem precisar digitar.  |  O usuário pode navegar pelo Prime Video.</br> O usuário pode navegar pelo explorar de alguns títulos.  |
 
-## L-20 Faixa Etária
+## L-22 Faixa Etária
 
 
 | tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
 | Verbo   |   Episódio  | Descobrir, Vasculhar  | Função que percorrer por conteúdos sem precisar digitar.  |  O usuário pode navegar pelo Prime Video.</br> O usuário pode navegar pelo explorar de alguns títulos.  |
 
-## L - 22
+## L-23 Filme
+
+| tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
+| ---------- |  ---------  | --------  | -------- | ------------------- |  
+| Estado   |  Filme  | Curta-metragem,Longa-metragem,Vídeo    | equência de imagens registradas em filme cinematográfico, fotográfico ou videoteipe, para exibição em movimento ou não.  |  O usuário pode assistir filmes.</br> O usuário pode compartilhar filmes.</br>  |
+
+## L-24 
 
 
