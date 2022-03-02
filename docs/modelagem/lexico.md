@@ -159,8 +159,36 @@ Os Léxicos foram ordenados em ordem alfabetica.
 
 | tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
-| Estado   |  Filme  | Curta-metragem,Longa-metragem,Vídeo    | equência de imagens registradas em filme cinematográfico, fotográfico ou videoteipe, para exibição em movimento ou não.  |  O usuário pode assistir filmes.</br> O usuário pode compartilhar filmes.</br>  |
+| Estado   |  Filme  | Curta-metragem,Longa-metragem,Vídeo    | Sequência de imagens registradas em filme cinematográfico, fotográfico ou videoteipe, para exibição em movimento ou não.  |  O usuário pode assistir filmes.</br> O usuário pode compartilhar filmes.</br>  |
 
-## L-24 
+## L-24 Gênero
 
+| tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
+| ---------- |  ---------  | --------  | -------- | ------------------- |  
+| Estado   |  Gênero  | Categoria, Variedade    | Gênero cinematográfico é a forma utilizada para se distinguir os variados tipos de filmes.  |  O usuário pode selecionar um gênero específico.</br> O usuário pode ver a qual gênero a obra pertence.</br>  |
+
+## L-25 Idioma
+
+| tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
+| ---------- |  ---------  | --------  | -------- | ------------------- |  
+| Estado   |  Idioma  | Dialeto,Língua    | Língua própria de um povo, de uma nação.  |  O usuário pode selecionar um gênero específico.</br> O usuário pode ver a qual gênero a obra pertence.</br>  |
+
+## L-26 Legenda 
+
+| tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
+| ---------- |  ---------  | --------  | -------- | ------------------- |  
+| Objeto   |  Legenda  | <p align="center">-</p>    | Pequeno pedaço de texto que surge debaixo de uma imagem, geralmente com contexto adicional ou como menção à fonte.  |  O usuário pode ativar as legendas.</br> O usuário pode modificar as legendas.</br>  |
+
+
+## L-27 Login
+
+| tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
+| ---------- |  ---------  | --------  | -------- | ------------------- |  
+| Verbo   |  Login  | Acesso,Conexão    | Entrar em uma conta.  |  O usuário pode logar para acessar os conteúdos do Prime Video.</br>   |
+
+## L-28 Logout
+
+| tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
+| ---------- |  ---------  | --------  | -------- | ------------------- |  
+| Verbo   |  Logout  | Sair    | Sair da conta Prime Video  |  O usuário pode desconectar a conta do Prime Video.</br>   |
 
