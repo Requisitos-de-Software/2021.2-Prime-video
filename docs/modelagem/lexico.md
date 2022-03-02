@@ -192,3 +192,9 @@ Os Léxicos foram ordenados em ordem alfabetica.
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
 | Verbo   |  Logout  | Sair    | Sair da conta Prime Video  |  O usuário pode desconectar a conta do Prime Video.</br>   |
 
+### L-29 Loja
+
+| tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
+| ---------- |  ---------  | --------  | -------- | ------------------- |  
+| Objeto  |  Loja  | Estabelecimento, Venda    | estabelecimento comercial em que se expõem e vendem mercadorias  |  O usuário pode alugar séries,filmes.</br> O usuário pode contratar canais.   |
+
