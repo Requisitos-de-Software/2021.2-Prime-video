@@ -40,20 +40,37 @@ Os Léxicos foram ordenados em ordem alfabetica.
 
 | tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
-| Verbo      |   Assistir   | Observar, Ver | Assistir Conteúdos no Prime Video  | O usuário aluga um filme uma série por um tempo determinado de 30 dias  |
+| Verbo      |   Assistir   | Observar, Ver | Assistir Conteúdos no Prime Video  | Com a conta ativa é dispositivo compatível, acesso a internet ou conteudo baixado, o usuário poderá assistir algum conteudo na Prime Video.</br>O usuário pode assistir filmes, séries ou documentários.</br>O usuário pode alugar canais,documentários,filmes e séries.</br> |
 
-
-## L-05 Canais
-
-| tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
-| ---------- |  ---------  | --------  | -------- | ------------------- |  
-| Objeto     |   Canais   | emissora, estação | Contrato no qual o usuário pode alugar conteúdos  | O usuário pode alugar canais.</br> O usuário pode alugar documentarios,séries e filmes.</br>  |
-
-
-## L-06 Conta
+## L-05 Categoria
 
 | tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
-| Objeto     |   Conta   | <p align="center">-</p> | usuário pode acessar os recursos do Prime Video.    | O O usuário pode alterar senha.</br>O usuário pode contratar canais,filmes e series.</br>  |
+| Verbo      |   Categoria   | Tipo,Variedade | Categorias de Conteúdos no Prime Video  | O usuário pode escolher a categoria e selecionar o conteúdo.
+
+## L-06 Canais
+
+| tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
+| ---------- |  ---------  | --------  | -------- | ------------------- |  
+| Objeto     |   Canais   | emissora, estação | Contrato no qual o usuário pode alugar conteúdos  | O usuário pode alugar canais.</br> O usuário pode alugar documentários,séries e filmes.</br>  |
+
+
+## L-07 Conta
+
+| tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
+| ---------- |  ---------  | --------  | -------- | ------------------- |  
+| Objeto     |   Conta   | <p align="center">-</p> | usuário pode acessar os recursos do Prime Video.    |  O usuário pode alterar senha.</br>O usuário pode contratar documentários ,canais,filmes e series.</br>  |
+
+## L-08 Controle
+
+| tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
+| ---------- |  ---------  | --------  | -------- | ------------------- |  
+| Verbo    |   Controle   | comando,gerência | Controle de consumo de internet,parental,exclusão e ocultação de conteúdo .    |  O usuário pode controlar a quantidade de internet usada.</br>O usuário pode controlar perfis.</br> O usuário pode excluir ou ocultar conteúdos.</br>  |
+
+## L-09 Criar 
+
+| tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
+| ---------- |  ---------  | --------  | -------- | ------------------- |  
+| Verbo    |   Controle   | comando,gerência | Controle de consumo de internet,parental,exclusão e ocultação de conteúdo .    |  O usuário pode controlar a quantidade de internet usada.</br>O usuário pode controlar perfis.</br> O usuário pode excluir ou ocultar conteúdos.</br>  |
 
 
