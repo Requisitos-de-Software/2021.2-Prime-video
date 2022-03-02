@@ -34,6 +34,7 @@ nav:
     - Apresentações: apresentacoes/apresentacao.md
   - Modelagem:
     - Casos de Uso: modelagem/casos_de_uso.md
+    - Especificação Suplementar: modelagem/especificacao-suplementar.md
 
 extra_css:
   - stylesheets/styles.css
