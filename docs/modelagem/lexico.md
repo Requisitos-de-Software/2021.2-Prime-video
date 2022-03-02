@@ -54,64 +54,103 @@ Os Léxicos foram ordenados em ordem alfabetica.
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
 | Objeto     |   Canais   | Emissora, Estação | Contrato no qual o usuário pode alugar conteúdos  | O usuário pode alugar canais.</br> O usuário pode alugar documentários,séries e filmes.</br>  |
 
+## L-07 Cancelar
 
-## L-07 Conta
+| tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
+| ---------- |  ---------  | --------  | -------- | ------------------- |  
+| Verbo     |   Cancelar   | Excluir, Suspender | É possivel cancelar a conta o Prime Video através da Amazon Prime  | O usuário pode  cancelar a conta.  |
+
+## L-08 Compartilhar
+
+## L-08 Conta
 
 | tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
 | Objeto     |   Conta   | <p align="center">-</p> | usuário pode acessar os recursos do Prime Video.    |  O usuário pode alterar senha.</br>O usuário pode contratar documentários ,canais,filmes e series.</br>  |
 
-## L-08 Controle
+## L-09 Controle
 
 | tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
 | Verbo    |   Controle   | Comando,Gerência | Controle de consumo de internet,parental,exclusão e ocultação de conteúdo .    |  O usuário pode controlar a quantidade de internet usada.</br>O usuário pode controlar perfis.</br> O usuário pode excluir ou ocultar conteúdos.</br>  |
 
-## L-09 Criar 
+## L-10 Criar 
 
 | tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
-| Verbo    |   Criar   | Originar,Gerar e produzir |     |  O usuário pode ter uma conta Prime.</br>O usuário com Prime Video pode criar perfis</br>  |
+| Verbo    |   Criar   | Originar,Gerar e produzir | Criar conta,perfis e minha área    |  O usuário pode ter uma conta Prime.</br>O usuário com Prime Video pode criar perfis.</br>  |
 
-## L-10 Destaque
 
-| tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
-| ---------- |  ---------  | --------  | -------- | ------------------- |  
-| Verbo    |   Destaque   | Relevância,Notoriedade |  Mostrar conteúdos em alta   |  O usuário pode ver quais conteúdos estão em alta.</br>  |
 
-## L-11 Dispositivo
-
+## L-11 Detalhes
 
 | tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
-| Verbo    |   Dispositivo   | Aparelho,Equipamento  | Dispositivos que possam acessar o Prime video    |  O usuário pode acessar a plataforma pelos aparelhos compatíveis.</br>  |
+| Verbo    |   Destaque   | Relevância,Notoriedade |  Mostrar conteúdos em alta.   |  O usuário pode ver quais conteúdos estão em alta.</br>  |
 
-## L-12 Documentário
-
-| tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
-| ---------- |  ---------  | --------  | -------- | ------------------- |  
-| Objeto    |   Documentário   | <p align="center">-</p>  | Produção artistica que se caracteriza pelo compromisso pela exploração da realidade.  |  O usuário pode assistir documentários no Prime Video  |
-
-## L-13 Download
+## L-12 Destaque
 
 | tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
-| Verbo    |   Download   | baixa  | Baixar Conteúdo .  |  O usuário pode assistir Conteúdo baixado permanentemente ate duração dele na plataforma  |
+| Verbo    |   Destaque   | Relevância,Notoriedade |  Mostrar conteúdos em alta.   |  O usuário pode ver quais conteúdos estão em alta.</br>  |
 
-## L-13 Duração
+## L-13 Dispositivo
+
 
 | tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
-| Verbo    |   Duração   | Extensão e período  | Tempo de duração de um conteúdo .  |  O usuário pode ver o tempo de duração dos conteúdos no Prime Video  |
+| Verbo    |   Dispositivo   | Aparelho,Equipamento  | Dispositivos que possam acessar o Prime video.    |  O usuário pode acessar a plataforma pelos aparelhos compatíveis.</br>  |
 
-## L-14 Editar Perfil
+## L-14 Documentário
+
+| tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
+| ---------- |  ---------  | --------  | -------- | ------------------- |  
+| Objeto    |   Documentário   | <p align="center">-</p>  | Produção artistica que se caracteriza pelo compromisso pela exploração da realidade.  |  O usuário pode assistir documentários no Prime Video.  |
+
+## L-15 Download
+
+| tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
+| ---------- |  ---------  | --------  | -------- | ------------------- |  
+| Verbo    |   Download   | baixa  | Baixar Conteúdo  |  O usuário pode assistir Conteúdo baixado permanentemente ate duração dele na plataforma.  |
+
+## L-16 Duração
+
+| tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
+| ---------- |  ---------  | --------  | -------- | ------------------- |  
+| Verbo    |   Duração   | Extensão e período  | Tempo de duração de um conteúdo .  |  O usuário pode ver o tempo de duração dos conteúdos no Prime Video.  |
+
+## L-17 Editar Perfil
 
 | tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
 | Estado    |   Editar  | <p align="center">-</p>  | Perfis podem ser editados  .  |  O usuário pode escolher o avatar de acordo com os exclusivos da amazon  |
 
-## L-15 Episódio
+## L-18 Episódio
 
 | tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
-| Objeto    |   Episódio  | <p align="center">-</p>  | Perfis podem ser editados  .  |  O usuário pode escolher o avatar de acordo com os exclusivos da amazon  |
+| Objeto    |   Episódio  | Capítulo  | ação acessória ligada à ação principal de uma narrativa ou de uma obra literária ou artística.  |  O usuário pode assitir um episódio de série do Prime Video.</br> O  usuário pode assitir um episódio de documentário do Prime Video.  |
+
+## L-18 Explorar
+
+
+| tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
+| ---------- |  ---------  | --------  | -------- | ------------------- |  
+| Verbo   |   Episódio  | Descobrir, Vasculhar  | Função que percorrer por conteúdos sem precisar digitar.  |  O usuário pode navegar pelo Prime Video.</br> O usuário pode navegar pelo explorar de alguns títulos.  |
+
+## L-19 Extra
+
+| tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
+| ---------- |  ---------  | --------  | -------- | ------------------- |  
+| Verbo   |   Episódio  | Descobrir, Vasculhar  | Função que percorrer por conteúdos sem precisar digitar.  |  O usuário pode navegar pelo Prime Video.</br> O usuário pode navegar pelo explorar de alguns títulos.  |
+
+## L-20 Faixa Etária
+
+
+| tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
+| ---------- |  ---------  | --------  | -------- | ------------------- |  
+| Verbo   |   Episódio  | Descobrir, Vasculhar  | Função que percorrer por conteúdos sem precisar digitar.  |  O usuário pode navegar pelo Prime Video.</br> O usuário pode navegar pelo explorar de alguns títulos.  |
+
+## L - 22
+
+
