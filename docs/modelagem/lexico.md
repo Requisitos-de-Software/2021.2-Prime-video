@@ -2,15 +2,15 @@
 
 ## 1. Introdução
 
-Léxico trata-se de uma linguagem que busca apresentar os símbolos de uma linguagem. O objetivo principal seguido pelos Engenheiros de Requisitos é buscar frases ou palavras no meio social da aplicação.
+Léxico trata-se de uma técnica que busca apresentar os símbolos de uma linguagem. O objetivo principal seguido pelos Engenheiros de Requisitos é buscar frases ou palavras no meio social da aplicação.
 
 ## 2. Metodologia
 
-Para a criação deste léxico foi criado uma tabela no seguinte padrão.
+Para a criação deste léxico foi criado uma tabela no seguinte padrão:
 
-| tipo                        |  Léxico        | Sinônimo  | Noção    |       impacto       |             
+| tipo                        |  Léxico        | Sinônimo  | Noção    |       Impacto       |             
 | --------------------------- |  ------------  | --------  | -------- | ------------------- |  
-| Estado/Objeto/Verbo/       | Nome do Léxico | Sinônimos | simbolo  | descrição do léxico |      
+| Estado/Objeto/Verbo/       | Nome do Léxico | Sinônimos | Símbolo  | Descrição do léxico |      
 
 ## 3. Léxicos
 
@@ -332,6 +332,6 @@ Sinônimos. **Sinônimos.com.br**. Dispoível em: <https://www.sinonimos.com.br/
 
 |Versão|Data de modificação|Descrição da modificação|Autor| Revisor|
 |-|-|-|-|-|
-|1.0|02/03/2022| Criação do documento de Léxicos | [Erick Levy](https://github.com/ericklevy) e [Sávio Cunha](https://github.com/savioc2) | [Antonio Igor](https://github.com/antonioigorcarvalho) |
+|1.0|02/03/2022| Criação do documento de Léxicos | [Erick Levy](https://github.com/ericklevy) e [Sávio Cunha](https://github.com/savioc2) | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Caio Santos](https://github.com/caiobsantos) |
 
 
