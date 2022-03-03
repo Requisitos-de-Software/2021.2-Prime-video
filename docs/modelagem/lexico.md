@@ -224,11 +224,55 @@ Os Léxicos foram ordenados em ordem alfabetica.
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
 | Objeto  |  Originals  | Originário,Proveniente,Inventado    | Categoria que mostra títulos exclusivos da plataforma do Prime Video.  |  O usuário visualizar os conteúdos exclusivos do Prime Video.   |
 
-### L-34 Perfil
+
+### L-34 Pedidos
+
+| tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
+| ---------- |  ---------  | --------  | -------- | ------------------- |  
+| Objeto  |  Pedidos  | Requisições,Solicitados    | ação de ordenar uma compra.  |  O usuário pode comprar canais,filmes e séries.   |
+
+
+### L-35 Perfil
 
 | tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
 | Objeto  |  Perfil  | <p align="center">-</p>     | Podem ser criados até 6 perfis no Prime video.Os perfis podem ser editados ou excluidos.  |  O usuário pode visualizar os conteúdos de acordo com as configurações do perfil.   |
 
-### L-35  
+### L-36  Recomendado
+
+| tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
+| ---------- |  ---------  | --------  | -------- | ------------------- |  
+| Objeto  |  Recomendado  | <p align="center">-</p>     | Conteúdos recomendados com base nas visualizações do perfil.  |  O usuário pode ver conteúdos recomendados com base na sua visualização.   |
+
+### L-37 Reprodução automática
+
+| tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
+| ---------- |  ---------  | --------  | -------- | ------------------- |  
+| Estado  |  Reprodução automática  | <p align="center">-</p>     | 
+Função que permite que o Prime Video reproduza conteúdos subsequentes.  |  O reprodutor de video passa automaticamente para o próximo conteúdo.   |
+
+### L-38 Responsividade
+
+| tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
+| ---------- |  ---------  | --------  | -------- | ------------------- |  
+| Estado  |  Responsividade  | <p align="center">-</p>     | 
+Adaptação do tamanho da pagína de acordo com o dispositivo.  |  O Prime Video se adapta ao dispositivo.   |
+
+### L-39 Retomar
+
+| tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
+| ---------- |  ---------  | --------  | -------- | ------------------- |  
+| Verbo  |  Retomar  | Continuar, prosseguir     | 
+Continuar algum conteúdo.  |  O usuário pode retomar um conteúdo que parou </br>. O usuário pode retomar um titulo que foi pausado  |
+
+### L-40 Sair
+
+| tipo       |  Léxico     | Sinônimo  | Noção    |       impacto       |             
+| ---------- |  ---------  | --------  | -------- | ------------------- |  
+| Verbo  |  Sair  | Desenvencilhar-se,Retirar-se     | Deslogar a conta do Prime Video.  |  O usuário pode desconectar sua conta do Prime Video </br>. O usuário pode sair do perfil.  |
+
+
+
+
+
 
