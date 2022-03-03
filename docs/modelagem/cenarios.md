@@ -415,6 +415,50 @@
         </tr>
 </table>
 
+### C10
+
+<table>
+        <tr>
+            <th colspan="2" style="text-align:center">Altera Idiomas</th>
+        </tr>
+         <tr>
+            <td>Contexto</td>
+            <td>-Local: Tela de Reprodução de título;<br>
+            -Pré Condição: Estar logado na plataforma, assinatura ativa no Amazon Prime, estar assistindo algo.
+            </td>
+        </tr>
+        <tr>
+            <td>Atores</td>
+            <td>Assinantes
+            </td>
+        </tr>
+        <tr>
+            <td>Objetivo</td>
+            <td>Alterar o idioma do áudio ou da legenda.</td>
+        </tr>
+        <tr>
+            <td>Recursos</td>
+            <td>-Dispositivo com acesso à internet;<br>
+            -Dispositivo suportado pelo Prime Video.
+            </td>
+        </tr>
+        <tr>
+            <td>Episódios</td>
+            <td>-Assinante acessa o Prime Video;<br>
+            -Assinante clica em algum título para poder assistí-lo;<br>
+            -Assinante clica na opção "Legendas e Áudio" no canto superior direito;
+            -Assinante escolhe o idioma de sua preferência.
+            </td>
+        </tr>
+        <tr>
+            <td>Exceção</td>
+            <td>-Queda de energia;<br>
+            -Perda de conexão com a internet.
+            -Idioma não suportado para determinado título
+            </td>
+        </tr>
+</table>
+
 
 ## 4. Referências
 
@@ -429,3 +473,4 @@ SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 10.
 |-|-|-|-|-|
 |1.0|25/02/2022|Criação do documento de cenários|[Caio Santos](https://github.com/caiobsantos)|[Antonio Igor](https://github.com/antonioigorcarvalho) e [Douglas Monteles](https://github.com/douglasmonteles)|
 |1.1|01/03/2022|Adição dos cenários|[Caio Santos](https://github.com/caiobsantos)|[Antonio Igor](https://github.com/antonioigorcarvalho) e [Douglas Monteles](https://github.com/douglasmonteles)|
+|1.2|03/03/2022|Adição de mais cenários|[Caio Santos](https://github.com/caiobsantos)|[Antonio Igor](https://github.com/antonioigorcarvalho) e [Douglas Monteles](https://github.com/douglasmonteles)|
