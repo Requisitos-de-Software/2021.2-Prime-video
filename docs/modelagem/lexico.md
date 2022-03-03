@@ -1,10 +1,10 @@
 # Léxico
 
-### 1. Introdução
+## 1. Introdução
 
 Léxico trata-se de uma linguagem que busca apresentar os símbolos de uma linguagem. O objetivo principal seguido pelos Engenheiros de Requisitos é buscar frases ou palavras no meio social da aplicação.
 
-### 2. Metodologia
+## 2. Metodologia
 
 Para a criação deste léxico foi criado uma tabela no seguinte padrão.
 
@@ -12,7 +12,7 @@ Para a criação deste léxico foi criado uma tabela no seguinte padrão.
 | --------------------------- |  ------------  | --------  | -------- | ------------------- |  
 | Estado/Objeto/Verbo/       | Nome do Léxico | Sinônimos | simbolo  | descrição do léxico |      
 
-### 3. Léxicos
+## 3. Léxicos
 
 Os Léxicos foram ordenados em ordem alfabetica.
 
@@ -324,5 +324,14 @@ Continuar algum conteúdo.  |  O usuário pode retomar um conteúdo que parou </
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
 | Objeto |  Watch Party  | <p align="center">-</p>  | Pessoas que usufruem do Prime Video podem acessar o conteudo simultaneamente .  |  Até cem usuários poderão assistir títulos em conjunto na plataforma do Prime Video. |
 
+## 4. Referências
+Sinônimos. **Sinônimos.com.br**. Dispoível em: <https://www.sinonimos.com.br/site/>. Acesso em 02/03/2022.
+
+
+## 5. Histórico de Versionamento
+
+|Versão|Data de modificação|Descrição da modificação|Autor| Revisor|
+|-|-|-|-|-|
+|1.0|02/03/2022| Criação do documento de Léxicos | [Erick Levy](https://github.com/ericklevy) e [Sávio Cunha](https://github.com/savioc2) | [Antonio Igor](https://github.com/antonioigorcarvalho) |
 
 
