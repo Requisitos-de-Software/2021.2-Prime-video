@@ -427,5 +427,5 @@ SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 10.
 
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
-|1.0|25/02/2022|Criação do documento de cenários|[Caio Santos](https://github.com/caiobsantos)|-|
-|1.1|01/03/2022|Adição dos cenários|[Caio Santos](https://github.com/caiobsantos)|-|
+|1.0|25/02/2022|Criação do documento de cenários|[Caio Santos](https://github.com/caiobsantos)|[Antonio Igor](https://github.com/antonioigorcarvalho) e [Douglas Monteles](https://github.com/douglasmonteles)|
+|1.1|01/03/2022|Adição dos cenários|[Caio Santos](https://github.com/caiobsantos)|[Antonio Igor](https://github.com/antonioigorcarvalho) e [Douglas Monteles](https://github.com/douglasmonteles)|
