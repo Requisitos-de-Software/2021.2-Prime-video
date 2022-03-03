@@ -18,7 +18,7 @@ O termo MoSCoW é um acrônimo em inglês derivado da primeira letra de cada uma
 ## 2. Metodologia
 
 <p align="justify">
-Para organizar os requisitos por ordem de priorização, será utilizado a técnica MoSCoW, que já foi citado anteriormente. Os requisitos seram divididos a partir das seguintes categorias:
+Para organizar os requisitos por ordem de priorização, será utilizado a técnica MoSCoW, que já foi citado anteriormente. Os requisitos serão divididos a partir das seguintes categorias:
 </p>
 
 - Must: quando o requisito for essencial para o funcionamento da projeto.
