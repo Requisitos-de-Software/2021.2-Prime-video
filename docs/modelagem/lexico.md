@@ -260,13 +260,13 @@ Os Léxicos foram ordenados em ordem alfabetica.
 
 | Tipo       |  Léxico     | Sinônimo  | Noção    |       Impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
-| Verbo  |  Retomar  | Continuar, prosseguir     | Continuar algum conteúdo.  |  O usuário pode retomar um conteúdo que parou </br>. O usuário pode retomar um titulo que foi pausado  |
+| Verbo  |  Retomar  | Continuar, prosseguir     | Continuar algum conteúdo.  |  O usuário pode retomar um conteúdo que parou .</br> O usuário pode retomar um titulo que foi pausado.  |
 
 ### L - 40 Sair
 
 | Tipo       |  Léxico     | Sinônimo  | Noção    |       Impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
-| Verbo  |  Sair  | Desenvencilhar-se,Retirar-se     | Deslogar a conta do Prime Video.  |  O usuário pode desconectar sua conta do Prime Video </br>. O usuário pode sair do perfil.  |
+| Verbo  |  Sair  | Desenvencilhar-se,Retirar-se     | Deslogar a conta do Prime Video.  |  O usuário pode desconectar sua conta do Prime Video .</br> O usuário pode sair do perfil.  |
 
 ### L - 41 Segundo Plano
 
