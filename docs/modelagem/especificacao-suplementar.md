@@ -37,7 +37,7 @@ Facilitar no processo de classificação dos requisitos funcionais e não-funcio
 </p>
 
 
-##  3.1 **F**unctionality
+###  3.1 **F**unctionality
 
 <p style="text-align: justify">
   Funcionalidade (Functionality) trata da representação de todo o aspecto funcional do sistema, ou seja, ele verifica o cumprimento de todos os requisitos estabelecidos. Podem englobar os seguintes quesitos, mas não fica restrito somente a eles.
@@ -48,7 +48,7 @@ Facilitar no processo de classificação dos requisitos funcionais e não-funcio
   </ul> 
 </p>
 
-## 3.2 **U**sability
+### 3.2 **U**sability
 
 <p style="text-align: justify">
   Usabilidade (Usability) é responsável por avaliar como a interface lida com o usuário. Elas está dividida em várias categorias, são elas:
@@ -61,7 +61,7 @@ Facilitar no processo de classificação dos requisitos funcionais e não-funcio
   </ul> 
 </p>
 
-## 3.3 **R**eliability
+### 3.3 **R**eliability
 
 <p style="text-align: justify">
   Confiabilidade (Reliability) é a junção dos quesitos de integridade (preservação da informação, preservando a sua consistência), conformidade (atende aos requisitos estabelecidos previamente) e interoperabilidade (capacidade de se comunicar com outros sistemas).
@@ -75,7 +75,7 @@ Facilitar no processo de classificação dos requisitos funcionais e não-funcio
   </ul> 
 </p>
 
-## 3.4 **P**erformance
+### 3.4 **P**erformance
 
 <p style="text-align: justify">
   Desempenho (Performance) trata dos requisitos de desempenho do software, tais como a sua velocidade de resposta sobre uma dada ação do usuário. Possui diversos aspectos, tais como:
@@ -89,7 +89,7 @@ Facilitar no processo de classificação dos requisitos funcionais e não-funcio
   </ul> 
 </p>
 
-## 3.5 **S**upportability
+### 3.5 **S**upportability
 
 <p style="text-align: justify">
   Suportabilidade (Supportability) é um dos quesitos que definem a qualidade de um software, ele trata da capacidade de oferta de suporte técnico ao usuário. Possui diversas características, tais como:
@@ -185,7 +185,7 @@ Sistema de Registro em Curso. Especificação Complementar, 1999. Disponível em
 
 QualidadeBR. FURPS+, 2008. Disponível em: <<https://qualidadebr.wordpress.com/2008/07/10/furps>>. Acesso em: 27 fevereiro 2022. 
 
-## 6. Histórico de versionamento
+## 7. Histórico de versionamento
 
 |Versão|Data de modificação|Descrição da modificação|Autor| Revisor|
 |-|-|-|-|-|
