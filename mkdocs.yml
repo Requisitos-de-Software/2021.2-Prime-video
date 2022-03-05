@@ -36,6 +36,8 @@ nav:
     - Lexico: modelagem/lexico.md
     - Cenarios: modelagem/cenarios.md
   - Apresentações:
-    - Apresentações: apresentacoes/apresentacao.md
+    - Apresentação 1: apresentacoes/apresentacao1.md
+    - Apresentação 1: apresentacoes/apresentacao2.md
+    - Apresentação 1: apresentacoes/apresentacao3.md
 extra_css:
   - stylesheets/styles.css
