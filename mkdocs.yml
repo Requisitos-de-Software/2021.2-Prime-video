@@ -30,11 +30,12 @@ nav:
     - Priorização: 
       - MoSCoW: elicitacao/priorizacao/moscow.md
     - Resultados: elicitacao/resultados.md
-  - Apresentações:
-    - Apresentações: apresentacoes/apresentacao.md
   - Modelagem:
     - Casos de Uso: modelagem/casos_de_uso.md
     - Especificação Suplementar: modelagem/especificacao-suplementar.md
-
+    - Lexico: modelagem/lexico.md
+    - Cenarios: modelagem/cenarios.md
+  - Apresentações:
+    - Apresentações: apresentacoes/apresentacao.md
 extra_css:
   - stylesheets/styles.css
