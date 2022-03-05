@@ -260,8 +260,7 @@ Os Léxicos foram ordenados em ordem alfabetica.
 
 | Tipo       |  Léxico     | Sinônimo  | Noção    |       Impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
-| Verbo  |  Retomar  | Continuar, prosseguir     | 
-Continuar algum conteúdo.  |  O usuário pode retomar um conteúdo que parou </br>. O usuário pode retomar um titulo que foi pausado  |
+| Verbo  |  Retomar  | Continuar, prosseguir     | Continuar algum conteúdo.  |  O usuário pode retomar um conteúdo que parou </br>. O usuário pode retomar um titulo que foi pausado  |
 
 ### L - 40 Sair
 
