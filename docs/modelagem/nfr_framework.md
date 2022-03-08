@@ -10,7 +10,17 @@
 
 ## 3. NFR Framework
 
+## 3.1 Usabilidade
 
+## 3.2 Portabilidade
+
+## 3.3 Disponibilidade
+
+## 3.4 Desempenho
+
+## 3.5 Geral
+
+## Resultado
 
 ## 4. Referências
 
