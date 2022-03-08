@@ -7,6 +7,23 @@
 
 ### 2.1 Épico 1 - Conta
 
+| Feature | ID | Rastreabilidade | História de usúario (Eu como usuário gostaria de ...) | Prioridade |
+| ------- | -- | :-------------: | ----------------------------------------------------- | ---------- |
+| Interação | USxx |               | Realizar logout| Must |
+| Interação | USxx |               | Cancelar assinatura de canal| Must |
+| Interação | USxx |               | Cancelar alugamento de documentário| Must  |
+| Interação | USxx |               | Cancelar alugamento de filme| Must |
+| Interação | USxx |               | Cancelar alugamento de série| Must |
+| Interação | USxx |               | Mostrar pedidos| Could |
+| Interação | USxx |               | Mudar método de pagamento | Should |
+| Interação | USxx |               | Realizar login| Must |
+| Interação | USxx |               | Realizar logout| Must |
+| Interação | USxx |               | Renova assinatura de canal| Must |
+| Interação | USxx |               | Renova assinatura de filme| Must |
+| Interação | USxx |               | Renova assinatura de série| Must |
+| Interação | USxx |               | Sair dos dispositivos| Could |
+| Interação | USxx |               | Olhar as informações da conta| Must |
+
 
 ### 2.2 Épico 2 - Perfil
 
