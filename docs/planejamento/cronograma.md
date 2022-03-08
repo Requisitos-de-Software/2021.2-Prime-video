@@ -88,4 +88,4 @@ Plano de ensino da matéria. Disponível em: <https://aprender3.unb.br/pluginfil
 |1.1|14/02/2022| Criação da tabela da sprint 2 |[Antonio Igor](https://github.com/antonioigorcarvalho)|[Douglas Monteles](https://github.com/douglasmonteles), [Caio Santos](https://github.com/caiobsantos) e [Erick Levy](https://github.com/ericklevy)|
 |1.1.1|20/02/2022| Adicionando o link no nome dos responsáveis |[Douglas Monteles](https://github.com/douglasmonteles)|[Sávio Cunha](https://github.com/savioc2)|
 |1.2|20/02/2022| Adicionado descrição no heatmap |[Lameque Fernandes](https://github.com/lamequefernandes)|[Antonio Igor](https://github.com/antonioigorcarvalho)|
-|1.3|08/03/2022| Criação da tabela da sprint 3 | [Antonio Igor](https://github.com/antonioigorcarvalho) | - |
+|1.3|08/03/2022| Criação da tabela da sprint 3 | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy) |
