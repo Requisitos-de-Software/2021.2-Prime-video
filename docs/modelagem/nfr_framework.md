@@ -194,18 +194,16 @@ O funcionamento do NFR framework pode ser visualizado em termos da construção,
     </span>
 </figure>
 
-## 5. Resultado
+## 4. Resultado
 
-<p style="text-align:center">
-    Optamos por utilizar o NFR Framework, pois ele trata os Requisitos não-funcionais (RNF) de uma forma específica além de ser amplamente utilizado pela comunidade acadêmica. Com ele foi possível mapear as interdependecias entre os RNF e os impactos de um sobre os outros, sendo isso tudo possível de ser visualizado graças ao grafo de Interdepêndencia de Softgoal - Softgoal Interdependency Graph (SIG). No mais, vale resaltar que não objetivamos criar um catálogo completo que cubra 100% dos RNF, já que o mesmo está sempre em contante evolução, mas esperamos que este catálogo apresente uma boa cobertura sobre os RNF.
-</p>
+Optamos por utilizar o NFR Framework, pois ele trata os Requisitos não-funcionais (RNF) de uma forma específica além de ser amplamente utilizado pela comunidade acadêmica. Com ele foi possível mapear as interdependecias entre os RNF e os impactos de um sobre os outros, sendo isso tudo possível de ser visualizado graças ao grafo de Interdepêndencia de Softgoal - Softgoal Interdependency Graph (SIG). No mais, vale resaltar que não objetivamos criar um catálogo completo que cubra 100% dos RNF, já que o mesmo está sempre em contante evolução, mas esperamos que este catálogo apresente uma boa cobertura sobre os RNF.
 
-## 6. Referências
+## 5. Referências
 CHUNG, L. e NIXON, B., “Using Non-Functional Requirements to Systematically Support Change”, 1995. Acesso em 08 de Março de 2022.<br></br>
 BRITO, Isabel; NFR Framework. jaejaneiro, (2007-2008). Disponível em: <http://jaejaneiro.orgfree.com/engsofnfr.pdf>. Acesso em: 08 de Março 2022.<br></br>
 SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019
 
-## 7. Histórico de Versionamento
+## 6. Histórico de Versionamento
 
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
