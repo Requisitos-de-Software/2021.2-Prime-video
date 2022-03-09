@@ -1,6 +1,7 @@
 # Backlog
 
 ## 1. Introdução
+O Product Backlog ou apenas Backlog, se refere a uma lista de itens desejados para dar vida a um produto. Esta lista contém funcionalidades, requisitos e restrições organizados por prioridade, de forma que os itens com prioridade mais alta, sejam realizados primeiro. O Product Backlog não precisa estar completo desde o início do projeto e pode ser refinado e reorganizado com o tempo, conforme se aprende mais sobre o produto e seus usuários.
 
 ## 2. Épicos
 
@@ -33,13 +34,13 @@
 | XX | US16 | RF16 |  Alterar minha foto de perfil | Could |
 | XX | US17 | RF16 |  Alterar o nome do meu perfil | Could |
 | XX | US18 | RF29 |  Poder excluir um perfil | Must |
+| XX | USxx | RF17 |  Adicionar títulos à minha lista | Must |
+| XX | USxx | RF03 | Remover títulos da minha lista | Must |
 
 ### 2.3 Épico 3 - Conteúdo
 
 | Feature | ID | Rastreabilidade | História de usúario (Eu como usuário gostaria de ...) | Prioridade |
 | ------- | -- | :-------------: | ----------------------------------------------------- | ---------- | 
-| Lista | USxx | RF17 |  Adicionar títulos na lista | Must |
-| Lista | USxx | RF03 | Remover títulos na lista | Must |
 | Download | USxx | R21 | Baixar títulos | Could |
 | Interação | USxx | RF30 | Assistir em grupo (Watch party) | Could | RF30
 | Interação | USxx | RF05 | Registrar feeadback sobre título | Should | RF05
@@ -71,10 +72,15 @@
 
 ## 3. Referências
 
+SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 15.
+
+Epic, Feature e User Story (Epico, Funcionalidade e História de Usuário). Disponível em: https://www.ateomomento.com.br/epic-feature-e-user-story/. Acesso em: 09 de Março de 2022.
+
 ## 4. Histórico de Versionamento
 
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
 |0.1|06/03/2022|Estrutura do backlog e Criação do Épico de conteúdo|[Antonio Igor](https://github.com/antonioigorcarvalho) e [Lameque Fernandes](https://github.com/lamequefernandes)||
 |0.2|06/03/2022|Adição da Rastreabilidade na tabela de épico 3|[Lameque Fernandes](https://github.com/lamequefernandes)||
-|0.3|09/03/2022|Adição das histórias de usuário relacionadas ao Perfil|[Caio Santos](https://github.com/caiobsantos)|[Lameque Fernandes](https://github.com/lamequefernandes)|
+|0.3|09/03/2022|Adição das histórias de usuário relacionadas ao Perfil|[Caio Santos](https://github.com/caiobsantos)||
+|0.4|09/03/2022|Adição da introdução e referências|[Caio Santos](https://github.com/caiobsantos)||
