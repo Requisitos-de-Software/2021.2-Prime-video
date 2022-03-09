@@ -70,4 +70,4 @@ Vazquez, Carlos E. Engenharia de requisitos software orientado a negocios. Rio d
 |1.0|19/02/2022|Criação do documento sobre a técnica de observação|[Erick Levy](https://github.com/ericklevy)|[Douglas Monteles](https://github.com/douglasmonteles) e [Antonio Igor](https://github.com/antonioigorcarvalho)|
 |1.1|19/02/2022|Correção de erros de português|[Antonio Igor](https://github.com/antonioigorcarvalho)|  [Caio Santos](https://github.com/caiobsantos)|
 |1.2|19/02/2022|Padronização e Correção de erros|[Caio Santos](https://github.com/caiobsantos)| [Erick Levy](https://github.com/ericklevy)|
-|1.3|09/03/2022|Separação dos requisitos funcionais e não funcionais|[Caio Santos](https://github.com/caiobsantos)||
+|1.3|09/03/2022|Separação dos requisitos funcionais e não funcionais|[Caio Santos](https://github.com/caiobsantos)|[Lameque Fernandes](https://github.com/lamequefernandes)|

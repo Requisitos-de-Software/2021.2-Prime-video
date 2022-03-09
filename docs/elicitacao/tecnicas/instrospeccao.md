@@ -71,4 +71,4 @@ SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 07.
 |-|-|-|-|-|
 |1.0|19/02/2022|Criação do documento sobre a técnica de introspecção|[Caio Santos](https://github.com/caiobsantos)|[Antonio Igor](https://github.com/antonioigorcarvalho) e [Lameque Fernandes](https://github.com/lamequefernandes)|
 |1.1|19/02/2022|Pequenas Melhorias|[Caio Santos](https://github.com/caiobsantos)|[Antonio Igor](https://github.com/antonioigorcarvalho) e [Lameque Fernandes](https://github.com/lamequefernandes)|
-|1.2|09/03/2022|Separação dos requisitos funcionais e não funcionais|[Caio Santos](https://github.com/caiobsantos)||
+|1.2|09/03/2022|Separação dos requisitos funcionais e não funcionais|[Caio Santos](https://github.com/caiobsantos)|[Lameque Fernandes](https://github.com/lamequefernandes)|

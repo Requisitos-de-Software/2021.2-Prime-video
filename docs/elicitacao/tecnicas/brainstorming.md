@@ -74,4 +74,4 @@ SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 07.
 |Versão|Data de modificação|Descrição da modificação|Autor| Revisor|
 |-|-|-|-|-|
 |1.0|20/02/2022|Criação do documento sobre a técnica de brainstorming|[Caio Santos](https://github.com/caiobsantos)|[Lameque Fernandes](https://github.com/LamequeFernandes), [Antonio Igor](https://github.com/antonioigorcarvalho), [Douglas Monteles](https://github.com/douglasmonteles) e [Erick Levy](https://github.com/ericklevy)|
-|1.1|09/03/2022|Separação dos requisitos funcionais e não funcionais|[Caio Santos](https://github.com/caiobsantos)||
+|1.1|09/03/2022|Separação dos requisitos funcionais e não funcionais|[Caio Santos](https://github.com/caiobsantos)|[Lameque Fernandes](https://github.com/lamequefernandes)|
