@@ -23,6 +23,8 @@ Para realizar o brainstorming, todos os integrantes do grupo se reuniram e compa
 
 ## 4. Requisitos Levantados
 
+### 4.1 Requisitos Funcionais
+
 | Número | Requisito | Tipo de Requisito |
 |--|--|--|
 |1|O usuario deve conseguir ver quais filmes/series ele assistiu anteriormente|Funcional|
@@ -40,11 +42,23 @@ Para realizar o brainstorming, todos os integrantes do grupo se reuniram e compa
 |13|O usuário deve ser capaz de assistir ao trailer dos títulos|Funcional|
 |14|O usuário deve ser capaz de pular a abertura dos titulos|Funcional|
 |15|O sistema deve ser multiplataforma|Não Funcional|
+
+<center>
+Tabela 1: Requisitos funcionais.
+</center>
+
+### 2.2 Requisitos Não Funcionais
+
+| Número | Requisito | Tipo de Requisito |
+|--|--|--|
 |16|O sistema deve proporcionar uma aba com sugestões para o usuário logado|Não Funcional|
 |17|O sistema deve oferecer a opção de impedir downloads usando dados móveis|Não Funcional|
 |18|O sistema deve manter o tempo de filme ou série já assistido para que o usuário possa continuar assistindo posteriormente|Não Funcional|
 |19|O sistema deve ser responsivo|Não funcional|
 
+<center>
+Tabela 2: Requisitos não funcionais.
+</center>
 
 
 ## 5. Referências 
@@ -59,3 +73,4 @@ SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 07.
 |Versão|Data de modificação|Descrição da modificação|Autor| Revisor|
 |-|-|-|-|-|
 |1.0|20/02/2022|Criação do documento sobre a técnica de brainstorming|[Caio Santos](https://github.com/caiobsantos)|[Lameque Fernandes](https://github.com/LamequeFernandes), [Antonio Igor](https://github.com/antonioigorcarvalho), [Douglas Monteles](https://github.com/douglasmonteles) e [Erick Levy](https://github.com/ericklevy)|
+|1.1|09/03/2022|Separação dos requisitos funcionais e não funcionais|[Caio Santos](https://github.com/caiobsantos)||
