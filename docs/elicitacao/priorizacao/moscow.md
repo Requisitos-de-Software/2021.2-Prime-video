@@ -47,7 +47,7 @@ Para organizar os requisitos por ordem de priorização, será utilizado a técn
 |RF13| O usuario deve conseguir ver quais filmes/series ele assistiu anteriormente |Should|
 |RF14| O usuário deve poder escolher qual temporada assistir de um título |Must|
 |RF15|O usuário deve poder adicionar novos perfis à sua conta|Must|
-|RF16|O usuário deve poder alterar sua foto de perfil|Must|
+|RF16|O usuário deve poder alterar sua foto de perfil|Could|
 |RF17|O usuário deve poder adicionar títulos à sua lista|Must|
 |RF18|O usuário deve ter a opção de realizar uma busca|Must|
 |RF19|O usuário deve poder filtrar a sua busca|Must|
