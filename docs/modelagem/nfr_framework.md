@@ -17,6 +17,71 @@ O NFR Framework explicitam relacionamentos entre os requisitos que, inicialmente
   
 ## 3. NFR Framework
 
+O funcionamento do NFR framework pode ser visualizado em termos da construção, elaboração, análise e revisão incremental e interativa de um gráfico de interdependência de softgoal conhecido como "Softgoal Interdependency Graph (SIG)" (CHUNG et al., 2000).
+
+<table>
+    <thead>
+        <tr>
+            <th>Legenda</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <img width="80" src="../../assets/img/nfr/softgoal.png">
+            </td>
+            <td>Softgoal:  um objetivo que não possui uma clara definição nem critérios de satisfação precisos.</td>
+        </tr>
+        <tr>
+            <td>
+                <img width="80" src="../../assets/img/nfr/softgoal-op.png">
+            </td>
+            <td>Softgoal de Operacionalização: Uma possível solução que satisfaz um softgoal.</td>
+        </tr>
+        <tr>
+            <td>
+                <center>
+                    <span style="font-size:18pt">+</span>
+                </center>
+            </td>
+            <td>HELP(+): Contribuição parcialmente positiva entre um softgoal descendente e um softgoal ascendente.</td>
+        </tr>
+        <tr>
+            <td>
+                <center>
+                    <span style="font-size:18pt">++</span>
+                </center>
+            </td>
+            <td>MAKE(++): fornece uma contribuição suficientemente positiva (MAKE) entre um softgoal descendente e um softgoal ascendente que é concebida no nível mais alto de satisfação</td>
+        </tr>
+        <tr>
+            <td>
+                <img width="80" src="../../assets/img/nfr/contribuicao-and.png">
+            </td>
+            <td>Contribuição AND: determina que se os softgoals descendentes forem satisfeitos os softgoals ascendentes serão satisfeitos.</td>
+        </tr>
+        <tr>
+            <td>
+                <img width="80" src="../../assets/img/nfr/rotulo-satisfeito.png">
+            </td>
+            <td>Satisfeito.</td>
+        </tr>
+        <tr>
+            <td>
+                <img width="80" src="../../assets/img/nfr/rotulo-fracamente-satisfeito.png">
+            </td>
+            <td>Fracamente Satisfeito.</td>
+        </tr>
+        <tr>
+            <td>
+                <img width="80" src="../../assets/img/nfr/rotulo-negado.png">
+            </td>
+            <td>Negado.</td>
+        </tr>
+    </tbody>
+</table>
+
 ## 3.1 Usabilidade
 
 <figure>
@@ -129,14 +194,18 @@ O NFR Framework explicitam relacionamentos entre os requisitos que, inicialmente
     </span>
 </figure>
 
-## Resultado
+## 5. Resultado
 
-## 4. Referências
+<p style="text-align:center">
+    Optamos por utilizar o NFR Framework, pois ele trata os Requisitos não-funcionais (RNF) de uma forma específica além de ser amplamente utilizado pela comunidade acadêmica. Com ele foi possível mapear as interdependecias entre os RNF e os impactos de um sobre os outros, sendo isso tudo possível de ser visualizado graças ao grafo de Interdepêndencia de Softgoal - Softgoal Interdependency Graph (SIG). No mais, vale resaltar que não objetivamos criar um catálogo completo que cubra 100% dos RNF, já que o mesmo está sempre em contante evolução, mas esperamos que este catálogo apresente uma boa cobertura sobre os RNF.
+</p>
+
+## 6. Referências
 CHUNG, L. e NIXON, B., “Using Non-Functional Requirements to Systematically Support Change”, 1995. Acesso em 08 de Março de 2022.<br></br>
 BRITO, Isabel; NFR Framework. jaejaneiro, (2007-2008). Disponível em: <http://jaejaneiro.orgfree.com/engsofnfr.pdf>. Acesso em: 08 de Março 2022.<br></br>
 SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019
 
-## 5. Histórico de Versionamento
+## 7. Histórico de Versionamento
 
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
