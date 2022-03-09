@@ -35,6 +35,7 @@ nav:
     - Especificação Suplementar: modelagem/especificacao-suplementar.md
     - Lexico: modelagem/lexico.md
     - Cenarios: modelagem/cenarios.md
+    - NFR Framework: modelagem/nfr_framework.md
   - Apresentações:
     - Apresentação 1: apresentacoes/apresentacao1.md
     - Apresentação 1: apresentacoes/apresentacao2.md
