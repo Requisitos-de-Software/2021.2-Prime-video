@@ -10,20 +10,19 @@ O Product Backlog ou apenas Backlog, se refere a uma lista de itens desejados pa
 
 | Feature | ID | Rastreabilidade | História de usúario (Eu como usuário gostaria de ...) | Prioridade |
 | ------- | -- | :-------------: | ----------------------------------------------------- | ---------- |
-| Interação | USxx |               | Realizar logout| Must |
-| Interação | USxx |               | Cancelar assinatura de canal| Must |
-| Interação | USxx |               | Cancelar alugamento de documentário| Must  |
-| Interação | USxx |               | Cancelar alugamento de filme| Must |
-| Interação | USxx |               | Cancelar alugamento de série| Must |
-| Interação | USxx |               | Mostrar pedidos| Could |
-| Interação | USxx |               | Mudar método de pagamento | Should |
-| Interação | USxx |               | Olhar as informações da conta| Must |
-| Interação | USxx |               | Realizar login| Must |
-| Interação | USxx |               | Realizar logout| Must |
-| Interação | USxx |               | Renova assinatura de canal| Must |
-| Interação | USxx |               | Renova assinatura de filme| Must |
-| Interação | USxx |               | Renova assinatura de série| Must |
-| Interação | USxx |               | Sair dos dispositivos| Could |
+| Interação | USxx |   RF31    | Cancelar assinatura de canal| Must |
+| Interação | USxx |   RF31    | Cancelar alugamento de documentário| Must  |
+| Interação | USxx |   RF31    | Cancelar alugamento de filme| Must |
+| Interação | USxx |   RF31    | Cancelar alugamento de série| Must |
+| Interação | USxx |   RFXX    | Mostrar pedidos| Could |
+| Interação | USxx |   RFXX    | Mudar método de pagamento | Should |
+| Interação | USxx |   RFXX    | Olhar as informações da conta| Must |
+| Interação | USxx |   RF27    | Realizar login| Must |
+| Interação | USxx |   RF28    | Realizar logout| Must |
+| Interação | USxx |   RF31    | Renova assinatura de canal| Must |
+| Interação | USxx |   RF31    | Renova assinatura de filme| Must |
+| Interação | USxx |   RF31    | Renova assinatura de série| Must |
+| Interação | USxx |   RF33    | Sair dos dispositivos| Could |
 
 
 
