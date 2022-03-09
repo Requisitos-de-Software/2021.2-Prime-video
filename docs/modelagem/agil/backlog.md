@@ -27,7 +27,12 @@
 
 
 ### 2.2 Épico 2 - Perfil
-
+| Feature | ID | Rastreabilidade | História de usúario (Eu como usuário gostaria de ...) | Prioridade |
+| ------- | -- | :-------------: | ----------------------------------------------------- | ---------- | 
+| XX | US15 | RF15 |  Criar um novo perfil à minha conta | Must |
+| XX | US16 | RF16 |  Alterar minha foto de perfil | Could |
+| XX | US17 | RF16 |  Alterar o nome do meu perfil | Could |
+| XX | US18 | RF29 |  Poder excluir um perfil | Must |
 
 ### 2.3 Épico 3 - Conteúdo
 
@@ -72,3 +77,4 @@
 |-|-|-|-|-|
 |0.1|06/03/2022|Estrutura do backlog e Criação do Épico de conteúdo|[Antonio Igor](https://github.com/antonioigorcarvalho) e [Lameque Fernandes](https://github.com/lamequefernandes)||
 |0.2|06/03/2022|Adição da Rastreabilidade na tabela de épico 3|[Lameque Fernandes](https://github.com/lamequefernandes)||
+|0.2|06/03/2022|Adição das histórias de usuário relacionadas ao Perfil|[Caio Santos](https://github.com/caiobsantos)|[Lameque Fernandes](https://github.com/lamequefernandes)|
