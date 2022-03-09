@@ -25,36 +25,37 @@ Para realizar o brainstorming, todos os integrantes do grupo se reuniram e compa
 
 ### 4.1 Requisitos Funcionais
 
-| Número | Requisito | Tipo de Requisito |
-|--|--|--|
-|1|O usuario deve conseguir ver quais filmes/series ele assistiu anteriormente|Funcional|
-|2|O usuário deve conseguir visualizar os termos e aviso de privacidade|Funcional|
-|3|O usuário deve ter a opção de ocultar um título da sua tela inicial|Funcional|
-|4|O usuário deve poder remover títulos da sua lista|Funcional|
-|5|O usuário deve ser capaz de comprar conteúdo extra|Funcional|
-|6|O usuário deve ser capaz de registrar seu feedback sobre titulo|Funcional|
-|7|O usuário deve poder acessar a página de ajuda da plataforma|Funcional|
-|8|O usuário deve ser capaz de passar para o proximo episódio ainda na reprodução do atual|Funcional|
-|9|O usuário deve poder escolher qual episódio assistir de um título|Funcional|
-|10|O usuário deve poder escolher qual temporada assistir de um título|Funcional|
-|11|O usuário deve ser capaz de desabilitar a reprodução automática|Funcional|
-|12|O usuário deve ser capaz de visualizar títulos recomendados|Funcional|
-|13|O usuário deve ser capaz de assistir ao trailer dos títulos|Funcional|
-|14|O usuário deve ser capaz de pular a abertura dos titulos|Funcional|
-|15|O sistema deve ser multiplataforma|Não Funcional|
+| Número | Requisito |
+|--|--|
+|1|O usuario deve conseguir ver quais filmes/series ele assistiu anteriormente|
+|2|O usuário deve conseguir visualizar os termos e aviso de privacidade|
+|3|O usuário deve ter a opção de ocultar um título da sua tela inicial|
+|4|O usuário deve poder remover títulos da sua lista|
+|5|O usuário deve ser capaz de comprar conteúdo extra|
+|6|O usuário deve ser capaz de registrar seu feedback sobre titulo|
+|7|O usuário deve poder acessar a página de ajuda da plataforma|
+|8|O usuário deve ser capaz de passar para o proximo episódio ainda na reprodução do atual|
+|9|O usuário deve poder escolher qual episódio assistir de um título|
+|10|O usuário deve poder escolher qual temporada assistir de um título|
+|11|O usuário deve ser capaz de desabilitar a reprodução automática|
+|12|O usuário deve ser capaz de visualizar títulos recomendados|
+|13|O usuário deve ser capaz de assistir ao trailer dos títulos|
+|14|O usuário deve ser capaz de pular a abertura dos titulos|
+
 
 <center>
 Tabela 1: Requisitos funcionais.
 </center>
 
-### 2.2 Requisitos Não Funcionais
+### 4.2 Requisitos Não Funcionais
 
-| Número | Requisito | Tipo de Requisito |
-|--|--|--|
-|16|O sistema deve proporcionar uma aba com sugestões para o usuário logado|Não Funcional|
-|17|O sistema deve oferecer a opção de impedir downloads usando dados móveis|Não Funcional|
-|18|O sistema deve manter o tempo de filme ou série já assistido para que o usuário possa continuar assistindo posteriormente|Não Funcional|
-|19|O sistema deve ser responsivo|Não funcional|
+| Número | Requisito |
+|--|--|
+|1|O sistema deve proporcionar uma aba com sugestões para o usuário logado|
+|2|O sistema deve oferecer a opção de impedir downloads usando dados móveis|
+|3|O sistema deve manter o tempo de filme ou série já assistido para que o usuário possa continuar assistindo posteriormente|
+|4|O sistema deve ser responsivo|
+|5|O sistema deve ser multiplataforma|
 
 <center>
 Tabela 2: Requisitos não funcionais.

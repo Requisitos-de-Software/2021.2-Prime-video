@@ -23,26 +23,39 @@ A utilização desta técnica foi realizada individualmente por cada participant
 
 ## 4. Requisitos Levantados
 
-| Número | Requisito | Tipo de Requisito |
-|--|--|--|
-|1|O usuário deve poder realizar login na plataforma|Funcional|
-|2|O usuário deve poder realizar logout na plataforma|Funcional|
-|3|O usuário deve poder adicionar novos perfis à sua conta|Funcional|
-|4|O usuário deve poder alterar sua foto de perfil|Funcional|
-|5|O usuário deve poder adicionar títulos à sua lista|Funcional|
-|6|O usuário deve ter a opção de realizar uma busca|Funcional|
-|7|O usuário deve poder filtrar a sua busca|Funcional|
-|8|O usuário deve ter a opção de alterar os meios de pagamento|Funcional|
-|9|O usuário deve ser capaz de baixar os títulos|Funcional|
-|10|O usuário deve ser capaz de escolher o idioma de áudio|Funcional|
-|11|O usuário deve ser capaz de escolher o idioma da legenda|Funcional|
-|12|O usuário deve ser capaz de tirar a legenda|Funcional|
-|13|O usuário deve poder escolher a qualidade do vídeo|Funcional|
-|14|O usuário deve poder usar a opção de tela cheia|Funcional|
-|15|O sistema deve restringir alguns títulos para perfis infantis|Não Funcional|
-|16|O sistema deve possuir a função de reprodução automática|Não Funcional|
+### 4.1 Requisitos Funcionais
 
+| Número | Requisito |
+|--|--|
+|1|O usuário deve poder realizar login na plataforma|
+|2|O usuário deve poder realizar logout na plataforma|
+|3|O usuário deve poder adicionar novos perfis à sua conta|
+|4|O usuário deve poder alterar sua foto de perfil|
+|5|O usuário deve poder adicionar títulos à sua lista|
+|6|O usuário deve ter a opção de realizar uma busca|
+|7|O usuário deve poder filtrar a sua busca|
+|8|O usuário deve ter a opção de alterar os meios de pagamento|
+|9|O usuário deve ser capaz de baixar os títulos|
+|10|O usuário deve ser capaz de escolher o idioma de áudio|
+|11|O usuário deve ser capaz de escolher o idioma da legenda|
+|12|O usuário deve ser capaz de tirar a legenda|
+|13|O usuário deve poder escolher a qualidade do vídeo|
+|14|O usuário deve poder usar a opção de tela cheia|
 
+<center>
+Tabela 1: Requisitos funcionais.
+</center>
+
+### 4.2 Requisitos Não Funcionais
+
+| Número | Requisito |
+|--|--|
+|1|O sistema deve restringir alguns títulos para perfis infantis|
+|2|O sistema deve possuir a função de reprodução automática|
+
+<center>
+Tabela 2: Requisitos não funcionais.
+</center>
 
 ## 5. Referências
 
