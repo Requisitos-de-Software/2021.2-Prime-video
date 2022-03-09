@@ -30,7 +30,7 @@ A utilização desta técnica foi realizada individualmente por cada participant
 |1|O usuário deve poder realizar login na plataforma|
 |2|O usuário deve poder realizar logout na plataforma|
 |3|O usuário deve poder adicionar novos perfis à sua conta|
-|4|O usuário deve poder alterar sua foto de perfil|
+|4|O usuário deve poder editar seu avatar ou nome de perfil|
 |5|O usuário deve poder adicionar títulos à sua lista|
 |6|O usuário deve ter a opção de realizar uma busca|
 |7|O usuário deve poder filtrar a sua busca|
@@ -41,6 +41,7 @@ A utilização desta técnica foi realizada individualmente por cada participant
 |12|O usuário deve ser capaz de tirar a legenda|
 |13|O usuário deve poder escolher a qualidade do vídeo|
 |14|O usuário deve poder usar a opção de tela cheia|
+|15| O usuário deve poder criar um perfil infantil |Introspecção|
 
 <center>
 Tabela 1: Requisitos funcionais.
