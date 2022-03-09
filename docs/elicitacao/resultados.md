@@ -27,7 +27,7 @@ O objetivo desse documento é reunir todos os requisitos levantados pelo grupo d
 |RF13| O usuario deve conseguir ver quais filmes/series ele assistiu anteriormente |Brainstorm|
 |RF14| O usuário deve poder escolher qual temporada assistir de um título |Brainstorm|
 |RF15|O usuário deve poder adicionar novos perfis à sua conta|Instrospecção|
-|RF16|O usuário deve poder alterar sua foto de perfil|Instrospecção|
+|RF16|O usuário deve poder editar seu avatar ou nome de perfil|Instrospecção|
 |RF17|O usuário deve poder adicionar títulos à sua lista|Instrospecção|
 |RF18|O usuário deve ter a opção de realizar uma busca|Instrospecção|
 |RF19|O usuário deve poder filtrar a sua busca|Instrospecção|
@@ -50,6 +50,7 @@ O objetivo desse documento é reunir todos os requisitos levantados pelo grupo d
 |RF36| O usuário pode diminuir o consumo de dados|Observação|
 |RF37| O usuário pode ver detalhes da obra |Observação|
 |RF38| O usuário deve conseguir acessar um título pelo nome completo ou apenas parte dele |Observação|
+|RF39| O usuário deve poder criar um perfil infantil |Introspecção|
 
 <center>
 Tabela 1: Requisitos funcionais.
@@ -79,3 +80,4 @@ Tabela 2: Requisitos não funcionais.
 |-|-|-|-|-|
 |1.0|19/02/2022|Criação do documento de resultados da elicitação de requisitos|[Antonio Igor](https://github.com/antonioigorcarvalho)|[Caio Santos](https://github.com/caiobsantos), [Lameque Fernandes](https://github.com/lamequefernandes), [Erick Levy](https://github.com/ericklevy) e [Douglas Monteles](https://github.com/douglasmonteles)|
 |1.1|20/02/2022|Adição de requisitos|[Lameque Fernandes](https://github.com/lamequefernandes)|[Antonio Igor](https://github.com/antonioigorcarvalho), [Douglas Monteles](https://github.com/douglasmonteles) e [Erick Levy](https://github.com/ericklevy)|
+|1.2|20/02/2022|Adição de mais alguns requisitos|[Caio Santos](https://github.com/caiobsantos)|[Lameque Fernandes](https://github.com/lamequefernandes)|
