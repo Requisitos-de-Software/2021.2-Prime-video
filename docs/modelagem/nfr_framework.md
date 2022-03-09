@@ -19,13 +19,115 @@ O NFR Framework explicitam relacionamentos entre os requisitos que, inicialmente
 
 ## 3.1 Usabilidade
 
+<figure>
+    <img 
+        src="../../assets/img/nfr/usabilidade-sem-propagacao.png" alt="usabilidade-sem-propagacao"
+    >
+    <figcaption>Figura 1: NFR - Usabilidade sem propagação</figcatpion>
+    <br/>
+    <span>
+        <a href="../../assets/img/nfr/usabilidade-sem-propagacao.png">
+            Ampliar visualização
+        </a>
+    </span>
+</figure>
+
+<figure>
+    <img 
+        src="../../assets/img/nfr/usabilidade-com-propagacao.png" alt="usabilidade-com-propagacao"
+    >
+    <figcaption>Figura 2: NFR - Usabilidade com propagação</figcatpion>
+    <br/>
+    <span>
+        <a href="../../assets/img/nfr/usabilidade-com-propagacao.png">
+            Ampliar visualização
+        </a>
+    </span>
+</figure>
+
 ## 3.2 Portabilidade
+
+<figure>
+    <img 
+        src="../../assets/img/nfr/portabilidade-sem-propagacao.png" alt="portabilidade-sem-propagacao"
+    >
+    <figcaption>Figura 3: NFR - Portabilidade sem propagação</figcatpion>
+    <br/>
+    <span>
+        <a href="../../assets/img/nfr/portabilidade-sem-propagacao.png">
+            Ampliar visualização
+        </a>
+    </span>
+</figure>
+
+<figure>
+    <img 
+        src="../../assets/img/nfr/portabilidade-com-propagacao.png" alt="portabilidade-com-propagacao"
+    >
+    <figcaption>Figura 4: NFR - Portabilidade com propagação</figcatpion>
+    <br/>
+    <span>
+        <a href="../../assets/img/nfr/portabilidade-com-propagacao.png">
+            Ampliar visualização
+        </a>
+    </span>
+</figure>
 
 ## 3.3 Disponibilidade
 
+<figure>
+    <img 
+        src="../../assets/img/nfr/disponibilidade-sem-propagacao.png" alt="disponibilidade-sem-propagacao"
+    >
+    <figcaption>Figura 5: NFR - Disponibilidade sem propagação</figcatpion>
+    <br/>
+    <span>
+        <a href="../../assets/img/nfr/disponibilidade-sem-propagacao.png">
+            Ampliar visualização
+        </a>
+    </span>
+</figure>
+
+<figure>
+    <img 
+        src="../../assets/img/nfr/disponibilidade-com-propagacao.png" alt="disponibilidade-com-propagacao"
+    >
+    <figcaption>Figura 6: NFR - Disponibilidade com propagação</figcatpion>
+    <br/>
+    <span>
+        <a href="../../assets/img/nfr/disponibilidade-com-propagacao.png">
+            Ampliar visualização
+        </a>
+    </span>
+</figure>
+
 ## 3.4 Desempenho
 
-## 3.5 Geral
+<figure>
+    <img 
+        src="../../assets/img/nfr/desempenho-sem-propagacao.png" alt="desempenho-sem-propagacao"
+    >
+    <figcaption>Figura 7: NFR - Desempenho sem propagação</figcatpion>
+    <br/>
+    <span>
+        <a href="../../assets/img/nfr/desempenho-sem-propagacao.png">
+            Ampliar visualização
+        </a>
+    </span>
+</figure>
+
+<figure>
+    <img 
+        src="../../assets/img/nfr/desempenho-com-propagacao.png" alt="desempenho-sem-propagacao"
+    >
+    <figcaption>Figura 8: NFR - Desempenho com propagação</figcatpion>
+    <br/>
+    <span>
+        <a href="../../assets/img/nfr/desempenho-com-propagacao.png">
+            Ampliar visualização
+        </a>
+    </span>
+</figure>
 
 ## Resultado
 
