@@ -80,4 +80,4 @@ Tabela 2: Requisitos não funcionais.
 |-|-|-|-|-|
 |1.0|19/02/2022|Criação do documento de resultados da elicitação de requisitos|[Antonio Igor](https://github.com/antonioigorcarvalho)|[Caio Santos](https://github.com/caiobsantos), [Lameque Fernandes](https://github.com/lamequefernandes), [Erick Levy](https://github.com/ericklevy) e [Douglas Monteles](https://github.com/douglasmonteles)|
 |1.1|20/02/2022|Adição de requisitos|[Lameque Fernandes](https://github.com/lamequefernandes)|[Antonio Igor](https://github.com/antonioigorcarvalho), [Douglas Monteles](https://github.com/douglasmonteles) e [Erick Levy](https://github.com/ericklevy)|
-|1.2|20/02/2022|Adição de mais alguns requisitos|[Caio Santos](https://github.com/caiobsantos)|[Lameque Fernandes](https://github.com/lamequefernandes)|
+|1.2|09/03/2022|Adição de mais alguns requisitos|[Caio Santos](https://github.com/caiobsantos)|[Lameque Fernandes](https://github.com/lamequefernandes)|
