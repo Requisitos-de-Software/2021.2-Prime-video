@@ -70,6 +70,7 @@ Para organizar os requisitos por ordem de priorização, será utilizado a técn
 |RF36| O usuário pode diminuir o consumo de dados|Should|
 |RF37| O usuário pode ver detalhes da obra |Should|
 |RF38| O usuário deve conseguir acessar um título pelo nome completo ou apenas parte dele |Must|
+|RF39| O usuário deve poder criar um perfil infantil |Must|
 
 <center>
 Tabela 1: Requisitos funcionais.
