@@ -77,4 +77,4 @@
 |-|-|-|-|-|
 |0.1|06/03/2022|Estrutura do backlog e Criação do Épico de conteúdo|[Antonio Igor](https://github.com/antonioigorcarvalho) e [Lameque Fernandes](https://github.com/lamequefernandes)||
 |0.2|06/03/2022|Adição da Rastreabilidade na tabela de épico 3|[Lameque Fernandes](https://github.com/lamequefernandes)||
-|0.2|06/03/2022|Adição das histórias de usuário relacionadas ao Perfil|[Caio Santos](https://github.com/caiobsantos)|[Lameque Fernandes](https://github.com/lamequefernandes)|
+|0.3|09/03/2022|Adição das histórias de usuário relacionadas ao Perfil|[Caio Santos](https://github.com/caiobsantos)|[Lameque Fernandes](https://github.com/lamequefernandes)|
