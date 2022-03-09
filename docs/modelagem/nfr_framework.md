@@ -86,12 +86,12 @@ O funcionamento do NFR framework pode ser visualizado em termos da construção,
 
 <figure>
     <img 
-        src="../../assets/img/nfr/usabilidade-sem-propagacao.png" alt="usabilidade-sem-propagacao"
+        src="../../assets/img/nfr/Usabilidade-sem-propagacao.png" alt="usabilidade-sem-propagacao"
     >
     <figcaption>Figura 1: NFR - Usabilidade sem propagação</figcatpion>
     <br/>
     <span>
-        <a href="../../assets/img/nfr/usabilidade-sem-propagacao.png">
+        <a href="../../assets/img/nfr/Usabilidade-sem-propagacao.png">
             Ampliar visualização
         </a>
     </span>
@@ -99,12 +99,12 @@ O funcionamento do NFR framework pode ser visualizado em termos da construção,
 
 <figure>
     <img 
-        src="../../assets/img/nfr/usabilidade-com-propagacao.png" alt="usabilidade-com-propagacao"
+        src="../../assets/img/nfr/Usabilidade-com-propagacao.png" alt="usabilidade-com-propagacao"
     >
     <figcaption>Figura 2: NFR - Usabilidade com propagação</figcatpion>
     <br/>
     <span>
-        <a href="../../assets/img/nfr/usabilidade-com-propagacao.png">
+        <a href="../../assets/img/nfr/Usabilidade-com-propagacao.png">
             Ampliar visualização
         </a>
     </span>
@@ -114,12 +114,12 @@ O funcionamento do NFR framework pode ser visualizado em termos da construção,
 
 <figure>
     <img 
-        src="../../assets/img/nfr/portabilidade-sem-propagacao.png" alt="portabilidade-sem-propagacao"
+        src="../../assets/img/nfr/Portabilidade-sem-propagacao.png" alt="portabilidade-sem-propagacao"
     >
     <figcaption>Figura 3: NFR - Portabilidade sem propagação</figcatpion>
     <br/>
     <span>
-        <a href="../../assets/img/nfr/portabilidade-sem-propagacao.png">
+        <a href="../../assets/img/nfr/Portabilidade-sem-propagacao.png">
             Ampliar visualização
         </a>
     </span>
@@ -127,12 +127,12 @@ O funcionamento do NFR framework pode ser visualizado em termos da construção,
 
 <figure>
     <img 
-        src="../../assets/img/nfr/portabilidade-com-propagacao.png" alt="portabilidade-com-propagacao"
+        src="../../assets/img/nfr/Portabilidade-com-propagacao.png" alt="portabilidade-com-propagacao"
     >
     <figcaption>Figura 4: NFR - Portabilidade com propagação</figcatpion>
     <br/>
     <span>
-        <a href="../../assets/img/nfr/portabilidade-com-propagacao.png">
+        <a href="../../assets/img/nfr/Portabilidade-com-propagacao.png">
             Ampliar visualização
         </a>
     </span>
@@ -142,12 +142,12 @@ O funcionamento do NFR framework pode ser visualizado em termos da construção,
 
 <figure>
     <img 
-        src="../../assets/img/nfr/disponibilidade-sem-propagacao.png" alt="disponibilidade-sem-propagacao"
+        src="../../assets/img/nfr/Disponibilidade-sem-propagacao.png" alt="disponibilidade-sem-propagacao"
     >
     <figcaption>Figura 5: NFR - Disponibilidade sem propagação</figcatpion>
     <br/>
     <span>
-        <a href="../../assets/img/nfr/disponibilidade-sem-propagacao.png">
+        <a href="../../assets/img/nfr/Disponibilidade-sem-propagacao.png">
             Ampliar visualização
         </a>
     </span>
@@ -155,12 +155,12 @@ O funcionamento do NFR framework pode ser visualizado em termos da construção,
 
 <figure>
     <img 
-        src="../../assets/img/nfr/disponibilidade-com-propagacao.png" alt="disponibilidade-com-propagacao"
+        src="../../assets/img/nfr/Disponibilidade-com-propagacao.png" alt="disponibilidade-com-propagacao"
     >
     <figcaption>Figura 6: NFR - Disponibilidade com propagação</figcatpion>
     <br/>
     <span>
-        <a href="../../assets/img/nfr/disponibilidade-com-propagacao.png">
+        <a href="../../assets/img/nfr/Disponibilidade-com-propagacao.png">
             Ampliar visualização
         </a>
     </span>
@@ -170,12 +170,12 @@ O funcionamento do NFR framework pode ser visualizado em termos da construção,
 
 <figure>
     <img 
-        src="../../assets/img/nfr/desempenho-sem-propagacao.png" alt="desempenho-sem-propagacao"
+        src="../../assets/img/nfr/Desempenho-sem-propagacao.png" alt="desempenho-sem-propagacao"
     >
     <figcaption>Figura 7: NFR - Desempenho sem propagação</figcatpion>
     <br/>
     <span>
-        <a href="../../assets/img/nfr/desempenho-sem-propagacao.png">
+        <a href="../../assets/img/nfr/Desempenho-sem-propagacao.png">
             Ampliar visualização
         </a>
     </span>
@@ -183,12 +183,12 @@ O funcionamento do NFR framework pode ser visualizado em termos da construção,
 
 <figure>
     <img 
-        src="../../assets/img/nfr/desempenho-com-propagacao.png" alt="desempenho-sem-propagacao"
+        src="../../assets/img/nfr/Desempenho-com-propagacao.png" alt="desempenho-sem-propagacao"
     >
     <figcaption>Figura 8: NFR - Desempenho com propagação</figcatpion>
     <br/>
     <span>
-        <a href="../../assets/img/nfr/desempenho-com-propagacao.png">
+        <a href="../../assets/img/nfr/Desempenho-com-propagacao.png">
             Ampliar visualização
         </a>
     </span>
