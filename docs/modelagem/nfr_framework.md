@@ -7,7 +7,7 @@
 O NFR Framework explicitam relacionamentos entre os requisitos que, inicialmente, não eram observados, para obter prioridades entre os requisitos e assim fornecem informações/dados importantes sobre possíveis problemas/conflitos de adaptação e integração do sistema, incluindo restrições na arquitetura (usabilidade, portabilidade e disponibilidade) e no próprio projeto (custo e tempo).
   </p>
   <p align='justify'>
-    &emsp;Seu objetivo é ajudar desenvolvedores na implementação de soluções personalizadas, levando em consideração as características do domínio e do sistema em questão. Tais características incluem Requisitos Não-funcionais, Requisitos funcionais, prioridades e carga de trabalho. Esses fatores determinam a escolha de alternativas de desenvolvimento para um determinado sistema.(SILVA, 2019, p. 30).
+    &emsp;Seu objetivo é ajudar desenvolvedores na implementação de soluções personalizadas, levando em consideração as características do domínio e do sistema em questão. Tais características incluem Requisitos Não-funcionais, prioridades e carga de trabalho. Esses fatores determinam a escolha de alternativas de desenvolvimento para um determinado sistema.(SILVA, 2019, p. 30).
 </p>
 
 ## 2. Metodologia
