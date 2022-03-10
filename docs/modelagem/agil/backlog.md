@@ -4,6 +4,15 @@
 O Product Backlog ou apenas Backlog, se refere a uma lista de itens desejados para dar vida a um produto. Esta lista contém funcionalidades, requisitos e restrições organizados por prioridade, de forma que os itens com prioridade mais alta, sejam realizados primeiro. O Product Backlog não precisa estar completo desde o início do projeto e pode ser refinado e reorganizado com o tempo, conforme se aprende mais sobre o produto e seus usuários.
 
 ## 2. Épicos
+
+Um Épico pode ser definido como uma coleção de histórias de usuário que ainda não foram refinadas ou divididas, representando assim uma grande parte a ser realizada no produto. O escopo do nosso projeto foi dividido em três épicos:
+
+- Conta
+
+- Perfil
+
+- Conteúdo
+
 ### 2.1 Épico 1 - Conta
 
 | ID | Rastreabilidade | História de usúario (Eu como usuário gostaria de ...) | Prioridade |
@@ -77,7 +86,8 @@ Epic, Feature e User Story (Epico, Funcionalidade e História de Usuário). Disp
 
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
-|0.1|06/03/2022|Estrutura do backlog e Criação do Épico de conteúdo|[Antonio Igor](https://github.com/antonioigorcarvalho) e [Lameque Fernandes](https://github.com/lamequefernandes)||
-|0.2|06/03/2022|Adição da Rastreabilidade na tabela de épico 3|[Lameque Fernandes](https://github.com/lamequefernandes)||
-|0.3|09/03/2022|Adição das histórias de usuário relacionadas ao Perfil|[Caio Santos](https://github.com/caiobsantos)||
-|0.4|09/03/2022|Adição da introdução e referências|[Caio Santos](https://github.com/caiobsantos)||
+|1.0|06/03/2022|Estrutura do backlog e Criação do Épico de conteúdo|[Antonio Igor](https://github.com/antonioigorcarvalho) e [Lameque Fernandes](https://github.com/lamequefernandes)||
+|1.1|06/03/2022|Adição da Rastreabilidade na tabela de épico 3|[Lameque Fernandes](https://github.com/lamequefernandes)||
+|1.2|09/03/2022|Adição das histórias de usuário relacionadas ao Perfil|[Caio Santos](https://github.com/caiobsantos)||
+|1.3|09/03/2022|Adição da introdução e referências|[Caio Santos](https://github.com/caiobsantos)||
+|1.4|09/03/2022|Adição da definição dos épicos|[Caio Santos](https://github.com/caiobsantos)||
