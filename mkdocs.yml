@@ -36,9 +36,13 @@ nav:
     - Lexico: modelagem/lexico.md
     - Cenarios: modelagem/cenarios.md
     - NFR Framework: modelagem/nfr_framework.md
+    - Ágil:
+      - Backlog do Produto: modelagem/agil/backlog.md
+      - Histórias de usuário: modelagem/agil/user_story.md
   - Apresentações:
     - Apresentação 1: apresentacoes/apresentacao1.md
-    - Apresentação 1: apresentacoes/apresentacao2.md
-    - Apresentação 1: apresentacoes/apresentacao3.md
+    - Apresentação 2: apresentacoes/apresentacao2.md
+    - Apresentação 3: apresentacoes/apresentacao3.md
+    - Apresentação 4: apresentacoes/apresentacao3.md
 extra_css:
   - stylesheets/styles.css
