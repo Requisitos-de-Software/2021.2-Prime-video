@@ -86,8 +86,9 @@ Epic, Feature e User Story (Epico, Funcionalidade e História de Usuário). Disp
 
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
-|1.0|06/03/2022|Estrutura do backlog e Criação do Épico de conteúdo|[Antonio Igor](https://github.com/antonioigorcarvalho) e [Lameque Fernandes](https://github.com/lamequefernandes)||
-|1.1|06/03/2022|Adição da Rastreabilidade na tabela de épico 3|[Lameque Fernandes](https://github.com/lamequefernandes)||
-|1.2|09/03/2022|Adição das histórias de usuário relacionadas ao Perfil|[Caio Santos](https://github.com/caiobsantos)||
-|1.3|09/03/2022|Adição da introdução e referências|[Caio Santos](https://github.com/caiobsantos)||
-|1.4|09/03/2022|Adição da definição dos épicos|[Caio Santos](https://github.com/caiobsantos)||
+|1.0|06/03/2022|Estrutura do backlog e Criação do Épico de conteúdo|[Antonio Igor](https://github.com/antonioigorcarvalho) e [Lameque Fernandes](https://github.com/lamequefernandes)| [Caio Santos](https://github.com/caiobsantos) |
+|1.1|06/03/2022|Adição da Rastreabilidade na tabela de épico 3|[Lameque Fernandes](https://github.com/lamequefernandes)| [Caio Santos](https://github.com/caiobsantos) |
+|1.2|09/03/2022|Adição das histórias de usuário relacionadas ao Perfil|[Caio Santos](https://github.com/caiobsantos)| [Erick Levy](https://github.com/ericklevy) |
+|1.3|09/03/2022|Adição da introdução e referências|[Caio Santos](https://github.com/caiobsantos)| [Antonio Igor](https://github.com/antonioigorcarvalho) |
+|1.4|09/03/2022|Adição da definição dos épicos|[Caio Santos](https://github.com/caiobsantos)| [Lameque Fernandes](https://github.com/lamequefernandes) |
+|1.5|09/03/2022|Adição das histórias de usuário relacionadas a conta |[Erick Levy](https://github.com/ericklevy)| [Caio Santos](https://github.com/caiobsantos) |
