@@ -207,4 +207,4 @@ SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais 
 
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
-|1.0|07/03/2022|Criação do documento do NFR Framework|[Douglas Monteles](https://github.com/douglasmonteles) e [Sávio Cunha](https://github.com/savioc2)||
+|1.0|07/03/2022|Criação do documento do NFR Framework|[Douglas Monteles](https://github.com/douglasmonteles) e [Sávio Cunha](https://github.com/savioc2)| [Erick Levy](https://github.com/ericklevy) |

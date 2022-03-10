@@ -61,6 +61,15 @@ Com base nos prazos estipulados pela disciplida e disponibilidade dos integrante
 | Criação do documento de especificação suplementar  | [Douglas Monteles](https://github.com/douglasmonteles) | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Lameque Fernandes](https://github.com/lamequefernandes) | 04/mar           |
 | Gravação da apresentação 3  | Todos         | Todos           | 06/mar           |
 
+### Sprint 4
+
+| Tarefas         | Responsável   | Revisor         | Entrega Prevista |
+| --------------- | ------------- | --------------- | ---------------- |
+| Criação do documento de histórias de usuário | [Antonio Igor](https://github.com/antonioigorcarvalho), [Erick Levy](https://github.com/ericklevy) e [Lameque Fernandes](https://github.com/lamequefernandes) | [Caio Santos](https://github.com/caiobsantos) e [Douglas Monteles](https://github.com/douglasmonteles) | 08/mar |
+| Criação do documento de backlog |  [Antonio Igor](https://github.com/antonioigorcarvalho), [Caio Santos](https://github.com/caiobsantos), [Erick Levy](https://github.com/ericklevy) e [Lameque Fernandes](https://github.com/lamequefernandes) | [Douglas Monteles](https://github.com/douglasmonteles) | 08/mar |
+| Criação do documento NFR Framework | [Douglas Monteles](https://github.com/douglasmonteles) e [Sávio Cunha](https://github.com/savioc2)  | [Erick Levy](https://github.com/ericklevy) | 08/mar  |
+| Gravação da apresentação 4  | Todos         | Todos           | 09/mar           |
+
 ## 4. Heatmap
 
 Com base nos horários de todos os membros, construímos um heatmap (ou mapa de calor)  para nos organizarmos durante as sprints.
@@ -89,3 +98,4 @@ Plano de ensino da matéria. Disponível em: <https://aprender3.unb.br/pluginfil
 |1.1.1|20/02/2022| Adicionando o link no nome dos responsáveis |[Douglas Monteles](https://github.com/douglasmonteles)|[Sávio Cunha](https://github.com/savioc2)|
 |1.2|20/02/2022| Adicionado descrição no heatmap |[Lameque Fernandes](https://github.com/lamequefernandes)|[Antonio Igor](https://github.com/antonioigorcarvalho)|
 |1.3|08/03/2022| Criação da tabela da sprint 3 | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy) |
+|1.3|10/03/2022| Criação da tabela da sprint 4 | [Antonio Igor](https://github.com/antonioigorcarvalho) | - |
