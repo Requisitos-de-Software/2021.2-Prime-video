@@ -13,7 +13,7 @@ Cada História contém suas regras e validações.
 |:-------|:---------|
 | US01 | Cancelar assinatura de canal |
 | Descrição | Eu como usuário desejo Cancelar minha assinatura do canal  |
-| Critérios de Aceitação | Deve conter as seguintes opção </br> > Cancelar canal </br> >  |
+| Critérios de Aceitação | Deve conter as seguintes opção </br> > Cancelar canal </br>  |
 
 | **ID** | **Nome** |
 |:-------|:---------|
