@@ -13,4 +13,4 @@
 
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
-|1.0|05/03/2022|Adição da terceira apresentação no github pages|[Lameque Fernandes](https://github.com/lamequefernandes)| - |
+|1.0|05/03/2022|Adição da terceira apresentação no github pages|[Lameque Fernandes](https://github.com/lamequefernandes)| [Antonio Igor](https://github.com/antonioigorcarvalho) |
