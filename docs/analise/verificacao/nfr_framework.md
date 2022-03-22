@@ -117,4 +117,4 @@
 
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
-|1.0|21/03/2022|Criação do documento de análise do NFR Framework|[Douglas Monteles](https://github.com/douglasmonteles)| a definir |
+|1.0|21/03/2022|Criação do documento de análise do NFR Framework|[Douglas Monteles](https://github.com/douglasmonteles)| [Caio Santos](https://github.com/caiobsantos) |
