@@ -12,7 +12,7 @@
   Por meio da técnica de inspeção, que centram-se principalmente no código-fonte de um sistema, mas qualquer representação legível do software, como seus requisitos ou modelo de projeto, pode ser inspecionada (Sommerville, 2011), fizemos uma marcação nos itens que o documento de NFR Framework atende ou não.
 </p>
   
-## 3. NFR Framework
+## 3. Checklists
 
 <p align='justify'>
   Abaixo estão as tabelas referentes aos quesitos que foram levados em conta durante a avaliação do documento NFR Framework. 
