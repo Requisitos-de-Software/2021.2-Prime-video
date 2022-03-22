@@ -175,3 +175,15 @@ Através de alguns critérios definidos por meio da técnica de inspeção, os e
 |   7    | A avaliação descreve um comportamento que garante o cumprimento do objetivo? |    ✔     |
 |   8    |                O planejamento induz a realização do objetivo?                |    ✔     |
 |   9    |                Os eventos estão dispostos da forma proposta?                 |    ✔     |
+
+
+## 4. Referências
+
+Reinehr, Sheila Engenharia de Requisitos, Editora: Grupo A Selo: Sagah. 1ª edição. 2020.
+
+
+## 5. Histórico de Versionamento
+
+|Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
+|-|-|-|-|-|
+|1.0|22/03/2022|Criação do documento de verificação dos cenários|[Caio Santos](https://github.com/caiobsantos)||
