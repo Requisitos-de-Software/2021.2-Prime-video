@@ -419,7 +419,7 @@
 
 <table>
         <tr>
-            <th colspan="2" style="text-align:center">Altera Idiomas</th>
+            <th colspan="2" style="text-align:center">Alterar Idiomas</th>
         </tr>
          <tr>
             <td>Contexto</td>
