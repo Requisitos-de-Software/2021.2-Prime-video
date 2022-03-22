@@ -37,6 +37,7 @@
   <figcaption>Fonte: Próprio autor</figcaption>
 </figure>
 <br>
+<br>
 <figure>
   <figcaption>Tabela 2: Quesitos analisados</figcaption>
   <table>
