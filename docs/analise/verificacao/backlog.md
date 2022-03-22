@@ -25,21 +25,24 @@
       <tr>
         <th align="center">Quesito satisfeito</th>
         <th align="center">Quesito não satisfeito</th>
+        <th align="center">US</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td align="center">✔️</td>
         <td align="center">❌</td>
+        <td align="center">User Story (História de Usuário)</td>
       </tr>
     </tbody>
   </table>
   <figcaption>Fonte: Próprio autor</figcaption>
 </figure>
-<br>
-<br>
+
+<br><br>
+
 <figure>
-  <figcaption>Tabela 2: Quesitos analisados</figcaption>
+  <figcaption>Tabela 2: US01 Cancelar assinatura de canal</figcaption>
   <table>
     <thead>
       <tr>
@@ -51,52 +54,32 @@
     <tbody>
       <tr>
         <td align="center">1</td>
-        <td align="center">Documento possui rastreabilidade/versionamento?</td>
+        <td align="center">Documento contém as informações necessárias?</td>
         <td align="center">✔️</td>
       </tr>
       <tr>
         <td align="center">2</td>
-        <td align="center">Os softgoals estão descritos de forma clara?</td>
+        <td align="center">Os artefatos estão descritos de forma clara e objetiva?</td>
         <td align="center">✔️</td>
       </tr>
       <tr>
         <td align="center">3</td>
-        <td align="center">Os softgoals retratam corretamente o contexto?</td>
+        <td align="center">Documento utiliza uma linguagem clara e sem erros ortográficos?</td>
         <td align="center">✔️</td>
       </tr>
       <tr>
         <td align="center">4</td>
-        <td align="center">Os softgoals estão descritos de forma clara?</td>
+        <td align="center">A associação deste US ao Épico está correta?</td>
         <td align="center">✔️</td>
       </tr>
       <tr>
         <td align="center">5</td>
-        <td align="center">Os diagramas possuem legendas claras e objetivas?</td>
+        <td align="center">A associação deste US a sua rastreabilidade (quando definida) está coerente?</td>
         <td align="center">✔️</td>
       </tr>
       <tr>
         <td align="center">6</td>
-        <td align="center">Os diagramas condizem com os requisitos não-funcionais?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">7</td>
-        <td align="center">O documento possui link para outras páginas?</td>
-        <td align="center">❌</td>
-      </tr>
-      <tr>
-        <td align="center">8</td>
-        <td align="center">Os diagramas condizem com os requisitos não-funcionais?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">9</td>
-        <td align="center">Os operadores do diagrama foram empregados da forma correta?</td>
-        <td align="center">✔️</td>
-      </tr>
-       <tr>
-        <td align="center">10</td>
-        <td align="center">Os elementos do diagrama foram respeitam suas respectivas designações?</td>
+        <td align="center">O ator associado está de fato coerente a US?</td>
         <td align="center">✔️</td>
       </tr>
     </tbody>
