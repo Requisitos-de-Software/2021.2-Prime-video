@@ -24,7 +24,7 @@
     <thead>
       <tr>
         <th align="center">Quesito satisfeito</th>
-        <th align="center">Quesito não safisfeito</th>
+        <th align="center">Quesito não satisfeito</th>
       </tr>
     </thead>
     <tbody>
@@ -50,7 +50,7 @@
     <tbody>
       <tr>
         <td align="center">1</td>
-        <td align="center">Documento possui restrabilidade/versionamento?</td>
+        <td align="center">Documento possui rastreabilidade/versionamento?</td>
         <td align="center">✔️</td>
       </tr>
       <tr>
@@ -70,7 +70,7 @@
       </tr>
       <tr>
         <td align="center">5</td>
-        <td align="center">Os diagramas possuem legenda claras e objetivas?</td>
+        <td align="center">Os diagramas possuem legendas claras e objetivas?</td>
         <td align="center">✔️</td>
       </tr>
       <tr>
@@ -90,11 +90,11 @@
       </tr>
       <tr>
         <td align="center">9</td>
-        <td align="center">Os operadores foram impregados da forma correta?</td>
+        <td align="center">Os operadores do diagrama foram empregados da forma correta?</td>
         <td align="center">✔️</td>
       </tr>
        <tr>
-        <td align="center">9</td>
+        <td align="center">10</td>
         <td align="center">Os elementos do diagrama foram respeitam suas respectivas designações?</td>
         <td align="center">✔️</td>
       </tr>
