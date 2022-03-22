@@ -11,6 +11,22 @@
 
 ## 2. Metodologia
 
+<p align='justify'>
+    Para realizar a etapa de verificação, cada artefato do projeto será inspecionado separadamente por um participante da equipe. O método utilizado será o de inspeção com o auxílio de checklists para verificação dos artefatos, com o objetivo de avaliar se o sistema cumpre o esperado.
+</p>
+
+<p align='justify'>
+    Os seguintes artefatos serão analisados pelos membros da equipe:
+</p>
+
+| Artefato             | Membro(s)          |
+| :------------------: | :-----------------: |
+| [Backlog]()          | [Douglas Monteles](https://github.com/douglasmonteles), [Lameque Fernandes](https://github.com/lamequefernandes) e [Sávio Cunha](https://github.com/savioc2)|
+| [Casos de Uso]()             | [Lameque Fernandes](https://github.com/lamequefernandes)           |
+| [Cenários]()             | [Caio Santos](https://github.com/caiobsantos)           |
+| [Léxicos]()            | [Erick Levy](https://github.com/ericklevy)           |
+| [NFR Framework]()             | [Douglas Monteles](https://github.com/douglasmonteles)          |
+| [Rich Picture]()             | [Sávio Cunha](https://github.com/savioc2)          |
 
 
 ## 3. Referências
@@ -22,3 +38,5 @@ Reinehr, Sheila Engenharia de Requisitos, Editora: Grupo A Selo: Sagah. 1ª edi�
 
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
+|0.1|21/03/2022|Criação do documento de verificação|[Caio Santos](https://github.com/caiobsantos)||
+|0.2|22/03/2022|Adição da metodologia|[Caio Santos](https://github.com/caiobsantos)||
