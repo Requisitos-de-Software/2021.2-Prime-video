@@ -34,11 +34,11 @@
       </tr>
     </tbody>
   </table>
-  <figcaption>Fonte: </figcaption>
+  <figcaption>Fonte: Próprio autor</figcaption>
 </figure>
 
 <figure>
-  <figcaption>Tabela 2: </figcaption>
+  <figcaption>Tabela 2: Quesitos analisados</figcaption>
   <table>
     <thead>
       <tr>
@@ -100,7 +100,7 @@
       </tr>
     </tbody>
   </table>
-  <figcaption>Fonte: </figcaption>
+  <figcaption>Fonte: Próprio autor</figcaption>
 </figure>
 
 ## 4. Resultado
