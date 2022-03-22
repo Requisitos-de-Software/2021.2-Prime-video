@@ -106,7 +106,7 @@
 ## 4. Resultado
 
 <p align='justify'>
-  
+  Conforme a análise feita acima, o documento que trata do NFR Framework está de acordo com o esperado. Apesar de não possuir links que o conecte com outras páginas, isso não se configura como quesito suficiente para inviabilizar o documento.
 </p>
 
 ## 5. Referências
