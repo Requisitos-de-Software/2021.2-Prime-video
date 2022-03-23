@@ -360,21 +360,21 @@
 
 | **ID** | **Nome** |
 |:-------|:---------|
-| US44 | Comprar conteúdo extra |
+| US50 | Comprar conteúdo extra |
 | Descrição | Eu, como usuário, desejo comprar conteúdo extra  |
-| Critérios  de Aceitação | Deve conter as seguintes opções: </br> > O usuário deve ter a sua disposição uma lista com os conteúdos extras disponíveis para a compra. </br> > O usuário deve ser capaz de comprar o conteúdo extra para a sua conta. |
+| Critérios  de Aceitação | Deve conter as seguintes opções: </br> - O usuário deve ter a sua disposição uma lista com os conteúdos extras disponíveis para a compra. </br> - O usuário deve ser capaz de comprar o conteúdo extra para a sua conta. |
 
 | **ID** | **Nome** |
 |:-------|:---------|
-| US45 | Alugar conteúdo extra |
+| US51 | Alugar conteúdo extra |
 | Descrição | Eu, como usuário, desejo alugar conteúdo extra  |
-| Critérios  de Aceitação | Deve conter as seguintes opções: </br> > O usuário deve ter a sua disposição uma lista com os conteúdos extras alugáveis </br> > O usuário deve ser capaz de alugar o conteúdo extra para a sua conta |
+| Critérios  de Aceitação | Deve conter as seguintes opções: </br> - O usuário deve ter a sua disposição uma lista com os conteúdos extras alugáveis </br> > O usuário deve ser capaz de alugar o conteúdo extra para a sua conta |
 
 | **ID** | **Nome** |
 |:-------|:---------|
-| US46 | Reproduzir conteúdo extra |
+| US52 | Reproduzir conteúdo extra |
 | Descrição | Eu, como usuário, desejo reproduzir conteúdo extra  |
-| Critérios  de Aceitação | Deve conter as seguintes opções: </br> > O usuário deve ter a sua disposição todos os conteúdos extras assinados </br> > O usuário deve ter a opções de reproduzir os conteúdos extras alugados ou assinados. |
+| Critérios  de Aceitação | Deve conter as seguintes opções: </br> - O usuário deve ter a sua disposição todos os conteúdos extras assinados </br> - O usuário deve ter a opções de reproduzir os conteúdos extras alugados ou assinados. |
 
 
 
