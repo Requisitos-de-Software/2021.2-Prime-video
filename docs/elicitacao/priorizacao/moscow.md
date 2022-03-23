@@ -29,7 +29,7 @@ Para organizar os requisitos por ordem de priorização, será utilizado a técn
 ### 2.1 Metodologia dos requisitos
 
 <p align="justify">
-Para organizar os requisitos de acordo com funcionais , não funcionais e especiais que são interligados a assinatura do Amazon prime usaremos as seguintes nomenclaturas.
+Para organizar os requisitos de acordo com funcionais , não funcionais e especiais que são interligados a assinatura do Amazon Prime usaremos as seguintes nomenclaturas.
 </p>
 
 - Requisito Funcional - RF
@@ -43,6 +43,9 @@ Para organizar os requisitos de acordo com funcionais , não funcionais e especi
 
 | Código | Requisito| Prioridade |
 |--|--|--|
+|RFS1| O usuário deve conseguir Criar conta |Must|
+|RFS2| O usuário deve conseguir Cancelar assinatura do Amazon prime |Must|
+|RFS3| O usuário pode alterar dados da conta |Must|
 |RF1| O usuário deve conseguir visualizar os termos e aviso de privacidade |Must|
 |RF2| O usuário deve ter a opção de ocultar uma serie/filme da sua tela inicial |Should|
 |RF3| O usuário deve ter a opção de ver pedidos |Should|
@@ -86,6 +89,7 @@ Para organizar os requisitos de acordo com funcionais , não funcionais e especi
 |RF41| O usuário pode ver detalhes da obra |Should|
 |RF42| O usuário deve conseguir acessar um título pelo nome completo ou apenas parte dele |Must|
 |RF43| O usuário deve poder criar um perfil infantil |Must|
+|RF44| O usuário pode receber recomendações de conteúdo |Must|
 
 <center>
 Tabela 1: Requisitos funcionais.

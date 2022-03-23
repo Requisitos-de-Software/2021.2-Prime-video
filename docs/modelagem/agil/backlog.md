@@ -4,11 +4,11 @@
 O Product Backlog ou apenas Backlog, se refere a uma lista de itens desejados para dar vida a um produto. Esta lista contém funcionalidades, requisitos e restrições organizados por prioridade, de forma que os itens com prioridade mais alta, sejam realizados primeiro. O Product Backlog não precisa estar completo desde o início do projeto e pode ser refinado e reorganizado com o tempo, conforme se aprende mais sobre o produto e seus usuários.
 
 
-## 2. Metologia
+## 2. Metodologia
 
 A metodologia propostas para as user history que estão presentes no Amazon prime e Prime video sao:
 
-| tipo de US    |  significado   | explicação    | 
+| tipo  |  significado   | explicação    | 
 | :-------------: |----------------|---------------|
 | US   |  User Story (História de Usuário)  | História de Usuário que pertencem unicamente ao escopo do Prime video. |
 | EUS  |  Especial User Story (História de Usuário especial)  | História de Usuário que pertencem tanto ao Prime video como o serviço Amazon Prime este termo foi criado para este projeto no caso da interligação do Amazon prime com o Prime video . |
@@ -36,9 +36,11 @@ Um Épico pode ser definido como uma coleção de histórias de usuário que ain
 | ID | Rastreabilidade | História de usúario (Eu como usuário gostaria de ...) | Prioridade |
 | -- | :-------------: | ----------------------------------------------------- | ---------- |
 
-| USs01 |   RF32    | Alugar assinatura de canal| Must |
-| USs02 |   RF32    | Alugar assinatura de canal| Must |
-| USs01 |   RF32    | Alugar assinatura de canal| Must |
+| EUS01 |   RFS1    | Criar conta| Must |
+| EUS02 |   RFS2    | Cancelar assinatura do Amazon prime| Must |
+| EUS03 |   RFS3    | Mudar o e-mail| Must |
+| EUS04 |   RFS3    | Mudar a minha senha| Must |
+| EUS05 |   RFS3    | Mudar o telefone| Must |
 | US01 |   RF32    | Alugar assinatura de canal| Must |
 | US02 |   RF32    | Alugar documentário| Must  |
 | US03 |   RF32    | Alugar  filme| Must |
@@ -87,6 +89,8 @@ Um Épico pode ser definido como uma coleção de histórias de usuário que ain
 | US31 | RF12 | Pular a abertura dos títulos | Should | 
 | US32 | RF22 | Escolher o idioma de áudio dos títulos | Must | 
 | US33 | RF23 | Escolher o idioma de legenda dos títulos | Must | 
+| US33 | RF23 | Receber recomendações de conteúdo | Must |
+| US33 | RF23 | Receber recomendações no email de conteúdo | Must |
 | US34 | RF24 | Retirar a legenda dos títulos | Must | 
 | US35 | RF25 | Escolher a qualidade de vídeo | Must | 
 | US36 | RF26 | Reproduzir o título em tela cheia | Must | 
