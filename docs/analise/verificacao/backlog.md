@@ -753,6 +753,547 @@
   <figcaption>Fonte: Próprio autor</figcaption>
 </figure>
 
+<br>
+
+<center>
+
+#### Tabela 18: US17 Excluir um perfil
+
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 19: US18 - Adicionar títulos à minha lista
+
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 20: US19 - Adicionar títulos à minha lista
+
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 21: US20 - Baixar títulos
+
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 22: US21 - Assistir em grupo (Watch party)
+
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 23: US22 - Registrar feeadback sobre título
+
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 24: US23 - Acessar a página de ajuda da plataforma
+
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 25: US24 - Assistir trailer dos títulos
+
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 26: US25 - Assistir títulos
+
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ❌ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 27: US26 - Escolher qual temporada assistir de um título
+
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 28: US27 - Escolher qual episódio assistir de um título
+
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 29: US28 - Passar para o proximo episódio ainda na reprodução do atual
+
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ❌ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 30: US29 - Alterar volume
+
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 31: US30 - Desabilitar a reprodução automática
+
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 32: US31 - Pular a abertura dos títulos
+
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 33: US32 - Escolher o idioma de áudio dos títulos
+
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 34: US33 - Escolher o idioma de legenda dos títulos
+
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 35: US34 - Retirar a legenda dos títulos
+
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 36: US35 - Escolher a qualidade de vídeo
+
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 37: US36 - Reproduzir o título em tela cheia
+
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 38: US37 - Retomar um título
+
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ❌ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 39: US38 - Ver informações sobre os atores em atuação no título
+
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 40: US39 - Ocultar vídeos
+
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ❌ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 41: US40 - Ver histórico de reprodução
+
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 42: US41 - Realizar buscas
+
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 43: US42 - Filtrar busca
+
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 44: US43 - Acessar um título pelo nome completo ou apenas parte dele
+
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 45: US44 - Comprar conteúdo extra
+
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 46: US45 - Alugar conteúdo extra
+
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 47: US46 - Reproduzir conteúdo extra
+
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
+
+
 ## 4. Resultado
 
 <p align='justify'>
@@ -768,3 +1309,4 @@
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
 |1.0|22/03/2022|Criação do documento de análise do Backlog|[Douglas Monteles](https://github.com/douglasmonteles)|  |
+|1.1|23/03/2022|Verificação da US17 até a US 46|[Lameque Fernandes](https://github.com/lamequefernandes)|-|
