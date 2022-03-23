@@ -160,7 +160,7 @@
 | Critérios de Aceitação | Deve conter as seguintes opções: </br> - Sair do dispositivo </br>  - Sair de vários dispositivos </br>    |
 
 
-#### 3.1.1 UX Designer Conta
+#### 3.1.1 UX Designer Épico 1 - Conta
 
 <p align="justiy">
     Estas imagens são para designar o UX do Prime video no  Épico 1 - Conta.
@@ -220,7 +220,19 @@
 | Critérios  de Aceitação | Deve conter as seguintes opções: </br> - Poder remover qualquer título já adicionado a minha lista</br> |
 
 
-### 3.3 Épico 3 - Conteudo 
+#### 3.2.1 UX Designer Épico 2 - Perfil
+
+<p align="justiy">
+    Estas imagens são para designar o UX do Prime video no Épico 2 - Perfil.
+</p>
+
+![drawing](../../assets/img/primePerfil.png)
+
+<p align="center">
+    figura 3 - Perfil Prime video relacionado as US.
+</p>
+
+### 3.3 Épico 3 - Conteúdo 
 
 | **ID** | **Nome** |
 |:-------|:---------|
@@ -319,7 +331,6 @@
 | Critérios  de Aceitação | Deve conter as seguintes opções: </br> - Receber recomendações de conteúdo. </br> - Receber recomendações de conteúdo. </br>|
 
 
-
 | **ID** | **Nome** |
 |:-------|:---------|
 | US40 | Retirar a legenda dos títulos |
@@ -396,8 +407,50 @@
 |:-------|:---------|
 | US52 | Reproduzir conteúdo extra |
 | Descrição | Eu, como usuário, desejo reproduzir conteúdo extra  |
-| Critérios  de Aceitação | Deve conter as seguintes opções: </br> - O usuário deve ter a sua disposição todos os conteúdos extras assinados </br> - O usuário deve ter a opções de reproduzir os conteúdos extras alugados ou assinados. |
+| Critérios  de Aceitação | Deve conter as seguintes opções: </br> - O usuário deve ter a sua disposição todos os conteúdos extras assinados </br> - O usuário deve ter a opções de reproduzir os conteúdos extras alugados ou assinados. |Épico 3 - Conteudo 
 
+
+#### 3.3.1 UX Designer Épico 3 - Conteúdo 
+
+<p align="justiy">
+    Estas imagens são para designar o UX do Prime video no Épico 3 - Conteúdo.
+</p>
+
+![drawing](../../assets/img/primeConteudo1.png)
+
+<p align="center">
+    figura 4 - Contéudo Prime video relacionado as US.
+</p>
+
+![drawing](../../assets/img/primeConteudo2.png)
+
+<p align="center">
+    figura 5 - Contéudo Prime video relacionado as US.
+</p>
+
+![drawing](../../assets/img/primeConteudo4.png)
+
+<p align="center">
+    figura 6 - Contéudo Prime video relacionado as US conteudo extra.
+</p>
+
+![drawing](../../assets/img/primeConteudo5.png)
+
+<p align="center">
+    figura 7 - Contéudo Prime video relacionado as US conteudo extra.
+</p>
+
+![drawing](../../assets/img/primeConteudo6.png)
+
+<p align="center">
+    figura 8 - Contéudo Prime video relacionado as US conteudo extra.
+</p>
+
+![drawing](../../assets/img/primeConteudo7.png)
+
+<p align="center">
+    figura 9 - Contéudo Prime video relacionado as US conteudo extra.
+</p>
 
 
 ## 4. Referências
