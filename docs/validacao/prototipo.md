@@ -18,7 +18,7 @@ A técnica de validação escolhida pelo grupo foi a de prototipação, essa té
 Abaixo temos o protótipo criado pela equipe. <a href="https://www.figma.com/file/VginPs14MkoyTvhRO68iZo/Prot%C3%B3tipo-IHC---Amazon-Prime-Video?node-id=0%3A1"> Clicando aqui </a> você pode ver o protótipo realizado. <a href="https://www.figma.com/proto/VginPs14MkoyTvhRO68iZo/Prot%C3%B3tipo-IHC---Amazon-Prime-Video?node-id=0%3A1&scaling=contain&page-id=0%3A1&starting-point-node-id=1%3A8"> Clicando aqui </a> poderá ver o protótipo interativo.
 </p>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FVginPs14MkoyTvhRO68iZo%2FProt%25C3%25B3tipo-IHC---Amazon-Prime-Video%3Fnode-id%3D0%253A1" allowfullscreen></iframe>" allowfullscreen > </iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FVginPs14MkoyTvhRO68iZo%2FProt%25C3%25B3tipo-IHC---Amazon-Prime-Video%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
 ## 4. Referências
 
