@@ -38,5 +38,5 @@ Reinehr, Sheila Engenharia de Requisitos, Editora: Grupo A Selo: Sagah. 1ª edi�
 
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
-|0.1|21/03/2022|Criação do documento de verificação|[Caio Santos](https://github.com/caiobsantos)||
-|0.2|22/03/2022|Adição da metodologia|[Caio Santos](https://github.com/caiobsantos)||
+|0.1|21/03/2022|Criação do documento de verificação|[Caio Santos](https://github.com/caiobsantos)|[Antonio Igor](https://github.com/antonioigorcarvalho) e [Lameque Fernandes](https://github.com/lamequefernandes)|
+|0.2|22/03/2022|Adição da metodologia|[Caio Santos](https://github.com/caiobsantos)|[Antonio Igor](https://github.com/antonioigorcarvalho) e [Lameque Fernandes](https://github.com/lamequefernandes)|
