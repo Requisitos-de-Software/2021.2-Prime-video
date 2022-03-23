@@ -274,50 +274,50 @@ Os Léxicos foram ordenados em ordem alfabetica.
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
 | Estado  |  Segundo Plano  | <p align="center">-</p>    | Fazer o download de dados para referência futura ou que poderá enviar notificações mesmo quando o app não estiver sendo usado no exato momento.  |  O usuário pode receber notificações e ouvir o audio mesmo quando não estar usando o dispositivo.  |
 
-### L - 41 Selecionar Perfil
+### L - 42 Selecionar Perfil
 
 | Tipo       |  Léxico     | Sinônimo  | Noção    |       Impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
 | Verbo |  Selecionar Perfil  | Selecionar Tela  |  Selecionar perfil existente. |  Dentre dos perfis criado, o usuário tem a opção de escolher entre todos os perfis listados qual perfil irá usar.  |
 
-### L - 42 Senha
+### L - 43 Senha
 
 | Tipo       |  Léxico     | Sinônimo  | Noção    |       Impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
 | Objeto |  Senha  | Chave de acesso  | Verificação da sua identidade de usuário.  |  Chave de acesso para acessar a conta do Prime Video.  |
 
-### L - 43 Série
+### L - 44 Série
 
 | Tipo       |  Léxico     | Sinônimo  | Noção    |       Impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
 | Objeto |  Série  | Seriado  | Peças cinematográfica dividida em partes/epsódios.  |  Flexibilidade para o usuário assistir série em epsódios.  |
 
-### L - 44 Sinopse
+### L - 45 Sinopse
 
 | Tipo       |  Léxico     | Sinônimo  | Noção    |       Impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
 | Objeto |  Sinopse  | Resumo  | Descrição sintética da ideia do filme/série/Documentario. |  O usuário poderá visualizar um resumo de filme/série/Documentario. |
 
 
-### L - 45 Temporada
+### L - 46 Temporada
 
 | Tipo       |  Léxico     | Sinônimo  | Noção    |       Impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
 | Objeto |  Temperada  | Período  | Divisão de série em epsódios.  |  O usuário terá acesso a vários epsódios em uma série. |
 
-### L - 46 Titulo
+### L - 47 Titulo
 
 | Tipo       |  Léxico     | Sinônimo  | Noção    |       Impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
 | Objeto |  Titulo  | <p align="center">-</p>  | Conteúdo presente na plataforma.  |  O usuário terá acesso a filme, série e documentario a partir do titulo.|
 
-### L - 47 Usuário
+### L - 48 Usuário
 
 | Tipo       |  Léxico     | Sinônimo  | Noção    |       Impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
 | Objeto |  Usuário  | Cliente  | Pessoas que usufruem do Prime Video.  |  Pessoas que terão acesso aos conteúdos do Prime Video. |
 
-### L - 48 Watch Party
+### L - 49 Watch Party
 
 | Tipo       |  Léxico     | Sinônimo  | Noção    |       Impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
