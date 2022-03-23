@@ -26,51 +26,69 @@ Para organizar os requisitos por ordem de priorização, será utilizado a técn
 - Could: quando o requisito não tem grandes necessidades de ser implementado, apenas se tiver tempo e recursos.
 - Won't: quando o requisito não precisa ser implementa no momento, mas seria uma boa melhoria para o futuro.
 
+### 2.1 Metodologia dos requisitos
+
+<p align="justify">
+Para organizar os requisitos de acordo com funcionais , não funcionais e especiais que são interligados a assinatura do Amazon Prime usaremos as seguintes nomenclaturas.
+</p>
+
+- Requisito Funcional - RF
+- Requisito Não Funcional - RNF
+- Requisito Funcional Amazon Prime - RFAP
+
 ## 3. Resultados
 
 ### 3.1 Requisitos Funcionais
 
 | Código | Requisito| Prioridade |
 |--|--|--|
-|RF1| O usuário deve conseguir visualizar os termos e aviso de privacidade |Must|
-|RF2| O usuário deve ter a opção de ocultar uma serie/filme da sua tela inicial |Should|
-|RF3| O usuário deve poder remover títulos da sua lista |Must|
-|RF4| O usuário deve ser capaz de comprar conteúdo extra |Must|
-|RF5| O usuário deve ser capaz de registrar seu feedback sobre titulo |Should|
-|RF6| O usuário deve poder acessar a página de ajuda da plataforma|Must|
-|RF7| O usuário deve ser capaz de passar para o proximo episódio ainda na reprodução do atual|Should|
-|RF8| O usuário deve poder escolher qual episódio assistir de um título |Must|
-|RF9| O usuário deve ser capaz de desabilitar a reprodução automática |Should|
-|RF10| O usuário deve ser capaz de visualizar títulos recomendados |Should|
-|RF11| O usuário deve ser capaz de assistir ao trailer dos títulos |Should|
-|RF12| O usuário deve ser capaz de pular a abertura dos titulos |Should|
-|RF13| O usuario deve conseguir ver quais filmes/series ele assistiu anteriormente |Should|
-|RF14| O usuário deve poder escolher qual temporada assistir de um título |Must|
-|RF15|O usuário deve poder adicionar novos perfis à sua conta|Must|
-|RF16|O usuário deve poder alterar sua foto de perfil|Could|
-|RF17|O usuário deve poder adicionar títulos à sua lista|Must|
-|RF18|O usuário deve ter a opção de realizar uma busca|Must|
-|RF19|O usuário deve poder filtrar a sua busca|Must|
-|RF20|O usuário deve ter a opção de alterar os meios de pagamento|Must|
-|RF21|O usuário deve ser capaz de baixar os títulos|Could|
-|RF22|O usuário deve ser capaz de escolher o idioma de áudio|Must|
-|RF23|O usuário deve ser capaz de escolher o idioma da legenda|Must|
-|RF24|O usuário deve ser capaz de tirar a legenda|Must|
-|RF25|O usuário deve poder escolher a qualidade do vídeo|Should|
-|RF26|O usuário deve poder usar a opção de tela cheia|Must|
-|RF27|O usuário deve poder realizar login na plataforma|Must|
-|RF28|O usuário deve poder realizar logout na plataforma|Must|
-|RF29| O usuário pode excluir perfis|Must|
-|RF30| O usuário pode usar o Watch party|Could|
-|RF31| O usuário pode pode alugar canais, filmes e series|Should|
-|RF32| O usuário pode pode ocultar vídeos|Could|
-|RF33| O usuário pode desvincular os dispositivos |Must|
-|RF34| O usuário pode excluir historico de navegação|Won't|
-|RF35| O usuário pode ver informações dos atores |Won't|
-|RF36| O usuário pode diminuir o consumo de dados|Should|
-|RF37| O usuário pode ver detalhes da obra |Should|
-|RF38| O usuário deve conseguir acessar um título pelo nome completo ou apenas parte dele |Must|
-|RF39| O usuário deve poder criar um perfil infantil |Must|
+|RFAP01| O usuário deve conseguir Criar conta |Must|
+|RFAP02| O usuário deve conseguir Cancelar assinatura do Amazon prime |Must|
+|RFAP03| O usuário pode alterar dados da conta |Must|
+|RF01| O usuário deve conseguir visualizar os termos e aviso de privacidade |Must|
+|RF02| O usuário deve ter a opção de ocultar uma serie/filme da sua tela inicial |Should|
+|RF03| O usuário deve ter a opção de ver pedidos |Should|
+|RF04| O usuário deve poder remover títulos da sua lista |Must|
+|RF05| O usuário deve ser capaz de comprar conteúdo extra |Must|
+|RF06| O usuário deve ser capaz de registrar seu feedback sobre titulo |Should|
+|RF07| O usuário deve poder acessar a página de ajuda da plataforma|Must|
+|RF08| O usuário deve ser capaz de passar para o proximo episódio ainda na reprodução do atual|Should|
+|RF09| O usuário deve poder escolher qual episódio assistir de um título |Must|
+|RF10| O usuário deve ser capaz de desabilitar a reprodução automática |Should|
+|RF11| O usuário deve ser capaz de visualizar títulos recomendados |Should|
+|RF12| O usuário deve ser capaz de assistir ao trailer dos títulos |Should|
+|RF13| O usuário deve ser capaz de pular a abertura dos titulos |Should|
+|RF14| O usuario deve conseguir ver quais filmes/series ele assistiu anteriormente |Should|
+|RF15| O usuário deve poder escolher qual temporada assistir de um título |Must|
+|RF16|O usuário deve poder adicionar novos perfis à sua conta|Must|
+|RF17|O usuário deve poder alterar sua foto de perfil|Could|
+|RF18|O usuário deve poder adicionar títulos à sua lista|Must|
+|RF19|O usuário deve ter a opção de realizar uma busca|Must|
+|RF20|O usuário deve poder filtrar a sua busca|Must|
+|RF21|O usuário deve ter a opção de alterar os meios de pagamento|Must|
+|RF22|O usuário deve ser capaz de baixar os títulos|Could|
+|RF23|O usuário deve ser capaz de escolher o idioma de áudio|Must|
+|RF24|O usuário deve ser capaz de escolher o idioma da legenda|Must|
+|RF25|O usuário deve ser capaz de tirar a legenda|Must|
+|RF26|O usuário deve poder escolher a qualidade do vídeo|Should|
+|RF27|O usuário deve poder usar a opção de tela cheia|Must|
+|RF28|O usuário deve poder realizar login na plataforma|Must|
+|RF29|O usuário deve poder realizar logout na plataforma|Must|
+|RF30| O usuário pode excluir perfis|Must|
+|RF31| O usuário pode usar o Watch party|Could|
+|RF32| O usuário pode pode alugar canais, filmes e series|Should|
+|RF33| O usuário pode pode renovar canais, filmes e series|Should|
+|RF34| O usuário pode cancelar alugar canais, filmes e series|Should|
+|RF35| O usuário pode pode ocultar vídeos|Could|
+|RF36| O usuário pode desvincular os dispositivos |Must|
+|RF37| O usuário pode excluir historico de navegação|Won't|
+|RF38| O usuário pode ver informações dos atores |Won't|
+|RF39| O usuário pode ver informações da conta |Won't|
+|RF40| O usuário pode diminuir o consumo de dados|Should|
+|RF41| O usuário pode ver detalhes da obra |Should|
+|RF42| O usuário deve conseguir acessar um título pelo nome completo ou apenas parte dele |Must|
+|RF43| O usuário deve poder criar um perfil infantil |Must|
+|RF44| O usuário pode receber recomendações de conteúdo |Must|
 
 <center>
 Tabela 1: Requisitos funcionais.
@@ -106,4 +124,4 @@ CARVALHO, Henrique. O framework de priorizacao: MoSCoW. Disponível em: <https:/
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
 |1.0|20/02/2022|Criação do MoSCoW|[Lameque Fernandes](https://github.com/lamequefernandes)|[Antonio Igor](https://github.com/antonioigorcarvalho), [Douglas Monteles](https://github.com/douglasmonteles) e [Erick Levy](https://github.com/ericklevy)|
-
+|1.1|23/03/2022 |Remodulamento do MosCow|[Erick Levy](https://github.com/ericklevy)| [Antonio Igor](https://github.com/antonioigorcarvalho) |
