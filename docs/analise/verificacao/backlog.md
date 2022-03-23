@@ -1302,7 +1302,9 @@
 
 ## 5. Conclusão
 
-
+<p align='justify'>
+  Dado que a avaliação do Backlog não encontrou nenhum problema entre os quesitos analisados, está tudo certo com este documento e é possível dar proceguimento com o projeto.
+</p>
 
 ## 5. Referências
 
