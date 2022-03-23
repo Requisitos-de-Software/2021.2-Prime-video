@@ -26,32 +26,32 @@
 
 | **ID** | **Nome** |
 |:-------|:---------|
-| EUS01 | Criar conta |
+| APUS01 | Criar conta |
 | Descrição | Eu como usuário desejo Criar minha conta no Amazon prime para poder usar o  Prime video  |
 | Critérios de Aceitação | Deve conter as seguintes opções </br> - Cancelar assinatura</br> - controlar perfis</br> - mudar método de pagamento  entre cartão de credito ou cartão de debito</br>   |
 
 | **ID** | **Nome** |
 |:-------|:---------|
-| EUS02 | Cancelar assinatura do Amazon prime |
+| APUS02 | Cancelar assinatura do Amazon prime |
 | Descrição | Eu como usuário desejo Cancelar minha assinatura do Amazon prime  |
 | Critérios de Aceitação | Deve conter as seguintes opções </br> - Cancelar assinatura do Amazon prime </br>  |
 
 | **ID** | **Nome** |
 |:-------|:---------|
-| EUS03 | Mudar o e-mail |
+| APUS03 | Mudar o e-mail |
 | Descrição | Eu como usuário desejo mudar o meu e-mail de acesso  |
 | Critérios de Aceitação | Deve conter as seguintes opções </br> - alterar o  e-mail </br>  |
 
 | **ID** | **Nome** |
 |:-------|:---------|
-| EUS04 | Mudar a minha senha |
+| APUS04 | Mudar a minha senha |
 | Descrição | Eu como usuário desejo Mudar minha senha  |
 | Critérios de Aceitação | Deve conter as seguintes opções </br> - alterar a senha </br>  |
 
 
 | **ID** | **Nome** |
 |:-------|:---------|
-| EUS05 | Mudar o telefone |
+| APUS05 | Mudar o telefone |
 | Descrição | Eu como usuário desejo alterar o telefone  |
 | Critérios de Aceitação | Deve conter as seguintes opções </br> - alterar o telefone </br>  - telefone como meio de acesso ao Prime video </br> |
 
@@ -463,4 +463,4 @@ SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 15.
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
 | 1.0 |09/03/2022|Criação do documento de histórias de usuário|[Antonio Igor](https://github.com/antonioigorcarvalho), [Erick Levy](https://github.com/ericklevy) e [Lameque Fernandes](https://github.com/lamequefernandes)| [Caio Santos](https://github.com/caiobsantos) e [Douglas Monteles](https://github.com/douglasmonteles) |
-|1.1|23/03/2022|Alteração do documento com inserção das imagens para UX|[Erick Levy](https://github.com/ericklevy)|-|
+|1.1|23/03/2022| Alteração do documento |[Erick Levy](https://github.com/ericklevy)| [Antonio Igor](https://github.com/antonioigorcarvalho) |
