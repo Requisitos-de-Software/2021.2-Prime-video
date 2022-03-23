@@ -3,7 +3,7 @@
 ## 1. Introdução
 
 <p align="justify">
-A validação de software consistem em um processo que irá comprovar que o sistema cumpre com as funções das quais foi designado, de acordo com as especificações dos requisitos.
+A validação de software consiste em um processo que irá comprovar que o sistema cumpre com as funções das quais foi designado, de acordo com as especificações dos requisitos.
 </p>
 
 ## 2. Desenvolvimento
@@ -31,4 +31,4 @@ SOFTWARE. Disponível em: https://www.periodicos.univag.com.br/index.php/CONNECT
 
 | Data | Versão | Descrição | Autor | Revisor |
 | :--: | :----: | :-------: | :-------: | :-------: |
-| 23/03/2022  | 1.0 | Criação do documento de prototipação | [Antonio Igor](https://github.com/antonioigorcarvalho) | |
+| 23/03/2022  | 1.0 | Criação do documento de prototipação | [Antonio Igor](https://github.com/antonioigorcarvalho) |[Caio Santos](https://github.com/caiobsantos)|
