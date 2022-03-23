@@ -12,8 +12,8 @@ A verificação dos léxicos tem como objetivo principal analisar os requisitos 
 <p align="center">
     Para a criação da verificação dos léxico foi criado uma tabela no seguinte padrão.
 
-* Sim, sendo representado pelo símbolo de " :heavy_check_mark: " para sucesso
-* Não, sendo representado por um " :x: " para um insucesso.
+* Sim, sendo representado pelo símbolo de " ✔️ " para sucesso
+* Não, sendo representado por um " ❌ " para um insucesso.
 </p>
 
 
