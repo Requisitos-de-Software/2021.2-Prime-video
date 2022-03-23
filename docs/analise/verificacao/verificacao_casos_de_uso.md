@@ -118,14 +118,14 @@ No checklist temos perguntas sobre os casos de uso que nos permitem verificar os
 
 ### 3.1 Possíveis soluções
 
-Para solucionar os problemas encontrados na UC1(Fluxo de conta), será necessário dividir o caso de uso em dois, pois os mesmo possui dois fluxos principais.
+Para solucionar os problemas encontrados na UC1(Fluxo de conta), será necessário dividir o caso de uso em dois, pois o mesmo possui dois fluxos principais.
 
 Outro problema, desta vez encontrado em todos os casos de uso é a ausência de rastreabilidade. Esse problema seria solucionado facilmente adicionando a rastreabilidade em todos os UC(casos de uso).
 
 
 ## 4. Conclusão
 
-A partir desta análise foi possível concluir que a verificação dos casos de uso foi muito efetiva para encontrar erros que ocorreram durante a produção dos mesmos. Desta forma, é certo que deve-se fazer alterações para que os mesmos estejam realmente completos e prontos para uso.
+A partir desta análise foi possível concluir que a verificação dos casos de uso foi muito efetiva para encontrar erros que ocorreram durante a produção dos mesmos. Desta forma, é certo que se deve fazer alterações para que os mesmos estejam realmente completos e prontos para uso.
 
 
 ## 5. Referências
@@ -138,5 +138,5 @@ SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 23, do slide 4 ao 31. Mat
 
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
-|1.0|23/03/2022|Criação do documento de análise dos Casos de Uso|[Lameque Fernandes](https://github.com/lamequefernandes)|-|
-|1.1|23/03/2022|Adição de conclusão e alterações nas tabelas|[Lameque Fernandes](https://github.com/lamequefernandes)|-|
+|1.0|23/03/2022|Criação do documento de análise dos Casos de Uso|[Lameque Fernandes](https://github.com/lamequefernandes)|[Antonio Igor](https://github.com/antonioigorcarvalho)|
+|1.1|23/03/2022|Adição de conclusão e alterações nas tabelas|[Lameque Fernandes](https://github.com/lamequefernandes)|[Antonio Igor](https://github.com/antonioigorcarvalho)|
