@@ -342,21 +342,21 @@
 
 | **ID** | **Nome** |
 |:-------|:---------|
-| US46 | Realizar buscas |
+| US47 | Realizar buscas |
 | Descrição | Eu, como usuário, desejo realizar buscas |
 | Critérios  de Aceitação | Deve conter as seguintes opções: </br> - Input para a digitação do conteúdo a ser buscado. </br> > Os resultados da busca serem atualizados conforme o usuário digita. </br>|
 
 | **ID** | **Nome** |
 |:-------|:---------|
-| US47 | Filtrar busca |
+| US48 | Filtrar busca |
 | Descrição | Eu, como usuário, desejo filtrar os resultados de uma busca já realizada |
 | Critérios  de Aceitação | Deve conter as seguintes opções: </br> - Diversos filtros selecionáveis. </br> - opções de remover filtros previamente selecionados. </br> - Os resultados da busca devem refletir os filtros aplicados. </br>|
 
 | **ID** | **Nome** |
 |:-------|:---------|
-| US43 | Acessar um título pelo nome completo ou apenas parte dele |
+| US49 | Acessar um título pelo nome completo ou apenas parte dele |
 | Descrição | Eu, como usuário, desejo acessar um título pelo nome completo ou apenas parte dele |
-| Critérios  de Aceitação | Deve conter as seguintes opções: </br> > Após realizar uma busca digitando o nome completo ou apenas parte dele, o usuário deve ter a sua disposição uma lista com todos os conteúdos relacionados à busca. </br> |
+| Critérios  de Aceitação | Deve conter as seguintes opções: </br> - Após realizar uma busca digitando o nome completo ou apenas parte dele, o usuário deve ter a sua disposição uma lista com todos os conteúdos relacionados à busca. </br> |
 
 | **ID** | **Nome** |
 |:-------|:---------|
