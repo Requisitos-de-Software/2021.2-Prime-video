@@ -86,16 +86,11 @@
       </tr>
       <tr>
         <td align="center">8</td>
-        <td align="center">Os diagramas condizem com os requisitos não-funcionais?</td>
+        <td align="center">Os operadores do diagrama foram empregados da forma correta?</td>
         <td align="center">✔️</td>
       </tr>
       <tr>
         <td align="center">9</td>
-        <td align="center">Os operadores do diagrama foram empregados da forma correta?</td>
-        <td align="center">✔️</td>
-      </tr>
-       <tr>
-        <td align="center">10</td>
         <td align="center">Os elementos do diagrama foram respeitam suas respectivas designações?</td>
         <td align="center">✔️</td>
       </tr>
@@ -104,7 +99,7 @@
   <figcaption>Fonte: Próprio autor</figcaption>
 </figure>
 
-## 4. Resultado
+## 4. Conclusão
 
 <p align='justify'>
   Conforme a análise feita acima, o documento que trata do NFR Framework está de acordo com o esperado. Apesar de não possuir links que o conecte com outras páginas, isso não se configura como quesito suficiente para inviabilizar o documento.
