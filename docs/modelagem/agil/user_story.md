@@ -159,6 +159,24 @@
 | Descrição | Eu como usuário desejo sair dos dispositivos |
 | Critérios de Aceitação | Deve conter as seguintes opções: </br> - Sair do dispositivo </br>  - Sair de vários dispositivos </br>    |
 
+
+#### 3.1.1 UX Designer Conta
+
+![drawing](../../assets/img/primeConta.png)
+
+<p align="center">
+    figura 1 - Conta Prime video relacionado as US.
+</p>
+
+![drawing](../../assets/img/primeContaAmazon.png)
+
+<p align="center">
+    figura 2 - Conta Amazon Prime relacionado aos EUS.
+</p>
+
+
+
+
 ### 3.2 Épico 2 - Perfil
 
 | **ID** | **Nome** |
