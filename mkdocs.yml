@@ -43,10 +43,12 @@ nav:
     - Verificação:
       - Introdução: analise/verificacao/verificacao.md
       - Backlog: analise/verificacao/backlog.md
+      - Casos de Uso: analise/verificacao/casos_de_uso.md
       - Cenários: analise/verificacao/cenarios.md
       - NRF Framework: analise/verificacao/nfr_framework.md
+      - Rich Picture: analise/verificacao/rich_picture.md
     - Validação:
-      - Prototipação: validacao/prototipo.md
+      - Prototipação: analise/validacao/prototipo.md
   - Apresentações:
     - Apresentação 1: apresentacoes/apresentacao1.md
     - Apresentação 2: apresentacoes/apresentacao2.md
