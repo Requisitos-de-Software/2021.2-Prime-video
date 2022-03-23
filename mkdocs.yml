@@ -45,6 +45,7 @@ nav:
       - Backlog: analise/verificacao/backlog.md
       - Casos de Uso: analise/verificacao/casos_de_uso.md
       - Cenários: analise/verificacao/cenarios.md
+      - Léxicos: analise/verificacao/lexicos.md
       - NRF Framework: analise/verificacao/nfr_framework.md
       - Rich Picture: analise/verificacao/rich_picture.md
     - Validação:
