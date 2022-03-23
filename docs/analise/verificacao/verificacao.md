@@ -4,6 +4,7 @@
 
 <p align='justify'>
     A verificação de requisitos é uma etapa fundamental do processo de Engenharia de Requisitos. O objetivo principal desta fase é garantir que o software atende aos requisitos funcionais e não funcionais especificados durante a fase de <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/">elicitação</a>.
+</p>
 
 <p align='justify'>
     A importância da etapa de verificação é fazer com que os requisitos sejam implementados de forma correta, garantindo a conformidade do software de acordo com os padrões estabelecidos e o cumprimento das funções para as quais ele foi especificado, evitando futuras falhas e aumentando a segurança do produto.
@@ -21,12 +22,12 @@
 
 | Artefato             | Membro(s)          |
 | :------------------: | :-----------------: |
-| [Backlog]()          | [Douglas Monteles](https://github.com/douglasmonteles), [Lameque Fernandes](https://github.com/lamequefernandes) e [Sávio Cunha](https://github.com/savioc2)|
-| [Casos de Uso]()             | [Lameque Fernandes](https://github.com/lamequefernandes)           |
-| [Cenários]()             | [Caio Santos](https://github.com/caiobsantos)           |
-| [Léxicos]()            | [Erick Levy](https://github.com/ericklevy)           |
-| [NFR Framework]()             | [Douglas Monteles](https://github.com/douglasmonteles)          |
-| [Rich Picture]()             | [Sávio Cunha](https://github.com/savioc2)          |
+| [Backlog](https://requisitos-de-software.github.io/2021.2-Prime-video/analise/verificacao/backlog/)          | [Douglas Monteles](https://github.com/douglasmonteles), [Lameque Fernandes](https://github.com/lamequefernandes) e [Sávio Cunha](https://github.com/savioc2)|
+| [Casos de Uso](https://requisitos-de-software.github.io/2021.2-Prime-video/analise/verificacao/casos_de_uso/)             | [Lameque Fernandes](https://github.com/lamequefernandes)           |
+| [Cenários](https://requisitos-de-software.github.io/2021.2-Prime-video/analise/verificacao/cenarios/)             | [Caio Santos](https://github.com/caiobsantos)           |
+| [Léxicos](https://requisitos-de-software.github.io/2021.2-Prime-video/analise/verificacao/lexicos/)            | [Erick Levy](https://github.com/ericklevy)           |
+| [NFR Framework](https://requisitos-de-software.github.io/2021.2-Prime-video/analise/verificacao/nfr_framework/)             | [Douglas Monteles](https://github.com/douglasmonteles)          |
+| [Rich Picture](https://requisitos-de-software.github.io/2021.2-Prime-video/analise/verificacao/rich_picture/)             | [Sávio Cunha](https://github.com/savioc2)          |
 
 
 ## 3. Referências
@@ -38,5 +39,6 @@ Reinehr, Sheila Engenharia de Requisitos, Editora: Grupo A Selo: Sagah. 1ª edi�
 
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
-|0.1|21/03/2022|Criação do documento de verificação|[Caio Santos](https://github.com/caiobsantos)|[Antonio Igor](https://github.com/antonioigorcarvalho) e [Lameque Fernandes](https://github.com/lamequefernandes)|
-|0.2|22/03/2022|Adição da metodologia|[Caio Santos](https://github.com/caiobsantos)|[Antonio Igor](https://github.com/antonioigorcarvalho) e [Lameque Fernandes](https://github.com/lamequefernandes)|
+|1.0|21/03/2022|Criação do documento de verificação|[Caio Santos](https://github.com/caiobsantos)|[Antonio Igor](https://github.com/antonioigorcarvalho) e [Lameque Fernandes](https://github.com/lamequefernandes)|
+|1.1|22/03/2022|Adição da metodologia|[Caio Santos](https://github.com/caiobsantos)|[Antonio Igor](https://github.com/antonioigorcarvalho) e [Lameque Fernandes](https://github.com/lamequefernandes)|
+|1.2|22/03/2022|Adição dos links entre documentos e pequenas correções|[Caio Santos](https://github.com/caiobsantos)|[Antonio Igor](https://github.com/antonioigorcarvalho) e [Lameque Fernandes](https://github.com/lamequefernandes)|
