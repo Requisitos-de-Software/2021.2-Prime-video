@@ -3,7 +3,7 @@
 ## 1. Introdução
 
 <p align='justify'>
-  Dada a criação do documento que trata do <a href="../../../modelagem/agil/backlog" target="_blanck">Backlog</a>, tem-se então a necessidade de averiguar se suas especificações atendem ao que é exigido para a continuação das etapas seguintes relacionadas ao projeto.
+  Dada a criação do documento que trata do <a href="../../../modelagem/agil/backlog" target="_blank">Backlog</a>, tem-se então a necessidade de averiguar se suas especificações atendem ao que é exigido para a continuação das etapas seguintes relacionadas ao projeto.
 </p>
 
 ## 2. Metodologia
