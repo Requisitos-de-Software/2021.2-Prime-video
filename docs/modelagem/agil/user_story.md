@@ -2,12 +2,58 @@
 
 ## 1. Introdução
 
-A ideia da utilização de Histórias de Usuários ou Story Backlog, é pensar em histórias contadas pela perspectiva dos usuários. A história é uma função do épico e equivale aos requistos funcionais.
-Cada História contém suas regras e validações.
 
-## 2. User Stories
+<p align="justify">
+    A ideia da utilização de Histórias de Usuários ou Story Backlog, é pensar em histórias contadas pela perspectiva dos usuários. A história é uma função do épico e equivale aos requistos funcionais.
+    Cada História contém suas regras e validações.
+</p>
 
-### 2.1 Épico 1 - Conta
+
+
+## 2 . Objetivo
+
+<p align="justify">
+    O objetivo deste documento e apresenta as user story presente no Prime video que esta dentro do serviço Amazon prime.
+    Sendo usados US para descrever as User Story e EUS para descrever as Especial User Story.
+</p>
+
+
+
+
+## 3. User Stories
+
+### 3.1 Épico 1 - Conta
+
+| **ID** | **Nome** |
+|:-------|:---------|
+| EUS01 | Criar conta |
+| Descrição | Eu como usuário desejo Criar minha conta no Amazon prime para poder usar o  Prime video  |
+| Critérios de Aceitação | Deve conter as seguintes opção </br> > Cancelar assinatura</br> > controlar perfis</br> > mudar método de pagamento  - cartão de credito ou cartão de debito</br>   |
+
+| **ID** | **Nome** |
+|:-------|:---------|
+| EUS02 | Cancelar assinatura do Amazon prime |
+| Descrição | Eu como usuário desejo Cancelar minha assinatura do Amazon prime  |
+| Critérios de Aceitação | Deve conter as seguintes opção </br> > Cancelar assinatura do Amazon prime </br>  |
+
+| **ID** | **Nome** |
+|:-------|:---------|
+| EUS03 | Mudar o e-mail |
+| Descrição | Eu como usuário desejo mudar o meu e-mail de acesso  |
+| Critérios de Aceitação | Deve conter as seguintes opção </br> > alterar o  e-mail </br>  |
+
+| **ID** | **Nome** |
+|:-------|:---------|
+| EUS04 | Mudar a minha senha |
+| Descrição | Eu como usuário desejo Mudar minha senha  |
+| Critérios de Aceitação | Deve conter as seguintes opção </br> > alterar a senha </br>  |
+
+
+| **ID** | **Nome** |
+|:-------|:---------|
+| EUS05 | Mudar o telefone |
+| Descrição | Eu como usuário desejo alterar o telefone  |
+| Critérios de Aceitação | Deve conter as seguintes opção </br> > alterar o telefone </br>  > telefone como meio de acesso ao Prime video </br> |
 
 | **ID** | **Nome** |
 |:-------|:---------|
@@ -87,7 +133,7 @@ Cada História contém suas regras e validações.
 | Descrição | Eu como usuário desejo sair dos dispositivos |
 | Critérios de Aceitação | Deve conter as seguintes opções: </br> > Sair do dispositivo </br>  >Sair de vários dispositivos </br>    |
 
-### 2.2 Épico 2 - Perfil
+### 3.2 Épico 2 - Perfil
 
 | **ID** | **Nome** |
 |:-------|:---------|
@@ -126,7 +172,7 @@ Cada História contém suas regras e validações.
 | Critérios  de Aceitação | Deve conter as seguintes opções: </br> > Poder remover qualquer título já adicionado a minha lista</br> |
 
 
-### 2.3 Épico 3 - Conteudo 
+### 3.3 Épico 3 - Conteudo 
 
 | **ID** | **Nome** |
 |:-------|:---------|
@@ -292,12 +338,12 @@ Cada História contém suas regras e validações.
 
 
 
-## 3. Referências
+## 4. Referências
 
 SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 15.
 
 
-## 4. Histórico de Versionamento
+## 5. Histórico de Versionamento
 
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|

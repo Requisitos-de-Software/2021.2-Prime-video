@@ -1,20 +1,27 @@
 # Backlog
 
 ## 1. Introdução
+<p align="justify">
 O Product Backlog ou apenas Backlog, se refere a uma lista de itens desejados para dar vida a um produto. Esta lista contém funcionalidades, requisitos e restrições organizados por prioridade, de forma que os itens com prioridade mais alta, sejam realizados primeiro. O Product Backlog não precisa estar completo desde o início do projeto e pode ser refinado e reorganizado com o tempo, conforme se aprende mais sobre o produto e seus usuários.
-
+</p>
 
 ## 2. Metodologia
 
-A metodologia propostas para as user history que estão presentes no Amazon prime e Prime video sao:
+<p align="justify">
+A metodologia propostas para as user story que estão presentes no Amazon prime e Prime video sao:
+</p>
 
 | tipo  |  significado   | explicação    | 
 | :-------------: |----------------|---------------|
 | US   |  User Story (História de Usuário)  | História de Usuário que pertencem unicamente ao escopo do Prime video. |
 | EUS  |  Especial User Story (História de Usuário especial)  | História de Usuário que pertencem tanto ao Prime video como o serviço Amazon Prime este termo foi criado para este projeto no caso da interligação do Amazon prime com o Prime video . |
 
+### 2.1 Tabela usada para representação dos Épicos
+| ID | Rastreabilidade | História de usúario (Eu como usuário gostaria de ...) | Prioridade |
+| -- | :-------------: | ----------------------------------------------------- | ---------- |
 
-### 2.1 Prioridades
+
+### 2.2 Prioridades
 
 - Must: quando o requisito for essencial para o funcionamento da projeto.
 - Should: quando o requisito for importante para o projeto.
@@ -23,7 +30,9 @@ A metodologia propostas para as user history que estão presentes no Amazon prim
 
 ## 3. Épicos
 
+<p align="justify">
 Um Épico pode ser definido como uma coleção de histórias de usuário que ainda não foram refinadas ou divididas, representando assim uma grande parte a ser realizada no produto. O escopo do nosso projeto foi dividido em três épicos:
+</p>
 
 - Conta
 
@@ -35,14 +44,11 @@ Um Épico pode ser definido como uma coleção de histórias de usuário que ain
 
 | ID | Rastreabilidade | História de usúario (Eu como usuário gostaria de ...) | Prioridade |
 | -- | :-------------: | ----------------------------------------------------- | ---------- |
-
 | EUS01 |   RFS01    | Criar conta| Must |
 | EUS02 |   RFS02    | Cancelar assinatura do Amazon prime| Must |
 | EUS03 |   RFS03    | Mudar o e-mail| Must |
 | EUS04 |   RFS04    | Mudar a minha senha| Must |
 | EUS05 |   RFS05    | Mudar o telefone| Must |
-
-
 | US01 |   RF32    | Alugar assinatura de canal| Must |
 | US02 |   RF32    | Alugar documentário| Must  |
 | US03 |   RF32    | Alugar  filme| Must |
@@ -124,4 +130,4 @@ Epic, Feature e User Story (Epico, Funcionalidade e História de Usuário). Disp
 |1.3|09/03/2022|Adição da introdução e referências|[Caio Santos](https://github.com/caiobsantos)| [Antonio Igor](https://github.com/antonioigorcarvalho) |
 |1.4|09/03/2022|Adição da definição dos épicos|[Caio Santos](https://github.com/caiobsantos)| [Lameque Fernandes](https://github.com/lamequefernandes) |
 |1.5|09/03/2022|Adição das histórias de usuário relacionadas a conta |[Erick Levy](https://github.com/ericklevy)| [Caio Santos](https://github.com/caiobsantos) |
-|1.5|23/03/2022|Adição das histórias de usuário relacionadas a conta |[Erick Levy](https://github.com/ericklevy)|  |
+|1.6|23/03/2022|Adição das histórias de usuário relacionadas a conta |[Erick Levy](https://github.com/ericklevy)|  |
