@@ -43,18 +43,18 @@ Para organizar os requisitos de acordo com funcionais , não funcionais e especi
 
 | Código | Requisito| Prioridade |
 |--|--|--|
-|RFS1| O usuário deve conseguir Criar conta |Must|
-|RFS2| O usuário deve conseguir Cancelar assinatura do Amazon prime |Must|
-|RFS3| O usuário pode alterar dados da conta |Must|
-|RF1| O usuário deve conseguir visualizar os termos e aviso de privacidade |Must|
-|RF2| O usuário deve ter a opção de ocultar uma serie/filme da sua tela inicial |Should|
-|RF3| O usuário deve ter a opção de ver pedidos |Should|
-|RF4| O usuário deve poder remover títulos da sua lista |Must|
-|RF5| O usuário deve ser capaz de comprar conteúdo extra |Must|
-|RF6| O usuário deve ser capaz de registrar seu feedback sobre titulo |Should|
-|RF7| O usuário deve poder acessar a página de ajuda da plataforma|Must|
-|RF8| O usuário deve ser capaz de passar para o proximo episódio ainda na reprodução do atual|Should|
-|RF9| O usuário deve poder escolher qual episódio assistir de um título |Must|
+|RFS01| O usuário deve conseguir Criar conta |Must|
+|RFS02| O usuário deve conseguir Cancelar assinatura do Amazon prime |Must|
+|RFS03| O usuário pode alterar dados da conta |Must|
+|RF01| O usuário deve conseguir visualizar os termos e aviso de privacidade |Must|
+|RF02| O usuário deve ter a opção de ocultar uma serie/filme da sua tela inicial |Should|
+|RF03| O usuário deve ter a opção de ver pedidos |Should|
+|RF04| O usuário deve poder remover títulos da sua lista |Must|
+|RF05| O usuário deve ser capaz de comprar conteúdo extra |Must|
+|RF06| O usuário deve ser capaz de registrar seu feedback sobre titulo |Should|
+|RF07| O usuário deve poder acessar a página de ajuda da plataforma|Must|
+|RF08| O usuário deve ser capaz de passar para o proximo episódio ainda na reprodução do atual|Should|
+|RF09| O usuário deve poder escolher qual episódio assistir de um título |Must|
 |RF10| O usuário deve ser capaz de desabilitar a reprodução automática |Should|
 |RF11| O usuário deve ser capaz de visualizar títulos recomendados |Should|
 |RF12| O usuário deve ser capaz de assistir ao trailer dos títulos |Should|
