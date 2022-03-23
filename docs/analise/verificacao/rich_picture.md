@@ -18,7 +18,7 @@ Para a elaboração das respostas quanto ao rich picture, foi utilizado um check
 |✔ |Contém|
 |❌|Não Contém|
 
-|Número|Rich Picture|
+|Descrição|Rich Picture|
 |:-:|:-:|
 |O desenho é de fácil compreensão?|✔|
 |Os fluxos estão representados corretamente?|✔|
