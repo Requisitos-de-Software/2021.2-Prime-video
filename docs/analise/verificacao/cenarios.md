@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-Este documento
+Este documento tem o objetivo de realizar a verificação dos cenários do Prime Video e identificar possíveis defeitos a serem corrigidos neste artefato.
 
 
 ## 2. Metodologia
@@ -40,150 +40,155 @@ Através de alguns critérios definidos por meio da técnica de inspeção, os e
 
 | Número |                                   Questão                                    | Resposta |
 | :----: | :--------------------------------------------------------------------------: | :------: |
-|   1    |                         O título é auto-explicativo?                         |    ✔     |
-|   2    |                             O objetivo é claro?                              |    ✔     |
-|   3    |                     O ambiente contextualiza o cenário?                      |    ✔     |
-|   4    |                  Os atores foram listados de forma correta?                  |    ✔     |
-|   5    |     Os episódios guiam o ator de forma a realizar a tarefa com sucesso?      |    ✔     |
-|   6    |          Caso exista, os eventos estão condizentes com o objetivo?           |    ✔     |
-|   7    | A avaliação descreve um comportamento que garante o cumprimento do objetivo? |    ✔     |
-|   8    |                O planejamento induz a realização do objetivo?                |    ✔     |
-|   9    |                Os eventos estão dispostos da forma proposta?                 |    ✔     |
+|   1    |O título é auto-explicativo?                        |    ✔️     |
+|   2    |O contexto está bem definido? (local e pré condição)|    ✔️     |
+|   3    |Os atores estão identificados corretamente?         |    ✔️     |
+|   4    |O objetivo do cenário está claro?                   |    ✔️     |
+|   5    |Os recursos necessários foram bem explicados?       |    ✔️     |
+|   6    |Os episódios condizem com a realidade?              |    ✔️     |
+|   7    |As exceções, caso existam, estão bem definidas?     |    ✔️     |
+|   8    |O cenário está linkado aos léxicos?                 |    ❌     |
+|   9    |O cenário se relaciona à alguma funcionalidade listada nos requisitos?|    ✔️     |
 
 ### C02 - Busca por Título
 
 | Número |                                   Questão                                    | Resposta |
 | :----: | :--------------------------------------------------------------------------: | :------: |
-|   1    |                         O título é auto-explicativo?                         |    ✔     |
-|   2    |                             O objetivo é claro?                              |    ✔     |
-|   3    |                     O ambiente contextualiza o cenário?                      |    ✔     |
-|   4    |                  Os atores foram listados de forma correta?                  |    ✔     |
-|   5    |     Os episódios guiam o ator de forma a realizar a tarefa com sucesso?      |    ✔     |
-|   6    |          Caso exista, os eventos estão condizentes com o objetivo?           |    ✔     |
-|   7    | A avaliação descreve um comportamento que garante o cumprimento do objetivo? |    ✔     |
-|   8    |                O planejamento induz a realização do objetivo?                |    ✔     |
-|   9    |                Os eventos estão dispostos da forma proposta?                 |    ✔     |
-
+|   1    |O título é auto-explicativo?                        |    ✔️     |
+|   2    |O contexto está bem definido? (local e pré condição)|    ✔️     |
+|   3    |Os atores estão identificados corretamente?         |    ❌     |
+|   4    |O objetivo do cenário está claro?                   |    ✔️     |
+|   5    |Os recursos necessários foram bem explicados?       |    ✔️     |
+|   6    |Os episódios condizem com a realidade?              |    ✔️     |
+|   7    |As exceções, caso existam, estão bem definidas?     |    ✔️     |
+|   8    |O cenário está linkado aos léxicos?                 |    ❌     |
+|   9    |O cenário se relaciona à alguma funcionalidade listada nos requisitos?|    ✔️     |
 ### C03 - Assistir Título
 
 | Número |                                   Questão                                    | Resposta |
 | :----: | :--------------------------------------------------------------------------: | :------: |
-|   1    |                         O título é auto-explicativo?                         |    ✔     |
-|   2    |                             O objetivo é claro?                              |    ✔     |
-|   3    |                     O ambiente contextualiza o cenário?                      |    ✔     |
-|   4    |                  Os atores foram listados de forma correta?                  |    ✔     |
-|   5    |     Os episódios guiam o ator de forma a realizar a tarefa com sucesso?      |    ✔     |
-|   6    |          Caso exista, os eventos estão condizentes com o objetivo?           |    ✔     |
-|   7    | A avaliação descreve um comportamento que garante o cumprimento do objetivo? |    ✔     |
-|   8    |                O planejamento induz a realização do objetivo?                |    ✔     |
-|   9    |                Os eventos estão dispostos da forma proposta?                 |    ✔     |
+|   1    |O título é auto-explicativo?                        |    ✔️     |
+|   2    |O contexto está bem definido? (local e pré condição)|    ✔️     |
+|   3    |Os atores estão identificados corretamente?         |    ✔️     |
+|   4    |O objetivo do cenário está claro?                   |    ✔️     |
+|   5    |Os recursos necessários foram bem explicados?       |    ✔️     |
+|   6    |Os episódios condizem com a realidade?              |    ✔️     |
+|   7    |As exceções, caso existam, estão bem definidas?     |    ✔️     |
+|   8    |O cenário está linkado aos léxicos?                 |    ❌     |
+|   9    |O cenário se relaciona à alguma funcionalidade listada nos requisitos?|    ✔️     |
 
 ### C04 - Minha Área
 
 | Número |                                   Questão                                    | Resposta |
 | :----: | :--------------------------------------------------------------------------: | :------: |
-|   1    |                         O título é auto-explicativo?                         |    ✔     |
-|   2    |                             O objetivo é claro?                              |    ✔     |
-|   3    |                     O ambiente contextualiza o cenário?                      |    ✔     |
-|   4    |                  Os atores foram listados de forma correta?                  |    ✔     |
-|   5    |     Os episódios guiam o ator de forma a realizar a tarefa com sucesso?      |    ✔     |
-|   6    |          Caso exista, os eventos estão condizentes com o objetivo?           |    ✔     |
-|   7    | A avaliação descreve um comportamento que garante o cumprimento do objetivo? |    ✔     |
-|   8    |                O planejamento induz a realização do objetivo?                |    ✔     |
-|   9    |                Os eventos estão dispostos da forma proposta?                 |    ✔     |
+|   1    |O título é auto-explicativo?                        |    ✔️     |
+|   2    |O contexto está bem definido? (local e pré condição)|    ✔️     |
+|   3    |Os atores estão identificados corretamente?         |    ✔️     |
+|   4    |O objetivo do cenário está claro?                   |    ✔️     |
+|   5    |Os recursos necessários foram bem explicados?       |    ✔️     |
+|   6    |Os episódios condizem com a realidade?              |    ✔️     |
+|   7    |As exceções, caso existam, estão bem definidas?     |    ✔️     |
+|   8    |O cenário está linkado aos léxicos?                 |    ❌     |
+|   9    |O cenário se relaciona à alguma funcionalidade listada nos requisitos?|    ✔️     |
 
 ### C05 - Alugar Conteúdo Extra
 
 | Número |                                   Questão                                    | Resposta |
 | :----: | :--------------------------------------------------------------------------: | :------: |
-|   1    |                         O título é auto-explicativo?                         |    ✔     |
-|   2    |                             O objetivo é claro?                              |    ✔     |
-|   3    |                     O ambiente contextualiza o cenário?                      |    ✔     |
-|   4    |                  Os atores foram listados de forma correta?                  |    ✔     |
-|   5    |     Os episódios guiam o ator de forma a realizar a tarefa com sucesso?      |    ✔     |
-|   6    |          Caso exista, os eventos estão condizentes com o objetivo?           |    ✔     |
-|   7    | A avaliação descreve um comportamento que garante o cumprimento do objetivo? |    ✔     |
-|   8    |                O planejamento induz a realização do objetivo?                |    ✔     |
-|   9    |                Os eventos estão dispostos da forma proposta?                 |    ✔     |
+|   1    |O título é auto-explicativo?                        |    ✔️     |
+|   2    |O contexto está bem definido? (local e pré condição)|    ✔️     |
+|   3    |Os atores estão identificados corretamente?         |    ✔️     |
+|   4    |O objetivo do cenário está claro?                   |    ✔️     |
+|   5    |Os recursos necessários foram bem explicados?       |    ✔️     |
+|   6    |Os episódios condizem com a realidade?              |    ✔️     |
+|   7    |As exceções, caso existam, estão bem definidas?     |    ✔️     |
+|   8    |O cenário está linkado aos léxicos?                 |    ❌     |
+|   9    |O cenário se relaciona à alguma funcionalidade listada nos requisitos?|    ✔️     |
 
 ### C06 - Assinar Canais Extra
 
 | Número |                                   Questão                                    | Resposta |
 | :----: | :--------------------------------------------------------------------------: | :------: |
-|   1    |                         O título é auto-explicativo?                         |    ✔     |
-|   2    |                             O objetivo é claro?                              |    ✔     |
-|   3    |                     O ambiente contextualiza o cenário?                      |    ✔     |
-|   4    |                  Os atores foram listados de forma correta?                  |    ✔     |
-|   5    |     Os episódios guiam o ator de forma a realizar a tarefa com sucesso?      |    ✔     |
-|   6    |          Caso exista, os eventos estão condizentes com o objetivo?           |    ✔     |
-|   7    | A avaliação descreve um comportamento que garante o cumprimento do objetivo? |    ✔     |
-|   8    |                O planejamento induz a realização do objetivo?                |    ✔     |
-|   9    |                Os eventos estão dispostos da forma proposta?                 |    ✔     |
+|   1    |O título é auto-explicativo?                        |    ✔️     |
+|   2    |O contexto está bem definido? (local e pré condição)|    ✔️     |
+|   3    |Os atores estão identificados corretamente?         |    ✔️     |
+|   4    |O objetivo do cenário está claro?                   |    ✔️     |
+|   5    |Os recursos necessários foram bem explicados?       |    ✔️     |
+|   6    |Os episódios condizem com a realidade?              |    ✔️     |
+|   7    |As exceções, caso existam, estão bem definidas?     |    ✔️     |
+|   8    |O cenário está linkado aos léxicos?                 |    ❌     |
+|   9    |O cenário se relaciona à alguma funcionalidade listada nos requisitos?|    ✔️     |
 
 ### C07 - Alterar Meio de Pagamento
 
 | Número |                                   Questão                                    | Resposta |
 | :----: | :--------------------------------------------------------------------------: | :------: |
-|   1    |                         O título é auto-explicativo?                         |    ✔     |
-|   2    |                             O objetivo é claro?                              |    ✔     |
-|   3    |                     O ambiente contextualiza o cenário?                      |    ✔     |
-|   4    |                  Os atores foram listados de forma correta?                  |    ✔     |
-|   5    |     Os episódios guiam o ator de forma a realizar a tarefa com sucesso?      |    ✔     |
-|   6    |          Caso exista, os eventos estão condizentes com o objetivo?           |    ✔     |
-|   7    | A avaliação descreve um comportamento que garante o cumprimento do objetivo? |    ✔     |
-|   8    |                O planejamento induz a realização do objetivo?                |    ✔     |
-|   9    |                Os eventos estão dispostos da forma proposta?                 |    ✔     |
+|   1    |O título é auto-explicativo?                        |    ✔️     |
+|   2    |O contexto está bem definido? (local e pré condição)|    ✔️     |
+|   3    |Os atores estão identificados corretamente?         |    ✔️     |
+|   4    |O objetivo do cenário está claro?                   |    ✔️     |
+|   5    |Os recursos necessários foram bem explicados?       |    ✔️     |
+|   6    |Os episódios condizem com a realidade?              |    ✔️     |
+|   7    |As exceções, caso existam, estão bem definidas?     |    ✔️     |
+|   8    |O cenário está linkado aos léxicos?                 |    ❌     |
+|   9    |O cenário se relaciona à alguma funcionalidade listada nos requisitos?|    ✔️     |
 
 ### C08 - Reprodução Automática
 
 | Número |                                   Questão                                    | Resposta |
 | :----: | :--------------------------------------------------------------------------: | :------: |
-|   1    |                         O título é auto-explicativo?                         |    ✔     |
-|   2    |                             O objetivo é claro?                              |    ✔     |
-|   3    |                     O ambiente contextualiza o cenário?                      |    ✔     |
-|   4    |                  Os atores foram listados de forma correta?                  |    ✔     |
-|   5    |     Os episódios guiam o ator de forma a realizar a tarefa com sucesso?      |    ✔     |
-|   6    |          Caso exista, os eventos estão condizentes com o objetivo?           |    ✔     |
-|   7    | A avaliação descreve um comportamento que garante o cumprimento do objetivo? |    ✔     |
-|   8    |                O planejamento induz a realização do objetivo?                |    ✔     |
-|   9    |                Os eventos estão dispostos da forma proposta?                 |    ✔     |
+|   1    |O título é auto-explicativo?                        |    ✔️     |
+|   2    |O contexto está bem definido? (local e pré condição)|    ✔️     |
+|   3    |Os atores estão identificados corretamente?         |    ✔️     |
+|   4    |O objetivo do cenário está claro?                   |    ✔️     |
+|   5    |Os recursos necessários foram bem explicados?       |    ✔️     |
+|   6    |Os episódios condizem com a realidade?              |    ✔️     |
+|   7    |As exceções, caso existam, estão bem definidas?     |    ✔️     |
+|   8    |O cenário está linkado aos léxicos?                 |    ❌     |
+|   9    |O cenário se relaciona à alguma funcionalidade listada nos requisitos?|    ✔️     |
 
 ### C09 - Realizar Logout
 
 | Número |                                   Questão                                    | Resposta |
 | :----: | :--------------------------------------------------------------------------: | :------: |
-|   1    |                         O título é auto-explicativo?                         |    ✔     |
-|   2    |                             O objetivo é claro?                              |    ✔     |
-|   3    |                     O ambiente contextualiza o cenário?                      |    ✔     |
-|   4    |                  Os atores foram listados de forma correta?                  |    ✔     |
-|   5    |     Os episódios guiam o ator de forma a realizar a tarefa com sucesso?      |    ✔     |
-|   6    |          Caso exista, os eventos estão condizentes com o objetivo?           |    ✔     |
-|   7    | A avaliação descreve um comportamento que garante o cumprimento do objetivo? |    ✔     |
-|   8    |                O planejamento induz a realização do objetivo?                |    ✔     |
-|   9    |                Os eventos estão dispostos da forma proposta?                 |    ✔     |
+|   1    |O título é auto-explicativo?                        |    ✔️     |
+|   2    |O contexto está bem definido? (local e pré condição)|    ✔️     |
+|   3    |Os atores estão identificados corretamente?         |    ✔️     |
+|   4    |O objetivo do cenário está claro?                   |    ✔️     |
+|   5    |Os recursos necessários foram bem explicados?       |    ✔️     |
+|   6    |Os episódios condizem com a realidade?              |    ✔️     |
+|   7    |As exceções, caso existam, estão bem definidas?     |    ✔️     |
+|   8    |O cenário está linkado aos léxicos?                 |    ❌     |
+|   9    |O cenário se relaciona à alguma funcionalidade listada nos requisitos?|    ✔️     |
 
 ### C10 - Alterra Idiomas
 
 | Número |                                   Questão                                    | Resposta |
 | :----: | :--------------------------------------------------------------------------: | :------: |
-|   1    |                         O título é auto-explicativo?                         |    ✔     |
-|   2    |                             O objetivo é claro?                              |    ✔     |
-|   3    |                     O ambiente contextualiza o cenário?                      |    ✔     |
-|   4    |                  Os atores foram listados de forma correta?                  |    ✔     |
-|   5    |     Os episódios guiam o ator de forma a realizar a tarefa com sucesso?      |    ✔     |
-|   6    |          Caso exista, os eventos estão condizentes com o objetivo?           |    ✔     |
-|   7    | A avaliação descreve um comportamento que garante o cumprimento do objetivo? |    ✔     |
-|   8    |                O planejamento induz a realização do objetivo?                |    ✔     |
-|   9    |                Os eventos estão dispostos da forma proposta?                 |    ✔     |
+|   1    |O título é auto-explicativo?                        |    ✔️     |
+|   2    |O contexto está bem definido? (local e pré condição)|    ✔️     |
+|   3    |Os atores estão identificados corretamente?         |    ✔️     |
+|   4    |O objetivo do cenário está claro?                   |    ✔️     |
+|   5    |Os recursos necessários foram bem explicados?       |    ✔️     |
+|   6    |Os episódios condizem com a realidade?              |    ✔️     |
+|   7    |As exceções, caso existam, estão bem definidas?     |    ✔️     |
+|   8    |O cenário está linkado aos léxicos?                 |    ❌     |
+|   9    |O cenário se relaciona à alguma funcionalidade listada nos requisitos?|    ✔️     |
 
 
-## 4. Referências
+
+## 4. Conclusão
+
+O documento dos <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/cenarios/">cenários</a> apesar de bem descrito e possuir os elementos bem especificados, ainda possui alguns problemas a serem solucionados. O artefato não possui link como os <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/lexicos/">léxicos</a> e o <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/cenarios/#c02">C02</a> não possui um dos atores muito bem explicados.
+
+## 5. Referências
 
 Reinehr, Sheila Engenharia de Requisitos, Editora: Grupo A Selo: Sagah. 1ª edição. 2020.
 
 
-## 5. Histórico de Versionamento
+## 6. Histórico de Versionamento
 
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
 |1.0|22/03/2022|Criação do documento de verificação dos cenários|[Caio Santos](https://github.com/caiobsantos)||
+|1.1|23/03/2022|Adição da introdução e análise dos cenários|[Caio Santos](https://github.com/caiobsantos)||
