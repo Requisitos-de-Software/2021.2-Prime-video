@@ -3,7 +3,7 @@
 ## 1. Introdução
 
 <p align='justify'>
-  Dada a criação do documento que trata do Backlog, tem-se então a necessidade de averiguar se suas especificações atendem ao que é exigido para a continuação das etapas seguintes relacionadas ao projeto.
+  Dada a criação do documento que trata do <a href="../../../modelagem/agil/backlog" target="_blanck">Backlog</a>, tem-se então a necessidade de averiguar se suas especificações atendem ao que é exigido para a continuação das etapas seguintes relacionadas ao projeto.
 </p>
 
 ## 2. Metodologia
@@ -15,7 +15,7 @@
 ## 3. Checklists
 
 <p align='justify'>
-  Abaixo estão as tabelas referentes aos quesitos que foram levados em conta durante a avaliação do documento de Backlog. 
+  Abaixo estão as tabelas referentes aos quesitos que foram levados em conta durante a avaliação do documento de <a href="../../../modelagem/agil/backlog" target="_blanck">Backlog</a>. 
 </p>
 
 <center>
@@ -115,7 +115,7 @@
 | 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
 | 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
 | 4 | A associação deste US ao Épico está correta? | ✔️ |
-| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ❌ |
 | 6 | O ator associado está de fato coerente a US? | ✔️ |
 
 <figcaption>Fonte: Próprio autor</figcaption>
@@ -133,7 +133,7 @@
 | 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
 | 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
 | 4 | A associação deste US ao Épico está correta? | ✔️ |
-| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ❌ |
 | 6 | O ator associado está de fato coerente a US? | ✔️ |
 
 <figcaption>Fonte: Próprio autor</figcaption>
@@ -151,7 +151,7 @@
 | 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
 | 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
 | 4 | A associação deste US ao Épico está correta? | ✔️ |
-| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ❌ |
 | 6 | O ator associado está de fato coerente a US? | ✔️ |
 
 <figcaption>Fonte: Próprio autor</figcaption>
@@ -869,7 +869,7 @@
 ## 5. Conclusão
 
 <p align='justify'>
-  Dado que a avaliação do Backlog não encontrou nenhum problema entre os quesitos analisados, está tudo certo com este documento e é possível dar prosseguimento com o projeto.
+  Dado que a avaliação do <a href="../../../modelagem/agil/backlog" target="_blanck">Backlog</a> não encontrou nenhum problema estritamente relevante dentre os quesitos analisados, está tudo certo com este documento e é possível dar prosseguimento com o projeto.
 </p>
 
 ## 5. Referências
