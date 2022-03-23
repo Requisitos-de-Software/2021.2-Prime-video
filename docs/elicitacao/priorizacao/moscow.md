@@ -34,8 +34,7 @@ Para organizar os requisitos de acordo com funcionais , não funcionais e especi
 
 - Requisito Funcional - RF
 - Requisito Não Funcional - RNF
-- Requisito Funcional especial - RFS
-
+- Requisito Funcional Amazon Prime - RFAP
 
 ## 3. Resultados
 
@@ -43,9 +42,9 @@ Para organizar os requisitos de acordo com funcionais , não funcionais e especi
 
 | Código | Requisito| Prioridade |
 |--|--|--|
-|RFS01| O usuário deve conseguir Criar conta |Must|
-|RFS02| O usuário deve conseguir Cancelar assinatura do Amazon prime |Must|
-|RFS03| O usuário pode alterar dados da conta |Must|
+|RFAP01| O usuário deve conseguir Criar conta |Must|
+|RFAP02| O usuário deve conseguir Cancelar assinatura do Amazon prime |Must|
+|RFAP03| O usuário pode alterar dados da conta |Must|
 |RF01| O usuário deve conseguir visualizar os termos e aviso de privacidade |Must|
 |RF02| O usuário deve ter a opção de ocultar uma serie/filme da sua tela inicial |Should|
 |RF03| O usuário deve ter a opção de ver pedidos |Should|
@@ -125,4 +124,4 @@ CARVALHO, Henrique. O framework de priorizacao: MoSCoW. Disponível em: <https:/
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
 |1.0|20/02/2022|Criação do MoSCoW|[Lameque Fernandes](https://github.com/lamequefernandes)|[Antonio Igor](https://github.com/antonioigorcarvalho), [Douglas Monteles](https://github.com/douglasmonteles) e [Erick Levy](https://github.com/ericklevy)|
-|1.1|23/03/2022 |Remodulamento do MosCow|[Erick Levy](https://github.com/ericklevy)| |
+|1.1|23/03/2022 |Remodulamento do MosCow|[Erick Levy](https://github.com/ericklevy)| [Antonio Igor](https://github.com/antonioigorcarvalho) |
