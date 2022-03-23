@@ -39,6 +39,9 @@ nav:
     - Ágil:
       - Backlog do Produto: modelagem/agil/backlog.md
       - Histórias de usuário: modelagem/agil/user_story.md
+  - Análise:
+    - Verificação:
+      - NRF Framework: analise/verificacao/nfr_framework.md
   - Apresentações:
     - Apresentação 1: apresentacoes/apresentacao1.md
     - Apresentação 2: apresentacoes/apresentacao2.md
