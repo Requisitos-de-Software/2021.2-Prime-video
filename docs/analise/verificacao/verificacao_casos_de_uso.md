@@ -41,7 +41,7 @@ No checklist temos perguntas sobre os casos de uso que nos permitem verificar os
 
 <center>
 
-| Número | Quesito da avaliação | Situação |
+| ID | Quesito da avaliação | Situação |
 | :----: | :------------------: | :------: |
 | 1 | Detalha a comunicação entre o sistema e seus atores? | ✔️ |
 | 2 | Possui apenas informações relevantes? | ✔️ |
@@ -50,12 +50,11 @@ No checklist temos perguntas sobre os casos de uso que nos permitem verificar os
 | 5 | Os verbos estão no infinitivo? | ✔️ |
 | 6 | Os atores são descritos de forma clara? | ✔️ |
 | 7 | As tabelas estão padronizadas? | ✔️ |
-| 8 | Possui fluxos alternativos? | ✔️ |
-| 9 | As setas estão sendo usadas corretamente? | ✔️ |
-| 10 | Possui rastreabilidade? | ❌ |
-| 11 | Apresenta o comportamento do sistema de forma clara? | ✔️ |
-| 12 | A tabela está coerente com a representação do diagrama? | ✔️ |
-| 13 | Descreve a principal meta do caso de uso?   | ✔️ |
+| 8 | As setas estão sendo usadas corretamente? | ✔️ |
+| 9 | Possui rastreabilidade? | ❌ |
+| 10 | Apresenta o comportamento do sistema de forma clara? | ✔️ |
+| 11 | A tabela está coerente com a representação do diagrama? | ✔️ |
+| 12 | Descreve a principal meta do caso de uso?   | ✔️ |
 
 
 <figcaption>Fonte: Próprio autor</figcaption>
@@ -66,7 +65,7 @@ No checklist temos perguntas sobre os casos de uso que nos permitem verificar os
 
 <center>
 
-| Número | Quesito da avaliação | Situação |
+| ID | Quesito da avaliação | Situação |
 | :----: | :------------------: | :------: |
 | 1 | Detalha a comunicação entre o sistema e seus atores? | ✔️ |
 | 2 | Possui apenas informações relevantes? | ✔️ |
@@ -75,12 +74,11 @@ No checklist temos perguntas sobre os casos de uso que nos permitem verificar os
 | 5 | Os verbos estão no infinitivo? | ✔️ |
 | 6 | Os atores são descritos de forma clara? | ✔️ |
 | 7 | As tabelas estão padronizadas? | ✔️ |
-| 8 | Possui fluxos alternativos? | ❌ |
-| 9 | As setas estão sendo usadas corretamente? | ✔️ |
-| 10 | Possui rastreabilidade? | ❌ |
-| 11 | Apresenta o comportamento do sistema de forma clara? | ✔️ |
-| 12 | A tabela está coerente com a representação do diagrama? | ✔️ |
-| 13 | Descreve a principal meta do caso de uso?   | ✔️ |
+| 8 | As setas estão sendo usadas corretamente? | ✔️ |
+| 9 | Possui rastreabilidade? | ❌ |
+| 10 | Apresenta o comportamento do sistema de forma clara? | ✔️ |
+| 11 | A tabela está coerente com a representação do diagrama? | ✔️ |
+| 12 | Descreve a principal meta do caso de uso?   | ✔️ |
 
 <figcaption>Fonte: Próprio autor</figcaption>
 </center>
@@ -90,7 +88,7 @@ No checklist temos perguntas sobre os casos de uso que nos permitem verificar os
 
 <center>
 
-| Número | Quesito da avaliação | Situação |
+| ID | Quesito da avaliação | Situação |
 | :----: | :------------------: | :------: |
 | 1 | Detalha a comunicação entre o sistema e seus atores? | ✔️ |
 | 2 | Possui apenas informações relevantes? | ✔️ |
@@ -99,15 +97,35 @@ No checklist temos perguntas sobre os casos de uso que nos permitem verificar os
 | 5 | Os verbos estão no infinitivo? | ✔️ |
 | 6 | Os atores são descritos de forma clara? | ✔️ |
 | 7 | As tabelas estão padronizadas? | ✔️ |
-| 8 | Possui fluxos alternativos? | ❌ |
-| 9 | As setas estão sendo usadas corretamente? | ✔️ |
-| 10 | Possui rastreabilidade? | ❌ |
-| 11 | Apresenta o comportamento do sistema de forma clara? | ✔️ |
-| 12 | A tabela está coerente com a representação do diagrama? | ✔️ |
-| 13 | Descreve a principal meta do caso de uso?   | ✔️ |
+| 8 | As setas estão sendo usadas corretamente? | ✔️ |
+| 9 | Possui rastreabilidade? | ❌ |
+| 10 | Apresenta o comportamento do sistema de forma clara? | ✔️ |
+| 11 | A tabela está coerente com a representação do diagrama? | ✔️ |
+| 12 | Descreve a principal meta do caso de uso?   | ✔️ |
 
 <figcaption>Fonte: Próprio autor</figcaption>
 </center>
+
+
+## 3. Problemas encontrados
+
+| UC    | ID     | Descrição do ID |
+| :---: | :----: | :-------------: |
+| 1  | 3  | Existe um fluxo principal? |
+| 1  | 9  | Possui rastreabilidade? |
+| 2  | 9  | Possui rastreabilidade? |
+| 3  | 9  | Possui rastreabilidade? |
+
+### 3.1 Possíveis soluções
+
+Para solucionar os problemas encontrados na UC1(Fluxo de conta), será necessário dividir o caso de uso em dois, pois os mesmo possui dois fluxos principais.
+
+Outro problema, desta vez encontrado em todos os casos de uso é a ausência de rastreabilidade. Esse problema seria solucionado facilmente adicionando a rastreabilidade em todos os UC(casos de uso).
+
+
+## 4. Conclusão
+
+A partir desta análise foi possível concluir que a verificação dos casos de uso foi muito efetiva para encontrar erros que ocorreram durante a produção dos mesmos. Desta forma, é certo que deve-se fazer alterações para que os mesmos estejam realmente completos e prontos para uso.
 
 
 ## 5. Referências
@@ -121,3 +139,4 @@ SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 23, do slide 4 ao 31. Mat
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
 |1.0|23/03/2022|Criação do documento de análise dos Casos de Uso|[Lameque Fernandes](https://github.com/lamequefernandes)|-|
+|1.1|23/03/2022|Adição de conclusão e alterações nas tabelas|[Lameque Fernandes](https://github.com/lamequefernandes)|-|
