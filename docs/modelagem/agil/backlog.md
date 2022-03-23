@@ -45,12 +45,12 @@ Um Épico pode ser definido como uma coleção de histórias de usuário que ain
 | US02 |   RF32    | Alugar documentário| Must  |
 | US03 |   RF32    | Alugar  filme| Must |
 | US04 |   RF32    | Alugar  série| Must |
-| US01 |   RF34    | Cancelar assinatura de canal| Must |
-| US02 |   RF34    | Cancelar alugamento de documentário| Must  |
-| US03 |   RF34    | Cancelar alugamento de filme| Must |
-| US04 |   RF34    | Cancelar alugamento de série| Must |
-| US05 |   RF3   | Mostrar pedidos| Could |
-| US06 |   RF21    | Mudar método de pagamento | Should |
+| US05 |   RF34    | Cancelar assinatura de canal| Must |
+| US06 |   RF34    | Cancelar alugamento de documentário| Must  |
+| US07 |   RF34    | Cancelar alugamento de filme| Must |
+| US08 |   RF34    | Cancelar alugamento de série| Must |
+| US09 |   RF3   | Mostrar pedidos| Could |
+| US10 |   RF21    | Mudar método de pagamento | Should |
 | US07 |   RF37    | Olhar as informações da conta| Must |
 | US08 |   RF27    | Realizar login| Must |
 | US09 |   RF28    | Realizar logout| Must |
@@ -89,21 +89,21 @@ Um Épico pode ser definido como uma coleção de histórias de usuário que ain
 | US31 | RF12 | Pular a abertura dos títulos | Should | 
 | US32 | RF22 | Escolher o idioma de áudio dos títulos | Must | 
 | US33 | RF23 | Escolher o idioma de legenda dos títulos | Must | 
-| US33 | RF44 | Receber recomendações de conteúdo | Must |
-| US33 | RF44| Receber recomendações no email de conteúdo | Must |
-| US34 | RF24 | Retirar a legenda dos títulos | Must | 
-| US35 | RF26 | Escolher a qualidade de vídeo | Must | 
-| US36 | RF27 | Reproduzir o título em tela cheia | Must | 
-| US37 | RFXX | Retomar um título | Should | 
-| US38 | RF38 | Ver informações sobre os atores em atuação no título | Won't | 
-| US39 | RF35 | Ocultar vídeos | Could | 
-| US40 | RF37 | Ver histórico de reprodução | Should | 
-| US41 | RF19 | Realizar buscas | Must | 
-| US42 | RF20 | Filtar busca | Must | 
-| US43 | RF42 | Acessar um título pelo nome completo ou apenas parte dele | Must | 
-| US44 | RF05 | Comprar conteúdo extra | Must | 
-| US45 | R31 | Alugar conteúdo extra | Must | 
-| US46| RF05 | Reproduzir conteúdo extra | Must | 
+| US34 | RF44 | Receber recomendações de conteúdo | Must |
+| US35 | RF44| Receber recomendações no email de conteúdo | Must |
+| US36 | RF24 | Retirar a legenda dos títulos | Must | 
+| US37 | RF26 | Escolher a qualidade de vídeo | Must | 
+| US38 | RF27 | Reproduzir o título em tela cheia | Must | 
+| US39 | RFXX | Retomar um título | Should | 
+| US40 | RF38 | Ver informações sobre os atores em atuação no título | Won't | 
+| US41 | RF35 | Ocultar vídeos | Could | 
+| US42 | RF37 | Ver histórico de reprodução | Should | 
+| US43 | RF19 | Realizar buscas | Must | 
+| US44 | RF20 | Filtar busca | Must | 
+| US45 | RF42 | Acessar um título pelo nome completo ou apenas parte dele | Must | 
+| US46 | RF05 | Comprar conteúdo extra | Must | 
+| US47 | R31 | Alugar conteúdo extra | Must | 
+| US48 | RF05 | Reproduzir conteúdo extra | Must | 
 
 
 ## 4. Referências
