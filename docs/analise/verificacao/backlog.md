@@ -18,740 +18,306 @@
   Abaixo estão as tabelas referentes aos quesitos que foram levados em conta durante a avaliação do documento de Backlog. 
 </p>
 
-<figure>
-  <figcaption>Tabela 1: Legenda</figcaption>
-  
-  <table>
-    <thead>
-      <tr>
-        <th align="center">Quesito satisfeito</th>
-        <th align="center">Quesito não satisfeito</th>
-        <th align="center">US</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center">✔️</td>
-        <td align="center">❌</td>
-        <td align="center">User Story (História de Usuário)</td>
-      </tr>
-    </tbody>
-  </table>
-  <figcaption>Fonte: Próprio autor</figcaption>
-</figure>
+<center>
 
-<br><br>
+#### Tabela 1: Legenda
 
-<figure>
-  <figcaption>Tabela 2: US01 - Cancelar assinatura de canal</figcaption>
-  
-  <table>
-    <thead>
-      <tr>
-        <th align="center">Número</th>
-        <th align="center">Quesito da avaliação</th>
-        <th align="center">Situação</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center">1</td>
-        <td align="center">Documento contém as informações necessárias?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">2</td>
-        <td align="center">Os artefatos estão descritos de forma clara e objetiva?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">3</td>
-        <td align="center">Documento utiliza uma linguagem clara e sem erros ortográficos?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">4</td>
-        <td align="center">A associação deste US ao Épico está correta?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">5</td>
-        <td align="center">A associação deste US a sua rastreabilidade (quando definida) está coerente?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">6</td>
-        <td align="center">O ator associado está de fato coerente a US?</td>
-        <td align="center">✔️</td>
-      </tr>
-    </tbody>
-  </table>
-  <figcaption>Fonte: Próprio autor</figcaption>
-</figure>
+| Item | Descrição |
+| :----: | :------------------: |
+| ✔️ | Quesito satisfeito |
+| ❌ | Quesito não satisfeito |
+| US | User Story (História de Usuário) |
 
-<br><br>
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
 
-<figure>
-  <figcaption>Tabela 3: US02 - Cancelar alugamento de documentário</figcaption>
-  
-  <table>
-    <thead>
-      <tr>
-        <th align="center">Número</th>
-        <th align="center">Quesito da avaliação</th>
-        <th align="center">Situação</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center">1</td>
-        <td align="center">Documento contém as informações necessárias?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">2</td>
-        <td align="center">Os artefatos estão descritos de forma clara e objetiva?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">3</td>
-        <td align="center">Documento utiliza uma linguagem clara e sem erros ortográficos?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">4</td>
-        <td align="center">A associação deste US ao Épico está correta?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">5</td>
-        <td align="center">A associação deste US a sua rastreabilidade (quando definida) está coerente?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">6</td>
-        <td align="center">O ator associado está de fato coerente a US?</td>
-        <td align="center">✔️</td>
-      </tr>
-    </tbody>
-  </table>
-  <figcaption>Fonte: Próprio autor</figcaption>
-</figure>
+<br>
 
-<br><br>
+<center>
 
-<figure>
-  <figcaption>Tabela 4: US03 - Cancelar alugamento de filme</figcaption>
-  
-  <table>
-    <thead>
-      <tr>
-        <th align="center">Número</th>
-        <th align="center">Quesito da avaliação</th>
-        <th align="center">Situação</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center">1</td>
-        <td align="center">Documento contém as informações necessárias?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">2</td>
-        <td align="center">Os artefatos estão descritos de forma clara e objetiva?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">3</td>
-        <td align="center">Documento utiliza uma linguagem clara e sem erros ortográficos?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">4</td>
-        <td align="center">A associação deste US ao Épico está correta?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">5</td>
-        <td align="center">A associação deste US a sua rastreabilidade (quando definida) está coerente?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">6</td>
-        <td align="center">O ator associado está de fato coerente a US?</td>
-        <td align="center">✔️</td>
-      </tr>
-    </tbody>
-  </table>
-  <figcaption>Fonte: Próprio autor</figcaption>
-</figure>
+#### Tabela 2: US01 Cancelar assinatura de canal
 
-<br><br>
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
 
-<figure>
-  <figcaption>Tabela 5: US04 - Cancelar alugamento de série</figcaption>
-  
-  <table>
-    <thead>
-      <tr>
-        <th align="center">Número</th>
-        <th align="center">Quesito da avaliação</th>
-        <th align="center">Situação</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center">1</td>
-        <td align="center">Documento contém as informações necessárias?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">2</td>
-        <td align="center">Os artefatos estão descritos de forma clara e objetiva?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">3</td>
-        <td align="center">Documento utiliza uma linguagem clara e sem erros ortográficos?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">4</td>
-        <td align="center">A associação deste US ao Épico está correta?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">5</td>
-        <td align="center">A associação deste US a sua rastreabilidade (quando definida) está coerente?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">6</td>
-        <td align="center">O ator associado está de fato coerente a US?</td>
-        <td align="center">✔️</td>
-      </tr>
-    </tbody>
-  </table>
-  <figcaption>Fonte: Próprio autor</figcaption>
-</figure>
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
 
-<figure>
-  <figcaption>Tabela 6: US05 - Mostrar pedidos</figcaption>
-  
-  <table>
-    <thead>
-      <tr>
-        <th align="center">Número</th>
-        <th align="center">Quesito da avaliação</th>
-        <th align="center">Situação</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center">1</td>
-        <td align="center">Documento contém as informações necessárias?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">2</td>
-        <td align="center">Os artefatos estão descritos de forma clara e objetiva?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">3</td>
-        <td align="center">Documento utiliza uma linguagem clara e sem erros ortográficos?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">4</td>
-        <td align="center">A associação deste US ao Épico está correta?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">5</td>
-        <td align="center">A associação deste US a sua rastreabilidade (quando definida) está coerente?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">6</td>
-        <td align="center">O ator associado está de fato coerente a US?</td>
-        <td align="center">✔️</td>
-      </tr>
-    </tbody>
-  </table>
-  <figcaption>Fonte: Próprio autor</figcaption>
-</figure>
+<br>
 
-<figure>
-  <figcaption>Tabela 8: US07 - Olhar as informações da conta</figcaption>
-  
-  <table>
-    <thead>
-      <tr>
-        <th align="center">Número</th>
-        <th align="center">Quesito da avaliação</th>
-        <th align="center">Situação</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center">1</td>
-        <td align="center">Documento contém as informações necessárias?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">2</td>
-        <td align="center">Os artefatos estão descritos de forma clara e objetiva?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">3</td>
-        <td align="center">Documento utiliza uma linguagem clara e sem erros ortográficos?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">4</td>
-        <td align="center">A associação deste US ao Épico está correta?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">5</td>
-        <td align="center">A associação deste US a sua rastreabilidade (quando definida) está coerente?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">6</td>
-        <td align="center">O ator associado está de fato coerente a US?</td>
-        <td align="center">✔️</td>
-      </tr>
-    </tbody>
-  </table>
-  <figcaption>Fonte: Próprio autor</figcaption>
-</figure>
+<center>
 
-<figure>
-  <figcaption>Tabela 9: US08 - Realizar login</figcaption>
-  
-  <table>
-    <thead>
-      <tr>
-        <th align="center">Número</th>
-        <th align="center">Quesito da avaliação</th>
-        <th align="center">Situação</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center">1</td>
-        <td align="center">Documento contém as informações necessárias?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">2</td>
-        <td align="center">Os artefatos estão descritos de forma clara e objetiva?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">3</td>
-        <td align="center">Documento utiliza uma linguagem clara e sem erros ortográficos?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">4</td>
-        <td align="center">A associação deste US ao Épico está correta?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">5</td>
-        <td align="center">A associação deste US a sua rastreabilidade (quando definida) está coerente?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">6</td>
-        <td align="center">O ator associado está de fato coerente a US?</td>
-        <td align="center">✔️</td>
-      </tr>
-    </tbody>
-  </table>
-  <figcaption>Fonte: Próprio autor</figcaption>
-</figure>
+#### Tabela 3: US02 Cancelar alugamento de documentário
 
-<figure>
-  <figcaption>Tabela 10: US09 - Realizar logout</figcaption>
-  
-  <table>
-    <thead>
-      <tr>
-        <th align="center">Número</th>
-        <th align="center">Quesito da avaliação</th>
-        <th align="center">Situação</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center">1</td>
-        <td align="center">Documento contém as informações necessárias?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">2</td>
-        <td align="center">Os artefatos estão descritos de forma clara e objetiva?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">3</td>
-        <td align="center">Documento utiliza uma linguagem clara e sem erros ortográficos?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">4</td>
-        <td align="center">A associação deste US ao Épico está correta?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">5</td>
-        <td align="center">A associação deste US a sua rastreabilidade (quando definida) está coerente?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">6</td>
-        <td align="center">O ator associado está de fato coerente a US?</td>
-        <td align="center">✔️</td>
-      </tr>
-    </tbody>
-  </table>
-  <figcaption>Fonte: Próprio autor</figcaption>
-</figure>
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
 
-<figure>
-  <figcaption>Tabela 11: US10 - Renova assinatura de canal</figcaption>
-  
-  <table>
-    <thead>
-      <tr>
-        <th align="center">Número</th>
-        <th align="center">Quesito da avaliação</th>
-        <th align="center">Situação</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center">1</td>
-        <td align="center">Documento contém as informações necessárias?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">2</td>
-        <td align="center">Os artefatos estão descritos de forma clara e objetiva?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">3</td>
-        <td align="center">Documento utiliza uma linguagem clara e sem erros ortográficos?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">4</td>
-        <td align="center">A associação deste US ao Épico está correta?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">5</td>
-        <td align="center">A associação deste US a sua rastreabilidade (quando definida) está coerente?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">6</td>
-        <td align="center">O ator associado está de fato coerente a US?</td>
-        <td align="center">✔️</td>
-      </tr>
-    </tbody>
-  </table>
-  <figcaption>Fonte: Próprio autor</figcaption>
-</figure>
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
 
-<figure>
-  <figcaption>Tabela 12: US11 - Renova assinatura de filme</figcaption>
-  
-  <table>
-    <thead>
-      <tr>
-        <th align="center">Número</th>
-        <th align="center">Quesito da avaliação</th>
-        <th align="center">Situação</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center">1</td>
-        <td align="center">Documento contém as informações necessárias?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">2</td>
-        <td align="center">Os artefatos estão descritos de forma clara e objetiva?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">3</td>
-        <td align="center">Documento utiliza uma linguagem clara e sem erros ortográficos?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">4</td>
-        <td align="center">A associação deste US ao Épico está correta?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">5</td>
-        <td align="center">A associação deste US a sua rastreabilidade (quando definida) está coerente?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">6</td>
-        <td align="center">O ator associado está de fato coerente a US?</td>
-        <td align="center">✔️</td>
-      </tr>
-    </tbody>
-  </table>
-  <figcaption>Fonte: Próprio autor</figcaption>
-</figure>
+<br>
 
-<figure>
-  <figcaption>Tabela 13: US12 - Renova assinatura de série</figcaption>
-  
-  <table>
-    <thead>
-      <tr>
-        <th align="center">Número</th>
-        <th align="center">Quesito da avaliação</th>
-        <th align="center">Situação</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center">1</td>
-        <td align="center">Documento contém as informações necessárias?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">2</td>
-        <td align="center">Os artefatos estão descritos de forma clara e objetiva?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">3</td>
-        <td align="center">Documento utiliza uma linguagem clara e sem erros ortográficos?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">4</td>
-        <td align="center">A associação deste US ao Épico está correta?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">5</td>
-        <td align="center">A associação deste US a sua rastreabilidade (quando definida) está coerente?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">6</td>
-        <td align="center">O ator associado está de fato coerente a US?</td>
-        <td align="center">✔️</td>
-      </tr>
-    </tbody>
-  </table>
-  <figcaption>Fonte: Próprio autor</figcaption>
-</figure>
+<center>
 
-<figure>
-  <figcaption>Tabela 14: US13 - Sair dos dispositivos</figcaption>
-  
-  <table>
-    <thead>
-      <tr>
-        <th align="center">Número</th>
-        <th align="center">Quesito da avaliação</th>
-        <th align="center">Situação</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center">1</td>
-        <td align="center">Documento contém as informações necessárias?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">2</td>
-        <td align="center">Os artefatos estão descritos de forma clara e objetiva?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">3</td>
-        <td align="center">Documento utiliza uma linguagem clara e sem erros ortográficos?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">4</td>
-        <td align="center">A associação deste US ao Épico está correta?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">5</td>
-        <td align="center">A associação deste US a sua rastreabilidade (quando definida) está coerente?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">6</td>
-        <td align="center">O ator associado está de fato coerente a US?</td>
-        <td align="center">✔️</td>
-      </tr>
-    </tbody>
-  </table>
-  <figcaption>Fonte: Próprio autor</figcaption>
-</figure>
+#### Tabela 4: US03 Cancelar alugamento de filme
 
-<figure>
-  <figcaption>Tabela 15: US14 - Criar um novo perfil à minha conta</figcaption>
-  
-  <table>
-    <thead>
-      <tr>
-        <th align="center">Número</th>
-        <th align="center">Quesito da avaliação</th>
-        <th align="center">Situação</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center">1</td>
-        <td align="center">Documento contém as informações necessárias?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">2</td>
-        <td align="center">Os artefatos estão descritos de forma clara e objetiva?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">3</td>
-        <td align="center">Documento utiliza uma linguagem clara e sem erros ortográficos?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">4</td>
-        <td align="center">A associação deste US ao Épico está correta?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">5</td>
-        <td align="center">A associação deste US a sua rastreabilidade (quando definida) está coerente?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">6</td>
-        <td align="center">O ator associado está de fato coerente a US?</td>
-        <td align="center">✔️</td>
-      </tr>
-    </tbody>
-  </table>
-  <figcaption>Fonte: Próprio autor</figcaption>
-</figure>
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
 
-<figure>
-  <figcaption>Tabela 16: US15 - Alterar minha foto de perfil</figcaption>
-  
-  <table>
-    <thead>
-      <tr>
-        <th align="center">Número</th>
-        <th align="center">Quesito da avaliação</th>
-        <th align="center">Situação</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center">1</td>
-        <td align="center">Documento contém as informações necessárias?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">2</td>
-        <td align="center">Os artefatos estão descritos de forma clara e objetiva?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">3</td>
-        <td align="center">Documento utiliza uma linguagem clara e sem erros ortográficos?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">4</td>
-        <td align="center">A associação deste US ao Épico está correta?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">5</td>
-        <td align="center">A associação deste US a sua rastreabilidade (quando definida) está coerente?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">6</td>
-        <td align="center">O ator associado está de fato coerente a US?</td>
-        <td align="center">✔️</td>
-      </tr>
-    </tbody>
-  </table>
-  <figcaption>Fonte: Próprio autor</figcaption>
-</figure>
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
 
-<figure>
-  <figcaption>Tabela 17: US16 - Alterar o nome do meu perfil</figcaption>
-  
-  <table>
-    <thead>
-      <tr>
-        <th align="center">Número</th>
-        <th align="center">Quesito da avaliação</th>
-        <th align="center">Situação</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center">1</td>
-        <td align="center">Documento contém as informações necessárias?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">2</td>
-        <td align="center">Os artefatos estão descritos de forma clara e objetiva?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">3</td>
-        <td align="center">Documento utiliza uma linguagem clara e sem erros ortográficos?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">4</td>
-        <td align="center">A associação deste US ao Épico está correta?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">5</td>
-        <td align="center">A associação deste US a sua rastreabilidade (quando definida) está coerente?</td>
-        <td align="center">✔️</td>
-      </tr>
-      <tr>
-        <td align="center">6</td>
-        <td align="center">O ator associado está de fato coerente a US?</td>
-        <td align="center">✔️</td>
-      </tr>
-    </tbody>
-  </table>
-  <figcaption>Fonte: Próprio autor</figcaption>
-</figure>
+<br>
+
+<center>
+
+#### Tabela 5: US04 Cancelar alugamento de série
+
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 6: US05 Mostrar pedidos
+
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 7: US06 Mudar método de pagamento	
+
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 8: US07 Olhar as informações da conta
+
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 9: US08 Realizar login
+
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 10: US09 Realizar logout
+
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 11: US10 Renova assinatura de canal
+
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 12: US11 Renova assinatura de filme
+
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 13: US12 Renova assinatura de série
+
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 14: US13 Sair dos dispositivos
+
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 15: US14 Criar um novo perfil à minha conta
+
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 16: US15 Alterar minha foto de perfil
+
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 17: US16 Alterar o nome do meu perfil
+
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1 | Documento contém as informações necessárias? | ✔️ |
+| 2 | Os artefatos estão descritos de forma clara e objetiva? | ✔️ |
+| 3 | Documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 4 | A associação deste US ao Épico está correta? | ✔️ |
+| 5 | A associação deste US a sua rastreabilidade (quando definida) está coerente? | ✔️ |
+| 6 | O ator associado está de fato coerente a US? | ✔️ |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
 
 <br>
 
@@ -1303,7 +869,7 @@
 ## 5. Conclusão
 
 <p align='justify'>
-  Dado que a avaliação do Backlog não encontrou nenhum problema entre os quesitos analisados, está tudo certo com este documento e é possível dar proceguimento com o projeto.
+  Dado que a avaliação do Backlog não encontrou nenhum problema entre os quesitos analisados, está tudo certo com este documento e é possível dar prosseguimento com o projeto.
 </p>
 
 ## 5. Referências
