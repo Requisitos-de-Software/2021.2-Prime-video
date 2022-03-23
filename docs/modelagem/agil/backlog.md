@@ -14,7 +14,7 @@ A metodologia propostas para as user story que estão presentes no Amazon prime 
 | tipo  |  significado   | explicação    | 
 | :-------------: |----------------|---------------|
 | US   |  User Story (História de Usuário)  | História de Usuário que pertencem unicamente ao escopo do Prime video. |
-| EUS  |  Especial User Story (História de Usuário especial)  | História de Usuário que pertencem tanto ao Prime video como o serviço Amazon Prime este termo foi criado para este projeto no caso da interligação do Amazon prime com o Prime video . |
+| APUS  |  Amazon Prime User Story (História de Usuário do Amazon Prime)  | História de Usuário que pertencem tanto ao Prime video como o serviço Amazon Prime este termo foi criado para este projeto no caso da interligação do Amazon prime com o Prime video. |
 
 ### 2.1 Tabela usada para representação dos Épicos
 | ID | Rastreabilidade | História de usúario (Eu como usuário gostaria de ...) | Prioridade |
@@ -44,11 +44,11 @@ Um Épico pode ser definido como uma coleção de histórias de usuário que ain
 
 | ID | Rastreabilidade | História de usúario (Eu como usuário gostaria de ...) | Prioridade |
 | -- | :-------------: | ----------------------------------------------------- | ---------- |
-| EUS01 |   RFS01    | Criar conta| Must |
-| EUS02 |   RFS02    | Cancelar assinatura do Amazon prime| Must |
-| EUS03 |   RFS03    | Mudar o e-mail| Must |
-| EUS04 |   RFS04    | Mudar a minha senha| Must |
-| EUS05 |   RFS05    | Mudar o telefone| Must |
+| APUS01 |   RFS01    | Criar conta| Must |
+| APUS02 |   RFS02    | Cancelar assinatura do Amazon prime| Must |
+| APUS03 |   RFS03    | Mudar o e-mail| Must |
+| APUS04 |   RFS04    | Mudar a minha senha| Must |
+| APUS05 |   RFS05    | Mudar o telefone| Must |
 | US01 |   RF32    | Alugar assinatura de canal| Must |
 | US02 |   RF32    | Alugar documentário| Must  |
 | US03 |   RF32    | Alugar  filme| Must |
@@ -130,4 +130,4 @@ Epic, Feature e User Story (Epico, Funcionalidade e História de Usuário). Disp
 |1.3|09/03/2022|Adição da introdução e referências|[Caio Santos](https://github.com/caiobsantos)| [Antonio Igor](https://github.com/antonioigorcarvalho) |
 |1.4|09/03/2022|Adição da definição dos épicos|[Caio Santos](https://github.com/caiobsantos)| [Lameque Fernandes](https://github.com/lamequefernandes) |
 |1.5|09/03/2022|Adição das histórias de usuário relacionadas a conta |[Erick Levy](https://github.com/ericklevy)| [Caio Santos](https://github.com/caiobsantos) |
-|1.6|23/03/2022|Adição das histórias de usuário relacionadas a conta do Amazon prime e mais historia de usuário em conteúdo |[Erick Levy](https://github.com/ericklevy)|  |
+|1.6|23/03/2022|Adição das histórias de usuário relacionadas a conta do Amazon prime e mais historia de usuário em conteúdo |[Erick Levy](https://github.com/ericklevy)| [Antonio Igor](https://github.com/antonioigorcarvalho) |
