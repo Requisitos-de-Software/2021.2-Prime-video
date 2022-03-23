@@ -40,7 +40,7 @@ Através de alguns critérios definidos por meio da técnica de inspeção, os e
 
 | Número |                                   Questão                                    | Resposta |
 | :----: | :--------------------------------------------------------------------------: | :------: |
-|   1    |O título é auto-explicativo?                        |    ✔️     |
+|   1    |O título é autoexplicativo?                         |    ✔️     |
 |   2    |O contexto está bem definido? (local e pré condição)|    ✔️     |
 |   3    |Os atores estão identificados corretamente?         |    ✔️     |
 |   4    |O objetivo do cenário está claro?                   |    ✔️     |
@@ -54,7 +54,7 @@ Através de alguns critérios definidos por meio da técnica de inspeção, os e
 
 | Número |                                   Questão                                    | Resposta |
 | :----: | :--------------------------------------------------------------------------: | :------: |
-|   1    |O título é auto-explicativo?                        |    ✔️     |
+|   1    |O título é autoexplicativo?                         |    ✔️     |
 |   2    |O contexto está bem definido? (local e pré condição)|    ✔️     |
 |   3    |Os atores estão identificados corretamente?         |    ❌     |
 |   4    |O objetivo do cenário está claro?                   |    ✔️     |
@@ -67,7 +67,7 @@ Através de alguns critérios definidos por meio da técnica de inspeção, os e
 
 | Número |                                   Questão                                    | Resposta |
 | :----: | :--------------------------------------------------------------------------: | :------: |
-|   1    |O título é auto-explicativo?                        |    ✔️     |
+|   1    |O título é autoexplicativo?                         |    ✔️     |
 |   2    |O contexto está bem definido? (local e pré condição)|    ✔️     |
 |   3    |Os atores estão identificados corretamente?         |    ✔️     |
 |   4    |O objetivo do cenário está claro?                   |    ✔️     |
@@ -81,7 +81,7 @@ Através de alguns critérios definidos por meio da técnica de inspeção, os e
 
 | Número |                                   Questão                                    | Resposta |
 | :----: | :--------------------------------------------------------------------------: | :------: |
-|   1    |O título é auto-explicativo?                        |    ✔️     |
+|   1    |O título é autoexplicativo?                         |    ✔️     |
 |   2    |O contexto está bem definido? (local e pré condição)|    ✔️     |
 |   3    |Os atores estão identificados corretamente?         |    ✔️     |
 |   4    |O objetivo do cenário está claro?                   |    ✔️     |
@@ -95,7 +95,7 @@ Através de alguns critérios definidos por meio da técnica de inspeção, os e
 
 | Número |                                   Questão                                    | Resposta |
 | :----: | :--------------------------------------------------------------------------: | :------: |
-|   1    |O título é auto-explicativo?                        |    ✔️     |
+|   1    |O título é autoexplicativo?                         |    ✔️     |
 |   2    |O contexto está bem definido? (local e pré condição)|    ✔️     |
 |   3    |Os atores estão identificados corretamente?         |    ✔️     |
 |   4    |O objetivo do cenário está claro?                   |    ✔️     |
@@ -109,7 +109,7 @@ Através de alguns critérios definidos por meio da técnica de inspeção, os e
 
 | Número |                                   Questão                                    | Resposta |
 | :----: | :--------------------------------------------------------------------------: | :------: |
-|   1    |O título é auto-explicativo?                        |    ✔️     |
+|   1    |O título é autoexplicativo?                         |    ✔️     |
 |   2    |O contexto está bem definido? (local e pré condição)|    ✔️     |
 |   3    |Os atores estão identificados corretamente?         |    ✔️     |
 |   4    |O objetivo do cenário está claro?                   |    ✔️     |
@@ -123,7 +123,7 @@ Através de alguns critérios definidos por meio da técnica de inspeção, os e
 
 | Número |                                   Questão                                    | Resposta |
 | :----: | :--------------------------------------------------------------------------: | :------: |
-|   1    |O título é auto-explicativo?                        |    ✔️     |
+|   1    |O título é autoexplicativo?                         |    ✔️     |
 |   2    |O contexto está bem definido? (local e pré condição)|    ✔️     |
 |   3    |Os atores estão identificados corretamente?         |    ✔️     |
 |   4    |O objetivo do cenário está claro?                   |    ✔️     |
@@ -190,5 +190,5 @@ Reinehr, Sheila Engenharia de Requisitos, Editora: Grupo A Selo: Sagah. 1ª edi�
 
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
-|1.0|22/03/2022|Criação do documento de verificação dos cenários|[Caio Santos](https://github.com/caiobsantos)||
-|1.1|23/03/2022|Adição da introdução e análise dos cenários|[Caio Santos](https://github.com/caiobsantos)||
+|1.0|22/03/2022|Criação do documento de verificação dos cenários|[Caio Santos](https://github.com/caiobsantos)| [Antonio Igor](https://github.com/antonioigorcarvalho) |
+|1.1|23/03/2022|Adição da introdução e análise dos cenários|[Caio Santos](https://github.com/caiobsantos)| [Antonio Igor](https://github.com/antonioigorcarvalho) |
