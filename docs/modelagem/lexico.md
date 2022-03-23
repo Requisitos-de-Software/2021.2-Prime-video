@@ -2,7 +2,10 @@
 
 ## 1. Introdução
 
-Léxico trata-se de uma técnica que busca apresentar os símbolos de uma linguagem. O objetivo principal seguido pelos Engenheiros de Requisitos é buscar frases ou palavras no meio social da aplicação.
+<p align="center">
+    Léxico trata-se de uma técnica que busca apresentar os símbolos de uma linguagem. O objetivo principal seguido pelos Engenheiros de Requisitos é buscar frases ou palavras no meio social da aplicação.
+</p> 
+
 
 ## 2. Metodologia
 
