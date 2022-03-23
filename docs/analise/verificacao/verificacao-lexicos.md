@@ -2,8 +2,7 @@
 
 <p align="center">
      
-A verificação dos léxicos tem como objetivo principal analisar os requisitos funcionais e não funcionais. Assim com a validação reduzindo possíveis dúvidas sobre o funcionamento do sistemas baseado no documento [lexico](https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/lexico/).
-
+A verificação dos léxicos tem como objetivo principal analisar os requisitos funcionais e não funcionais. Assim com a validação reduzindo possíveis dúvidas sobre o funcionamento do sistemas baseado no documento <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/lexico/">lexico</a>.
 
 </p>
 
@@ -88,9 +87,10 @@ A verificação dos léxicos tem como objetivo principal analisar os requisitos 
 
 Sinônimos. **Sinônimos.com.br**. Dispoível em: <https://www.sinonimos.com.br/site/>. Acesso em 02/03/2022.
 
+Reinehr, Sheila Engenharia de Requisitos, Editora: Grupo A Selo: Sagah. 1ª edição. 2020.
 
 ## 5. Histórico de Versionamento
 
 |Versão|Data de modificação|Descrição da modificação|Autor| Revisor|
 |-|-|-|-|-|
-|1.0|23/03/2022| Criação do documento de verificação dos léxicos | [Erick Levy](https://github.com/ericklevy)  | |
+|1.0|23/03/2022| Criação do documento de verificação dos léxicos | [Erick Levy](https://github.com/ericklevy)  | [Antonio Igor](https://github.com/antonioigorcarvalho) |
