@@ -3,7 +3,7 @@
 ## 1. Introdução
 
 <p align='justify'>
-   &emsp;Dada a criação do documento que detalha o Pich Picture, tem-se então a necessidade de analisar se suas especificações atendem ao que é exigido para a continuação das etapas seguintes relacionadas ao projeto.
+   &emsp;Dada a criação do documento que detalha o Rich Picture, tem-se então a necessidade de analisar se suas especificações atendem ao que é exigido para a continuação das etapas seguintes relacionadas ao projeto.
 </p>
 
 ## 2. Metodologia
@@ -49,5 +49,5 @@
 
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
-|1.0|22/03/2022|Criação do documento para verificação do Pich Picture|[Sávio Cunha](https://github.com/savioc2)| |
+|1.0|22/03/2022|Criação do documento para verificação do Rich Picture|[Sávio Cunha](https://github.com/savioc2)| |
 
