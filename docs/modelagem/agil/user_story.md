@@ -162,8 +162,8 @@
 
 #### 3.1.1 UX Designer Conta
 
-<p align="center">
-    Estas imagens são para designar o UX do  Épico 1 - Conta.
+<p align="justiy">
+    Estas imagens são para designar o UX do Prime video no  Épico 1 - Conta.
 </p>
 
 ![drawing](../../assets/img/primeConta.png)
