@@ -78,8 +78,7 @@ A verificação dos léxicos tem como objetivo principal analisar os requisitos 
 |<p align="center">L45 - Sinopse</p>|✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ❌ |  6/7 |
 |<p align="center">L46 - Temporada</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ❌ |  6/7 |
 |<p align="center">L47 - Titulo</p>| ✔️ | ✔️ | ❌| ✔️ | ✔️ | ✔️| ❌ |  5/7 |
-|<p align="center">L48 - Watch Party</p>|✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 |
-|<p align="center">L49 - Watch Party</p>| ✔️ | ✔️ | ❌| ✔️ | ✔️ | ✔️| ❌ |  5/7 |
+|<p align="center">L48 - Watch Party</p>| ✔️ | ✔️ | ❌| ✔️ | ✔️ | ✔️| ❌ |  5/7 |
 
 
 
