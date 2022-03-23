@@ -3,7 +3,25 @@
 ## 1. Introdução
 O Product Backlog ou apenas Backlog, se refere a uma lista de itens desejados para dar vida a um produto. Esta lista contém funcionalidades, requisitos e restrições organizados por prioridade, de forma que os itens com prioridade mais alta, sejam realizados primeiro. O Product Backlog não precisa estar completo desde o início do projeto e pode ser refinado e reorganizado com o tempo, conforme se aprende mais sobre o produto e seus usuários.
 
-## 2. Épicos
+
+## 2. Metologia
+
+A metodologia propostas para as user history que estão presentes no Amazon prime e Prime video sao:
+
+| tipo de US    |  significado   | explicação    | 
+| :-------------: |----------------|---------------|
+| US   |  User Story (História de Usuário)  | História de Usuário que pertencem unicamente ao escopo do Prime video. |
+| EUS  |  Especial User Story (História de Usuário especial)  | História de Usuário que pertencem tanto ao Prime video como o serviço Amazon Prime este termo foi criado para este projeto no caso da interligação do Amazon prime com o Prime video . |
+
+
+### 2.1 Prioridades
+
+- Must: quando o requisito for essencial para o funcionamento da projeto.
+- Should: quando o requisito for importante para o projeto.
+- Could: quando o requisito não tem grandes necessidades de ser implementado, apenas se tiver tempo e recursos.
+- Won't: quando o requisito não precisa ser implementa no momento, mas seria uma boa melhoria para o futuro.
+
+## 3. Épicos
 
 Um Épico pode ser definido como uma coleção de histórias de usuário que ainda não foram refinadas ou divididas, representando assim uma grande parte a ser realizada no produto. O escopo do nosso projeto foi dividido em três épicos:
 
@@ -13,27 +31,35 @@ Um Épico pode ser definido como uma coleção de histórias de usuário que ain
 
 - Conteúdo
 
-### 2.1 Épico 1 - Conta
+### 3.1 Épico 1 - Conta
 
 | ID | Rastreabilidade | História de usúario (Eu como usuário gostaria de ...) | Prioridade |
 | -- | :-------------: | ----------------------------------------------------- | ---------- |
-| US01 |   RF31    | Cancelar assinatura de canal| Must |
-| US02 |   RF31    | Cancelar alugamento de documentário| Must  |
-| US03 |   RF31    | Cancelar alugamento de filme| Must |
-| US04 |   RF31    | Cancelar alugamento de série| Must |
-| US05 |   RFXX    | Mostrar pedidos| Could |
-| US06 |   RFXX    | Mudar método de pagamento | Should |
-| US07 |   RFXX    | Olhar as informações da conta| Must |
+
+| USs01 |   RF32    | Alugar assinatura de canal| Must |
+| USs02 |   RF32    | Alugar assinatura de canal| Must |
+| USs01 |   RF32    | Alugar assinatura de canal| Must |
+| US01 |   RF32    | Alugar assinatura de canal| Must |
+| US02 |   RF32    | Alugar documentário| Must  |
+| US03 |   RF32    | Alugar  filme| Must |
+| US04 |   RF32    | Alugar  série| Must |
+| US01 |   RF34    | Cancelar assinatura de canal| Must |
+| US02 |   RF34    | Cancelar alugamento de documentário| Must  |
+| US03 |   RF34    | Cancelar alugamento de filme| Must |
+| US04 |   RF34    | Cancelar alugamento de série| Must |
+| US05 |   RF3   | Mostrar pedidos| Could |
+| US06 |   RF21    | Mudar método de pagamento | Should |
+| US07 |   RF37    | Olhar as informações da conta| Must |
 | US08 |   RF27    | Realizar login| Must |
 | US09 |   RF28    | Realizar logout| Must |
-| US10 |   RF31    | Renova assinatura de canal| Must |
-| US11 |   RF31    | Renova assinatura de filme| Must |
-| US12 |   RF31    | Renova assinatura de série| Must |
-| US13 |   RF33    | Sair dos dispositivos| Could |
+| US10 |   RF32    | Renova assinatura de canal| Must |
+| US11 |   RF33    | Renova assinatura de filme| Must |
+| US12 |   RF33    | Renova assinatura de série| Must |
+| US13 |   RF36    | Sair dos dispositivos| Could |
 
 
 
-### 2.2 Épico 2 - Perfil
+### 3.2 Épico 2 - Perfil
 | ID | Rastreabilidade | História de usúario (Eu como usuário gostaria de ...) | Prioridade |
 | -- | :-------------: | ----------------------------------------------------- | ---------- | 
 | US14 | RF15 |  Criar um novo perfil à minha conta | Must |
@@ -43,7 +69,7 @@ Um Épico pode ser definido como uma coleção de histórias de usuário que ain
 | US18 | RF17 |  Adicionar títulos à minha lista | Must |
 | US19 | RF03 | Remover títulos da minha lista | Must |
 
-### 2.3 Épico 3 - Conteúdo
+### 3.3 Épico 3 - Conteúdo
 
 | ID | Rastreabilidade | História de usúario (Eu como usuário gostaria de ...) | Prioridade |
 | -- | :-------------: | ----------------------------------------------------- | ---------- | 
@@ -70,19 +96,19 @@ Um Épico pode ser definido como uma coleção de histórias de usuário que ain
 | US40 | RF13 | Ver histórico de reprodução | Should | 
 | US41 | RF18 | Realizar buscas | Must | 
 | US42 | RF19 | Filtar busca | Must | 
-| US43 | RF38 | Acessar um título pelo nome completo ou apenas parte dele | Must | 
+| US43 | RF39 | Acessar um título pelo nome completo ou apenas parte dele | Must | 
 | US44 | RF4 | Comprar conteúdo extra | Must | 
 | US45 | R31 | Alugar conteúdo extra | Must | 
 | US46| RF4 | Reproduzir conteúdo extra | Must | 
 
 
-## 3. Referências
+## 4. Referências
 
 SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 15.
 
 Epic, Feature e User Story (Epico, Funcionalidade e História de Usuário). Disponível em: https://www.ateomomento.com.br/epic-feature-e-user-story/. Acesso em: 09 de Março de 2022.
 
-## 4. Histórico de Versionamento
+## 5. Histórico de Versionamento
 
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
