@@ -41,6 +41,7 @@ nav:
       - Histórias de usuário: modelagem/agil/user_story.md
   - Análise:
     - Verificação:
+      - Backlog: analise/verificacao/backlog.md
       - NRF Framework: analise/verificacao/nfr_framework.md
     - Validação:
       - Prototipação: validacao/prototipo.md
