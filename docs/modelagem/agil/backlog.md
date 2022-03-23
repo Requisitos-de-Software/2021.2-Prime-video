@@ -36,11 +36,13 @@ Um Épico pode ser definido como uma coleção de histórias de usuário que ain
 | ID | Rastreabilidade | História de usúario (Eu como usuário gostaria de ...) | Prioridade |
 | -- | :-------------: | ----------------------------------------------------- | ---------- |
 
-| EUS01 |   RFS1    | Criar conta| Must |
-| EUS02 |   RFS2    | Cancelar assinatura do Amazon prime| Must |
-| EUS03 |   RFS3    | Mudar o e-mail| Must |
-| EUS04 |   RFS3    | Mudar a minha senha| Must |
-| EUS05 |   RFS3    | Mudar o telefone| Must |
+| EUS01 |   RFS01    | Criar conta| Must |
+| EUS02 |   RFS02    | Cancelar assinatura do Amazon prime| Must |
+| EUS03 |   RFS03    | Mudar o e-mail| Must |
+| EUS04 |   RFS04    | Mudar a minha senha| Must |
+| EUS05 |   RFS05    | Mudar o telefone| Must |
+
+
 | US01 |   RF32    | Alugar assinatura de canal| Must |
 | US02 |   RF32    | Alugar documentário| Must  |
 | US03 |   RF32    | Alugar  filme| Must |
@@ -49,61 +51,61 @@ Um Épico pode ser definido como uma coleção de histórias de usuário que ain
 | US06 |   RF34    | Cancelar alugamento de documentário| Must  |
 | US07 |   RF34    | Cancelar alugamento de filme| Must |
 | US08 |   RF34    | Cancelar alugamento de série| Must |
-| US09 |   RF3   | Mostrar pedidos| Could |
+| US09 |   RF03     | Mostrar pedidos| Could |
 | US10 |   RF21    | Mudar método de pagamento | Should |
-| US07 |   RF37    | Olhar as informações da conta| Must |
-| US08 |   RF27    | Realizar login| Must |
-| US09 |   RF28    | Realizar logout| Must |
-| US10 |   RF32    | Renova assinatura de canal| Must |
-| US11 |   RF33    | Renova assinatura de filme| Must |
-| US12 |   RF33    | Renova assinatura de série| Must |
-| US13 |   RF36    | Sair dos dispositivos| Could |
+| US11 |   RF37    | Olhar as informações da conta| Must |
+| US12 |   RF27    | Realizar login| Must |
+| US13 |   RF28    | Realizar logout| Must |
+| US14 |   RF32    | Renova assinatura de canal| Must |
+| US15 |   RF33    | Renova assinatura de filme| Must |
+| US16 |   RF33    | Renova assinatura de série| Must |
+| US17 |   RF36    | Sair dos dispositivos| Could |
 
 
 
 ### 3.2 Épico 2 - Perfil
 | ID | Rastreabilidade | História de usúario (Eu como usuário gostaria de ...) | Prioridade |
 | -- | :-------------: | ----------------------------------------------------- | ---------- | 
-| US14 | RF16 |  Criar um novo perfil à minha conta | Must |
-| US15 | RF17 |  Alterar minha foto de perfil | Could |
-| US16 | RF17 |  Alterar o nome do meu perfil | Could |
-| US17 | RF30 |  Poder excluir um perfil | Must |
-| US18 | RF18 |  Adicionar títulos à minha lista | Must |
-| US19 | RF04 | Remover títulos da minha lista | Must |
+| US18 | RF18 |  Criar um novo perfil à minha conta | Must |
+| US19 | RF17 |  Alterar minha foto de perfil | Could |
+| US20 | RF17 |  Alterar o nome do meu perfil | Could |
+| US21 | RF30 |  Poder excluir um perfil | Must |
+| US22 | RF18 |  Adicionar títulos à minha lista | Must |
+| US23 | RF04 | Remover títulos da minha lista | Must |
 
 ### 3.3 Épico 3 - Conteúdo
 
 | ID | Rastreabilidade | História de usúario (Eu como usuário gostaria de ...) | Prioridade |
 | -- | :-------------: | ----------------------------------------------------- | ---------- | 
-| US20 | R22 | Baixar títulos | Could |
-| US21 | RF31 | Assistir em grupo (Watch party) | Could | RF30
-| US22 | RF06 | Registrar feeadback sobre título | Should | RF05
-| US23 | RF07 | Acessar a página de ajuda da plataforma | Must | RF06
-| US24 | RF11 | Assistir trailer dos títulos | Should | 
-| US25 | RFXX | Assistir títulos | Must | 
-| US26 | RF15 | Escolher qual temporada assistir de um título (caso exista temporadas) | Must | 
-| US27 | RF09 | Escolher qual episódio assistir de um título (caso exista episódios) | Must | 
-| US28 | RF08 | Passar para o proximo episódio ainda na reprodução do atual (caso tenha um próximo) | Should | 
-| US29 | RFxx | Alterar volume | Must | 
-| US30 | RF09 | Desabilitar a reprodução automática | Should | 
-| US31 | RF12 | Pular a abertura dos títulos | Should | 
-| US32 | RF22 | Escolher o idioma de áudio dos títulos | Must | 
-| US33 | RF23 | Escolher o idioma de legenda dos títulos | Must | 
-| US34 | RF44 | Receber recomendações de conteúdo | Must |
-| US35 | RF44| Receber recomendações no email de conteúdo | Must |
-| US36 | RF24 | Retirar a legenda dos títulos | Must | 
-| US37 | RF26 | Escolher a qualidade de vídeo | Must | 
-| US38 | RF27 | Reproduzir o título em tela cheia | Must | 
-| US39 | RFXX | Retomar um título | Should | 
-| US40 | RF38 | Ver informações sobre os atores em atuação no título | Won't | 
-| US41 | RF35 | Ocultar vídeos | Could | 
-| US42 | RF37 | Ver histórico de reprodução | Should | 
-| US43 | RF19 | Realizar buscas | Must | 
-| US44 | RF20 | Filtar busca | Must | 
-| US45 | RF42 | Acessar um título pelo nome completo ou apenas parte dele | Must | 
-| US46 | RF05 | Comprar conteúdo extra | Must | 
-| US47 | R31 | Alugar conteúdo extra | Must | 
-| US48 | RF05 | Reproduzir conteúdo extra | Must | 
+| US24 | RF22 | Baixar títulos | Could |
+| US25 | RF31 | Assistir em grupo (Watch party) | Could | RF30
+| US26 | RF06 | Registrar feeadback sobre título | Should | RF05
+| US27 | RF07 | Acessar a página de ajuda da plataforma | Must | RF06
+| US28 | RF11 | Assistir trailer dos títulos | Should | 
+| US29 | RFXX | Assistir títulos | Must | 
+| US30 | RF15 | Escolher qual temporada assistir de um título (caso exista temporadas) | Must | 
+| US31 | RF09 | Escolher qual episódio assistir de um título (caso exista episódios) | Must | 
+| US32 | RF08 | Passar para o proximo episódio ainda na reprodução do atual (caso tenha um próximo) | Should | 
+| US33 | RFxx | Alterar volume | Must | 
+| US34 | RF09 | Desabilitar a reprodução automática | Should | 
+| US35 | RF12 | Pular a abertura dos títulos | Should | 
+| US36 | RF22 | Escolher o idioma de áudio dos títulos | Must | 
+| US37 | RF23 | Escolher o idioma de legenda dos títulos | Must | 
+| US38 | RF44 | Receber recomendações de conteúdo | Must |
+| US39 | RF44| Receber recomendações no email de conteúdo | Must |
+| US40 | RF24 | Retirar a legenda dos títulos | Must | 
+| US41 | RF26 | Escolher a qualidade de vídeo | Must | 
+| US42 | RF27 | Reproduzir o título em tela cheia | Must | 
+| US43 | RFXX | Retomar um título | Should | 
+| US44 | RF38 | Ver informações sobre os atores em atuação no título | Won't | 
+| US45 | RF35 | Ocultar vídeos | Could | 
+| US46 | RF37 | Ver histórico de reprodução | Should | 
+| US47 | RF19 | Realizar buscas | Must | 
+| US48 | RF20 | Filtar busca | Must | 
+| US49 | RF42 | Acessar um título pelo nome completo ou apenas parte dele | Must | 
+| US50 | RF05 | Comprar conteúdo extra | Must | 
+| US51 | RF31 | Alugar conteúdo extra | Must | 
+| US52 | RF05 | Reproduzir conteúdo extra | Must | 
 
 
 ## 4. Referências
