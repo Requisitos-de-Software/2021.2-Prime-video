@@ -874,5 +874,5 @@
 
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
-|1.0|22/03/2022|Criação do documento de análise do Backlog|[Douglas Monteles](https://github.com/douglasmonteles)|  |
-|1.1|23/03/2022|Verificação da US17 até a US 46|[Lameque Fernandes](https://github.com/lamequefernandes)|-|
+|1.0|22/03/2022|Criação do documento de análise do Backlog|[Douglas Monteles](https://github.com/douglasmonteles)| [Antonio Igor](https://github.com/antonioigorcarvalho) e [Caio Santos](https://github.com/caiobsantos) |
+|1.1|23/03/2022|Verificação da US17 até a US 46|[Lameque Fernandes](https://github.com/lamequefernandes)|[Antonio Igor](https://github.com/antonioigorcarvalho) e [Caio Santos](https://github.com/caiobsantos)|
