@@ -860,16 +860,10 @@
 </center>
 
 
-## 4. Resultado
+## 4. Conclusão
 
 <p align='justify'>
-  Foram aplicados os mesmos critérios avaliativos em cada um dos US e com isso obtivemos a constatação de que todos os US estão de fato coerentes com o que é esperado.
-</p>
-
-## 5. Conclusão
-
-<p align='justify'>
-  Dado que a avaliação do <a href="../../../modelagem/agil/backlog" target="_blanck">Backlog</a> não encontrou nenhum problema estritamente relevante dentre os quesitos analisados, está tudo certo com este documento e é possível dar prosseguimento com o projeto.
+  Foram aplicados os mesmos critérios avaliativos em cada um dos US e com isso obtivemos a constatação de que todos os US estão de fato coerentes com o que é esperado. Dado que a avaliação do <a href="../../../modelagem/agil/backlog" target="_blanck">Backlog</a> não encontrou nenhum problema estritamente relevante dentre os quesitos analisados, está tudo certo com este documento e é possível dar prosseguimento com o projeto.
 </p>
 
 ## 5. Referências
