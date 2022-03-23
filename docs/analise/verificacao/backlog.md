@@ -1297,8 +1297,12 @@
 ## 4. Resultado
 
 <p align='justify'>
-  
+  Foram aplicados os mesmos critérios avaliativos em cada um dos US e com isso obtivemos a constatação de que todos os US estão de fato coerentes com o que é esperado.
 </p>
+
+## 5. Conclusão
+
+
 
 ## 5. Referências
 
