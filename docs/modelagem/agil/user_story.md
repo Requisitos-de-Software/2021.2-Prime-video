@@ -463,3 +463,4 @@ SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 15.
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
 | 1.0 |09/03/2022|Criação do documento de histórias de usuário|[Antonio Igor](https://github.com/antonioigorcarvalho), [Erick Levy](https://github.com/ericklevy) e [Lameque Fernandes](https://github.com/lamequefernandes)| [Caio Santos](https://github.com/caiobsantos) e [Douglas Monteles](https://github.com/douglasmonteles) |
+|1.1|23/03/2022|Alteração do documento com inserção das imagens para UX|[Erick Levy](https://github.com/ericklevy)|-|
