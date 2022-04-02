@@ -32,13 +32,16 @@
 
 <center>
 
-#### Tabela 1: Definições das categorias
+#### Tabela 1: Níveis de classificação definidos no Meta-modelo de Toranzo
 
 | Categoria | Definição |
 |:---------:|:---------:|
-|||
+|Ambiental|Informações oriundas do contexto no qual a organização está inserida.|
+|Organizacional|Informações pertencentes à organização (missão, objetivos e estratégias).|
+|Gerencial|Informações que auxiliam a gerência do projeto.|
+|Desenvolvimento|Informações associadas aos diversos artefatos gerados ao longo do processo de desenvolvimento (artefatos de requisitos, diagramas, códigos, casos de teste e outros).|
 
-<figcaption> Fonte: Próprio autor </figcaption>
+<figcaption> Fonte:  Sayão e Leite. Rastreabilidade de Requisitos. ISSN 0103-9741 </figcaption>
 
 </center>
 
