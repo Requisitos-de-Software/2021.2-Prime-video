@@ -3,13 +3,21 @@
 ## 1. Introdução
 
 <p align="justify">
-
+  A Rastreabilidade forward-from (para frente, a partir de), trata da ligação entre os requisitos, artefatos de desenho e implementação (Sayão e Leite. Rastreabilidade de Requisitos. ISSN 0103-9741). 
 </p>
 
 ## 2. Metodologia
 
 <p align="justify">
-  
+  Existem na literatura, várias ferramentas e propostas para dar suporte ao processo de rastreabilidade, porém a mais utilizada é a Matriz de Rastreabilidade. 
+</p>
+
+<p align="justify">
+  Matriz de rastreabilidade de requisitos é uma ferramenta que explicita a relação direta dos requisitos entre si ou com os outros componentes do projeto. Assim, caso alguma alteração seja feita no projeto, sabe-se quais requisitos serão afetados com tal mudança [1].
+</p>
+
+<p align="justify">
+  Dessa forma, tendo em vista a grande disponibilidade de recursos na literatura sobre o uso de Matriz de Rastreabilidade, decidimos então adota-la para guiar a criação deste documento.
 </p>
 
 ## 3. Requisitos Funcionais
@@ -46,7 +54,9 @@
 
 ## 4. Referências
 
-> Sayão, Miriam. Leite, Julio Cesar Sampaio do Prado. Rastreabilidade de Requisitos. ISSN 0103-9741. Disponível em <https://www.dbd.puc-rio.br/depto_informatica/05_20_sayao.pdf>. Acesso em: 02 abril 2022.
+> Sayão, Miriam. Leite, Julio Cesar Sampaio do Prado. Rastreabilidade de Requisitos. ISSN 0103-9741. Disponível em: <https://www.dbd.puc-rio.br/depto_informatica/05_20_sayao.pdf>. Acesso em: 02 abril 2022.
+
+> [1] Matriz de Rastreabilidade de Requisitos: saiba como gerenciar as mudanças no escopo. Disponível em: <https://artia.com/blog/matriz-de-rastreabilidade/>. Acesso em: 02 abril 2022.
 
 ## 5. Histórico de Versionamento
 
