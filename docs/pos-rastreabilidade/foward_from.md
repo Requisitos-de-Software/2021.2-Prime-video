@@ -59,6 +59,48 @@
 
 </center>
 
+| Requisito | Épico | História de Usuário | Cenário | Léxico | Caso de Uso |
+| --------- | ----- | -- | ------- | ------ | ------------|
+| RF01 - O usuário deve conseguir visualizar os termos e aviso de privacidade |       |    |         |        |             |
+| RF02 - O usuário deve ter a opção de ocultar uma serie/filme da sua tela inicial |       |    |         |        |             |
+| RF03 - O usuário deve poder remover títulos da sua lista	 |       |    |         |        |             |
+| RF04 - O usuário deve ser capaz de comprar conteúdo extra	 |       |    |         |        |             |
+| RF05 - O usuário deve ser capaz de registrar seu feedback sobre titulo	 |       |    |         |        |             |
+| RF06 - O usuário deve poder acessar a página de ajuda da plataforma |       |    |         |        |             |
+| RF07 - O usuário deve ser capaz de passar para o proximo episódio ainda na reprodução do atual |       |    |         |        |             |
+| RF08 - O usuário deve poder escolher qual episódio assistir de um título |       |    |         |        |             |
+| RF09 - O usuário deve ser capaz de desabilitar a reprodução automática |       |    |         |        |             |
+| RF10 - O usuário deve ser capaz de visualizar títulos recomendados |       |    |         |        |             |
+| RF11 - O usuário deve ser capaz de assistir ao trailer dos títulos |       |    |         |        |             |
+| RF12 - O usuário deve ser capaz de pular a abertura dos titulos |       |    |         |        |             |
+| RF13 - O usuario deve conseguir ver quais filmes/series ele assistiu anteriormente |       |    |         |        |             |
+| RF14 - O usuário deve poder escolher qual temporada assistir de um título |       |    |         |        |             |
+| RF15 - O usuário deve poder adicionar novos perfis à sua conta |       |    |         |        |             |
+| RF16 - O usuário deve poder editar seu avatar ou nome de perfil |       |    |         |        |             |
+| RF17 - O usuário deve poder adicionar títulos à sua lista |       |    |         |        |             |
+| RF18 - O usuário deve ter a opção de realizar uma busca |       |    |         |        |             |
+| RF19 - O usuário deve poder filtrar a sua busca |       |    |         |        |             |
+| RF20 - O usuário deve ter a opção de alterar os meios de pagamento | Épico 3 - Conteúdo | US10 |         |        |             |
+| RF21 - O usuário deve ser capaz de baixar os títulos | Épico 3 - Conteúdo | US24 |         |        |             |
+| RF22 - O usuário deve ser capaz de escolher o idioma de áudio | Épico 3 - Conteúdo | US36 |         |        |             |
+| RF23 - O usuário deve ser capaz de escolher o idioma da legenda | Épico 3 - Conteúdo | US37 |         |        |             |
+| RF24 - O usuário deve ser capaz de tirar a legenda | Épico 3 - Conteúdo | US42  |         |        | Caso 2 - Fluxo de conteúdo |
+| RF25 - O usuário deve poder escolher a qualidade do vídeo | Épico 3 - Conteúdo | US42 |  |  | --- |
+| RF26 - O usuário deve poder usar a opção de tela cheia | Épico 3 - Conteúdo | US42 |  |  | Caso 2 - Fluxo de conteúdo |
+| RF27 - O usuário deve poder realizar login na plataforma | Épico 1 - Conta | US12 |  |  | Caso 1 - Fluxo de conta |
+| RF28 - O usuário deve poder realizar logout na plataforma | Épico 1 - Conta | US13 |  |  | Caso 1 - Fluxo de conta |
+| RF29 - O usuário pode excluir perfis | Épico 1 - Conta | US21 |  |  | Caso 1 - Fluxo de conta |
+| RF30 - O usuário pode usar o Watch party | Épico 3 - Conteúdo | US25 |  |  | --- |
+| RF31 - O usuário pode pode alugar canais, filmes e series | Épico 3 - Conteúdo  | US51 |  |  | Caso 3 - Fluxo de conteúdo extra |
+| RF32 - O usuário pode pode ocultar vídeos | Épico 3 - Conteúdo | US45 |  |  | Caso 2 - Fluxo de conteúdo |
+| RF33 - O usuário pode desvincular os dispositivos | Épico 1 - Conta  | US17 |  |  | --- |
+| RF34 - O usuário pode excluir historico de navegação |  |    |  |  | --- |
+| RF35 - O usuário pode ver informações dos atores | Épico 1 - Perfil | US44 |  |  | Caso 2 - Fluxo de conteúdo |
+| RF36 - O usuário pode diminuir o consumo de dados | --- | --- |  |  | --- |
+| RF37 - O usuário pode ver detalhes da obra | --- | --- |  |  | Caso 2 - Fluxo de conteúdo |
+| RF38 - O usuário deve conseguir acessar um título pelo nome completo ou apenas parte dele | Épico 3 - Conteúdo | US49 |  |  | Caso 2 - Fluxo de conteúdo |
+| RF39 - O usuário deve poder criar um perfil infantil | Épico 1 - Perfil | US18 |  |  | Caso 1 - Fluxo de conta |
+
 ## 4. Referências
 
 > Sayão, Miriam. Leite, Julio Cesar Sampaio do Prado. Rastreabilidade de Requisitos. ISSN 0103-9741. Disponível em: <https://www.dbd.puc-rio.br/depto_informatica/05_20_sayao.pdf>. Acesso em: 02 abril 2022.
