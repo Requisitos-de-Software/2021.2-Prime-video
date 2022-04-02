@@ -9,7 +9,7 @@
 ## 2. Metodologia
 
 <p align="justify">
-  Existem na literatura, várias ferramentas e propostas para dar suporte ao processo de rastreabilidade, porém a mais utilizada é a Matriz de Rastreabilidade. 
+  Existem na literatura, várias ferramentas e propostas para dar suporte ao processo de rastreabilidade, porém optamos por utilizar o Meta-Modelo de Toranzo em conjunto com a Matriz de Rastreabilidade. 
 </p>
 
 <p align="justify">
@@ -17,7 +17,11 @@
 </p>
 
 <p align="justify">
-  Dessa forma, tendo em vista a grande disponibilidade de recursos na literatura sobre o uso de Matriz de Rastreabilidade, decidimos então adota-la para guiar a criação deste documento.
+  Em sua proposta para melhoria da rastreabilidade entre requisitos, Toranzo [2] propõe a classificação das informações a serem rastreadas em meta-modelo para auxiliar no rastreamento do requisito, além de um metamodelo intermediário e um processo de rastreabilidade. 
+</p>
+
+<p align="justify">
+  Dessa forma, tendo em vista a grande disponibilidade de recursos na literatura sobre o uso do modelo de Toranzo [2] e Matriz de Rastreabilidade, decidimos então adota-los para guiar a criação deste documento.
 </p>
 
 ## 3. Requisitos Funcionais
@@ -57,6 +61,8 @@
 > Sayão, Miriam. Leite, Julio Cesar Sampaio do Prado. Rastreabilidade de Requisitos. ISSN 0103-9741. Disponível em: <https://www.dbd.puc-rio.br/depto_informatica/05_20_sayao.pdf>. Acesso em: 02 abril 2022.
 
 > [1] Matriz de Rastreabilidade de Requisitos: saiba como gerenciar as mudanças no escopo. Disponível em: <https://artia.com/blog/matriz-de-rastreabilidade/>. Acesso em: 02 abril 2022.
+
+> [2] Antonio Carlos Souza; Caio Dias; Márcio Macedo. AADSP: Gerencia de Requisitos - São Paulo/SP - Ed. Ixtlan, Agosto/2018. ISBN: 978-85-8197-689-1. Disponível em: <https://labrasoft.ifba.edu.br/assets/files/pdf/Livro_AADSP.pdf>. Acesso em: 02 abril 2022.
 
 ## 5. Histórico de Versionamento
 
