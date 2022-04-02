@@ -50,6 +50,8 @@ nav:
       - Rich Picture: analise/verificacao/rich_picture.md
     - Validação:
       - Prototipação: analise/validacao/prototipo.md
+  - Pós-rastreabilidade:
+    - Foward-from: pos-rastreabilidade/foward_from.md
   - Apresentações:
     - Apresentação 1: apresentacoes/apresentacao1.md
     - Apresentação 2: apresentacoes/apresentacao2.md
