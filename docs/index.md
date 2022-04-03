@@ -32,7 +32,7 @@
 
 |Versão|Data de modificação|Descrição da modificação|Autor|
 |-|-|-|-|
-|1.0|03/02/2022|Criação da descrição sobre o projeto e sobre o aplicativo escolhido.|[DouglasMonteles]('https://github.com/douglasmonteles')|
-|1.1|05/02/2022|Corrigindo os estilos da página.|[DouglasMonteles]('https://github.com/douglasmonteles')|
-|1.2|05/02/2022|Adição da equipe, padronização dos tamanhos de título e alteração da imagem.|[LamequeFernandes]('https://github.com/lamequefernandes')|
+|1.0|03/02/2022|Criação da descrição sobre o projeto e sobre o aplicativo escolhido.|[DouglasMonteles](https://github.com/DouglasMonteles)|
+|1.1|05/02/2022|Corrigindo os estilos da página.|[DouglasMonteles](https://github.com/DouglasMonteles)|
+|1.2|05/02/2022|Adição da equipe, padronização dos tamanhos de título e alteração da imagem.|[DouglasMonteles](https://github.com/DouglasMonteles)|
 
