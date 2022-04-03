@@ -27,7 +27,7 @@
 ## 3. Requisitos Funcionais
 
 <p align="justify">
-  
+  Abaixo está aplicada a Matriz de Rastreabilidade em conjunto com o Meta-Modelo de Toranzo. A aplicação de ambos visa compor uma análise mais completa sobre os Requisitos Funcionais e sua realação com os demais artefatos apresentados e a sua respectiva classificação.
 </p>
 
 <center>
