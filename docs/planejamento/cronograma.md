@@ -113,4 +113,4 @@ Plano de ensino da matéria. Disponível em: <https://aprender3.unb.br/pluginfil
 |1.2|20/02/2022| Adicionado descrição no heatmap |[Lameque Fernandes](https://github.com/lamequefernandes)|[Antonio Igor](https://github.com/antonioigorcarvalho)|
 |1.3|08/03/2022| Criação da tabela da sprint 3 | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy) |
 |1.4|10/03/2022| Criação da tabela da sprint 4 | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Douglas Monteles](https://github.com/douglasmonteles) e[Erick Levy](https://github.com/ericklevy)  |
-|1.5|02/04/2022| Criação da tabela da sprint 5 | [Antonio Igor](https://github.com/antonioigorcarvalho) | Douglas Monteles](https://github.com/douglasmonteles) e[Erick Levy](https://github.com/ericklevy) |
+|1.5|02/04/2022| Criação da tabela da sprint 5 | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Douglas Monteles](https://github.com/douglasmonteles) e[Erick Levy](https://github.com/ericklevy) |
