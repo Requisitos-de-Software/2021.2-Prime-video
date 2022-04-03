@@ -72,7 +72,7 @@
 | RF17 - O usuário deve poder adicionar títulos à sua lista |   Épico 2 - Perfil    |  US22  |    C01     |    L - 31 Minha Área    |   Caso 02 - Fluxo de conteúdo          |    Desenvolvimento e Organizacional     |
 | RF18 - O usuário deve ter a opção de realizar uma busca |   Épico 3 - Conteúdo    |  US47  |    C02     |    L - 05 Buscar    |     Caso 02 - Fluxo de conteúdo        |    Desenvolvimento     |
 | RF19 - O usuário deve poder filtrar a sua busca |   Épico 3 - Conteúdo    |  US48  |    ---     |    ---    |      Caso 02 - Fluxo de conteúdo       |    Desenvolvimento     |
-| RF20 - O usuário deve ter a opção de alterar os meios de pagamento | Épico 3 - Conteúdo | US10 |         |        | --- |    Desenvolvimento e Organizacional     |
+| RF20 - O usuário deve ter a opção de alterar os meios de pagamento | Épico 3 - Conteúdo | US10 |    C07     |        | --- |    Desenvolvimento e Organizacional     |
 | RF21 - O usuário deve ser capaz de baixar os títulos | Épico 3 - Conteúdo | US24 |         |        | --- |     Desenvolvimento    |
 | RF22 - O usuário deve ser capaz de escolher o idioma de áudio | Épico 3 - Conteúdo | US36 |         |        | --- |   Desenvolvimento      |
 | RF23 - O usuário deve ser capaz de escolher o idioma da legenda | Épico 3 - Conteúdo | US37 |         |        | --- |    Desenvolvimento     |
