@@ -86,11 +86,11 @@
 | RF31 - O usuário pode pode alugar canais, filmes e series | Épico 3 - Conteúdo  | US51 | ---  | L - 03  | Caso 3 - Fluxo de conteúdo extra |    Desenvolvimento e Organizacional     |
 | RF32 - O usuário pode pode ocultar vídeos | Épico 3 - Conteúdo | US45 | ---  | L - 11  | Caso 2 - Fluxo de conteúdo |    Desenvolvimento     |
 | RF33 - O usuário pode desvincular os dispositivos | Épico 1 - Conta  | US17 | --- | L - 40  | --- |    Desenvolvimento e Organizacional     |
-| RF34 - O usuário pode excluir historico de navegação |  |    | ---  |---   | --- |    Desenvolvimento e Organizacional     |
+| RF34 - O usuário pode excluir historico de navegação | --- | --- | ---  |---   | --- |    Desenvolvimento e Organizacional     |
 | RF35 - O usuário pode ver informações dos atores | Épico 1 - Perfil | US44 |  ---  | L - 13  | Caso 2 - Fluxo de conteúdo |    Organizacional     |
-| RF36 - O usuário pode diminuir o consumo de dados | --- | --- |  |  | --- |    Organizacional     |
+| RF36 - O usuário pode diminuir o consumo de dados | --- | --- | --- | --- | --- |    Organizacional     |
 | RF37 - O usuário pode ver detalhes da obra | --- | --- |  ---| L - 13 | Caso 2 - Fluxo de conteúdo |     Desenvolvimento    |
-| RF38 - O usuário deve conseguir acessar um título pelo nome completo ou apenas parte dele | Épico 3 - Conteúdo | US49 |  |  | Caso 2 - Fluxo de conteúdo |     Desenvolvimento    |
+| RF38 - O usuário deve conseguir acessar um título pelo nome completo ou apenas parte dele | Épico 3 - Conteúdo | US49 | --- | --- | Caso 2 - Fluxo de conteúdo |     Desenvolvimento    |
 | RF39 - O usuário deve poder criar um perfil infantil | Épico 1 - Perfil | US18 | ---  | L - 12 | Caso 1 - Fluxo de conta |    Desenvolvimento e Organizacional     |
 
 <figcaption>Fonte: Próprio autor</figcaption>
