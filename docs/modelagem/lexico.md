@@ -179,7 +179,7 @@ Os Léxicos foram ordenados em ordem alfabetica.
 
 | Tipo       |  Léxico     | Sinônimo  | Noção    |       Impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
-| Estado   |  Idioma  | Dialeto, Língua    | Língua própria de um povo, de uma nação.  |  O usuário pode selecionar um gênero específico.</br> O usuário pode ver a qual gênero a obra pertence.</br>  |
+| Estado   |  Idioma  | Dialeto, Língua    | Língua própria de um povo, de uma nação.  |  O usuário pode escolher um idioma específico.</br>  O usuário pode escolher um idioma para legenda.</br>  |
 
 ### L - 27 Legenda 
 

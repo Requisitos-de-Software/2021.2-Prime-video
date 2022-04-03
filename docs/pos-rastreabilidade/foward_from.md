@@ -72,17 +72,17 @@
 | RF17 - O usuário deve poder adicionar títulos à sua lista |   Épico 2 - Perfil    |  US22  |    C01     |    L - 31 Minha Área    |   Caso 02 - Fluxo de conteúdo          |    Desenvolvimento e Organizacional     |
 | RF18 - O usuário deve ter a opção de realizar uma busca |   Épico 3 - Conteúdo    |  US47  |    C02     |    L - 05 Buscar    |     Caso 02 - Fluxo de conteúdo        |    Desenvolvimento     |
 | RF19 - O usuário deve poder filtrar a sua busca |   Épico 3 - Conteúdo    |  US48  |    ---     |    ---    |      Caso 02 - Fluxo de conteúdo       |    Desenvolvimento     |
-| RF20 - O usuário deve ter a opção de alterar os meios de pagamento | Épico 3 - Conteúdo | US10 |    C07     |        | --- |    Desenvolvimento e Organizacional     |
-| RF21 - O usuário deve ser capaz de baixar os títulos | Épico 3 - Conteúdo | US24 |         |        | --- |     Desenvolvimento    |
-| RF22 - O usuário deve ser capaz de escolher o idioma de áudio | Épico 3 - Conteúdo | US36 |         |        | --- |   Desenvolvimento      |
-| RF23 - O usuário deve ser capaz de escolher o idioma da legenda | Épico 3 - Conteúdo | US37 |         |        | --- |    Desenvolvimento     |
-| RF24 - O usuário deve ser capaz de tirar a legenda | Épico 3 - Conteúdo | US42  |         |        | Caso 2 - Fluxo de conteúdo |    Desenvolvimento     |
-| RF25 - O usuário deve poder escolher a qualidade do vídeo | Épico 3 - Conteúdo | US42 |  |  | --- |    Desenvolvimento     |
-| RF26 - O usuário deve poder usar a opção de tela cheia | Épico 3 - Conteúdo | US42 |  |  | Caso 2 - Fluxo de conteúdo |    Desenvolvimento     |
-| RF27 - O usuário deve poder realizar login na plataforma | Épico 1 - Conta | US12 |  |  | Caso 1 - Fluxo de conta |   Desenvolvimento e Organizacional      |
-| RF28 - O usuário deve poder realizar logout na plataforma | Épico 1 - Conta | US13 |  |  | Caso 1 - Fluxo de conta |    Desenvolvimento e Organizacional     |
-| RF29 - O usuário pode excluir perfis | Épico 1 - Conta | US21 |  |  | Caso 1 - Fluxo de conta |    Desenvolvimento e Organizacional     |
-| RF30 - O usuário pode usar o Watch party | Épico 3 - Conteúdo | US25 |  |  | --- |    Desenvolvimento e Organizacional     |
+| RF20 - O usuário deve ter a opção de alterar os meios de pagamento | Épico 3 - Conteúdo | US10 |    C07     |  ---    | --- |    Desenvolvimento e Organizacional     |
+| RF21 - O usuário deve ser capaz de baixar os títulos | Épico 3 - Conteúdo | US24 |   ---      |   L - 17     | --- |     Desenvolvimento    |
+| RF22 - O usuário deve ser capaz de escolher o idioma de áudio | Épico 3 - Conteúdo | US36 |   C10      |  L - 26   | --- |   Desenvolvimento      |
+| RF23 - O usuário deve ser capaz de escolher o idioma da legenda | Épico 3 - Conteúdo | US37 |  C10    |  L - 27  | --- |    Desenvolvimento     |
+| RF24 - O usuário deve ser capaz de tirar a legenda | Épico 3 - Conteúdo | US42  |   ---      |  L - 27    | Caso 2 - Fluxo de conteúdo |    Desenvolvimento     |
+| RF25 - O usuário deve poder escolher a qualidade do vídeo | Épico 3 - Conteúdo | US42 | ---  |  --- | --- |    Desenvolvimento     |
+| RF26 - O usuário deve poder usar a opção de tela cheia | Épico 3 - Conteúdo | US42 | ---  | --- | Caso 2 - Fluxo de conteúdo |    Desenvolvimento     |
+| RF27 - O usuário deve poder realizar login na plataforma | Épico 1 - Conta | US12 | ---  | L - 28 | Caso 1 - Fluxo de conta |   Desenvolvimento e Organizacional      |
+| RF28 - O usuário deve poder realizar logout na plataforma | Épico 1 - Conta | US13 | C09  | L - 29 | Caso 1 - Fluxo de conta |    Desenvolvimento e Organizacional     |
+| RF29 - O usuário pode excluir perfis | Épico 1 - Conta | US21 | --- | ---  | Caso 1 - Fluxo de conta |    Desenvolvimento e Organizacional     |
+| RF30 - O usuário pode usar o Watch party | Épico 3 - Conteúdo | US25 |  | L - 49 | --- |    Desenvolvimento e Organizacional     |
 | RF31 - O usuário pode pode alugar canais, filmes e series | Épico 3 - Conteúdo  | US51 |  |  | Caso 3 - Fluxo de conteúdo extra |    Desenvolvimento e Organizacional     |
 | RF32 - O usuário pode pode ocultar vídeos | Épico 3 - Conteúdo | US45 |  |  | Caso 2 - Fluxo de conteúdo |    Desenvolvimento     |
 | RF33 - O usuário pode desvincular os dispositivos | Épico 1 - Conta  | US17 |  |  | --- |    Desenvolvimento e Organizacional     |
