@@ -109,4 +109,6 @@
 
 | Data | Versão | Descrição | Autores | Revisor |
 | :--: | :----: | :-------: | :-------: | :-------: |
-| 02/04/2022  | 1.0 | Criação do documento de Pós-Rastreabilidade Foward-from |  | a definir |
+| 02/04/2022  | 1.0 | Criação do documento de Pós-Rastreabilidade Foward-from | [Douglas Monteles](https://github.com/douglasmonteles) | a definir |
+| 02/04/2022  | 1.1 | Adição da tabela e implementação da coluna de Requisitos | [Lameque Fernandes](https://github.com/lamequefernandes) | a definir |
+| 02/04/2022  | 1.2 | Implementação das colunas sobre épicos, histórias de usuário e casos de uso do RF20 ao RF39 | [Lameque Fernandes](https://github.com/lamequefernandes) | a definir |
