@@ -75,9 +75,10 @@ Tabela 1: Requisitos funcionais.
 Tabela 2: Requisitos não funcionais.
 </center>
 
-## 4. Referências
-
-
+## 4. Conclusão
+<p align='justify'>
+Através desse documento conseguimos obter a rastreabilidade desejada, ligando cada requisito ao seu documento de elicitação e modelagem, de forma resumida e organizada.
+</p>
 
 ## 5. Histórico de Versionamento
 
