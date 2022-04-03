@@ -2,11 +2,18 @@
 
 ## 1. Introdução
 
+<p align='justify'>
+A matriz de rastreabilidade Backward-from tem o objetivo de ligar cada requisito à sua origem ou sua fonte. Essa técnica é utilizada para manter os artefatos rastreáveis e assim obter maior controle o organização sobre o projeto.
+</p>
+
+<p align='justify'>
+Neste documento, cada requisito estará linkado a sua técnica de elicitação e à respectiva modelagem utilizada.</p>
+
 ## 2. Requisitos Funcionais
 
 
-| Código | Requisito| Método |
-|--|--|--|
+| Código | Requisito| Método | Modelagem
+|--|--|--|--|
 |RF1| O usuário deve conseguir visualizar os termos e aviso de privacidade |<a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/tecnicas/brainstorming/">Brainstorm</a>|
 |RF2| O usuário deve ter a opção de ocultar uma serie/filme da sua tela inicial |<a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/tecnicas/brainstorming/">Brainstorm</a>|
 |RF3| O usuário deve poder remover títulos da sua lista |<a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/tecnicas/brainstorming/">Brainstorm</a>|
@@ -53,17 +60,17 @@ Tabela 1: Requisitos funcionais.
 
 ## 3. Requisitos Não Funcionais
 
-| Código | Requisito| Método |
-|--|--|--|
-|RNF1| O sistema deve ser multiplataforma |<a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/tecnicas/brainstorming/">Brainstorm</a>|
-|RNF2| O sistema deve proporcionar uma aba com sugestões para o usuário logado|<a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/tecnicas/brainstorming/">Brainstorm</a>|
-|RNF3| O sistema deve oferecer a opção de impedir downloads usando dados móveis |<a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/tecnicas/brainstorming/">Brainstorm</a>|
-|RNF4| O sistema deve manter o tempo de filme ou série já assistido para que o usuário possa continuar assistindo posteriormente |<a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/tecnicas/brainstorming/">Brainstorm</a>|
-|RNF5|O sistema deve restringir alguns títulos para perfis infantis|<a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/tecnicas/instrospeccao/">Instrospecção</a>|
-|RNF6|O sistema deve possuir a função de reprodução automática|<a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/tecnicas/instrospeccao/">Instrospecção</a>|
-|RNF7|O sistema deve ser responsivo|<a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/tecnicas/brainstorming/">Brainstorm</a>|
-|RNF8|O sistema deve possuir um preço acessível|<a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/tecnicas/questionario/">Questionário</a>|
-|RNF9|O sistema deve possuir uma boa conexão com o servidor|<a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/tecnicas/questionario/">Questionário</a>|
+| Código | Requisito| Método | Modelagem
+|--|--|--|--|
+|RNF1| O sistema deve ser multiplataforma |<a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/tecnicas/brainstorming/">Brainstorm</a>|<a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/nfr_framework/">NFR</a>|
+|RNF2| O sistema deve proporcionar uma aba com sugestões para o usuário logado|<a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/tecnicas/brainstorming/">Brainstorm</a>|<a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/nfr_framework/">NFR</a>|
+|RNF3| O sistema deve oferecer a opção de impedir downloads usando dados móveis |<a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/tecnicas/brainstorming/">Brainstorm</a>|<a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/nfr_framework/">NFR</a>|
+|RNF4| O sistema deve manter o tempo de filme ou série já assistido para que o usuário possa continuar assistindo posteriormente |<a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/tecnicas/brainstorming/">Brainstorm</a>|<a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/nfr_framework/">NFR</a>|
+|RNF5|O sistema deve restringir alguns títulos para perfis infantis|<a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/tecnicas/instrospeccao/">Instrospecção</a>|<a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/nfr_framework/">NFR</a>|
+|RNF6|O sistema deve possuir a função de reprodução automática|<a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/tecnicas/instrospeccao/">Instrospecção</a>|<a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/nfr_framework/">NFR</a>|
+|RNF7|O sistema deve ser responsivo|<a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/tecnicas/brainstorming/">Brainstorm</a>|<a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/nfr_framework/">NFR</a>|
+|RNF8|O sistema deve possuir um preço acessível|<a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/tecnicas/questionario/">Questionário</a>|<a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/nfr_framework/">NFR</a>|
+|RNF9|O sistema deve possuir uma boa conexão com o servidor|<a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/tecnicas/questionario/">Questionário</a>|<a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/nfr_framework/">NFR</a>|
 
 <center>
 Tabela 2: Requisitos não funcionais.
@@ -71,9 +78,12 @@ Tabela 2: Requisitos não funcionais.
 
 ## 4. Referências
 
+
+
 ## 5. Histórico de Versionamento
 
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
 |1.0|02/04/2022| Criação do documento | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Caio Santos](https://github.com/caiobsantos) | - |
+|1.1|03/04/2022| Adição dos requisitos não funcionais | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Caio Santos](https://github.com/caiobsantos) | - |
 
