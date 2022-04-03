@@ -63,15 +63,15 @@
 | RF08 - O usuário deve poder escolher qual episódio assistir de um título |   Épico 3 - Conteúdo   |  US32  |    C03     |    L - 04 Assistir, L - 16 Documentário, L - 22 Extra, L - 44 Série e L - 49 Watch Party    |      Caso 02 - Fluxo de conteúdo       |    Desenvolvimento e Organizacional    |
 | RF09 - O usuário deve ser capaz de desabilitar a reprodução automática |   Épico 3 - Conteúdo    |  US31 e US34  |    C03     |   L - 04 Assistir     |      Caso 02 - Fluxo de conteúdo       |         |
 | RF10 - O usuário deve ser capaz de visualizar títulos recomendados |   Épico 3 - Conteúdo    |  US38  |    C04     |    L - 36 Recomendado    |      Caso 02 - Fluxo de conteúdo       |    Desenvolvimento     |
-| RF11 - O usuário deve ser capaz de assistir ao trailer dos títulos |       |    |         |        |             |         |
-| RF12 - O usuário deve ser capaz de pular a abertura dos titulos |       |    |         |        |             |         |
-| RF13 - O usuario deve conseguir ver quais filmes/series ele assistiu anteriormente |       |    |         |        |             |         |
-| RF14 - O usuário deve poder escolher qual temporada assistir de um título |       |    |         |        |          |            |
-| RF15 - O usuário deve poder adicionar novos perfis à sua conta |       |    |         |        |             |         |
-| RF16 - O usuário deve poder editar seu avatar ou nome de perfil |       |    |         |        |             |         |
-| RF17 - O usuário deve poder adicionar títulos à sua lista |       |    |         |        |             |         |
-| RF18 - O usuário deve ter a opção de realizar uma busca |       |    |         |        |             |         |
-| RF19 - O usuário deve poder filtrar a sua busca |       |    |         |        |             |         |
+| RF11 - O usuário deve ser capaz de assistir ao trailer dos títulos |   Épico 3 - Conteúdo    |  US28  |    ---     |    L - 04 Assistir    |     Caso 02 - Fluxo de conteúdo        |    Desenvolvimento     |
+| RF12 - O usuário deve ser capaz de pular a abertura dos titulos |  Épico 3 - Conteúdo     |  US35  |    ---     |    ---    |      ---       |    Desenvolvimento     |
+| RF13 - O usuario deve conseguir ver quais filmes/series ele assistiu anteriormente |   Épico 3 - Conteúdo    |  ---  |    C03     |    L - 20 Episódio    |      Caso 02 - Fluxo de conteúdo       |    Desenvolvimento     |
+| RF14 - O usuário deve poder escolher qual temporada assistir de um título |   Épico 3 - Conteúdo    |  ---  |     ---    |    L - 46 Temporada    |    Caso 02 - Fluxo de conteúdo      |      Desenvolvimento      |
+| RF15 - O usuário deve poder adicionar novos perfis à sua conta  |  Épico 2 - Perfil  |    US30     |    C01    |      L - 19 Editar Perfil       |     Caso 02 - Fluxo de conteúdo    |   Desenvolvimento e Organizacional   |
+| RF16 - O usuário deve poder editar seu avatar ou nome de perfil |  Épico 2 - Perfil     |  US19 e US20  |    C01     |    L - 19 Editar Perfil    |      Caso 02 - Fluxo de conteúdo       |    Desenvolvimento e Organizacional     |
+| RF17 - O usuário deve poder adicionar títulos à sua lista |   Épico 2 - Perfil    |  US22  |    C01     |    L - 31 Minha Área    |   Caso 02 - Fluxo de conteúdo          |    Desenvolvimento e Organizacional     |
+| RF18 - O usuário deve ter a opção de realizar uma busca |   Épico 3 - Conteúdo    |  US47  |    C02     |    L - 05 Buscar    |     Caso 02 - Fluxo de conteúdo        |    Desenvolvimento     |
+| RF19 - O usuário deve poder filtrar a sua busca |   Épico 3 - Conteúdo    |  US48  |    ---     |    ---    |      Caso 02 - Fluxo de conteúdo       |    Desenvolvimento     |
 | RF20 - O usuário deve ter a opção de alterar os meios de pagamento | Épico 3 - Conteúdo | US10 |         |        | --- |    Desenvolvimento e Organizacional     |
 | RF21 - O usuário deve ser capaz de baixar os títulos | Épico 3 - Conteúdo | US24 |         |        | --- |     Desenvolvimento    |
 | RF22 - O usuário deve ser capaz de escolher o idioma de áudio | Épico 3 - Conteúdo | US36 |         |        | --- |   Desenvolvimento      |
