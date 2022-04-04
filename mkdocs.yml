@@ -51,7 +51,8 @@ nav:
     - Validação:
       - Prototipação: analise/validacao/prototipo.md
   - Pós-rastreabilidade:
-    - Foward-from: pos-rastreabilidade/forward_from.md
+    - Backward-from: pos-rastreabilidade/backward_from.md
+    - Forward-from: pos-rastreabilidade/forward_from.md
   - Apresentações:
     - Apresentação 1: apresentacoes/apresentacao1.md
     - Apresentação 2: apresentacoes/apresentacao2.md
