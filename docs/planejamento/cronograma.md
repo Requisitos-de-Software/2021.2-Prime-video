@@ -84,6 +84,14 @@ Com base nos prazos estipulados pela disciplida e disponibilidade dos integrante
 | Criação do protótipo de validação         | [Antonio Igor](https://github.com/antonioigorcarvalho)      | [Caio Santos](https://github.com/caiobsantos) e [Lameque Fernandes](https://github.com/lamequefernandes) | 22/mar |
 | Gravação da apresentação 5                | Todos         | Todos           | 23/mar           |
 
+### Sprint 6
+
+| Tarefas         | Responsável   | Revisor         | Entrega Prevista |
+| --------------- | ------------- | --------------- | ---------------- |
+| Criação do documento backward-from | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Caio Santos](https://github.com/caiobsantos) | [Lameque Fernandes](https://github.com/lamequefernandes) | 02/abr |
+| Criação do documento forward-from | [Antonio Igor](https://github.com/antonioigorcarvalho), [Douglas Monteles](https://github.com/douglasmonteles), [Erick Levy](https://github.com/ericklevy), [Lameque Fernandes](https://github.com/lamequefernandes) e [Sávio Cunha](https://github.com/savioc2) | [Caio Santos](https://github.com/caiobsantos) | 02/abr |
+| Gravação da apresentação 6  | Todos         | Todos           | 03/abr           |
+
 ## 4. Heatmap
 
 Com base nos horários de todos os membros, construímos um heatmap (ou mapa de calor)  para nos organizarmos durante as sprints.
