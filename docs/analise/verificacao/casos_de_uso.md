@@ -148,12 +148,15 @@ No checklist temos perguntas sobre os casos de uso que nos permitem verificar os
 | 1  | 9  | Possui rastreabilidade? |
 | 2  | 9  | Possui rastreabilidade? |
 | 3  | 9  | Possui rastreabilidade? |
+| 1  | 15  | Existem legendas para os diagramas |
+| 2  | 15  | Existem legendas para os diagramas |
+| 3  | 15  | Existem legendas para os diagramas |
 
 ### 3.1 Possíveis soluções
 
 Para solucionar os problemas encontrados na UC1(Fluxo de conta), será necessário dividir o caso de uso em dois, pois o mesmo possui dois fluxos principais.
 
-Outro problema, desta vez encontrado em todos os casos de uso é a ausência de rastreabilidade. Esse problema seria solucionado facilmente adicionando a rastreabilidade em todos os UC(casos de uso).
+Outros dois problemas, desta vez encontrados em todos os casos de uso, são a ausência de rastreabilidade e a ausência de legenda para o diagrama de casos de uso. Esses problemas serão facilmente solucionados adicionando a rastreabilidade em todos os UC(casos de uso) e adicionando um novo tópico apenas com as legendas sobre cada símbolo existente na página sobre os casos de uso.
 
 
 ## 4. Conclusão
