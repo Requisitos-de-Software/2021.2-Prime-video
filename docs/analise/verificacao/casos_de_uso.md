@@ -55,6 +55,17 @@ No checklist temos perguntas sobre os casos de uso que nos permitem verificar os
 | 10 | Apresenta o comportamento do sistema de forma clara? | ✔️ |
 | 11 | A tabela está coerente com a representação do diagrama? | ✔️ |
 | 12 | Descreve a principal meta do caso de uso?   | ✔️ |
+| 13 | Diagrama possui uma caixa apresentando o limite do sistema | ✔️ |
+| 14 | O diagrama possui associações | ✔️ |
+| 15 | Existem legendas para os diagramas | ❌ |
+| 16 | O ator principal está do lado esquerdo do sistema | ✔️ |
+| 17 | O ator secuntario está do lado direito do sistema | Não se aplica |
+| 18 | O sistema possui um título na caixa do sistema | ✔️ |
+| 19 | Os atores estão fora do sistema | ✔️ |
+| 20 | Existe caso de inclusão no diagrama | ✔️ |
+| 21 | Os direcionamentos das setas estão corretos | ✔️ |
+| 22 | Possui caso de uso extendido | ✔️ |
+| 23 | Ator secundario reage a pelo menos uma interação do sistema | Não se aplica |
 
 
 <figcaption>Fonte: Próprio autor</figcaption>
@@ -79,6 +90,17 @@ No checklist temos perguntas sobre os casos de uso que nos permitem verificar os
 | 10 | Apresenta o comportamento do sistema de forma clara? | ✔️ |
 | 11 | A tabela está coerente com a representação do diagrama? | ✔️ |
 | 12 | Descreve a principal meta do caso de uso?   | ✔️ |
+| 13 | Diagrama possui uma caixa apresentando o limite do sistema | ✔️ |
+| 14 | O diagrama possui associações | ✔️ |
+| 15 | Existem legendas para os diagramas | ❌ |
+| 16 | O ator principal está do lado esquerdo do sistema | ✔️ |
+| 17 | O ator secuntario está do lado direito do sistema | Não se aplica |
+| 18 | O sistema possui um título na caixa do sistema | ✔️ |
+| 19 | Os atores estão fora do sistema | ✔️ |
+| 20 | Existe caso de inclusão no diagrama | ✔️ |
+| 21 | Os direcionamentos das setas estão corretos | ✔️ |
+| 22 | Possui caso de uso extendido | ✔️ |
+| 23 | Ator secundario reage a pelo menos uma interação do sistema | Não se aplica |
 
 <figcaption>Fonte: Próprio autor</figcaption>
 </center>
@@ -102,6 +124,17 @@ No checklist temos perguntas sobre os casos de uso que nos permitem verificar os
 | 10 | Apresenta o comportamento do sistema de forma clara? | ✔️ |
 | 11 | A tabela está coerente com a representação do diagrama? | ✔️ |
 | 12 | Descreve a principal meta do caso de uso?   | ✔️ |
+| 13 | Diagrama possui uma caixa apresentando o limite do sistema | ✔️ |
+| 14 | O diagrama possui associações | ✔️ |
+| 15 | Existem legendas para os diagramas | ❌ |
+| 16 | O ator principal está do lado esquerdo do sistema | ✔️ |
+| 17 | O ator secuntario está do lado direito do sistema | ✔️ |
+| 18 | O sistema possui um título na caixa do sistema | ✔️ |
+| 19 | Os atores estão fora do sistema | ✔️ |
+| 20 | Existe caso de inclusão no diagrama | ✔️ |
+| 21 | Os direcionamentos das setas estão corretos | ✔️ |
+| 22 | Possui caso de uso extendido | ✔️ |
+| 23 | Ator secundario reage a pelo menos uma interação do sistema | ✔️ |
 
 <figcaption>Fonte: Próprio autor</figcaption>
 </center>
