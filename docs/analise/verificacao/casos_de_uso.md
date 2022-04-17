@@ -176,3 +176,4 @@ SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 23, do slide 4 ao 31. Mat
 |-|-|-|-|-|
 |1.0|23/03/2022|Criação do documento de análise dos Casos de Uso|[Lameque Fernandes](https://github.com/lamequefernandes)|[Antonio Igor](https://github.com/antonioigorcarvalho)|
 |1.1|23/03/2022|Adição de conclusão e alterações nas tabelas|[Lameque Fernandes](https://github.com/lamequefernandes)|[Antonio Igor](https://github.com/antonioigorcarvalho)|
+|1.2|17/04/2022|Melhoria na verificação dos casos de uso|[Lameque Fernandes](https://github.com/lamequefernandes)| --- |
