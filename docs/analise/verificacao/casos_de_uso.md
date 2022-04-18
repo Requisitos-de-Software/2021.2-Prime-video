@@ -55,6 +55,17 @@ No checklist temos perguntas sobre os casos de uso que nos permitem verificar os
 | 10 | Apresenta o comportamento do sistema de forma clara? | ✔️ |
 | 11 | A tabela está coerente com a representação do diagrama? | ✔️ |
 | 12 | Descreve a principal meta do caso de uso?   | ✔️ |
+| 13 | Diagrama possui uma caixa apresentando o limite do sistema | ✔️ |
+| 14 | O diagrama possui associações | ✔️ |
+| 15 | Existem legendas para os diagramas | ❌ |
+| 16 | O ator principal está do lado esquerdo do sistema | ✔️ |
+| 17 | O ator secuntario está do lado direito do sistema | Não se aplica |
+| 18 | O sistema possui um título na caixa do sistema | ✔️ |
+| 19 | Os atores estão fora do sistema | ✔️ |
+| 20 | Existe caso de inclusão no diagrama | ✔️ |
+| 21 | Os direcionamentos das setas estão corretos | ✔️ |
+| 22 | Possui caso de uso extendido | ✔️ |
+| 23 | Ator secundario reage a pelo menos uma interação do sistema | Não se aplica |
 
 
 <figcaption>Fonte: Próprio autor</figcaption>
@@ -79,6 +90,17 @@ No checklist temos perguntas sobre os casos de uso que nos permitem verificar os
 | 10 | Apresenta o comportamento do sistema de forma clara? | ✔️ |
 | 11 | A tabela está coerente com a representação do diagrama? | ✔️ |
 | 12 | Descreve a principal meta do caso de uso?   | ✔️ |
+| 13 | Diagrama possui uma caixa apresentando o limite do sistema | ✔️ |
+| 14 | O diagrama possui associações | ✔️ |
+| 15 | Existem legendas para os diagramas | ❌ |
+| 16 | O ator principal está do lado esquerdo do sistema | ✔️ |
+| 17 | O ator secuntario está do lado direito do sistema | Não se aplica |
+| 18 | O sistema possui um título na caixa do sistema | ✔️ |
+| 19 | Os atores estão fora do sistema | ✔️ |
+| 20 | Existe caso de inclusão no diagrama | ✔️ |
+| 21 | Os direcionamentos das setas estão corretos | ✔️ |
+| 22 | Possui caso de uso extendido | ✔️ |
+| 23 | Ator secundario reage a pelo menos uma interação do sistema | Não se aplica |
 
 <figcaption>Fonte: Próprio autor</figcaption>
 </center>
@@ -102,6 +124,17 @@ No checklist temos perguntas sobre os casos de uso que nos permitem verificar os
 | 10 | Apresenta o comportamento do sistema de forma clara? | ✔️ |
 | 11 | A tabela está coerente com a representação do diagrama? | ✔️ |
 | 12 | Descreve a principal meta do caso de uso?   | ✔️ |
+| 13 | Diagrama possui uma caixa apresentando o limite do sistema | ✔️ |
+| 14 | O diagrama possui associações | ✔️ |
+| 15 | Existem legendas para os diagramas | ❌ |
+| 16 | O ator principal está do lado esquerdo do sistema | ✔️ |
+| 17 | O ator secuntario está do lado direito do sistema | ✔️ |
+| 18 | O sistema possui um título na caixa do sistema | ✔️ |
+| 19 | Os atores estão fora do sistema | ✔️ |
+| 20 | Existe caso de inclusão no diagrama | ✔️ |
+| 21 | Os direcionamentos das setas estão corretos | ✔️ |
+| 22 | Possui caso de uso extendido | ✔️ |
+| 23 | Ator secundario reage a pelo menos uma interação do sistema | ✔️ |
 
 <figcaption>Fonte: Próprio autor</figcaption>
 </center>
@@ -115,12 +148,15 @@ No checklist temos perguntas sobre os casos de uso que nos permitem verificar os
 | 1  | 9  | Possui rastreabilidade? |
 | 2  | 9  | Possui rastreabilidade? |
 | 3  | 9  | Possui rastreabilidade? |
+| 1  | 15  | Existem legendas para os diagramas |
+| 2  | 15  | Existem legendas para os diagramas |
+| 3  | 15  | Existem legendas para os diagramas |
 
 ### 3.1 Possíveis soluções
 
 Para solucionar os problemas encontrados na UC1(Fluxo de conta), será necessário dividir o caso de uso em dois, pois o mesmo possui dois fluxos principais.
 
-Outro problema, desta vez encontrado em todos os casos de uso é a ausência de rastreabilidade. Esse problema seria solucionado facilmente adicionando a rastreabilidade em todos os UC(casos de uso).
+Outros dois problemas, desta vez encontrados em todos os casos de uso, são a ausência de rastreabilidade e a ausência de legenda para o diagrama de casos de uso. Esses problemas serão facilmente solucionados adicionando a rastreabilidade em todos os UC(casos de uso) e adicionando um novo tópico apenas com as legendas sobre cada símbolo existente na página sobre os casos de uso.
 
 
 ## 4. Conclusão
@@ -140,3 +176,4 @@ SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 23, do slide 4 ao 31. Mat
 |-|-|-|-|-|
 |1.0|23/03/2022|Criação do documento de análise dos Casos de Uso|[Lameque Fernandes](https://github.com/lamequefernandes)|[Antonio Igor](https://github.com/antonioigorcarvalho)|
 |1.1|23/03/2022|Adição de conclusão e alterações nas tabelas|[Lameque Fernandes](https://github.com/lamequefernandes)|[Antonio Igor](https://github.com/antonioigorcarvalho)|
+|1.2|17/04/2022|Melhoria na verificação dos casos de uso|[Lameque Fernandes](https://github.com/lamequefernandes)| --- |
