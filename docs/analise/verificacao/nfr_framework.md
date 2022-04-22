@@ -116,4 +116,4 @@ Por meio da técnica de inspeção fizemos uma marcação nos itens que o docume
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
 |1.0|21/03/2022|Criação do documento de análise do NFR Framework|[Douglas Monteles](https://github.com/douglasmonteles)| [Caio Santos](https://github.com/caiobsantos) |
-|1.1|22/04/2022| Atualização da descrição de metodologia | [Antonio Igor](https://github.com/antonioigorcarvalho) | - |
+|1.1|22/04/2022| Atualização da descrição de metodologia | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy) |
