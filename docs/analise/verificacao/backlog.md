@@ -878,4 +878,4 @@ Por meio da técnica de inspeção fizemos uma marcação nos itens que o docume
 |-|-|-|-|-|
 |1.0|22/03/2022|Criação do documento de análise do Backlog|[Douglas Monteles](https://github.com/douglasmonteles)| [Antonio Igor](https://github.com/antonioigorcarvalho) e [Caio Santos](https://github.com/caiobsantos) |
 |1.1|23/03/2022|Verificação da US17 até a US 46|[Lameque Fernandes](https://github.com/lamequefernandes)|[Antonio Igor](https://github.com/antonioigorcarvalho) e [Caio Santos](https://github.com/caiobsantos)|
-|1.2|22/04/2022|Atualização da descrição de metodologia | [Antonio Igor](https://github.com/antonioigorcarvalho) | - |
+|1.2|22/04/2022|Atualização da descrição de metodologia | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy) |
