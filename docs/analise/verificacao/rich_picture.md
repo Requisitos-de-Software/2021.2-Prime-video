@@ -60,5 +60,5 @@ Reinehr, Sheila Engenharia de Requisitos, Editora: Grupo A Selo: Sagah. 1ª edi�
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
 |1.0|22/03/2022|Criação do documento para verificação do Rich Picture|[Sávio Cunha](https://github.com/savioc2)| [Antonio Igor](https://github.com/antonioigorcarvalho) |
-|1.1|22/04/2022| Atualização da descrição de metodologia | [Antonio Igor](https://github.com/antonioigorcarvalho) | - |
+|1.1|22/04/2022| Atualização da descrição de metodologia | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy) |
 
