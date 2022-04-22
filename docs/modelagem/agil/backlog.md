@@ -11,15 +11,32 @@ O Product Backlog ou apenas Backlog, se refere a uma lista de itens desejados pa
 A metodologia propostas para as user story que estão presentes no Amazon prime e Prime video sao:
 </p>
 
+<center>
+
+### Tabela 1: Significado das siglas utilizadas
+
 | tipo  |  significado   | explicação    | 
 | :-------------: |----------------|---------------|
 | US   |  User Story (História de Usuário)  | História de Usuário que pertencem unicamente ao escopo do Prime video. |
 | APUS  |  Amazon Prime User Story (História de Usuário do Amazon Prime)  | História de Usuário que pertencem tanto ao Prime video como o serviço Amazon Prime este termo foi criado para este projeto no caso da interligação do Amazon prime com o Prime video. |
+| RFXX | Não possui requisito vinculado | Nem todas as US possuem algum requisito vinculado |
 
-### 2.1 Tabela usada para representação dos Épicos
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+### Tabela 2: Modelo de representação dos Épicos
+
 | ID | Rastreabilidade | História de usúario (Eu como usuário gostaria de ...) | Prioridade |
 | -- | :-------------: | ----------------------------------------------------- | ---------- |
 
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
 
 ### 2.2 Prioridades
 
@@ -40,7 +57,9 @@ Um Épico pode ser definido como uma coleção de histórias de usuário que ain
 
 - Conteúdo
 
-### 3.1 Épico 1 - Conta
+<center>
+
+### Tabela 3: Épico 1 - Conta
 
 | ID | Rastreabilidade | História de usúario (Eu como usuário gostaria de ...) | Prioridade |
 | -- | :-------------: | ----------------------------------------------------- | ---------- |
@@ -67,9 +86,16 @@ Um Épico pode ser definido como uma coleção de histórias de usuário que ain
 | US16 |   RF33    | Renova assinatura de série| Must |
 | US17 |   RF36    | Sair dos dispositivos| Could |
 
+<figcaption>Fonte: Próprio autor</figcaption>
 
+</center>
 
-### 3.2 Épico 2 - Perfil
+<br/>
+
+<center>
+
+### Tabela 4: Épico 2 - Perfil
+
 | ID | Rastreabilidade | História de usúario (Eu como usuário gostaria de ...) | Prioridade |
 | -- | :-------------: | ----------------------------------------------------- | ---------- | 
 | US18 | RF18 |  Criar um novo perfil à minha conta | Must |
@@ -79,7 +105,15 @@ Um Épico pode ser definido como uma coleção de histórias de usuário que ain
 | US22 | RF18 |  Adicionar títulos à minha lista | Must |
 | US23 | RF04 | Remover títulos da minha lista | Must |
 
-### 3.3 Épico 3 - Conteúdo
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br/>
+
+<center>
+
+### Tabela 5: Épico 3 - Conteúdo
 
 | ID | Rastreabilidade | História de usúario (Eu como usuário gostaria de ...) | Prioridade |
 | -- | :-------------: | ----------------------------------------------------- | ---------- | 
@@ -113,12 +147,18 @@ Um Épico pode ser definido como uma coleção de histórias de usuário que ain
 | US51 | RF31 | Alugar conteúdo extra | Must | 
 | US52 | RF05 | Reproduzir conteúdo extra | Must | 
 
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br/>
+
 
 ## 4. Referências
 
-SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 15.
+> SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 15.
 
-Epic, Feature e User Story (Epico, Funcionalidade e História de Usuário). Disponível em: https://www.ateomomento.com.br/epic-feature-e-user-story/. Acesso em: 09 de Março de 2022.
+> Epic, Feature e User Story (Epico, Funcionalidade e História de Usuário). Disponível em: https://www.ateomomento.com.br/epic-feature-e-user-story/. Acesso em: 09 de Março de 2022.
 
 ## 5. Histórico de Versionamento
 
@@ -131,3 +171,4 @@ Epic, Feature e User Story (Epico, Funcionalidade e História de Usuário). Disp
 |1.4|09/03/2022|Adição da definição dos épicos|[Caio Santos](https://github.com/caiobsantos)| [Lameque Fernandes](https://github.com/lamequefernandes) |
 |1.5|09/03/2022|Adição das histórias de usuário relacionadas a conta |[Erick Levy](https://github.com/ericklevy)| [Caio Santos](https://github.com/caiobsantos) |
 |1.6|23/03/2022|Adição das histórias de usuário relacionadas a conta do Amazon prime e mais historia de usuário em conteúdo |[Erick Levy](https://github.com/ericklevy)| [Antonio Igor](https://github.com/antonioigorcarvalho) |
+|1.7|22/04/2022| Adicionando legendas as tabelas e mais uma linha na Tabela 1 com a explicação do RFXX |[Erick Levy](https://github.com/ericklevy)| [Antonio Igor](https://github.com/antonioigorcarvalho) |
