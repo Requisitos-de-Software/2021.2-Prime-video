@@ -17,6 +17,8 @@ O termo MoSCoW é um acrônimo em inglês derivado da primeira letra de cada uma
 
 ## 2. Metodologia
 
+### 2.1 Ordem de priorização
+
 <p align="justify">
 Para organizar os requisitos por ordem de priorização, será utilizado a técnica MoSCoW, que já foi citado anteriormente. Os requisitos serão divididos a partir das seguintes categorias:
 </p>
@@ -26,10 +28,10 @@ Para organizar os requisitos por ordem de priorização, será utilizado a técn
 - Could: quando o requisito não tem grandes necessidades de ser implementado, apenas se tiver tempo e recursos.
 - Won't: quando o requisito não precisa ser implementa no momento, mas seria uma boa melhoria para o futuro.
 
-### 2.1 Metodologia dos requisitos
+### 2.1 Nomenclatura dos requisitos
 
 <p align="justify">
-Para organizar os requisitos de acordo com funcionais , não funcionais e especiais que são interligados a assinatura do Amazon Prime usaremos as seguintes nomenclaturas.
+Para organizar os requisitos de acordo com funcionais, não funcionais e especiais que são interligados a assinatura do Amazon Prime usaremos as seguintes nomenclaturas.
 </p>
 
 - Requisito Funcional - RF
@@ -125,3 +127,5 @@ CARVALHO, Henrique. O framework de priorizacao: MoSCoW. Disponível em: <https:/
 |-|-|-|-|-|
 |1.0|20/02/2022|Criação do MoSCoW|[Lameque Fernandes](https://github.com/lamequefernandes)|[Antonio Igor](https://github.com/antonioigorcarvalho), [Douglas Monteles](https://github.com/douglasmonteles) e [Erick Levy](https://github.com/ericklevy)|
 |1.1|23/03/2022 |Remodulamento do MosCow|[Erick Levy](https://github.com/ericklevy)| [Antonio Igor](https://github.com/antonioigorcarvalho) |
+|1.2|22/04/2022| Alteração na metodologia |[Lameque Fernandes](https://github.com/lamequefernandes)| [Antonio Igor](https://github.com/antonioigorcarvalho) e [Erick Levy](https://github.com/ericklevy) |
+

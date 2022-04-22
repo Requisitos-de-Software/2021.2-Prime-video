@@ -63,28 +63,28 @@ Um Épico pode ser definido como uma coleção de histórias de usuário que ain
 
 | ID | Rastreabilidade | História de usuário (Eu como usuário gostaria de ...) | Prioridade |
 | -- | :-------------: | ----------------------------------------------------- | ---------- |
-| APUS01 |   RFS01    | <a href="/modelagem/agil/user_story/#tabela-1-criar-conta" target="_blanck">Criar conta </a> | Must |
-| APUS02 |   RFS02    | <a href="/modelagem/agil/user_story/#tabela-2-cancelar-assinatura-do-amazon-prime" target="_blanck">Cancelar assinatura do Amazon prime</a> | Must |
-| APUS03 |   RFS03    | <a href="/modelagem/agil/user_story/#tabela-3-mudar-o-e-mail" target="_blanck">Mudar o e-mail</a>| Must |
-| APUS04 |   RFS04    | <a href="/modelagem/agil/user_story/#tabela-4-mudar-a-minha-senha" target="_blanck">Mudar a minha senha</a>| Must |
-| APUS05 |   RFS05    | <a href="/modelagem/agil/user_story/#tabela-5-mudar-o-telefone" target="_blanck">Mudar o telefone</a> | Must |
-| US01 |   RF32    | <a href="/modelagem/agil/user_story/#tabela-6-alugar-assinatura-de-canal" target="_blanck">Alugar assinatura de canal</a>| Must |
-| US02 |   RF32    | <a href="/modelagem/agil/user_story/#tabela-7-alugar-documentario" target="_blanck">Alugar documentário</a>| Must  |
-| US03 |   RF32    | <a href="/modelagem/agil/user_story/#tabela-8-alugar-filme" target="_blanck">Alugar  filme</a>| Must |
-| US04 |   RF32    | <a href="/modelagem/agil/user_story/#tabela-9-alugar-serie" target="_blanck">Alugar  série</a>| Must |
-| US05 |   RF34    | <a href="/modelagem/agil/user_story/#tabela-10-cancelar-assinatura-de-canal" target="_blanck">Cancelar assinatura de canal</a>| Must |
-| US06 |   RF34    | <a href="/modelagem/agil/user_story/#tabela-11-cancelar-alugamento-de-documentario" target="_blanck">Cancelar alugamento de documentário</a>| Must  |
-| US07 |   RF34    | <a href="/modelagem/agil/user_story/#tabela-12-cancelar-alugamento-de-filme" target="_blanck">Cancelar alugamento de filme</a>| Must |
-| US08 |   RF34    | <a href="/modelagem/agil/user_story/#tabela-13-cancelar-alugamento-de-serie" target="_blanck">Cancelar alugamento de série</a>| Must |
-| US09 |   RF03     | <a href="/modelagem/agil/user_story/#tabela-14-mostrar-pedidos" target="_blanck">Mostrar pedidos</a>| Could |
-| US10 |   RF21    | <a href="/modelagem/agil/user_story/#tabela-15-mudar-metodo-de-pagamento" target="_blanck">Mudar método de pagamento</a> | Should |
-| US11 |   RF37    | <a href="/modelagem/agil/user_story/#tabela-16-olhar-as-informacoes-da-conta" target="_blanck">Olhar as informações da conta</a>| Must |
-| US12 |   RF27    | <a href="/modelagem/agil/user_story/#tabela-17-realizar-login" target="_blanck">Realizar login</a>| Must |
-| US13 |   RF28    | <a href="/modelagem/agil/user_story/#tabela-18-realizar-logout" target="_blanck">Realizar logout</a>| Must |
-| US14 |   RF32    | <a href="/modelagem/agil/user_story/#tabela-19-renova-assinatura-de-canal" target="_blanck">Renova assinatura de canal</a>| Must |
-| US15 |   RF33    | <a href="/modelagem/agil/user_story/#tabela-20-renova-assinatura-de-filme" target="_blanck">Renova assinatura de filme</a>| Must |
-| US16 |   RF33    | <a href="/modelagem/agil/user_story/#tabela-21-renova-assinatura-de-serie" target="_blanck">Renova assinatura de série</a>| Must |
-| US17 |   RF36    | <a href="/modelagem/agil/user_story/#tabela-22-sair-dos-dispositivos" target="_blanck">Sair dos dispositivos</a>| Could |
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#31-epico-1-conta"> APUS01 </a> |  <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/"> RFS01 </a>    | Criar conta| Must |
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-2-cancelar-assinatura-do-amazon-prime"> APUS02 </a> |  <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/"> RFS02 </a>    | Cancelar assinatura do Amazon prime| Must |
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-3-mudar-o-e-mail"> APUS03 </a> |  <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/"> RFS03 </a>    | Mudar o e-mail| Must |
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-4-mudar-a-minha-senha"> APUS04 |  <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/"> RFS04 </a>    | Mudar a minha senha| Must |
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-5-mudar-o-telefone"> APUS05 |  <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/"> RFS05 </a>    | Mudar o telefone| Must |
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-6-alugar-assinatura-de-canal"> US01 </a> |  <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/"> RF32  </a>   | Alugar assinatura de canal| Must |
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-7-alugar-documentario"> US02 </a> |  <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/"> RF32  </a>   | Alugar documentário| Must  |
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-8-alugar-filme"> US03 </a> |  <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/"> RF32  </a>   | Alugar  filme| Must |
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-9-alugar-serie"> US04 </a> |  <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/"> RF32  </a>   | Alugar  série| Must |
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-10-cancelar-assinatura-de-canal"> US05 </a> |  <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/"> RF34  </a>   | Cancelar assinatura de canal| Must |
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-11-cancelar-alugamento-de-documentario"> US06 </a> |  <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/"> RF34  </a>   | Cancelar alugamento de documentário| Must  |
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-12-cancelar-alugamento-de-filme"> US07 </a> |  <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/"> RF34  </a>   | Cancelar alugamento de filme| Must |
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-13-cancelar-alugamento-de-serie"> US08 </a> |  <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/"> RF34  </a>   | Cancelar alugamento de série| Must |
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-14-mostrar-pedidos"> US09 </a> |  <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/"> RF03  </a>    | Mostrar pedidos| Could |
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-15-mudar-metodo-de-pagamento"> US10 </a> |  <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/"> RF21  </a>   | Mudar método de pagamento | Should |
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-16-olhar-as-informacoes-da-conta"> US11 </a> |  <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/"> RF37  </a>   | Olhar as informações da conta| Must |
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-17-realizar-login"> US12 </a> |  <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/"> RF27  </a>   | Realizar login| Must |
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-18-realizar-logout"> US13 </a> |  <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/"> RF28  </a>   | Realizar logout| Must |
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-19-renova-assinatura-de-canal"> US14 </a> |  <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/"> RF32  </a>   | Renova assinatura de canal| Must |
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-20-renova-assinatura-de-filme"> US15 </a> |  <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/"> RF33  </a>   | Renova assinatura de filme| Must |
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-21-renova-assinatura-de-serie"> US16 </a> |  <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/"> RF33  </a>   | Renova assinatura de série| Must |
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-22-sair-dos-dispositivos"> US17 </a> |  <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/"> RF36  </a>   | Sair dos dispositivos| Could |
 
 <figcaption>Fonte: Próprio autor</figcaption>
 
@@ -94,17 +94,16 @@ Um Épico pode ser definido como uma coleção de histórias de usuário que ain
 
 <center>
 
-### Tabela 4: Épico 2 - Perfil
-
-| ID | Rastreabilidade | História de usuário (Eu como usuário gostaria de ...) | Prioridade |
+### 3.2 Épico 2 - Perfil
+| ID | Rastreabilidade | História de usúario (Eu como usuário gostaria de ...) | Prioridade |
 | -- | :-------------: | ----------------------------------------------------- | ---------- | 
-| US18 | RF18 |  <a href="/modelagem/agil/user_story/#tabela-23-criar-um-novo-perfil-a-minha-conta" target="_blanck">Criar um novo perfil à minha conta</a> | Must |
-| US19 | RF17 |  <a href="/modelagem/agil/user_story/#tabela-24-alterar-minha-foto-de-perfil" target="_blanck">Alterar minha foto de perfil</a> | Could |
-| US20 | RF17 |  <a href="/modelagem/agil/user_story/#tabela-25-alterar-o-nome-do-meu-perfil" target="_blanck">Alterar o nome do meu perfil</a> | Could |
-| US21 | RF30 |  <a href="/modelagem/agil/user_story/#tabela-26-excluir-um-perfil" target="_blanck">Poder excluir um perfil</a> | Must |
-| US22 | RF18 |  <a href="/modelagem/agil/user_story/#tabela-27-adicionar-titulos-a-minha-lista" target="_blanck">Adicionar títulos à minha lista</a> | Must |
-| US23 | RF04 | <a href="/modelagem/agil/user_story/#tabela-28-adicionar-titulos-a-minha-lista" target="_blanck">Remover títulos da minha lista</a> | Must |
-
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-23-criar-um-novo-perfil-a-minha-conta"> US18 </a> | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/">  RF18 </a> |  Criar um novo perfil à minha conta | Must |
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-24-alterar-minha-foto-de-perfil"> US19 </a> | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/">  RF17 </a> |  Alterar minha foto de perfil | Could |
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-25-alterar-o-nome-do-meu-perfil"> US20 </a> | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/">  RF17 </a> |  Alterar o nome do meu perfil | Could |
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-26-excluir-um-perfil"> US21 </a> | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/">  RF30 </a> |  Poder excluir um perfil | Must |
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-27-adicionar-titulos-a-minha-lista"> US22 </a> | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/">  RF18 </a> |  Adicionar títulos à minha lista | Must |
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-28-adicionar-titulos-a-minha-lista"> US23 </a> | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/">  RF04 </a> | Remover títulos da minha lista | Must |
+  
 <figcaption>Fonte: Próprio autor</figcaption>
 
 </center>
@@ -117,42 +116,42 @@ Um Épico pode ser definido como uma coleção de histórias de usuário que ain
 
 | ID | Rastreabilidade | História de usuário (Eu como usuário gostaria de ...) | Prioridade |
 | -- | :-------------: | ----------------------------------------------------- | ---------- | 
-| US24 | RF22 | <a href="/modelagem/agil/user_story/#tabela-29-baixar-titulos" target="_blanck">Baixar títulos</a> | Could |
-| US25 | RF31 | <a href="/modelagem/agil/user_story/#tabela-30-assistir-em-grupo-watch-party" target="_blanck">Assistir em grupo (Watch party)</a> | Could | RF30
-| US26 | RF06 | <a href="/modelagem/agil/user_story/#tabela-31-registrar-feeadback-sobre-titulo" target="_blanck">Registrar feedback sobre título</a> | Should | RF05
-| US27 | RF07 | <a href="/modelagem/agil/user_story/#tabela-32-acessar-a-pagina-de-ajuda-da-plataforma" target="_blanck">Acessar a página de ajuda da plataforma</a> | Must | RF06
-| US28 | RF11 | <a href="/modelagem/agil/user_story/#tabela-33-assistir-trailer-dos-titulos" target="_blanck">Assistir trailer dos títulos</a> | Should | 
-| US29 | RFXX | <a href="/modelagem/agil/user_story/#tabela-34-assistir-titulos" target="_blanck">Assistir títulos | Must</a> | 
-| US30 | RF15 | <a href="/modelagem/agil/user_story/#tabela-35-escolher-qual-temporada-assistir-de-um-titulo-caso-exista-temporadas" target="_blanck">Escolher qual temporada assistir de um título (caso exista temporadas)</a> | Must | 
-| US31 | RF09 | <a href="/modelagem/agil/user_story/#tabela-36-escolher-qual-episodio-assistir-de-um-titulo-caso-exista-episodios" target="_blanck">Escolher qual episódio assistir de um título (caso exista episódios)</a> | Must | 
-| US32 | RF08 | <a href="/modelagem/agil/user_story/#tabela-37-passar-para-o-proximo-episodio-ainda-na-reproducao-do-atual-caso-tenha-um-proximo" target="_blanck">Passar para o próximo episódio ainda na reprodução do atual (caso tenha um próximo)</a> | Should | 
-| US33 | RFxx | <a href="/modelagem/agil/user_story/#tabela-38-alterar-volume" target="_blanck">Alterar volume</a> | Must | 
-| US34 | RF09 | <a href="/modelagem/agil/user_story/#tabela-39-desabilitar-a-reproducao-automatica" target="_blanck">Desabilitar a reprodução automática</a> | Should | 
-| US35 | RF12 | <a href="/modelagem/agil/user_story/#tabela-40-pular-a-abertura-dos-titulos" target="_blanck">Pular a abertura dos títulos</a> | Should | 
-| US36 | RF22 | <a href="/modelagem/agil/user_story/#tabela-41-escolher-o-idioma-de-audio-dos-titulos" target="_blanck">Escolher o idioma de áudio dos títulos</a> | Must | 
-| US37 | RF23 | <a href="/modelagem/agil/user_story/#tabela-42-escolher-o-idioma-de-legenda-dos-titulos" target="_blanck">Escolher o idioma de legenda dos títulos</a> | Must | 
-| US38 | RF44 | <a href="/modelagem/agil/user_story/#tabela-43-receber-recomendacoes-de-conteudo" target="_blanck">Receber recomendações de conteúdo</a> | Must |
-| US39 | RF44| <a href="/modelagem/agil/user_story/#tabela-44-receber-recomendacoes-no-email-de-conteudo" target="_blanck">Receber recomendações no email de conteúdo</a> | Must |
-| US40 | RF24 | <a href="/modelagem/agil/user_story/#tabela-45-retirar-a-legenda-dos-titulos" target="_blanck">Retirar a legenda dos títulos</a> | Must | 
-| US41 | RF26 | <a href="/modelagem/agil/user_story/#tabela-46-escolher-a-qualidade-de-video" target="_blanck">Escolher a qualidade de vídeo</a> | Must | 
-| US42 | RF27 | <a href="/modelagem/agil/user_story/#tabela-47-reproduzir-o-titulo-em-tela-cheia" target="_blanck">Reproduzir o título em tela cheia</a> | Must | 
-| US43 | RFXX | <a href="/modelagem/agil/user_story/#tabela-48-retomar-um-titulo" target="_blanck">Retomar um título</a> | Should | 
-| US44 | RF38 | <a href="/modelagem/agil/user_story/#tabela-49-ver-informacoes-sobre-os-atores-em-atuacao-no-titulo" target="_blanck">Ver informações sobre os atores em atuação no título</a> | Won't | 
-| US45 | RF35 | <a href="/modelagem/agil/user_story/#tabela-50-ocultar-videos" target="_blanck">Ocultar vídeos</a> | Could | 
-| US46 | RF37 | <a href="/modelagem/agil/user_story/#tabela-51-ver-historico-de-reproducao" target="_blanck">Ver histórico de reprodução</a> | Should | 
-| US47 | RF19 | <a href="/modelagem/agil/user_story/#tabela-52-realizar-buscas" target="_blanck">Realizar buscas</a> | Must | 
-| US48 | RF20 | <a href="/modelagem/agil/user_story/#tabela-53-filtrar-busca" target="_blanck">Filtrar busca</a> | Must | 
-| US49 | RF42 | <a href="/modelagem/agil/user_story/#tabela-54-acessar-um-titulo-pelo-nome-completo-ou-apenas-parte-dele" target="_blanck">Acessar um título pelo nome completo ou apenas parte dele</a> | Must | 
-| US50 | RF05 | <a href="/modelagem/agil/user_story/#tabela-55-comprar-conteudo-extra" target="_blanck">Comprar conteúdo extra</a> | Must | 
-| US51 | RF31 | <a href="/modelagem/agil/user_story/#tabela-56-alugar-conteudo-extra" target="_blanck">Alugar conteúdo extra </a>| Must | 
-| US52 | RF05 | <a href="/modelagem/agil/user_story/#tabela-57-reproduzir-conteudo-extra" target="_blanck">Reproduzir conteúdo extra</a> | Must | 
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-29-baixar-titulos"> US24 </a> | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/">  RF22 </a> | Baixar títulos | Could |
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-30-assistir-em-grupo-watch-party"> US25 </a> | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/">  RF31 </a> | Assistir em grupo (Watch party) | Could | 
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-31-registrar-feeadback-sobre-titulo"> US26 </a> | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/">  RF06 </a> | Registrar feeadback sobre título | Should | 
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-32-acessar-a-pagina-de-ajuda-da-plataforma"> US27 </a> | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/">  RF07 </a> | Acessar a página de ajuda da plataforma | Must | 
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-33-assistir-trailer-dos-titulos"> US28 </a> | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/">  RF11 </a> | Assistir trailer dos títulos | Should | 
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-34-assistir-titulos"> US29 </a> | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/">  RFXX </a> | Assistir títulos | Must | 
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-35-escolher-qual-temporada-assistir-de-um-titulo-caso-exista-temporadas"> US30 </a> | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/">  RF15 </a> | Escolher qual temporada assistir de um título (caso exista temporadas) | Must | 
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-36-escolher-qual-episodio-assistir-de-um-titulo-caso-exista-episodios"> US31 </a> | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/">  RF09 </a> | Escolher qual episódio assistir de um título (caso exista episódios) | Must | 
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-37-passar-para-o-proximo-episodio-ainda-na-reproducao-do-atual-caso-tenha-um-proximo"> US32 </a> | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/">  RF08 </a> | Passar para o proximo episódio ainda na reprodução do atual (caso tenha um próximo) | Should | 
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-38-alterar-volume"> US33 </a> | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/">  RFXX </a> | Alterar volume | Must | 
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-39-desabilitar-a-reproducao-automatica"> US34 </a> | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/">  RF09 </a> | Desabilitar a reprodução automática | Should | 
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-40-pular-a-abertura-dos-titulos"> US35 </a> | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/">  RF12 </a> | Pular a abertura dos títulos | Should | 
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-41-escolher-o-idioma-de-audio-dos-titulos"> US36 </a> | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/">  RF22 </a> | Escolher o idioma de áudio dos títulos | Must | 
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-42-escolher-o-idioma-de-legenda-dos-titulos"> US37 </a> | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/">  RF23 </a> | Escolher o idioma de legenda dos títulos | Must | 
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-43-receber-recomendacoes-de-conteudo"> US38 </a> | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/">  RF44 </a> | Receber recomendações de conteúdo | Must |
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-44-receber-recomendacoes-no-email-de-conteudo"> US39 </a> | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/">  RF44 </a>| Receber recomendações no email de conteúdo | Must |
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-45-retirar-a-legenda-dos-titulos"> US40 </a> | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/">  RF24 </a> | Retirar a legenda dos títulos | Must | 
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-46-escolher-a-qualidade-de-video"> US41 </a> | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/">  RF26 </a> | Escolher a qualidade de vídeo | Must | 
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-47-reproduzir-o-titulo-em-tela-cheia"> US42 </a> | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/">  RF27 </a> | Reproduzir o título em tela cheia | Must | 
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-48-retomar-um-titulo"> US43 </a> | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/">  RFXX </a> | Retomar um título | Should | 
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-49-ver-informacoes-sobre-os-atores-em-atuacao-no-titulo"> US44 </a> | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/">  RF38 </a> | Ver informações sobre os atores em atuação no título | Won't | 
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-50-ocultar-videos"> US45 </a> | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/">  RF35 </a> | Ocultar vídeos | Could | 
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-51-ver-historico-de-reproducao"> US46 </a> | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/">  RF37 </a> | Ver histórico de reprodução | Should | 
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-52-realizar-buscas"> US47 </a> | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/">  RF19 </a> | Realizar buscas | Must | 
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-53-filtrar-busca"> US48 </a> | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/">  RF20 </a> | Filtar busca | Must | 
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-54-acessar-um-titulo-pelo-nome-completo-ou-apenas-parte-dele"> US49 </a> | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/">  RF42 </a> | Acessar um título pelo nome completo ou apenas parte dele | Must | 
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-55-comprar-conteudo-extra"> US50 </a> | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/">  RF05 </a> | Comprar conteúdo extra | Must | 
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-56-alugar-conteudo-extra"> US51 </a> | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/">  RF31 </a> | Alugar conteúdo extra | Must | 
+| <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-57-reproduzir-conteudo-extra"> US52 </a> | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/">  RF05 </a> | Reproduzir conteúdo extra | Must | 
 
 <figcaption>Fonte: Próprio autor</figcaption>
 
 </center>
 
 <br/>
-
+  
 
 ## 4. Referências
 
@@ -173,3 +172,4 @@ Um Épico pode ser definido como uma coleção de histórias de usuário que ain
 |1.6|23/03/2022|Adição das histórias de usuário relacionadas a conta do Amazon prime e mais historia de usuário em conteúdo |[Erick Levy](https://github.com/ericklevy)| [Antonio Igor](https://github.com/antonioigorcarvalho) |
 |1.7|22/04/2022| Adicionando legendas nas tabelas e mais uma linha na Tabela 1 com a explicação do RFXX | [Douglas Monteles](https://github.com/douglasmonteles) | [Antonio Igor](https://github.com/antonioigorcarvalho) |
 |1.8|22/04/2022| Adicionando ligações entre os documentos de história de usuário e o documento de backlog | [Douglas Monteles](https://github.com/douglasmonteles) | [Antonio Igor](https://github.com/antonioigorcarvalho) |
+|1.9|22/04/2022| Adição de links nas histórias de usuário e requisitos |[Lameque Fernandes](https://github.com/lamequefernandes)| [Antonio Igor](https://github.com/antonioigorcarvalho) e [Erick Levy](https://github.com/ericklevy) |
