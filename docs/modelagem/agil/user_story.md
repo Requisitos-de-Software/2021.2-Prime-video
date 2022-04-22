@@ -1053,4 +1053,4 @@
 |-|-|-|-|-|
 | 1.0 |09/03/2022|Criação do documento de histórias de usuário|[Antonio Igor](https://github.com/antonioigorcarvalho), [Erick Levy](https://github.com/ericklevy) e [Lameque Fernandes](https://github.com/lamequefernandes)| [Caio Santos](https://github.com/caiobsantos) e [Douglas Monteles](https://github.com/douglasmonteles) |
 |1.1|23/03/2022| Alteração do documento |[Erick Levy](https://github.com/ericklevy)| [Antonio Igor](https://github.com/antonioigorcarvalho) |
-|1.2|22/04/2022| Adicionando legendas e fonte as imagens e tabelas | [Douglas Monteles](https://github.com/douglasmonteles) | --- |
+|1.2|22/04/2022| Adicionando legendas e fonte as imagens e tabelas | [Douglas Monteles](https://github.com/douglasmonteles) | [Antonio Igor](https://github.com/antonioigorcarvalho) |
