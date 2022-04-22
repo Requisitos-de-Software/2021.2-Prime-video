@@ -8,25 +8,42 @@ O Product Backlog ou apenas Backlog, se refere a uma lista de itens desejados pa
 ## 2. Metodologia
 
 <p align="justify">
-A metodologia propostas para as user story que estão presentes no Amazon prime e Prime video sao:
+A metodologia proposta para as user story que estão presentes no Amazon Prime e Prime Vídeo são:
 </p>
+
+<center>
+
+### Tabela 1: Significado das siglas utilizadas
 
 | tipo  |  significado   | explicação    | 
 | :-------------: |----------------|---------------|
-| US   |  User Story (História de Usuário)  | História de Usuário que pertencem unicamente ao escopo do Prime video. |
+| US   |  User Story (História de Usuário)  | História de Usuário que pertencem unicamente ao escopo do Prime vídeo. |
 | APUS  |  Amazon Prime User Story (História de Usuário do Amazon Prime)  | História de Usuário que pertencem tanto ao Prime video como o serviço Amazon Prime este termo foi criado para este projeto no caso da interligação do Amazon prime com o Prime video. |
+| RFXX | Não possui requisito vinculado | Nem todas as US possuem algum requisito vinculado |
 
-### 2.1 Tabela usada para representação dos Épicos
-| ID | Rastreabilidade | História de usúario (Eu como usuário gostaria de ...) | Prioridade |
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+### Tabela 2: Modelo de representação dos Épicos
+
+| ID | Rastreabilidade | História de usuário (Eu como usuário gostaria de ...) | Prioridade |
 | -- | :-------------: | ----------------------------------------------------- | ---------- |
 
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
 
 ### 2.2 Prioridades
 
-- Must: quando o requisito for essencial para o funcionamento da projeto.
+- Must: quando o requisito for essencial para o funcionamento do projeto.
 - Should: quando o requisito for importante para o projeto.
 - Could: quando o requisito não tem grandes necessidades de ser implementado, apenas se tiver tempo e recursos.
-- Won't: quando o requisito não precisa ser implementa no momento, mas seria uma boa melhoria para o futuro.
+- Won't: quando o requisito não precisa ser implementado no momento, mas seria uma boa melhoria para o futuro.
 
 ## 3. Épicos
 
@@ -40,9 +57,11 @@ Um Épico pode ser definido como uma coleção de histórias de usuário que ain
 
 - Conteúdo
 
-### 3.1 Épico 1 - Conta
+<center>
 
-| ID | Rastreabilidade | História de usúario (Eu como usuário gostaria de ...) | Prioridade |
+### Tabela 3: Épico 1 - Conta
+
+| ID | Rastreabilidade | História de usuário (Eu como usuário gostaria de ...) | Prioridade |
 | -- | :-------------: | ----------------------------------------------------- | ---------- |
 | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#31-epico-1-conta"> APUS01 </a> |  <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/"> RFS01 </a>    | Criar conta| Must |
 | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-2-cancelar-assinatura-do-amazon-prime"> APUS02 </a> |  <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/"> RFS02 </a>    | Cancelar assinatura do Amazon prime| Must |
@@ -67,7 +86,13 @@ Um Épico pode ser definido como uma coleção de histórias de usuário que ain
 | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-21-renova-assinatura-de-serie"> US16 </a> |  <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/"> RF33  </a>   | Renova assinatura de série| Must |
 | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-22-sair-dos-dispositivos"> US17 </a> |  <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/"> RF36  </a>   | Sair dos dispositivos| Could |
 
+<figcaption>Fonte: Próprio autor</figcaption>
 
+</center>
+
+<br/>
+
+<center>
 
 ### 3.2 Épico 2 - Perfil
 | ID | Rastreabilidade | História de usúario (Eu como usuário gostaria de ...) | Prioridade |
@@ -78,10 +103,18 @@ Um Épico pode ser definido como uma coleção de histórias de usuário que ain
 | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-26-excluir-um-perfil"> US21 </a> | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/">  RF30 </a> |  Poder excluir um perfil | Must |
 | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-27-adicionar-titulos-a-minha-lista"> US22 </a> | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/">  RF18 </a> |  Adicionar títulos à minha lista | Must |
 | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-28-adicionar-titulos-a-minha-lista"> US23 </a> | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/">  RF04 </a> | Remover títulos da minha lista | Must |
+  
+<figcaption>Fonte: Próprio autor</figcaption>
 
-### 3.3 Épico 3 - Conteúdo
+</center>
 
-| ID | Rastreabilidade | História de usúario (Eu como usuário gostaria de ...) | Prioridade |
+<br/>
+
+<center>
+
+### Tabela 5: Épico 3 - Conteúdo
+
+| ID | Rastreabilidade | História de usuário (Eu como usuário gostaria de ...) | Prioridade |
 | -- | :-------------: | ----------------------------------------------------- | ---------- | 
 | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-29-baixar-titulos"> US24 </a> | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/">  RF22 </a> | Baixar títulos | Could |
 | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-30-assistir-em-grupo-watch-party"> US25 </a> | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/">  RF31 </a> | Assistir em grupo (Watch party) | Could | 
@@ -113,12 +146,18 @@ Um Épico pode ser definido como uma coleção de histórias de usuário que ain
 | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-56-alugar-conteudo-extra"> US51 </a> | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/">  RF31 </a> | Alugar conteúdo extra | Must | 
 | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/agil/user_story/#tabela-57-reproduzir-conteudo-extra"> US52 </a> | <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/elicitacao/resultados/">  RF05 </a> | Reproduzir conteúdo extra | Must | 
 
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br/>
+  
 
 ## 4. Referências
 
-SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 15.
+> SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 15.
 
-Epic, Feature e User Story (Epico, Funcionalidade e História de Usuário). Disponível em: https://www.ateomomento.com.br/epic-feature-e-user-story/. Acesso em: 09 de Março de 2022.
+> Epic, Feature e User Story (Epico, Funcionalidade e História de Usuário). Disponível em: https://www.ateomomento.com.br/epic-feature-e-user-story/. Acesso em: 09 de Março de 2022.
 
 ## 5. Histórico de Versionamento
 
@@ -131,4 +170,6 @@ Epic, Feature e User Story (Epico, Funcionalidade e História de Usuário). Disp
 |1.4|09/03/2022|Adição da definição dos épicos|[Caio Santos](https://github.com/caiobsantos)| [Lameque Fernandes](https://github.com/lamequefernandes) |
 |1.5|09/03/2022|Adição das histórias de usuário relacionadas a conta |[Erick Levy](https://github.com/ericklevy)| [Caio Santos](https://github.com/caiobsantos) |
 |1.6|23/03/2022|Adição das histórias de usuário relacionadas a conta do Amazon prime e mais historia de usuário em conteúdo |[Erick Levy](https://github.com/ericklevy)| [Antonio Igor](https://github.com/antonioigorcarvalho) |
-|1.7|22/04/2022| Adição de links nas histórias de usuário e requisitos |[Lameque Fernandes](https://github.com/lamequefernandes)| [Antonio Igor](https://github.com/antonioigorcarvalho) e [Erick Levy](https://github.com/ericklevy) |
+|1.7|22/04/2022| Adicionando legendas nas tabelas e mais uma linha na Tabela 1 com a explicação do RFXX | [Douglas Monteles](https://github.com/douglasmonteles) | [Antonio Igor](https://github.com/antonioigorcarvalho) |
+|1.8|22/04/2022| Adicionando ligações entre os documentos de história de usuário e o documento de backlog | [Douglas Monteles](https://github.com/douglasmonteles) | [Antonio Igor](https://github.com/antonioigorcarvalho) |
+|1.9|22/04/2022| Adição de links nas histórias de usuário e requisitos |[Lameque Fernandes](https://github.com/lamequefernandes)| [Antonio Igor](https://github.com/antonioigorcarvalho) e [Erick Levy](https://github.com/ericklevy) |
