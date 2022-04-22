@@ -114,8 +114,8 @@ De acordo com este documento, podemos analizar a rastreabilidade de todos os req
 
 | Data | Versão | Descrição | Autores | Revisor |
 | :--: | :----: | :-------: | :-------: | :-------: |
-| 02/04/2022  | 1.0 | Criação do documento de Pós-Rastreabilidade Foward-from | [Douglas Monteles](https://github.com/douglasmonteles) | a definir |
-| 02/04/2022  | 1.1 | Adição da tabela e implementação da coluna de Requisitos | [Lameque Fernandes](https://github.com/lamequefernandes) | a definir |
-| 02/04/2022  | 1.2 | Implementação das colunas sobre épicos, histórias de usuário e casos de uso do RF20 ao RF39 | [Lameque Fernandes](https://github.com/lamequefernandes) | a definir |
-| 03/04/2022  | 1.3 | Implementação de novas colunas sobre épicos, histórias de usuário e casos de uso | [Erick Levy](https://github.com/ericklevy) | a definir |
-| 03/04/2022  | 1.4 | Adição da rastreabilidade de documentos | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Douglas Monteles](https://github.com/douglasmonteles) | a definir |
+| 02/04/2022  | 1.0 | Criação do documento de Pós-Rastreabilidade Foward-from | [Douglas Monteles](https://github.com/douglasmonteles) | [Lameque Fernandes](https://github.com/lamequefernandes) |
+| 02/04/2022  | 1.1 | Adição da tabela e implementação da coluna de Requisitos | [Lameque Fernandes](https://github.com/lamequefernandes) | [Douglas Monteles](https://github.com/douglasmonteles) |
+| 02/04/2022  | 1.2 | Implementação das colunas sobre épicos, histórias de usuário e casos de uso do RF20 ao RF39 | [Lameque Fernandes](https://github.com/lamequefernandes) | [Douglas Monteles](https://github.com/douglasmonteles) |
+| 03/04/2022  | 1.3 | Implementação de novas colunas sobre épicos, histórias de usuário e casos de uso | [Erick Levy](https://github.com/ericklevy) | [Lameque Fernandes](https://github.com/lamequefernandes) |
+| 03/04/2022  | 1.4 | Adição da rastreabilidade de documentos | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Douglas Monteles](https://github.com/douglasmonteles) | [Lameque Fernandes](https://github.com/lamequefernandes) |
