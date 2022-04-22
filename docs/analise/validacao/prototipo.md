@@ -28,13 +28,12 @@ Abaixo temos o protótipo criado pela equipe. <a href="https://www.figma.com/fil
 
 ## 5. Referências
 
-<p align="justify">
-VALIDAÇÃO DE REQUISITOS ATRAVÉS DA PROTOTIPAÇÃO DE
-SOFTWARE. Disponível em: https://www.periodicos.univag.com.br/index.php/CONNECTIONLINE/article/view/68. Acesso em: 23 de mar. de 2022.
-</p>
+> VALIDAÇÃO DE REQUISITOS ATRAVÉS DA PROTOTIPAÇÃO DE SOFTWARE. Disponível em: https://www.periodicos.univag.com.br/index.php/CONNECTIONLINE/article/view/68. Acesso em: 23 de mar. de 2022.
+
 
 ## 5. Histórico de Versionamento
 
 | Data | Versão | Descrição | Autor | Revisor |
 | :--: | :----: | :-------: | :-------: | :-------: |
 | 23/03/2022  | 1.0 | Criação do documento de prototipação | [Antonio Igor](https://github.com/antonioigorcarvalho) |[Caio Santos](https://github.com/caiobsantos)|
+| 22/04/2022  | 1.1 | Adicionando a conclusão na validação do protótipo | [Douglas Monteles](https://github.com/douglasmonteles) | --- |
