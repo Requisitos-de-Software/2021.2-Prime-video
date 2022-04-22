@@ -162,7 +162,7 @@ Por meio da técnica de inspeção fizemos uma marcação nos itens que o docume
 |   8    |O cenário está linkado aos léxicos?                 |    ❌     |
 |   9    |O cenário se relaciona à alguma funcionalidade listada nos requisitos?|    ✔️     |
 
-### C10 - Alterra Idiomas
+### C10 - Altera Idiomas
 
 | Número |                                   Questão                                    | Resposta |
 | :----: | :--------------------------------------------------------------------------: | :------: |
@@ -193,4 +193,4 @@ Reinehr, Sheila Engenharia de Requisitos, Editora: Grupo A Selo: Sagah. 1ª edi�
 |-|-|-|-|-|
 |1.0|22/03/2022|Criação do documento de verificação dos cenários|[Caio Santos](https://github.com/caiobsantos)| [Antonio Igor](https://github.com/antonioigorcarvalho) e [Lameque Fernandes](https://github.com/lamequefernandes) |
 |1.1|23/03/2022|Adição da introdução e análise dos cenários|[Caio Santos](https://github.com/caiobsantos)| [Antonio Igor](https://github.com/antonioigorcarvalho) e [Lameque Fernandes](https://github.com/lamequefernandes) |
-|1.2|22/04/2022| Atualização da descrição de metodologia | [Antonio Igor](https://github.com/antonioigorcarvalho) | - |
+|1.2|22/04/2022| Atualização da descrição de metodologia | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy) |
