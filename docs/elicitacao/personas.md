@@ -93,8 +93,16 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 Maurício Vianna... [et al.]; Design thinking : inovação em negócios
 
 
+## 5. Conclusão
 
-## 5. Histórico de Versionamento
+<p align="justify">
+Portanto, as personas na maioria do projeto foram essências para o desenvolvimento de outro artefato, além de ajudar a melhora os artefatos com base na persona usada, as personas foram um pilar importante para o Prime Video.
+</p>
+
+
+
+
+## 6. Histórico de Versionamento
 
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
