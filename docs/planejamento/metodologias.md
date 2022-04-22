@@ -49,7 +49,13 @@ PATEL, Neil. Metodologia Ágil: Entenda O Que É e Quais São As 8 Mais Utilizad
 
 Kanban: a metodologia ágil mais simples para implementar no dia a dia. Disponével em: <https://www.digitalhouse.com/br/blog/como-usar-metodologia-kanban>. Acesso em: 19/02/2022
 
-## 5. Histórico de versionamento
+## 5. Conclusão
+
+<p align="justify">
+As metodologias propostas foram de grande importância para a produção do projeto no decorrer do curso, o uso de práticas ágeis foi essencial junto da divisão de papéis pelos membros e o pair programming na divisão de tarefas em dupla para uma produção acelerada.
+</p>
+
+## 6. Histórico de versionamento
 
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
