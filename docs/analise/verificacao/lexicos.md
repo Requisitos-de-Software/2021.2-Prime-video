@@ -1,6 +1,6 @@
 ## 1 . Introdução
 
-<p align="center">
+<p align="justify">
      
 A verificação dos léxicos tem como objetivo principal analisar os requisitos funcionais e não funcionais. Assim com a validação reduzindo possíveis dúvidas sobre o funcionamento do sistemas baseado no documento <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/lexico/">lexico</a>.
 
@@ -96,9 +96,17 @@ Sinônimos. **Sinônimos.com.br**. Dispoível em: <https://www.sinonimos.com.br/
 
 Reinehr, Sheila Engenharia de Requisitos, Editora: Grupo A Selo: Sagah. 1ª edição. 2020.
 
-## 5. Histórico de Versionamento
+## 5. Conclusão
+
+<p align="justify">
+     
+Portanto, este documento auxilio a verificação dos léxicos criados além de analisar os componentes e a falta de sinônimo para algumas palavras, serviu para melhorar os dois documentos.
+
+</p>
+
+## 6. Histórico de Versionamento
 
 |Versão|Data de modificação|Descrição da modificação|Autor| Revisor|
 |-|-|-|-|-|
 |1.0|23/03/2022| Criação do documento de verificação dos léxicos | [Erick Levy](https://github.com/ericklevy)  | [Antonio Igor](https://github.com/antonioigorcarvalho) |
-|1.3|22/04/2022| Atualização da descrição de metodologia | [Antonio Igor](https://github.com/antonioigorcarvalho) | - |
+|1.3|22/04/2022| Atualização da descrição de metodologia | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy) |
