@@ -108,3 +108,4 @@ Portanto, as personas na maioria do projeto foram essências para o desenvolvime
 |-|-|-|-|-|
 |1.0|19/02/2022|Criação do documento de personas|[Antonio Igor](https://github.com/antonioigorcarvalho) e [Lameque Fernandes](https://github.com/lamequefernandes)|[Caio Santos](https://github.com/caiobsantos)|
 |1.1|19/02/2022|Alteração na introdução e adição das referências|[Caio Santos](https://github.com/caiobsantos)|[Sávio Cunha](https://github.com/savioc2)|
+|1.2|22/04/2022|Criação do tópico  conclusão do documento|[Erick Levy](https://github.com/ericklevy)|  |
