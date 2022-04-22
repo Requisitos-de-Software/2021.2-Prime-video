@@ -492,11 +492,25 @@
 
 ### 3.3 Épico 3 - Conteúdo 
 
+<center>
+
+#### Tabela 29: Baixar títulos
+
 | **ID** | **Nome** |
 |:-------|:---------|
 | US24| Baixar títulos |
 | Descrição | Eu, como usuário, desejo ser capaz de fazer download dos títulos  |
 | Critérios  de Aceitação | Deve conter as seguintes opções: </br> - O usuário deve escolher um título válido </br> - O usuário deve ter espaço disponivel em seu dispositivo. |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 30: Assistir em grupo (Watch party)
 
 | **ID** | **Nome** |
 |:-------|:---------|
@@ -504,11 +518,31 @@
 | Descrição | Eu, como usuário gostaria de assistir em grupo através do Watch party|
 | Critérios  de Aceitação | Deve conter as seguintes opções: </br> - Todos do grupo devem possuir assisnatura Amazon Prime </br> - Todos do grupo devem possuir uma boa conexão com a internet |
 
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 31: Registrar feeadback sobre título
+
 | **ID** | **Nome** |
 |:-------|:---------|
 | US26 | Registrar feeadback sobre título |
 | Descrição | Eu, como usuário gostaria de registrar feeadback sobre os títulos presentes na plataforma |
 | Critérios  de Aceitação | Deve conter as seguintes opções: </br> - O usuário deve possuir a assisnatura da Amazon Prime </br> - O usuário deve selecionar um título válido |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 32: Acessar a página de ajuda da plataforma
 
 | **ID** | **Nome** |
 |:-------|:---------|
@@ -516,11 +550,31 @@
 | Descrição | Eu, como usuário, desejo ser capaz de pedir ajuda para o sistema |
 | Critérios  de Aceitação | Deve conter as seguintes opções: </br> - O usuário deve possuir conexão com a internet  </br> - O usuário deve entender a dúvida que esta tendo. </br> - O usuário deve explicar a dúvida que esta tendo. |
 
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 33: Assistir trailer dos títulos
+
 | **ID** | **Nome** |
 |:-------|:---------|
 | US28 | Assistir trailer dos títulos |
 | Descrição | Eu, como usuário desejo ser capaz de assistir títulos de um trailer |
 | Critérios  de Aceitação | Deve conter as seguintes opções: </br> - O usuário selecionar um título valido. </br> - O usuário deve clicar no botão de trailer. |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 34: Assistir títulos
 
 | **ID** | **Nome** |
 |:-------|:---------|
@@ -528,11 +582,31 @@
 | Descrição | Eu, como usuário desejo assistir títulos na Prime Video |
 | Critérios  de Aceitação | Deve conter as seguintes opções: </br> - O usuário deve selecionar um título que exista na plataforma  </br> - O usuário deve buscar o título a partir das ferramentas disponíveis. |
 
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 35: Escolher qual temporada assistir de um título (caso exista temporadas)
+
 | **ID** | **Nome** |
 |:-------|:---------|
 | US30 | Escolher qual temporada assistir de um título (caso exista temporadas)  |
 | Descrição | Eu, como como usúario desejo escolher qual temporada eu vou selecionar para assistir de um título |
 | Critérios  de Aceitação | Deve conter as seguintes opções: </br> - O usuário deve selecionar um título que possua temporadas </br> - O usuário deve selecionar uma temporada dísponivel. |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 36: Escolher qual episódio assistir de um título (caso exista episódios)
 
 | **ID** | **Nome** |
 |:-------|:---------|
@@ -540,11 +614,31 @@
 | Descrição | Eu, como usuário desejo escolher qual episódio assistir de uma determinada temporada |
 | Critérios  de Aceitação | Deve conter as seguintes opções: </br> - O título deve possuir pelo menos uma temporada ou algo semelhante  </br> - O usuário deve entender a dúvida que esta tendo. </br> - O usuário deve navegar e em uma temporada e selecionar um determinado episódio. |
 
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 37: Passar para o proximo episódio ainda na reprodução do atual (caso tenha um próximo)
+
 | **ID** | **Nome** |
 |:-------|:---------|
 | US32 | Passar para o proximo episódio ainda na reprodução do atual (caso tenha um próximo) |
 | Descrição | Eu como usuário desejo passar para o proximo episódio ainda na reprodução do atual |
 | Critérios  de Aceitação | Deve conter as seguintes opções: </br> - O usuário deve estar assistindo um título válido.  </br> - O título deve possuir um próximo episódio. |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 38: Alterar volume
 
 | **ID** | **Nome** |
 |:-------|:---------|
@@ -552,11 +646,31 @@
 | Descrição | Eu, como usuário desejo alterar o volume de reprodução |
 | Critérios  de Aceitação | Deve conter as seguintes opções: </br> - O usuário deve estar com um título em reprodução  </br> - O título deve possuir som. |
 
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 39: Desabilitar a reprodução automática
+
 | **ID** | **Nome** |
 |:-------|:---------|
 | US34 | Desabilitar a reprodução automática |
 | Descrição | Eu, como usuário desejo ser capaz de desabilitar a reprodução automatica dos títulos |
 | Critérios  de Aceitação | Deve conter as seguintes opções: </br> - O usuário deve estar reproduzindo um título </br> - O título deve possuir uma sequência |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 40: Pular a abertura dos títulos
 
 | **ID** | **Nome** |
 |:-------|:---------|
@@ -564,11 +678,31 @@
 | Descrição | Eu, como usuário, desejo pular a abertura dos títulos |
 | Critérios  de Aceitação | Deve conter as seguintes opções: </br> - Ao assistir um conteúdo o usuário deve ter a opções de pular a abertura dos títulos </br>|
 
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 41: Escolher o idioma de áudio dos títulos
+
 | **ID** | **Nome** |
 |:-------|:---------|
 | US36 | Escolher o idioma de áudio dos títulos |
 | Descrição | Eu, como usuário, desejo escolher o idioma do áudio dos títulos |
 | Critérios  de Aceitação | Deve conter as seguintes opções: </br> - Ao assistir um conteúdo o usuário deve ter a opções escolher o idioma do áudio. </br>|
+
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 42: Escolher o idioma de legenda dos títulos
 
 | **ID** | **Nome** |
 |:-------|:---------|
@@ -576,11 +710,31 @@
 | Descrição | Eu, como usuário, desejo escolher o idioma de legenda dos títulos |
 | Critérios  de Aceitação | Deve conter as seguintes opções: </br> - Ao assistir um conteúdo o usuário deve ter a opções escolher o idioma das legendas. </br>|
 
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 43: Receber recomendações de conteúdo
+
 | **ID** | **Nome** |
 |:-------|:---------|
 | US38 | Receber recomendações de conteúdo |
 | Descrição | Eu, como usuário, desejo receber recomendações de conteúdo |
 | Critérios  de Aceitação | Deve conter as seguintes opções: </br> - Receber recomendações nos conteúdos vistos </br>|
+
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 44: Receber recomendações no email de conteúdo
 
 | **ID** | **Nome** |
 |:-------|:---------|
@@ -589,11 +743,31 @@
 | Critérios  de Aceitação | Deve conter as seguintes opções: </br> - Receber recomendações de conteúdo. </br> - Receber recomendações de conteúdo. </br>|
 
 
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 45: Retirar a legenda dos títulos
+
 | **ID** | **Nome** |
 |:-------|:---------|
 | US40 | Retirar a legenda dos títulos |
 | Descrição | Eu, como usuário, desejo retirar a legenda dos títulos |
 | Critérios  de Aceitação | Deve conter as seguintes opções: </br> - Ao assistir um conteúdo o usuário deve ter a opções de remover as legendas. </br>|
+
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 46: Escolher a qualidade de vídeo
 
 | **ID** | **Nome** |
 |:-------|:---------|
@@ -601,11 +775,31 @@
 | Descrição | Eu, como usuário, desejo escolher a qualidade de vídeo |
 | Critérios  de Aceitação | Deve conter as seguintes opções: </br> - Ao assistir um conteúdo o usuário deve poder selecionar em qual qualidade o conteúdo será reproduzido. </br>|
 
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 47: Reproduzir o título em tela cheia
+
 | **ID** | **Nome** |
 |:-------|:---------|
 | US42 | Reproduzir o título em tela cheia |
 | Descrição | Eu, como usuário, desejo reproduzir o título em tela cheia |
 | Critérios  de Aceitação | Deve conter as seguintes opções: </br> - Ao visualizar um conteúdo o usuário deve ter a opções de assistir a reprodução em tela cheia. </br>|
+
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 48: Retomar um título
 
 | **ID** | **Nome** |
 |:-------|:---------|
@@ -613,11 +807,31 @@
 | Descrição | Eu, como usuário, desejo retomar um título que não assisti por completo |
 | Critérios  de Aceitação | Deve conter as seguintes opções: </br> - Ao clicar em um conteúdo que já foi parcialmente visto, o player deve continuar a reprodução a partir de todo o tempo que já foi assistido previamente. </br>|
 
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 49: Ver informações sobre os atores em atuação no título
+
 | **ID** | **Nome** |
 |:-------|:---------|
 | US44 | Ver informações sobre os atores em atuação no título |
 | Descrição | Eu, como usuário, desejo visualizar informações sobre os atores que atuam no título que selecionei |
 | Critérios  de Aceitação | Deve conter as seguintes opções: </br> - Todo conteúdo deve possuir uma opções para visualizar o elenco que participou na produção do conteúdo. </br>|
+
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 50: Ocultar vídeos
 
 | **ID** | **Nome** |
 |:-------|:---------|
@@ -625,11 +839,31 @@
 | Descrição | Eu, como usuário, desejo ocultar conteúdos que não me agradam |
 | Critérios  de Aceitação | Deve conter as seguintes opções: </br> - Deve haver um botão com a opções de ocultar em todo o conteúdo disponível para assitir. </br>|
 
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 51: Ver histórico de reprodução
+
 | **ID** | **Nome** |
 |:-------|:---------|
 | US46 | Ver histórico de reprodução |
 | Descrição | Eu, como usuário, desejo visualizar o histórico de reprodução |
 | Critérios  de Aceitação | Deve conter as seguintes opções: </br> - Deve haver uma página dedicada a visualização daquilo que o usuário assistiu previamente. </br> - O usuário deve poder remover algo do seu histórico de visualização. </br>|
+
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 52: Realizar buscas
 
 | **ID** | **Nome** |
 |:-------|:---------|
@@ -637,11 +871,31 @@
 | Descrição | Eu, como usuário, desejo realizar buscas |
 | Critérios  de Aceitação | Deve conter as seguintes opções: </br> - Input para a digitação do conteúdo a ser buscado. </br> > Os resultados da busca serem atualizados conforme o usuário digita. </br>|
 
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 53: Filtrar busca
+
 | **ID** | **Nome** |
 |:-------|:---------|
 | US48 | Filtrar busca |
 | Descrição | Eu, como usuário, desejo filtrar os resultados de uma busca já realizada |
 | Critérios  de Aceitação | Deve conter as seguintes opções: </br> - Diversos filtros selecionáveis. </br> - opções de remover filtros previamente selecionados. </br> - Os resultados da busca devem refletir os filtros aplicados. </br>|
+
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 54: Acessar um título pelo nome completo ou apenas parte dele
 
 | **ID** | **Nome** |
 |:-------|:---------|
@@ -649,17 +903,47 @@
 | Descrição | Eu, como usuário, desejo acessar um título pelo nome completo ou apenas parte dele |
 | Critérios  de Aceitação | Deve conter as seguintes opções: </br> - Após realizar uma busca digitando o nome completo ou apenas parte dele, o usuário deve ter a sua disposição uma lista com todos os conteúdos relacionados à busca. </br> |
 
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 55: Comprar conteúdo extra
+
 | **ID** | **Nome** |
 |:-------|:---------|
 | US50 | Comprar conteúdo extra |
 | Descrição | Eu, como usuário, desejo comprar conteúdo extra  |
 | Critérios  de Aceitação | Deve conter as seguintes opções: </br> - O usuário deve ter a sua disposição uma lista com os conteúdos extras disponíveis para a compra. </br> - O usuário deve ser capaz de comprar o conteúdo extra para a sua conta. |
 
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 56: Alugar conteúdo extra
+
 | **ID** | **Nome** |
 |:-------|:---------|
 | US51 | Alugar conteúdo extra |
 | Descrição | Eu, como usuário, desejo alugar conteúdo extra  |
 | Critérios  de Aceitação | Deve conter as seguintes opções: </br> - O usuário deve ter a sua disposição uma lista com os conteúdos extras alugáveis </br> > O usuário deve ser capaz de alugar o conteúdo extra para a sua conta |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 57: Reproduzir conteúdo extra
 
 | **ID** | **Nome** |
 |:-------|:---------|
