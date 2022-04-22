@@ -951,53 +951,100 @@
 | Descrição | Eu, como usuário, desejo reproduzir conteúdo extra  |
 | Critérios  de Aceitação | Deve conter as seguintes opções: </br> - O usuário deve ter a sua disposição todos os conteúdos extras assinados </br> - O usuário deve ter a opções de reproduzir os conteúdos extras alugados ou assinados. |Épico 3 - Conteudo 
 
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
 
 #### 3.3.1 UX Designer Épico 3 - Conteúdo 
 
-<p align="justiy">
+<p align="justify">
     Estas imagens são para designar o UX do Prime video no Épico 3 - Conteúdo.
 </p>
 
-![drawing](../../assets/img/primeConteudo1.png)
+<center>
 
-<p align="center">
-    figura 4 - Contéudo Prime video relacionado as US.
-</p>
+#### Figura 2 - Contéudo Prime video relacionado as US.
 
-![drawing](../../assets/img/primeConteudo2.png)
+<figure>
+    <img src="../../../assets/img/primeConteudo1.png" width="100%">
+    <figcaption>Fonte: Próprio autor</figcaption>
+</figure>
 
-<p align="center">
-    figura 5 - Contéudo Prime video relacionado as US.
-</p>
+</center>
 
-![drawing](../../assets/img/primeConteudo4.png)
+<br>
 
-<p align="center">
-    figura 6 - Contéudo Prime video relacionado as US conteudo extra.
-</p>
+<center>
 
-![drawing](../../assets/img/primeConteudo5.png)
+#### Figura 3 - Contéudo Prime video relacionado as US.
 
-<p align="center">
-    figura 7 - Contéudo Prime video relacionado as US conteudo extra.
-</p>
+<figure>
+    <img src="../../../assets/img/primeConteudo2.png" width="100%">
+    <figcaption>Fonte: Próprio autor</figcaption>
+</figure>
 
-![drawing](../../assets/img/primeConteudo6.png)
+</center>
 
-<p align="center">
-    figura 8 - Contéudo Prime video relacionado as US conteudo extra.
-</p>
+<br>
 
-![drawing](../../assets/img/primeConteudo7.png)
+<center>
 
-<p align="center">
-    figura 9 - Contéudo Prime video relacionado as US conteudo extra.
-</p>
+#### Figura 4 - Contéudo Prime video relacionado as US conteudo extra.
+
+<figure>
+    <img src="../../../assets/img/primeConteudo4.png" width="100%">
+    <figcaption>Fonte: Próprio autor</figcaption>
+</figure>
+
+</center>
+
+<br>
+
+<center>
+
+#### Figura 5 - Contéudo Prime video relacionado as US conteudo extra.
+
+<figure>
+    <img src="../../../assets/img/primeConteudo5.png" width="100%">
+    <figcaption>Fonte: Próprio autor</figcaption>
+</figure>
+
+</center>
+
+<br>
+
+<center>
+
+#### Figura 6 - Contéudo Prime video relacionado as US conteudo extra.
+
+<figure>
+    <img src="../../../assets/img/primeConteudo6.png" width="100%">
+    <figcaption>Fonte: Próprio autor</figcaption>
+</figure>
+
+</center>
+
+<br>    
+
+<center>
+
+#### Figura 7 - Contéudo Prime video relacionado as US conteudo extra.
+
+<figure>
+    <img src="../../../assets/img/primeConteudo7.png" width="100%">
+    <figcaption>Fonte: Próprio autor</figcaption>
+</figure>
+
+</center>
+
+<br>
 
 
 ## 4. Referências
 
-SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 15.
+> SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 15.
 
 
 ## 5. Histórico de Versionamento
@@ -1006,3 +1053,4 @@ SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 15.
 |-|-|-|-|-|
 | 1.0 |09/03/2022|Criação do documento de histórias de usuário|[Antonio Igor](https://github.com/antonioigorcarvalho), [Erick Levy](https://github.com/ericklevy) e [Lameque Fernandes](https://github.com/lamequefernandes)| [Caio Santos](https://github.com/caiobsantos) e [Douglas Monteles](https://github.com/douglasmonteles) |
 |1.1|23/03/2022| Alteração do documento |[Erick Levy](https://github.com/ericklevy)| [Antonio Igor](https://github.com/antonioigorcarvalho) |
+|1.2|22/04/2022| Adicionando legendas e fonte as imagens e tabelas | [Douglas Monteles](https://github.com/douglasmonteles) | --- |
