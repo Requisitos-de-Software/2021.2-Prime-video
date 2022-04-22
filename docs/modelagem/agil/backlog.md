@@ -4,9 +4,14 @@
 <p align="justify">
 O Product Backlog ou apenas Backlog, se refere a uma lista de itens desejados para dar vida a um produto. Esta lista contém funcionalidades, requisitos e restrições organizados por prioridade, de forma que os itens com prioridade mais alta, sejam realizados primeiro. O Product Backlog não precisa estar completo desde o início do projeto e pode ser refinado e reorganizado com o tempo, conforme se aprende mais sobre o produto e seus usuários.
 </p>
+<p align="justify">
+Inicialmente a estrutura de como o documento deveria ser construído foi discutida em reunião do grupo pelo aplicativo Discord (não foi gravada), dividido em 3 épicos: conta, perfil e conteúdo. Os integrantes Antonio Igor, Caio Santos, Erick Levy e Lameque Fernandes ficaram responsáveis pela criação desses épicos, como consta o histórico de versionamento, o documento foi revisado pelo integrante Douglas Monteles após a finalização do mesmo.
+</p>
+<p align="justify">
+Durante o decorrer do semestre o documento sofreu diversas alterações, todas podem ser conferidas no histórico de versionamento.
+</p>
 
 ## 2. Metodologia
-
 <p align="justify">
 A metodologia proposta para as user story que estão presentes no Amazon Prime e Prime Vídeo são:
 </p>
