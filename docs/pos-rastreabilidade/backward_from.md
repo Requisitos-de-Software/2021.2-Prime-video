@@ -84,6 +84,6 @@ Através desse documento conseguimos obter a rastreabilidade desejada, ligando c
 
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
-|1.0|02/04/2022| Criação do documento | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Caio Santos](https://github.com/caiobsantos) | - |
-|1.1|03/04/2022| Adição dos requisitos não funcionais | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Caio Santos](https://github.com/caiobsantos) | - |
+|1.0|02/04/2022| Criação do documento | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Caio Santos](https://github.com/caiobsantos) | [Lameque Fernandes](https://github.com/lamequefernandes) |
+|1.1|03/04/2022| Adição dos requisitos não funcionais | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Caio Santos](https://github.com/caiobsantos) | [Lameque Fernandes](https://github.com/lamequefernandes) |
 
