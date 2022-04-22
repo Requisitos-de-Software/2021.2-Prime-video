@@ -77,7 +77,7 @@ Foi analisado por:
 ## 2. Aplicativo Escolhido
 
 <p align="justify">
-Após reunir o grupo e discutir sobre cada um dos aplicativos citados, foi decidido por meio de votação que o aplicativo a ser foco do projeto seria o Amazon Prime Video, por ser um aplicativo em que a maioria dos integrantes do grupo tem acesso e familiaridade.
+Após reunir o grupo e discutir sobre cada um dos aplicativos citados, foi decidido através de votação que o aplicativo a ser foco do projeto seria a Amazon Prime Video, por ser um aplicativo em que a maioria dos integrantes do grupo tem acesso e familiaridade.
 </p>
   
 ## 3. Referências
