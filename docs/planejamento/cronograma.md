@@ -105,9 +105,17 @@ Com base nos horários de todos os membros, construímos um heatmap (ou mapa de 
 
 ## 5. Referências
 
+
 Plano de ensino da matéria. Disponível em: <https://aprender3.unb.br/pluginfile.php/1668087/mod_resource/content/17/Plano_de_Ensino%20RE%2022021%20Turma%20A.pdf>. Acesso em: 19/02/2022
 
-## 6. Histórico de versionamento
+
+## 6. Conclusão
+
+<p align="justify">
+Dessa forma o cronograma que e uma parte que decide o que vai ser feito a cada sprint e divide as tarefas para cada respectivos membros do grupo para o desenvolvimento de artefatos foi essencialmente uma prioridade para as entregas neste projeto, além de ajudar a definir o escopo de cada sprint para um melhor desenvolvimento usando metodologias ágeis.
+</p>
+
+## 7. Histórico de versionamento
 
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|

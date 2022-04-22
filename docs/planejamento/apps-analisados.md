@@ -32,7 +32,7 @@ Foi analisado por:
 
 - Antonio Igor
 
-### 1.3 Amazon Prime Video
+### 1.3  Prime Video
 <figure>
   <img width="320" src="../../assets/img/logo-prime-video.png" />
   <figcaption>Figura 3: Logo do Amazon Prime Video</figcaption>
@@ -93,8 +93,16 @@ Discord, 2022. Disponível em: <https://play.google.com/store/apps/details?id=co
 
 Rico, 2022. Disponível em: <https://play.google.com/store/apps/details?id=br.com.rico.mobile&hl=pt_BR&gl=US>. Acesso em: 14 fevereiro 2022.
 </p>
+
+
+## 4. Conclusão
+
+<p align="justify">
+Portanto, os aplicativos analisados foram essenciais para descobrir qual seria o pivô de escolha, além de escolhermos através de uma votação onde escolhemos o Prime Video por maioria.
+</p>
+
   
-## 4. Histórico de Versionamento
+## 5. Histórico de Versionamento
 
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
