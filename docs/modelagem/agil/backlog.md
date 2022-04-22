@@ -8,7 +8,7 @@ O Product Backlog ou apenas Backlog, se refere a uma lista de itens desejados pa
 ## 2. Metodologia
 
 <p align="justify">
-A metodologia propostas para as user story que estão presentes no Amazon prime e Prime video sao:
+A metodologia proposta para as user story que estão presentes no Amazon Prime e Prime Vídeo são:
 </p>
 
 <center>
@@ -17,7 +17,7 @@ A metodologia propostas para as user story que estão presentes no Amazon prime 
 
 | tipo  |  significado   | explicação    | 
 | :-------------: |----------------|---------------|
-| US   |  User Story (História de Usuário)  | História de Usuário que pertencem unicamente ao escopo do Prime video. |
+| US   |  User Story (História de Usuário)  | História de Usuário que pertencem unicamente ao escopo do Prime vídeo. |
 | APUS  |  Amazon Prime User Story (História de Usuário do Amazon Prime)  | História de Usuário que pertencem tanto ao Prime video como o serviço Amazon Prime este termo foi criado para este projeto no caso da interligação do Amazon prime com o Prime video. |
 | RFXX | Não possui requisito vinculado | Nem todas as US possuem algum requisito vinculado |
 
@@ -31,7 +31,7 @@ A metodologia propostas para as user story que estão presentes no Amazon prime 
 
 ### Tabela 2: Modelo de representação dos Épicos
 
-| ID | Rastreabilidade | História de usúario (Eu como usuário gostaria de ...) | Prioridade |
+| ID | Rastreabilidade | História de usuário (Eu como usuário gostaria de ...) | Prioridade |
 | -- | :-------------: | ----------------------------------------------------- | ---------- |
 
 <figcaption>Fonte: Próprio autor</figcaption>
@@ -40,10 +40,10 @@ A metodologia propostas para as user story que estão presentes no Amazon prime 
 
 ### 2.2 Prioridades
 
-- Must: quando o requisito for essencial para o funcionamento da projeto.
+- Must: quando o requisito for essencial para o funcionamento do projeto.
 - Should: quando o requisito for importante para o projeto.
 - Could: quando o requisito não tem grandes necessidades de ser implementado, apenas se tiver tempo e recursos.
-- Won't: quando o requisito não precisa ser implementa no momento, mas seria uma boa melhoria para o futuro.
+- Won't: quando o requisito não precisa ser implementado no momento, mas seria uma boa melhoria para o futuro.
 
 ## 3. Épicos
 
@@ -61,7 +61,7 @@ Um Épico pode ser definido como uma coleção de histórias de usuário que ain
 
 ### Tabela 3: Épico 1 - Conta
 
-| ID | Rastreabilidade | História de usúario (Eu como usuário gostaria de ...) | Prioridade |
+| ID | Rastreabilidade | História de usuário (Eu como usuário gostaria de ...) | Prioridade |
 | -- | :-------------: | ----------------------------------------------------- | ---------- |
 | APUS01 |   RFS01    | Criar conta| Must |
 | APUS02 |   RFS02    | Cancelar assinatura do Amazon prime| Must |
@@ -96,7 +96,7 @@ Um Épico pode ser definido como uma coleção de histórias de usuário que ain
 
 ### Tabela 4: Épico 2 - Perfil
 
-| ID | Rastreabilidade | História de usúario (Eu como usuário gostaria de ...) | Prioridade |
+| ID | Rastreabilidade | História de usuário (Eu como usuário gostaria de ...) | Prioridade |
 | -- | :-------------: | ----------------------------------------------------- | ---------- | 
 | US18 | RF18 |  Criar um novo perfil à minha conta | Must |
 | US19 | RF17 |  Alterar minha foto de perfil | Could |
@@ -115,17 +115,17 @@ Um Épico pode ser definido como uma coleção de histórias de usuário que ain
 
 ### Tabela 5: Épico 3 - Conteúdo
 
-| ID | Rastreabilidade | História de usúario (Eu como usuário gostaria de ...) | Prioridade |
+| ID | Rastreabilidade | História de usuário (Eu como usuário gostaria de ...) | Prioridade |
 | -- | :-------------: | ----------------------------------------------------- | ---------- | 
 | US24 | RF22 | Baixar títulos | Could |
 | US25 | RF31 | Assistir em grupo (Watch party) | Could | RF30
-| US26 | RF06 | Registrar feeadback sobre título | Should | RF05
+| US26 | RF06 | Registrar feedback sobre título | Should | RF05
 | US27 | RF07 | Acessar a página de ajuda da plataforma | Must | RF06
 | US28 | RF11 | Assistir trailer dos títulos | Should | 
 | US29 | RFXX | Assistir títulos | Must | 
 | US30 | RF15 | Escolher qual temporada assistir de um título (caso exista temporadas) | Must | 
 | US31 | RF09 | Escolher qual episódio assistir de um título (caso exista episódios) | Must | 
-| US32 | RF08 | Passar para o proximo episódio ainda na reprodução do atual (caso tenha um próximo) | Should | 
+| US32 | RF08 | Passar para o próximo episódio ainda na reprodução do atual (caso tenha um próximo) | Should | 
 | US33 | RFxx | Alterar volume | Must | 
 | US34 | RF09 | Desabilitar a reprodução automática | Should | 
 | US35 | RF12 | Pular a abertura dos títulos | Should | 
@@ -141,7 +141,7 @@ Um Épico pode ser definido como uma coleção de histórias de usuário que ain
 | US45 | RF35 | Ocultar vídeos | Could | 
 | US46 | RF37 | Ver histórico de reprodução | Should | 
 | US47 | RF19 | Realizar buscas | Must | 
-| US48 | RF20 | Filtar busca | Must | 
+| US48 | RF20 | Filtrar busca | Must | 
 | US49 | RF42 | Acessar um título pelo nome completo ou apenas parte dele | Must | 
 | US50 | RF05 | Comprar conteúdo extra | Must | 
 | US51 | RF31 | Alugar conteúdo extra | Must | 
@@ -171,4 +171,4 @@ Um Épico pode ser definido como uma coleção de histórias de usuário que ain
 |1.4|09/03/2022|Adição da definição dos épicos|[Caio Santos](https://github.com/caiobsantos)| [Lameque Fernandes](https://github.com/lamequefernandes) |
 |1.5|09/03/2022|Adição das histórias de usuário relacionadas a conta |[Erick Levy](https://github.com/ericklevy)| [Caio Santos](https://github.com/caiobsantos) |
 |1.6|23/03/2022|Adição das histórias de usuário relacionadas a conta do Amazon prime e mais historia de usuário em conteúdo |[Erick Levy](https://github.com/ericklevy)| [Antonio Igor](https://github.com/antonioigorcarvalho) |
-|1.7|22/04/2022| Adicionando legendas as tabelas e mais uma linha na Tabela 1 com a explicação do RFXX |[Erick Levy](https://github.com/ericklevy)| [Antonio Igor](https://github.com/antonioigorcarvalho) |
+|1.7|22/04/2022| Adicionando legendas nas tabelas e mais uma linha na Tabela 1 com a explicação do RFXX |[Erick Levy](https://github.com/ericklevy)| [Antonio Igor](https://github.com/antonioigorcarvalho) |
