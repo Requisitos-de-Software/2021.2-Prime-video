@@ -87,4 +87,5 @@ Através desse documento conseguimos obter a rastreabilidade desejada, ligando c
 |1.0|02/04/2022| Criação do documento | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Caio Santos](https://github.com/caiobsantos) | [Lameque Fernandes](https://github.com/lamequefernandes) |
 |1.1|03/04/2022| Adição dos requisitos não funcionais | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Caio Santos](https://github.com/caiobsantos) | [Lameque Fernandes](https://github.com/lamequefernandes) |
 |1.2|03/04/2022| Adição dos links nos RF e RNF | [Lameque Fernandes](https://github.com/lamequefernandes) | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Erick Levy](https://github.com/ericklevy) |
+|1.2.1| 22/04/2022 | Adição de revisores |[Lameque Fernandes](https://github.com/lamequefernandes)| [Antonio Igor](https://github.com/antonioigorcarvalho) e [Erick Levy](https://github.com/ericklevy) |
 

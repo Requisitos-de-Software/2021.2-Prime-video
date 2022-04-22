@@ -127,3 +127,5 @@ CARVALHO, Henrique. O framework de priorizacao: MoSCoW. Disponível em: <https:/
 |-|-|-|-|-|
 |1.0|20/02/2022|Criação do MoSCoW|[Lameque Fernandes](https://github.com/lamequefernandes)|[Antonio Igor](https://github.com/antonioigorcarvalho), [Douglas Monteles](https://github.com/douglasmonteles) e [Erick Levy](https://github.com/ericklevy)|
 |1.1|23/03/2022 |Remodulamento do MosCow|[Erick Levy](https://github.com/ericklevy)| [Antonio Igor](https://github.com/antonioigorcarvalho) |
+|1.2|22/04/2022| Alteração na metodologia |[Lameque Fernandes](https://github.com/lamequefernandes)| [Antonio Igor](https://github.com/antonioigorcarvalho) e [Erick Levy](https://github.com/ericklevy) |
+

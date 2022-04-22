@@ -131,4 +131,4 @@ Epic, Feature e User Story (Epico, Funcionalidade e História de Usuário). Disp
 |1.4|09/03/2022|Adição da definição dos épicos|[Caio Santos](https://github.com/caiobsantos)| [Lameque Fernandes](https://github.com/lamequefernandes) |
 |1.5|09/03/2022|Adição das histórias de usuário relacionadas a conta |[Erick Levy](https://github.com/ericklevy)| [Caio Santos](https://github.com/caiobsantos) |
 |1.6|23/03/2022|Adição das histórias de usuário relacionadas a conta do Amazon prime e mais historia de usuário em conteúdo |[Erick Levy](https://github.com/ericklevy)| [Antonio Igor](https://github.com/antonioigorcarvalho) |
-|1.7|23/03/2022| Adição de links nas histórias de usuário e requisitos |[Erick Levy](https://github.com/ericklevy)| [Antonio Igor](https://github.com/antonioigorcarvalho) |
+|1.7|22/04/2022| Adição de links nas histórias de usuário e requisitos |[Lameque Fernandes](https://github.com/lamequefernandes)| [Antonio Igor](https://github.com/antonioigorcarvalho) e [Erick Levy](https://github.com/ericklevy) |
