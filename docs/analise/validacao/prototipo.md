@@ -30,8 +30,7 @@ Abaixo temos o protótipo criado pela equipe. <a href="https://www.figma.com/fil
 
 > VALIDAÇÃO DE REQUISITOS ATRAVÉS DA PROTOTIPAÇÃO DE SOFTWARE. Disponível em: https://www.periodicos.univag.com.br/index.php/CONNECTIONLINE/article/view/68. Acesso em: 23 de mar. de 2022.
 
-
-## 5. Histórico de Versionamento
+## 6. Histórico de Versionamento
 
 | Data | Versão | Descrição | Autor | Revisor |
 | :--: | :----: | :-------: | :-------: | :-------: |
