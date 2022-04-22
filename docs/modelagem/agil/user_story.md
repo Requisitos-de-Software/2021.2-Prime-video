@@ -479,11 +479,16 @@
     Estas imagens são para designar o UX do Prime video no Épico 2 - Perfil.
 </p>
 
-![drawing](../../assets/img/primePerfil.png)
+<center>
 
-<p align="center">
-    figura 3 - Perfil Prime video relacionado as US.
-</p>
+#### Figura 1: Perfil Prime video relacionado as US.
+
+<figure>
+    <img src="../../../assets/img/primePerfil.png" width="100%">
+    <figcaption>Fonte: Próprio autor</figcaption>
+</figure>
+
+</center>
 
 ### 3.3 Épico 3 - Conteúdo 
 
