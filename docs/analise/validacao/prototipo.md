@@ -20,7 +20,13 @@ Abaixo temos o protótipo criado pela equipe. <a href="https://www.figma.com/fil
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FVginPs14MkoyTvhRO68iZo%2FProt%25C3%25B3tipo-IHC---Amazon-Prime-Video%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
-## 4. Referências
+## 4. Conclusão
+
+<p align="justify">
+  A realização do processo de validação utilizando um protótipo interativo auxilia ao usuário a desempenhar as funções do sistema de forma mais prática e bem mais próxima da realidade, permitindo assim que as funções do sistema sejam validadas de forma precisa e eficaz, fornecendo assim, feedbacks sobre as suas impressões do sistema e das funcionalidades avaliadas.
+</p>
+
+## 5. Referências
 
 <p align="justify">
 VALIDAÇÃO DE REQUISITOS ATRAVÉS DA PROTOTIPAÇÃO DE
