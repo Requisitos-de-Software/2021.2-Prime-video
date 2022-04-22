@@ -6,11 +6,12 @@ Este documento tem o objetivo de realizar a verificação dos cenários do Prime
 
 
 ## 2. Metodologia
-
 <p align='justify'>
-Através de alguns critérios definidos por meio da técnica de inspeção, os elementos dos cenários serão analisados por meio de uma checklist para definir se estão de acordo com o esperado ou não.
+Para uma explicação completa da metodologia utilizada para a avaliação acesse o documento de <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/analise/verificacao/verificacao/">introdução à verificação dos artefatos</a>.
 </p>
-
+<p align='justify'>
+Por meio da técnica de inspeção fizemos uma marcação nos itens que o documento de cenários irá atender ou não, no caso desse documento, os checklists foram criados separados cada cenário, e em cada um abordando itens que permitem ter uma melhor visão da qualidade de cenário individualmente, tanto com itens que avaliam a visualização do cenário como um usuário como a sua rastreabilidade para outros documentos.
+</p>
 
 ## 3. Checklists
 
@@ -192,3 +193,4 @@ Reinehr, Sheila Engenharia de Requisitos, Editora: Grupo A Selo: Sagah. 1ª edi�
 |-|-|-|-|-|
 |1.0|22/03/2022|Criação do documento de verificação dos cenários|[Caio Santos](https://github.com/caiobsantos)| [Antonio Igor](https://github.com/antonioigorcarvalho) e [Lameque Fernandes](https://github.com/lamequefernandes) |
 |1.1|23/03/2022|Adição da introdução e análise dos cenários|[Caio Santos](https://github.com/caiobsantos)| [Antonio Igor](https://github.com/antonioigorcarvalho) e [Lameque Fernandes](https://github.com/lamequefernandes) |
+|1.2|22/04/2022| Atualização da descrição de metodologia | [Antonio Igor](https://github.com/antonioigorcarvalho) | - |
