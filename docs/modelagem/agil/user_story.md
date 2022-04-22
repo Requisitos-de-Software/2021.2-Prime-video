@@ -2,13 +2,10 @@
 
 ## 1. Introdução
 
-
 <p align="justify">
     A ideia da utilização de Histórias de Usuários ou Story Backlog, é pensar em histórias contadas pela perspectiva dos usuários. A história é uma função do épico e equivale aos requistos funcionais.
     Cada História contém suas regras e validações.
 </p>
-
-
 
 ## 2 . Objetivo
 
@@ -18,11 +15,17 @@
 </p>
 
 
-
-
 ## 3. User Stories
 
+<p align="justify">
+    Abaixo estão listadas as tabelas contendo os Épicos e suas respectivas US.
+</p>
+
 ### 3.1 Épico 1 - Conta
+
+<center>
+
+#### Tabela 1: Criar conta
 
 | **ID** | **Nome** |
 |:-------|:---------|
@@ -30,11 +33,31 @@
 | Descrição | Eu como usuário desejo Criar minha conta no Amazon prime para poder usar o  Prime video  |
 | Critérios de Aceitação | Deve conter as seguintes opções </br> - Cancelar assinatura</br> - controlar perfis</br> - mudar método de pagamento  entre cartão de credito ou cartão de debito</br>   |
 
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 2: Cancelar assinatura do Amazon prime
+
 | **ID** | **Nome** |
 |:-------|:---------|
 | APUS02 | Cancelar assinatura do Amazon prime |
 | Descrição | Eu como usuário desejo Cancelar minha assinatura do Amazon prime  |
 | Critérios de Aceitação | Deve conter as seguintes opções </br> - Cancelar assinatura do Amazon prime </br>  |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 3: Mudar o e-mail
 
 | **ID** | **Nome** |
 |:-------|:---------|
@@ -42,12 +65,31 @@
 | Descrição | Eu como usuário desejo mudar o meu e-mail de acesso  |
 | Critérios de Aceitação | Deve conter as seguintes opções </br> - alterar o  e-mail </br>  |
 
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 4: Mudar a minha senha
+
 | **ID** | **Nome** |
 |:-------|:---------|
 | APUS04 | Mudar a minha senha |
 | Descrição | Eu como usuário desejo Mudar minha senha  |
 | Critérios de Aceitação | Deve conter as seguintes opções </br> - alterar a senha </br>  |
 
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 5: Mudar o telefone
 
 | **ID** | **Nome** |
 |:-------|:---------|
@@ -55,11 +97,31 @@
 | Descrição | Eu como usuário desejo alterar o telefone  |
 | Critérios de Aceitação | Deve conter as seguintes opções </br> - alterar o telefone </br>  - telefone como meio de acesso ao Prime video </br> |
 
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 6: Alugar assinatura de canal
+
 | **ID** | **Nome** |
 |:-------|:---------|
 | US01 | Alugar assinatura de canal |
 | Descrição | Eu como usuário desejo alugar uma assinatura de canal  |
 | Critérios de Aceitação | Deve conter as seguintes opções </br> - alugar canal </br>  |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 7: Alugar documentário
 
 | **ID** | **Nome** |
 |:-------|:---------|
@@ -67,6 +129,15 @@
 | Descrição | Eu como usuário desejo alugar um de documentário  |
 | Critérios de Aceitação | Deve conter as seguintes opções </br> - alugar documentário </br>  |
 
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 8: Alugar filme
 
 | **ID** | **Nome** |
 |:-------|:---------|
@@ -74,12 +145,31 @@
 | Descrição | Eu como usuário desejo alugar um filme  |
 | Critérios de Aceitação | Deve conter as seguintes opções </br> - alugar filme </br>  |
 
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 9: Alugar série
+
 | **ID** | **Nome** |
 |:-------|:---------|
 | US04 | Alugar série |
 | Descrição | Eu como usuário desejo alugar uma série  |
 | Critérios de Aceitação | Deve conter as seguintes opções </br> - alugar série </br>  |
 
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 10: Cancelar assinatura de canal
 
 | **ID** | **Nome** |
 |:-------|:---------|
@@ -87,11 +177,31 @@
 | Descrição | Eu como usuário desejo Cancelar minha assinatura do canal  |
 | Critérios de Aceitação | Deve conter as seguintes opções </br> - Cancelar canal </br>  |
 
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 11: Cancelar alugamento de documentário
+
 | **ID** | **Nome** |
 |:-------|:---------|
 | US06 | Cancelar alugamento de documentário |
 | Descrição | Eu como usuário desejo Cancelar meu aluguel do documentário |
 | Critérios de Aceitação | Deve conter as seguintes opções </br> - Cancelar aluguel de documentário </br> - opções de ver documentários cancelados </br>  |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 12: Cancelar alugamento de filme
 
 | **ID** | **Nome** |
 |:-------|:---------|
@@ -99,11 +209,31 @@
 | Descrição | Eu como usuário desejo Cancelar meu aluguel do filme  |
 | Critérios de Aceitação | Deve conter as seguintes opções </br> - Cancelar aluguel de filme </br> - opções de ver filmes cancelados </br>  |
 
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 13: Cancelar alugamento de série
+
 | **ID** | **Nome** |
 |:-------|:---------|
 | US08 | Cancelar alugamento de série |
 | Descrição | Eu como usuário desejo Cancelar meu aluguel de série |
 | Critérios de Aceitação | Deve conter as seguintes opções </br> - Cancelar aluguel de série </br> - opções de ver séries cancelados </br>  |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 14: Mostrar pedidos
 
 | **ID** | **Nome** |
 |:-------|:---------|
@@ -111,11 +241,31 @@
 | Descrição | Eu como usuário desejo ver os meus pedidos  |
 | Critérios de Aceitação | Deve conter as seguintes opções </br> - Cancelar  pedidos  de conteúdos </br> - opções de ver pedidos de documentários </br> - opções de ver pedidos de filmes  </br> - opções de ver pedidos de séries  </br>   |
 
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 15: Mudar método de pagamento
+
 | **ID** | **Nome** |
 |:-------|:---------|
 | US11 | Mudar método de pagamento |
 | Descrição | Eu como usuário desejo mudar o método de pagamento |
 | Critérios de Aceitação | Deve conter as seguintes opções </br> - Cancelar  método de pagamento </br> - Mudar método de pagamento </br>    |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 16: Olhar as informações da conta
 
 | **ID** | **Nome** |
 |:-------|:---------|
@@ -123,11 +273,31 @@
 | Descrição | Eu como usuário desejo ver as informações da minha conta |
 | Critérios de Aceitação | Deve conter as seguintes opções </br> - Ver informações da conta</br>   |
 
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 17: Realizar login
+
 | **ID** | **Nome** |
 |:-------|:---------|
 | US12 | Realizar login |
 | Descrição | Eu como usuário desejo fazer o login ter acesso a plataforma Prime video |
 | Critérios de Aceitação | Deve conter as seguintes opções: </br> - Implementar caixa de texto para inserir email e senha </br> - opções de recuperar senha </br>    |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 18: Realizar logout
 
 | **ID** | **Nome** |
 |:-------|:---------|
@@ -135,11 +305,31 @@
 | Descrição | Eu como usuário desejo fazer o logout do Prime video  |
 | Critérios de Aceitação | Deve conter as seguintes opções: </br> - Sair da conta </br>    |
 
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 19: Renova assinatura de canal
+
 | **ID** | **Nome** |
 |:-------|:---------|
 | US14 | Renova assinatura de canal |
 | Descrição | Eu como usuário desejo Renovar  a assinatura de canal |
 | Critérios de Aceitação | Deve conter as seguintes opções: </br> - Renovar canal </br>  - Renovar canais </br> - Cancelar renovamento de canal </br>    |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 20: Renova assinatura de filme
 
 | **ID** | **Nome** |
 |:-------|:---------|
@@ -147,11 +337,31 @@
 | Descrição | Eu como usuário desejo Renovar a assinatura de filme |
 | Critérios de Aceitação | Deve conter as seguintes opções: </br> - Renovar filme </br> - Renovar filmes </br> - Cancelar renovamento de filme </br>    |
 
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 21: Renova assinatura de série
+
 | **ID** | **Nome** |
 |:-------|:---------|
 | US16 | Renova assinatura de série |
 | Descrição | Eu como usuário desejo Renovar a assinatura de série |
 | Critérios de Aceitação | Deve conter as seguintes opções: </br> - Renovar série </br>  - Renovar séries </br>  - Cancelar renovamento de séries </br>    |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 22: Sair dos dispositivos
 
 | **ID** | **Nome** |
 |:-------|:---------|
@@ -159,7 +369,17 @@
 | Descrição | Eu como usuário desejo sair dos dispositivos |
 | Critérios de Aceitação | Deve conter as seguintes opções: </br> - Sair do dispositivo </br>  - Sair de vários dispositivos </br>    |
 
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
 ### 3.2 Épico 2 - Perfil
+
+<center>
+
+#### Tabela 23: Criar um novo perfil à minha conta
 
 | **ID** | **Nome** |
 |:-------|:---------|
@@ -167,11 +387,31 @@
 | Descrição | Eu como usuário gostaria de criar um novo perfil para a minha conta a fim salvar as séries e filmes que assisto |
 | Critérios  de Aceitação | Deve conter as seguintes opções: </br> - Escolher nome </br> - Escolher foto do perfil </br> - Selecionar o tipo do perfil (adulto/criança) |
 
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 24: Alterar minha foto de perfil
+
 | **ID** | **Nome** |
 |:-------|:---------|
 | US19 | Alterar minha foto de perfil |
 | Descrição | Eu como usuário gostaria de alterar minha foto de perfil dentre todos os avatares disponíveis |
 | Critérios  de Aceitação | Deve conter as seguintes opções: </br> - Visualizar meu avatar atual </br> - Poder selecionar entre todos os avatares disponíveis </br> - Ter a opções de cancelar a alteração </br> - Ter a opções de salvar a alteração |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 25: Alterar o nome do meu perfil
 
 | **ID** | **Nome** |
 |:-------|:---------|
@@ -179,11 +419,31 @@
 | Descrição | Eu como usuário gostaria de alterar o nome do meu perfil |
 | Critérios  de Aceitação | Deve conter as seguintes opções: </br> - Visualizar o meu nome atual </br> - Poder digitar o novo nome </br> - Ter a opções de cancelar a alteração </br> - Ter a opções de salvar a alteração |
 
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 26: Excluir um perfil
+
 | **ID** | **Nome** |
 |:-------|:---------|
 | US21 | Excluir um perfil |
 | Descrição | Eu como usuário gostaria de excluir um perfil |
 | Critérios  de Aceitação | Deve conter as seguintes opções: </br> - Visualizar os perfis atualmente ativos </br> - Poder selecionar qual perfil apagar </br> - Ter a opções de cancelar a alteração </br> - Ter a opções de concluir a exclusão |
+
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 27: Adicionar títulos à minha lista
 
 | **ID** | **Nome** |
 |:-------|:---------|
@@ -191,16 +451,31 @@
 | Descrição | Eu como usuário gostaria de adicionar títulos à minha lista |
 | Critérios  de Aceitação | Deve conter as seguintes opções: </br> - Poder adicionar qualquer título disponível para a minha lista </br>|
 
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
+
+<center>
+
+#### Tabela 28: Adicionar títulos à minha lista
+
 | **ID** | **Nome** |
 |:-------|:---------|
 | US23 | Adicionar títulos à minha lista |
 | Descrição | Eu como usuário gostaria de remover títulos da minha lista |
 | Critérios  de Aceitação | Deve conter as seguintes opções: </br> - Poder remover qualquer título já adicionado a minha lista</br> |
 
+<figcaption>Fonte: Próprio autor</figcaption>
+
+</center>
+
+<br>
 
 #### 3.2.1 UX Designer Épico 2 - Perfil
 
-<p align="justiy">
+<p align="justify">
     Estas imagens são para designar o UX do Prime video no Épico 2 - Perfil.
 </p>
 
