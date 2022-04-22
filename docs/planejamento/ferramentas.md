@@ -17,6 +17,10 @@ Para melhor organização dos membros no desenvolvimento do projeto, o time deci
  | ![drawing](../assets/img/draw-io.png) | Draw.io | Rich picture e desenhos |
  | ![drawing](../assets/img/teams.png) | Teams | Gravações das sprints |
  | ![drawing](../assets/img/figma.png) | Figma | Protótipo |
+ | ![drawing](../assets/img/vscode.png) | Visual Studio Code | Produção do projeto |
+ | ![drawing](../assets/img/youtube.png) | Youtube | Apresentações |
+ | ![drawing](../assets/img/git.png) | Git | Versionamento |
+ | ![drawing](../assets/img/excel.png) | Excel | Tabelas |
 
 
 <figcaption>Tabela 1: Ferramentas utilizadas no projeto</figcaption>
