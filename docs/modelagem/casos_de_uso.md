@@ -77,7 +77,7 @@ Mostra a dependência entre um caso de uso base e um caso de uso incluído, semp
   <figcaption>Figura 4: Fluxo de Conta.</figcaption>
 </figure>
 
-| Caso 01 | Informações | 
+| Caso 01 - Fluxo de conta | Informações | 
 | ------- | ----------- |
 | Descrição | <ul><li>O usuário deve ser capaz de criar uma conta</li><li>O usuário deve ser capaz de acessar uma conta já existente</li></ul> |
 | Pré-condições | Acesso à internet |
@@ -96,7 +96,7 @@ Mostra a dependência entre um caso de uso base e um caso de uso incluído, semp
   <figcaption>Figura 5: Fluxo de conteúdo.</figcaption>
 </figure>
 
-| Caso 02 | Informações | 
+| Caso 02 - Fluxo de conteúdo | Informações | 
 | ------- | ----------- |
 | Descrição | O usuário deve ser capaz de assistir um título |
 | Pré-condições | Internet, uma conta válida e um título |
@@ -115,7 +115,7 @@ Mostra a dependência entre um caso de uso base e um caso de uso incluído, semp
   <figcaption>Figura 6: Fluxo de conteúdo extra.</figcaption>
 </figure>
 
-| Caso 03 | Informações | 
+| Caso 03 - Fluxo de conteúdo extra | Informações | 
 | ------- | ----------- |
 | Descrição | O usuário deve ser capaz de assinar conteúdos extras |
 | Pré-condições | Possuir uma conta da Amazon Prime Video |

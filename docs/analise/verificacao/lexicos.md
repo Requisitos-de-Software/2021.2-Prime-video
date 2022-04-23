@@ -1,6 +1,6 @@
 ## 1 . Introdução
 
-<p align="center">
+<p align="justify">
      
 A verificação dos léxicos tem como objetivo principal analisar os requisitos funcionais e não funcionais. Assim com a validação reduzindo possíveis dúvidas sobre o funcionamento do sistemas baseado no documento <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/modelagem/lexico/">lexico</a>.
 
@@ -8,6 +8,13 @@ A verificação dos léxicos tem como objetivo principal analisar os requisitos 
 
 
 ## 2. Metodologia
+<p align='justify'>
+Para uma explicação completa da metodologia utilizada para a avaliação acesse o documento de <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/analise/verificacao/verificacao/">introdução à verificação dos artefatos</a>.
+</p>
+<p align='justify'>
+Por meio da técnica de inspeção fizemos uma marcação nos itens que o documento de léxicos irá atender ou não, no caso desse documento, os checklists foram criados separados por cada léxico, e em cada um abordando itens que permitem ter uma melhor visão da qualidade de cada um individualmente.
+</p>
+
 
 <p align="center">
     Para a criação da verificação dos léxico foi criado uma tabela no seguinte padrão.
@@ -89,8 +96,17 @@ Sinônimos. **Sinônimos.com.br**. Dispoível em: <https://www.sinonimos.com.br/
 
 Reinehr, Sheila Engenharia de Requisitos, Editora: Grupo A Selo: Sagah. 1ª edição. 2020.
 
-## 5. Histórico de Versionamento
+## 5. Conclusão
+
+<p align="justify">
+     
+Portanto, este documento auxilio a verificação dos léxicos criados além de analisar os componentes e a falta de sinônimo para algumas palavras, serviu para melhorar os dois documentos.
+
+</p>
+
+## 6. Histórico de Versionamento
 
 |Versão|Data de modificação|Descrição da modificação|Autor| Revisor|
 |-|-|-|-|-|
 |1.0|23/03/2022| Criação do documento de verificação dos léxicos | [Erick Levy](https://github.com/ericklevy)  | [Antonio Igor](https://github.com/antonioigorcarvalho) |
+|1.3|22/04/2022| Atualização da descrição de metodologia | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy) |

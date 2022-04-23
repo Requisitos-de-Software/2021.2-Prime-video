@@ -7,9 +7,11 @@
 </p>
 
 ## 2. Metodologia
-
 <p align='justify'>
-  Por meio da técnica de inspeção, que centram-se principalmente no código-fonte de um sistema, mas qualquer representação legível do software, como seus requisitos ou modelo de projeto, pode ser inspecionada (Sommerville, 2011), fizemos uma marcação nos itens que o documento de Backlog atende ou não.
+Para uma explicação completa da metodologia utilizada para a avaliação acesse o documento de <a href="https://requisitos-de-software.github.io/2021.2-Prime-video/analise/verificacao/verificacao/">introdução à verificação dos artefatos</a>.
+</p>
+<p align='justify'>
+Por meio da técnica de inspeção fizemos uma marcação nos itens que o documento de Backlog atende ou não, no caso desse documento, checklists foram criadas para se dar atenção as ligações entre as Histórias de usuários(US), épicos e atores.
 </p>
   
 ## 3. Checklists
@@ -876,3 +878,4 @@
 |-|-|-|-|-|
 |1.0|22/03/2022|Criação do documento de análise do Backlog|[Douglas Monteles](https://github.com/douglasmonteles)| [Antonio Igor](https://github.com/antonioigorcarvalho) e [Caio Santos](https://github.com/caiobsantos) |
 |1.1|23/03/2022|Verificação da US17 até a US 46|[Lameque Fernandes](https://github.com/lamequefernandes)|[Antonio Igor](https://github.com/antonioigorcarvalho) e [Caio Santos](https://github.com/caiobsantos)|
+|1.2|22/04/2022|Atualização da descrição de metodologia | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy) |

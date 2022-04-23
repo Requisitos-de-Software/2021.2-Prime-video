@@ -35,4 +35,4 @@ Abaixo temos o protótipo criado pela equipe. <a href="https://www.figma.com/fil
 | Data | Versão | Descrição | Autor | Revisor |
 | :--: | :----: | :-------: | :-------: | :-------: |
 | 23/03/2022  | 1.0 | Criação do documento de prototipação | [Antonio Igor](https://github.com/antonioigorcarvalho) |[Caio Santos](https://github.com/caiobsantos)|
-| 22/04/2022  | 1.1 | Adicionando a conclusão na validação do protótipo | [Douglas Monteles](https://github.com/douglasmonteles) | --- |
+| 22/04/2022  | 1.1 | Adicionando a conclusão na validação do protótipo | [Douglas Monteles](https://github.com/douglasmonteles) | [Antonio Igor](https://github.com/antonioigorcarvalho) |
