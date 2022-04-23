@@ -84,7 +84,7 @@ Os Léxicos foram ordenados em ordem alfabetica.
 
 | Tipo       |  Léxico     | Sinônimo  | Noção    |       Impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
-| Verbo    |   Controle   | Comando,Gerência | Controle de consumo de internet,parental,exclusão e ocultação de conteúdo .    |  O usuário pode controlar a quantidade de internet usada.</br>O usuário pode controlar perfis.</br> O usuário pode excluir ou ocultar conteúdos.</br>  |
+| Verbo    |   Controle   | Comando,Gerência | Controle de consumo de internet,parental,exclusão e ocultação de conteúdo .    |  O usuário pode controlar a quantidade de internet usada.</br>O usuário pode controlar perfis.</br> O usuário pode excluir ou ocultar conteúdos.</br> O usuário pode excluir perfis.</br>  O usuário pode excluir histórico de navegação.</br> O usuário pode diminuir o consumo de dados.</br> |
 
 ### L - 12 Criar 
 
@@ -169,11 +169,11 @@ Os Léxicos foram ordenados em ordem alfabetica.
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
 | Estado   |  Filme  | Curta-metragem,Longa-metragem,Vídeo    | Sequência de imagens registradas em filme cinematográfico, fotográfico ou videoteipe, para exibição em movimento ou não.  |  O usuário pode assistir filmes.</br> O usuário pode compartilhar filmes.</br>  |
 
-### L - 24 Filtro
+### L - 24 Filtrar
 
 | Tipo       |  Léxico     | Sinônimo  | Noção    |       Impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
-| Objeto  |  Filtro  | Curta-metragem,Longa-metragem,Vídeo    | Sequência de imagens registradas em filme cinematográfico, fotográfico ou videoteipe, para exibição em movimento ou não.  |  O usuário pode assistir filmes.</br> O usuário pode compartilhar filmes.</br>  |
+| Objeto  |  Filtrar  | Escolher e Selecionar    | Filtar opções de escolha na plataforma Prime video  |  O usuário pode filtrar documentários, filmes e series .</br>   |
 
 
 ### L - 25 Gênero
@@ -232,6 +232,12 @@ Os Léxicos foram ordenados em ordem alfabetica.
 | Objeto  |  Originals  | Originário,Proveniente,Inventado    | Categoria que mostra títulos exclusivos da plataforma do Prime Video.  |  O usuário visualizar os conteúdos exclusivos do Prime Video.   |
 
 
+### L - 34 Pagamento
+
+| Tipo       |  Léxico     | Sinônimo  | Noção    |       Impacto       |             
+| ---------- |  ---------  | --------  | -------- | ------------------- |  
+| Ação |  Pagamento  | Parcela e Prestação    | Pagar a assintatura do Prime Video  |  O usuário pode Alterar os meios de pagamentos.   |
+
 ### L - 34 Pedidos
 
 | Tipo       |  Léxico     | Sinônimo  | Noção    |       Impacto       |             
@@ -249,7 +255,7 @@ Os Léxicos foram ordenados em ordem alfabetica.
 
 | Tipo       |  Léxico     | Sinônimo  | Noção    |       Impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
-| Objeto  |  Pular Conteúdo  | <p align="center">-</p>     | Pode pular conteudos na plataforma Prime Video.  |  O usuário pode pular conteúdos .   |
+| Objeto  |  Pular Conteúdo  | <p align="center">-</p>     | Pode pular conteudos na plataforma Prime Video.  |  O usuário pode pular ou passar conteúdos .   |
 
 ### L - 36  Recomendado
 
@@ -311,6 +317,12 @@ Os Léxicos foram ordenados em ordem alfabetica.
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
 | Objeto |  Sinopse  | Resumo  | Descrição sintética da ideia do filme/série/Documentario. |  O usuário poderá visualizar um resumo de filme/série/Documentario. |
 
+### L - 46 Tela
+
+| Tipo       |  Léxico     | Sinônimo  | Noção    |       Impacto       |             
+| ---------- |  ---------  | --------  | -------- | ------------------- |  
+| Objeto |  Sinopse  | Resumo  | Descrição sintética da ideia do filme/série/Documentario. |  O usuário poderá visualizar um resumo de filme/série/Documentario. |
+
 
 ### L - 46 Temporada
 
@@ -322,9 +334,15 @@ Os Léxicos foram ordenados em ordem alfabetica.
 
 | Tipo       |  Léxico     | Sinônimo  | Noção    |       Impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
-| Objeto |  Titulo  | <p align="center">-</p>  | Conteúdo presente na plataforma.  |  O usuário terá acesso a filme, série e documentario a partir do titulo.|
+| Objeto |  Titulo  | <p align="center">-</p>  | Conteúdo presente na plataforma.  |  O usuário terá acesso a filme, série e documentario a partir do titulo.</br> O usuário pode acessar um título pelo nome completo ou apenas parte dele.</br>|
 
 ### L - 48 Usuário
+
+| Tipo       |  Léxico     | Sinônimo  | Noção    |       Impacto       |             
+| ---------- |  ---------  | --------  | -------- | ------------------- |  
+| Objeto |  Usuário  | Cliente  | Pessoas que usufruem do Prime Video.  |  Pessoas que terão acesso aos conteúdos do Prime Video. |
+
+### L - 49 Video
 
 | Tipo       |  Léxico     | Sinônimo  | Noção    |       Impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
