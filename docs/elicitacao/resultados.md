@@ -74,10 +74,17 @@ Tabela 1: Requisitos funcionais.
 Tabela 2: Requisitos não funcionais.
 </center>
 
-## 3. Histórico de Versionamento
+## 3. Conclusão
+
+<p align="justify">
+A partir deste documento outros artefatos foram criados assim ajudando na rastreabilidade melhor dos artefatos produzidos durante o decorrer do processo, além de identificar os requisitos funcionais e não funcionais. 
+</p>
+
+## 4. Histórico de Versionamento
 
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
 |1.0|19/02/2022|Criação do documento de resultados da elicitação de requisitos|[Antonio Igor](https://github.com/antonioigorcarvalho)|[Caio Santos](https://github.com/caiobsantos), [Lameque Fernandes](https://github.com/lamequefernandes), [Erick Levy](https://github.com/ericklevy) e [Douglas Monteles](https://github.com/douglasmonteles)|
 |1.1|20/02/2022|Adição de requisitos|[Lameque Fernandes](https://github.com/lamequefernandes)|[Antonio Igor](https://github.com/antonioigorcarvalho), [Douglas Monteles](https://github.com/douglasmonteles) e [Erick Levy](https://github.com/ericklevy)|
 |1.2|09/03/2022|Adição de mais alguns requisitos|[Caio Santos](https://github.com/caiobsantos)|[Lameque Fernandes](https://github.com/lamequefernandes)|
+|1.3|22/04/2022|Criação do tópico  conclusão do documento|[Erick Levy](https://github.com/ericklevy)|  |
