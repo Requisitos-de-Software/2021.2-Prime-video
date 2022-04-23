@@ -321,7 +321,7 @@ Os Léxicos foram ordenados em ordem alfabetica.
 
 | Tipo       |  Léxico     | Sinônimo  | Noção    |       Impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
-| Objeto |  Sinopse  | Resumo  | Descrição sintética da ideia do filme/série/Documentario. |  O usuário poderá visualizar um resumo de filme/série/Documentario. |
+| Objeto |  Tela  | <p align="center">-</p> | <p align="center">-</p>. |  O usuário  pode usar a opção de tela cheia. |
 
 
 ### L - 46 Temporada
