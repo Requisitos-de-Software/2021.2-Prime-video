@@ -24,7 +24,7 @@ Por meio da técnica de inspeção fizemos uma marcação nos itens que o docume
 </p>
 
 
-| Verificação dos lexicos | Nome esta correto ? | Tipo esta correto? | Tem sinônimo? | Noção esta correta ? | Tem impacto ? |Uso de linguagem compreensível ao público?| Sino| Sinônimo coerente ao projeto|
+| Verificação dos lexicos | Nome esta correto ? | Tipo esta correto? | Tem sinônimo? | Noção esta correta ? | Tem impacto ? |Uso de linguagem compreensível ao público?|  Sinônimo coerente ao projeto|
 |:------------------------|---------------------|--------------------|----------------|----------------------|-------------|----------------|-------|----------| 
 
 
@@ -36,7 +36,7 @@ Por meio da técnica de inspeção fizemos uma marcação nos itens que o docume
 </p>
 
 
-| Verificação dos lexicos | Nome esta correto ? | Tipo esta correto? | Tem sinônimo? | Noção esta correta ? | Tem impacto ? |Uso de linguagem compreensível ao público?| Sino| Sinônimo coerente ao projeto|
+| Verificação dos lexicos | Nome esta correto ? | Tipo esta correto? | Tem sinônimo? | Noção esta correta ? | Tem impacto ? |Uso de linguagem compreensível ao público?|  Sinônimo coerente ao projeto|
 |:------------------------|---------------------|--------------------|----------------|----------------------|-------------|----------------|-------|----------|          
 |<p align="center">L01 - Acessar</p>| ✔️| ✔️| ✔️| ✔️| ✔️ | ✔️ | ✔️ |  7/7 |
 |<p align="center">L02 - Ajuda </p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 | 
@@ -72,19 +72,21 @@ Por meio da técnica de inspeção fizemos uma marcação nos itens que o docume
 |<p align="center">L32 - Minha Área</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 |
 |<p align="center">L33 - Novidades</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 |
 |<p align="center">L34 - Originals</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 |
-
-|<p align="center">L34 - Pedidos</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 |
-|<p align="center">L35 - Perfil</p>| ✔️ | ✔️ | ❌| ✔️ | ✔️ | ✔️| ❌ |  5/7 |
-|<p align="center">L36 - Recomendado</p>| ✔️ | ✔️ | ❌| ✔️ | ✔️ | ✔️| ❌ |  5/7 |
-|<p align="center">L37 - Reprodução Automática</p>| ✔️ | ✔️ | ❌| ✔️ | ✔️ | ✔️| ❌ |  5/7 |
-|<p align="center">L38 - Responsividade</p>| ✔️ | ✔️ | ❌| ✔️ | ✔️ | ✔️| ❌ |  5/7 |
-|<p align="center">L39 - Retomar</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 |
-|<p align="center">L40 - Sair</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ❌ |  6/7 |
-|<p align="center">L41 - Segundo Plano</p>|  ✔️ | ✔️ | ❌| ✔️ | ✔️ | ✔️| ❌ |  5/7 |
-|<p align="center">L42 - Selecionar Perfil</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ❌  |  6/7 |
-|<p align="center">L43 - Senha</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 |
-|<p align="center">L44 - Série</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 |
-|<p align="center">L45 - Sinopse</p>|✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ❌ |  6/7 |
+|<p align="center">L35 - Pagamento</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 |
+|<p align="center">L36 - Pedidos</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 |
+|<p align="center">L37 - Perfil</p>| ✔️ | ✔️ | ❌| ✔️ | ✔️ | ✔️| ❌ |  5/7 |
+|<p align="center">L38 - Pular Conteúdo</p>| ✔️ | ✔️ | ❌| ✔️ | ✔️ | ✔️| ❌ |  5/7 |
+|<p align="center">L39 - Recomendado</p>| ✔️ | ✔️ | ❌| ✔️ | ✔️ | ✔️| ❌ |  5/7 |
+|<p align="center">L40 - Reprodução Automática</p>| ✔️ | ✔️ | ❌| ✔️ | ✔️ | ✔️| ❌ |  5/7 |
+|<p align="center">L41 - Responsividade</p>| ✔️ | ✔️ | ❌| ✔️ | ✔️ | ✔️| ❌ |  5/7 |
+|<p align="center">L42 - Retomar</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 |
+|<p align="center">L43 - Sair</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ❌ |  6/7 |
+|<p align="center">L44 - Segundo Plano</p>|  ✔️ | ✔️ | ❌| ✔️ | ✔️ | ✔️| ❌ |  5/7 |
+|<p align="center">L45 - Selecionar Perfil</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ❌  |  6/7 |
+|<p align="center">L46 - Senha</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 |
+|<p align="center">L47 - Série</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 |
+|<p align="center">L48 - Sinopse</p>|✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ❌ |  6/7 |
+|<p align="center">L46 - Tela</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ❌ |  6/7 |
 |<p align="center">L46 - Temporada</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ❌ |  6/7 |
 |<p align="center">L47 - Titulo</p>| ✔️ | ✔️ | ❌| ✔️ | ✔️ | ✔️| ❌ |  5/7 |
 |<p align="center">L48 - Usuário</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 |
