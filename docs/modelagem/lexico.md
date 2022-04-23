@@ -169,6 +169,13 @@ Os Léxicos foram ordenados em ordem alfabetica.
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
 | Estado   |  Filme  | Curta-metragem,Longa-metragem,Vídeo    | Sequência de imagens registradas em filme cinematográfico, fotográfico ou videoteipe, para exibição em movimento ou não.  |  O usuário pode assistir filmes.</br> O usuário pode compartilhar filmes.</br>  |
 
+### L - 24 Filtro
+
+| Tipo       |  Léxico     | Sinônimo  | Noção    |       Impacto       |             
+| ---------- |  ---------  | --------  | -------- | ------------------- |  
+| Estado   |  Filme  | Curta-metragem,Longa-metragem,Vídeo    | Sequência de imagens registradas em filme cinematográfico, fotográfico ou videoteipe, para exibição em movimento ou não.  |  O usuário pode assistir filmes.</br> O usuário pode compartilhar filmes.</br>  |
+
+
 ### L - 25 Gênero
 
 | Tipo       |  Léxico     | Sinônimo  | Noção    |       Impacto       |             
