@@ -131,4 +131,4 @@ Dessa forma o cronograma que e uma parte que decide o que vai ser feito a cada s
 |1.4|10/03/2022| Criação da tabela da sprint 4 | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Douglas Monteles](https://github.com/douglasmonteles) e[Erick Levy](https://github.com/ericklevy)  |
 |1.5|02/04/2022| Criação da tabela da sprint 5 | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Douglas Monteles](https://github.com/douglasmonteles) e [Erick Levy](https://github.com/ericklevy) |
 |1.6|04/04/2022| Criação da tabela da sprint 6 | [Antonio Igor](https://github.com/antonioigorcarvalho) |  |
-|1.7|22/04/2022|Criação do tópico  conclusão do documento|[Erick Levy](https://github.com/ericklevy)|  |
+|1.7|22/04/2022|Criação do tópico  conclusão do documento|[Erick Levy](https://github.com/ericklevy)| [Antonio Igor](https://github.com/antonioigorcarvalho) |
