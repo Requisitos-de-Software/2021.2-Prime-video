@@ -65,4 +65,4 @@ As metodologias propostas foram de grande importância para a produção do proj
 |1.2|19/02/2022|Melhorias na descrição do kanban, scrum e metodologias ágil|[Lameque Fernandes](https://github.com/lamequefernandes)|[Douglas Monteles](https://github.com/douglasmonteles)|
 |1.3|19/02/2022|Adição das referências|[Lameque Fernandes](https://github.com/lamequefernandes)|[Douglas Monteles](https://github.com/douglasmonteles)|
 |1.4|20/02/2022|Erro de gramática corrigido|[Antonio Igor](https://github.com/antonioigorcarvalho)|[Douglas Monteles](https://github.com/douglasmonteles)|
-|1.5|22/04/2022|Criação do tópico  conclusão do documento|[Erick Levy](https://github.com/ericklevy)|  |
+|1.5|22/04/2022|Criação do tópico  conclusão do documento|[Erick Levy](https://github.com/ericklevy)| [Antonio Igor](https://github.com/antonioigorcarvalho) |
