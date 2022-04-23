@@ -238,6 +238,12 @@ Os Léxicos foram ordenados em ordem alfabetica.
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
 | Objeto  |  Perfil  | <p align="center">-</p>     | Podem ser criados até 6 perfis no Prime video.Os perfis podem ser editados ou excluidos.  |  O usuário pode visualizar os conteúdos de acordo com as configurações do perfil.   |
 
+### L - 36 Pular Conteúdo
+
+| Tipo       |  Léxico     | Sinônimo  | Noção    |       Impacto       |             
+| ---------- |  ---------  | --------  | -------- | ------------------- |  
+| Objeto  |  Pular Conteúdo  | <p align="center">-</p>     | Pode pular conteudos na plataforma Prime Video.  |  O usuário pode pular conteúdos .   |
+
 ### L - 36  Recomendado
 
 | Tipo       |  Léxico     | Sinônimo  | Noção    |       Impacto       |             
