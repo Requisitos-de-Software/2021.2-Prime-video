@@ -3,7 +3,7 @@
 ## 1. Metodologia ágil
 
 <p align="justify">
-A Metodologia ágil é um conjunto de técnicas e práticas para gestão de projetos que oferece mais rapidez, eficiência e flexibilidade. Esse desenvolvimento ágil foca a construção de produtos de modo colaborativo, através do trabalho de equipes multidisciplinares que possuem autonomia em suas ações.
+A Metodologia ágil é um conjunto de técnicas e práticas para gerenciamento de projetos que oferece mais rapidez, eficiência e flexibilidade. Esse desenvolvimento ágil foca a construção de produtos de modo colaborativo, através do trabalho de equipes multidisciplinares que possuem autonomia em suas ações.
 </p>
   
 Entre as principais características da metodologia ágil temos:
@@ -20,8 +20,9 @@ Para o desenvolvimento do presente projeto, foi usado a metodologia ágil Scrum.
 ## 2. Scrum
 
 <p align="justify">
-Scrum  é um método de desenvolvimento ágil de software. É usado principalmente para orientar as atividades de desenvolvimento dentro de um processo que incorpora as seguintes atividades estruturais: requisitos, análise, projeto, evolução e entrega. Em cada atividade ocorrem tarefas a realizar dentro do padrão de processo, denominada sprint. 
+Scrum  é um método de desenvolvimento ágil de software. É usado principalmente para orientar as atividades de desenvolvimento dentro de um processo que incorpora as seguintes atividades estruturais: requisitos, análise, projeto, evolução e entrega. Em cada atividade ocorrem tarefas a realizar dentro do padrão de processo, denominada sprint.  
 </p>
+
 <p align="justify">
 O Scrum também é focado nos membros da equipe, para tornar os processos mais simples e claros, pois mantém registros visíveis sobre o andamento de todas as etapas. Assim, os integrantes do grupo sabem em que fase o projeto está, o que já foi concluído e o que falta ser feito para a sua entrega.
 </p>
@@ -29,7 +30,7 @@ O Scrum também é focado nos membros da equipe, para tornar os processos mais s
 ## 3. Kanban
 
 <p align="justify">
-O Kanban também é uma das metodologias ágeis que será adotada pelo grupo. Foi criada para organizar as tarefas atraves de etapas com post-its, sejam de papel, virtual ou de qualquer outra forma.
+O Kanban também é uma das metodologias ágeis que será adotada pelo grupo. Foi criada para organizar as tarefas através de etapas com post-its, sejam de papel, virtual ou de qualquer outra forma.
 As divisões das etapas, normalmente, acontecem pelo menos com três colunas. Exemplo de colunas:
 </p>
   
@@ -64,3 +65,4 @@ As metodologias propostas foram de grande importância para a produção do proj
 |1.2|19/02/2022|Melhorias na descrição do kanban, scrum e metodologias ágil|[Lameque Fernandes](https://github.com/lamequefernandes)|[Douglas Monteles](https://github.com/douglasmonteles)|
 |1.3|19/02/2022|Adição das referências|[Lameque Fernandes](https://github.com/lamequefernandes)|[Douglas Monteles](https://github.com/douglasmonteles)|
 |1.4|20/02/2022|Erro de gramática corrigido|[Antonio Igor](https://github.com/antonioigorcarvalho)|[Douglas Monteles](https://github.com/douglasmonteles)|
+|1.5|22/04/2022|Criação do tópico  conclusão do documento|[Erick Levy](https://github.com/ericklevy)|  |
