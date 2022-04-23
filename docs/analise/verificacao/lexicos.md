@@ -86,11 +86,12 @@ Por meio da técnica de inspeção fizemos uma marcação nos itens que o docume
 |<p align="center">L46 - Senha</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 |
 |<p align="center">L47 - Série</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 |
 |<p align="center">L48 - Sinopse</p>|✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ❌ |  6/7 |
-|<p align="center">L46 - Tela</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ❌ |  6/7 |
-|<p align="center">L46 - Temporada</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ❌ |  6/7 |
-|<p align="center">L47 - Titulo</p>| ✔️ | ✔️ | ❌| ✔️ | ✔️ | ✔️| ❌ |  5/7 |
-|<p align="center">L48 - Usuário</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 |
-|<p align="center">L49 - Watch Party</p>| ✔️ | ✔️ | ❌| ✔️ | ✔️ | ✔️| ❌ |  5/7 |
+|<p align="center">L49 - Tela</p>| ✔️ | ✔️ | ❌| ❌ | ✔️ | ✔️| ❌ |  4/7 |
+|<p align="center">L50 - Temporada</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ❌ |  6/7 |
+|<p align="center">L51 - Titulo</p>| ✔️ | ✔️ | ❌| ✔️ | ✔️ | ✔️| ❌ |  5/7 |
+|<p align="center">L52 - Usuário</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 |
+|<p align="center">L53 - Video</p>| ✔️ | ✔️ | ❌| ✔️ | ✔️ | ✔️| ❌ |  5/7 |
+|<p align="center">L54 - Watch Party</p>| ✔️ | ✔️ | ❌| ✔️ | ✔️ | ✔️| ❌ |  5/7 |
 
 
 
