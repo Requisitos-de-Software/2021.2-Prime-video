@@ -107,4 +107,4 @@ Portanto, os aplicativos analisados foram essenciais para descobrir qual seria o
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
 |1.0|14/02/2022|Criação do documento de aplicativos avaliados|[Douglas Monteles](https://github.com/douglasmonteles)|[Antonio Igor](https://github.com/antonioigorcarvalho), [Caio Santos](https://github.com/caiobsantos), [Lameque Fernandes](https://github.com/lamequefernandes), [Erick Levy](https://github.com/ericklevy) e [Sávio Cunha](https://github.com/savioc2)|
-|1.2|22/04/2022|Criação do tópico  conclusão do documento|[Erick Levy](https://github.com/ericklevy)|  |
+|1.2|22/04/2022|Criação do tópico  conclusão do documento|[Erick Levy](https://github.com/ericklevy)| [Antonio Igor](https://github.com/antonioigorcarvalho) |
