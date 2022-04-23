@@ -93,10 +93,17 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 Maurício Vianna... [et al.]; Design thinking : inovação em negócios
 
 
+## 5. Conclusão
 
-## 5. Histórico de Versionamento
+<p align="justify">
+Portanto, as personas serão essenciais em etapas do projeto que demandam a visão de um usuário, a técnica de roleplay poderá ser utilizada em conjunto as personas para esse objetivo, isso terá impacto no desenvolvimento, melhoria e verificação/validação de outros artefatos, as personas serão um pilar importante de apoio para o projeto.
+</p>
+
+
+## 6. Histórico de Versionamento
 
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
 |1.0|19/02/2022|Criação do documento de personas|[Antonio Igor](https://github.com/antonioigorcarvalho) e [Lameque Fernandes](https://github.com/lamequefernandes)|[Caio Santos](https://github.com/caiobsantos)|
 |1.1|19/02/2022|Alteração na introdução e adição das referências|[Caio Santos](https://github.com/caiobsantos)|[Sávio Cunha](https://github.com/savioc2)|
+|1.2|22/04/2022|Criação do tópico  conclusão do documento|[Erick Levy](https://github.com/ericklevy)| [Antonio Igor](https://github.com/antonioigorcarvalho) |
