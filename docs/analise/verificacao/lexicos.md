@@ -48,7 +48,7 @@ Por meio da técnica de inspeção fizemos uma marcação nos itens que o docume
 |<p align="center">L08 - Cancelar</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 | 
 |<p align="center">L09 - Compartilhar </p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 | 
 |<p align="center">L10 - Conta</p>| ✔️ | ✔️ | ❌| ✔️ | ✔️ | ✔️| ❌ |  5/7 |
-|<p align="center">L11 -  Controle</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 | 
+|<p align="center">L11 - Controle</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 | 
 |<p align="center">L12 - Criar</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 | 
 |<p align="center">L13 - Detalhes</p>|  ✔️ | ✔️ | ❌| ✔️ | ✔️ | ✔️| ❌ |  5/7 |
 |<p align="center">L14 - Destaque</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ❌ |  6/7 | 
@@ -62,15 +62,17 @@ Por meio da técnica de inspeção fizemos uma marcação nos itens que o docume
 |<p align="center">L22 - Extra</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 |
 |<p align="center">L23 - Faixa Etária</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 |
 |<p align="center">L24 - Filme</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 |
-|<p align="center">L25 - Gênero</p>|✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ❌ |  6/7 |
-|<p align="center">L26 - Idioma</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 |
-|<p align="center">L27 - Legenda</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 |
-|<p align="center">L28 - Login</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 |
-|<p align="center">L29 - Logout</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 |
-|<p align="center">L30 - Loja</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ❌ |  6/7 |
-|<p align="center">L31 - Minha Área</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 |
-|<p align="center">L32 - Novidades</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 |
-|<p align="center">L33 - Originals</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 |
+|<p align="center">L25 - Filtro</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 |
+|<p align="center">L26 - Gênero</p>|✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ❌ |  6/7 |
+|<p align="center">L27 - Idioma</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 |
+|<p align="center">L28 - Legenda</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 |
+|<p align="center">L29 - Login</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 |
+|<p align="center">L30 - Logout</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 |
+|<p align="center">L31 - Loja</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ❌ |  6/7 |
+|<p align="center">L32 - Minha Área</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 |
+|<p align="center">L33 - Novidades</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 |
+|<p align="center">L34 - Originals</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 |
+
 |<p align="center">L34 - Pedidos</p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 |
 |<p align="center">L35 - Perfil</p>| ✔️ | ✔️ | ❌| ✔️ | ✔️ | ✔️| ❌ |  5/7 |
 |<p align="center">L36 - Recomendado</p>| ✔️ | ✔️ | ❌| ✔️ | ✔️ | ✔️| ❌ |  5/7 |

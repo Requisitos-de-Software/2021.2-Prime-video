@@ -363,5 +363,6 @@ Sinônimos. **Sinônimos.com.br**. Dispoível em: <https://www.sinonimos.com.br/
 |Versão|Data de modificação|Descrição da modificação|Autor| Revisor|
 |-|-|-|-|-|
 |1.0|02/03/2022| Criação do documento de Léxicos | [Erick Levy](https://github.com/ericklevy) e [Sávio Cunha](https://github.com/savioc2) | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Caio Santos](https://github.com/caiobsantos) |
+|1.1|23/04/2022| Finalização do documento de Léxicos | [Erick Levy](https://github.com/ericklevy) |  |
 
 
