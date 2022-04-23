@@ -105,9 +105,17 @@ Com base nos horários de todos os membros, construímos um heatmap (ou mapa de 
 
 ## 5. Referências
 
+
 Plano de ensino da matéria. Disponível em: <https://aprender3.unb.br/pluginfile.php/1668087/mod_resource/content/17/Plano_de_Ensino%20RE%2022021%20Turma%20A.pdf>. Acesso em: 19/02/2022
 
-## 6. Histórico de versionamento
+
+## 6. Conclusão
+
+<p align="justify">
+Dessa forma o cronograma que e uma parte que decide o que vai ser feito a cada sprint e divide as tarefas para cada respectivos membros do grupo para o desenvolvimento de artefatos foi essencialmente uma prioridade para as entregas neste projeto, além de ajudar a definir o escopo de cada sprint para um melhor desenvolvimento usando metodologias ágeis.
+</p>
+
+## 7. Histórico de versionamento
 
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
@@ -123,3 +131,4 @@ Plano de ensino da matéria. Disponível em: <https://aprender3.unb.br/pluginfil
 |1.4|10/03/2022| Criação da tabela da sprint 4 | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Douglas Monteles](https://github.com/douglasmonteles) e[Erick Levy](https://github.com/ericklevy)  |
 |1.5|02/04/2022| Criação da tabela da sprint 5 | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Douglas Monteles](https://github.com/douglasmonteles) e [Erick Levy](https://github.com/ericklevy) |
 |1.6|04/04/2022| Criação da tabela da sprint 6 | [Antonio Igor](https://github.com/antonioigorcarvalho) |  |
+|1.7|22/04/2022|Criação do tópico  conclusão do documento|[Erick Levy](https://github.com/ericklevy)| [Antonio Igor](https://github.com/antonioigorcarvalho) |
