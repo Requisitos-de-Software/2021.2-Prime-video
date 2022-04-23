@@ -173,7 +173,7 @@ Os Léxicos foram ordenados em ordem alfabetica.
 
 | Tipo       |  Léxico     | Sinônimo  | Noção    |       Impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
-| Estado   |  Filme  | Curta-metragem,Longa-metragem,Vídeo    | Sequência de imagens registradas em filme cinematográfico, fotográfico ou videoteipe, para exibição em movimento ou não.  |  O usuário pode assistir filmes.</br> O usuário pode compartilhar filmes.</br>  |
+| Objeto  |  Filtro  | Curta-metragem,Longa-metragem,Vídeo    | Sequência de imagens registradas em filme cinematográfico, fotográfico ou videoteipe, para exibição em movimento ou não.  |  O usuário pode assistir filmes.</br> O usuário pode compartilhar filmes.</br>  |
 
 
 ### L - 25 Gênero
