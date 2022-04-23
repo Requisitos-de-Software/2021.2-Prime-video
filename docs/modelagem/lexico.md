@@ -346,7 +346,7 @@ Os Léxicos foram ordenados em ordem alfabetica.
 
 | Tipo       |  Léxico     | Sinônimo  | Noção    |       Impacto       |             
 | ---------- |  ---------  | --------  | -------- | ------------------- |  
-| Objeto |  Usuário  | Cliente  | Pessoas que usufruem do Prime Video.  |  Pessoas que terão acesso aos conteúdos do Prime Video. |
+| Estado |  Video  | <p align="center">-</p>  | técnica de reprodução eletrônica de imagens em movimento.  |  O usuário  pode escolher a qualidade do vídeo. |
 
 ### L - 49 Watch Party
 
