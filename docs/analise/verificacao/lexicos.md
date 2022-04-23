@@ -113,5 +113,6 @@ Portanto, este documento auxilio a verificação dos léxicos criados além de a
 
 |Versão|Data de modificação|Descrição da modificação|Autor| Revisor|
 |-|-|-|-|-|
-|1.0|23/03/2022| Criação do documento de verificação dos léxicos | [Erick Levy](https://github.com/ericklevy)  | [Antonio Igor](https://github.com/antonioigorcarvalho) |
-|1.3|22/04/2022| Atualização da descrição de metodologia | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy) |
+|1.1|23/03/2022| Criação do documento de verificação dos léxicos | [Erick Levy](https://github.com/ericklevy)  | [Antonio Igor](https://github.com/antonioigorcarvalho) |
+|1.2|22/04/2022| Atualização da descrição de metodologia | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy) |
+|1.3|23/04/2022| Finalização do docuemtno de verificação dos léxicos | [Erick Levy](https://github.com/ericklevy) |  |
