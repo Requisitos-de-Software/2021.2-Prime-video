@@ -36,8 +36,8 @@ Por meio da técnica de inspeção fizemos uma marcação nos itens que o docume
 </p>
 
 
-| Verificação dos lexicos | Nome esta correto ? | Tipo esta correto? | Tem sinônimo? | Noção esta correta ? | Tem impacto ? |Uso de linguagem compreensível ao público?|  Sinônimo coerente ao projeto|
-|:------------------------|---------------------|--------------------|----------------|----------------------|-------------|----------------|-------|        
+| Verificação dos lexicos | Nome esta correto ? | Tipo esta correto? | Tem sinônimo? | Noção esta correta ? | Tem impacto ? |Uso de linguagem compreensível ao público?|  Sinônimo coerente ao projeto| acertos  |
+|:------------------------|---------------------|--------------------|----------------|----------------------|-------------|----------------|-------|-------|       
 |<p align="center">L01 - Acessar</p>| ✔️| ✔️| ✔️| ✔️| ✔️ | ✔️ | ✔️ |  7/7 |
 |<p align="center">L02 - Ajuda </p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 | 
 |<p align="center">L03 - Alugar</p>| ✔️ | ✔️ | ❌ | ✔️| ✔️ | ✔️ | ❌ |  5/7 | 
