@@ -37,7 +37,7 @@ Por meio da técnica de inspeção fizemos uma marcação nos itens que o docume
 
 
 | Verificação dos lexicos | Nome esta correto ? | Tipo esta correto? | Tem sinônimo? | Noção esta correta ? | Tem impacto ? |Uso de linguagem compreensível ao público?|  Sinônimo coerente ao projeto|
-|:------------------------|---------------------|--------------------|----------------|----------------------|-------------|----------------|-------|----------|          
+|:------------------------|---------------------|--------------------|----------------|----------------------|-------------|----------------|-------|        
 |<p align="center">L01 - Acessar</p>| ✔️| ✔️| ✔️| ✔️| ✔️ | ✔️ | ✔️ |  7/7 |
 |<p align="center">L02 - Ajuda </p>| ✔️ | ✔️ | ✔️| ✔️ | ✔️ | ✔️| ✔️ |  7/7 | 
 |<p align="center">L03 - Alugar</p>| ✔️ | ✔️ | ❌ | ✔️| ✔️ | ✔️ | ❌ |  5/7 | 
@@ -115,4 +115,4 @@ Portanto, este documento auxilio a verificação dos léxicos criados além de a
 |-|-|-|-|-|
 |1.1|23/03/2022| Criação do documento de verificação dos léxicos | [Erick Levy](https://github.com/ericklevy)  | [Antonio Igor](https://github.com/antonioigorcarvalho) |
 |1.2|22/04/2022| Atualização da descrição de metodologia | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy) |
-|1.3|23/04/2022| Finalização do documento de verificação dos léxicos | [Erick Levy](https://github.com/ericklevy) |  |
+|1.3|23/04/2022| Finalização do documento de verificação dos léxicos | [Erick Levy](https://github.com/ericklevy) |  [Antonio Igor](https://github.com/antonioigorcarvalho) |
