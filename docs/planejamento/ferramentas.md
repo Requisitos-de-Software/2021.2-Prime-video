@@ -28,7 +28,7 @@ Para melhor organização dos membros no desenvolvimento do projeto, o time deci
 ## 2. Conclusão
 
 <p align="justify">
-Nesse sentido  as ferramentas foram essências para desenvolver e melhorar o projeto, através de reuniões, divisão de tarefas criação de protótipos e rich picture, além de ajudar criação de artefatos.
+Nesse sentido  as ferramentas foram essências para desenvolver e melhorar o projeto, por reuniões, divisão de tarefas criação de protótipos e rich picture, além de ajudar criação de artefatos.
 </p>
 
 
