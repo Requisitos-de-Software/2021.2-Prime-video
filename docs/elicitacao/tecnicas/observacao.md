@@ -52,8 +52,13 @@ Para utilização desta técnica usamos a participação individual depois a jun
 Tabela 1: Requisitos funcionais.
 </center>
 
+## 5. Conclusão
+<p align="justify">
+Assim como as outras ténicas de elicitação a observação também obteve sucesso ao levantar requisitos, exceto que com a utilização dessa técnica o seu resultado apresenta apenas requisitos funcionais.
+</p>
 
-## 5. Referências
+
+## 6. Referências
 
 Técnicas para levantamento de requisitos. **Devmedia**. Disponível em: <https://www.devmedia.com.br/tecnicas-para-levantamento-de-requisitos/9151>. Acesso em: 17/02/2022.
 
@@ -63,7 +68,7 @@ PRESSMAN, Roger S. Engenharia de Software. São Paulo. Ed. Markon Books, 1995
 
 Vazquez, Carlos E. Engenharia de requisitos software orientado a negocios. Rio de Janeiro. Ed. Abreu’s System, 2016
 
-## 6. Histórico de versionamento
+## 7. Histórico de versionamento
 
 |Versão|Data de modificação|Descrição da modificação|Autor| Revisor|
 |-|-|-|-|-|

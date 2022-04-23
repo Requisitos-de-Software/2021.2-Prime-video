@@ -58,14 +58,19 @@ Tabela 1: Requisitos funcionais.
 Tabela 2: Requisitos não funcionais.
 </center>
 
-## 5. Referências
+## 5. Conclusão
+<p align="justify">
+Enfim, a técnica de introspecção foi executada com sucesso, levando em conta os vários requisitos funcionais e não funcionais que foram levantados com a aplicação da técnica.
+</p>
+
+## 6. Referências
 
 SOMMERVILLE,Ian. SoftwareEngineering,9.ed.
 
 SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 07.
 
 
-## 6. Histórico de Versionamento
+## 7. Histórico de Versionamento
 
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|

@@ -61,15 +61,19 @@ Tabela 1: Requisitos funcionais.
 Tabela 2: Requisitos não funcionais.
 </center>
 
+## 5. Conclusão
+<p align="justify">
+Podemos concluir que a utilização da técnica de brainstorm foi executada com sucesso, levantando diversos requisitos funcionais e não funcionais ao longo da reunião.
+</p>
 
-## 5. Referências 
+## 6. Referências 
 
 Wiegers, Karl; Beatty, Joy. Software Requirements (Developer Best Practices).
 
 SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 07.
 
 
-## 6. Histórico de Versionamento
+## 7. Histórico de Versionamento
 
 |Versão|Data de modificação|Descrição da modificação|Autor| Revisor|
 |-|-|-|-|-|
