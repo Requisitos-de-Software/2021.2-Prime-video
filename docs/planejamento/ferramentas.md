@@ -28,7 +28,7 @@ Para melhor organização dos membros no desenvolvimento do projeto, o time deci
 ## 2. Conclusão
 
 <p align="justify">
-Nesse sentido  as ferramentas foram essências para desenvolver e melhorar o projeto, por reuniões, divisão de tarefas criação de protótipos e rich picture, além de ajudar criação de artefatos.
+Nesse sentido  as ferramentas foram essências para desenvolver e melhorar o projeto, para a realização de reuniões, divisão de tarefas, criação de protótipos e do rich picture, além de ajudar criação de artefatos.
 </p>
 
 
@@ -69,4 +69,4 @@ Nesse sentido  as ferramentas foram essências para desenvolver e melhorar o pr
 |1.0|04/02/2022|Criação do documento sobre as ferramentas|[Erick Levy](https://github.com/ericklevy)|[Sávio Cunha](https://github.com/savioc2)|
 |1.0.1|05/02/2022|Alteração no titulo e adição do historico de versão|[Lameque Fernandes](https://github.com/lamequefernandes)|[Caio Santos](https://github.com/caiobsantos)|
 |1.0.2|19/02/2022|Melhoria na introdução|[Lameque Fernandes](https://github.com/lamequefernandes)|[Caio Santos](https://github.com/caiobsantos)|
-|1.0.3|22/04/2022|Criação do tópico  conclusão do documento|[Erick Levy](https://github.com/ericklevy)|  |
+|1.0.3|22/04/2022|Criação do tópico  conclusão do documento|[Erick Levy](https://github.com/ericklevy)| [Antonio Igor](https://github.com/antonioigorcarvalho) |
