@@ -25,7 +25,7 @@ Por meio da técnica de inspeção fizemos uma marcação nos itens que o docume
 
 
 | Verificação dos lexicos | Nome esta correto ? | Tipo esta correto? | Tem sinônimo? | Noção esta correta ? | Tem impacto ? |Uso de linguagem compreensível ao público?|  Sinônimo coerente ao projeto|
-|:------------------------|---------------------|--------------------|----------------|----------------------|-------------|----------------|-------|----------| 
+|:------------------------|---------------------|--------------------|----------------|----------------------|-------------|----------------|-------|
 
 
 
